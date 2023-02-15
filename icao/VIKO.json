@@ -40,57 +40,5 @@
             "he_heading_degT": "256",
             "he_displaced_threshold_ft": "370"
         }
-    ],
-    "freqs": [
-        {
-            "id": "53970",
-            "airport_ref": "26567",
-            "airport_ident": "VIKO",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119"
-        }
-    ],
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304191",
-        "code": "IN-RJ",
-        "local_code": "RJ",
-        "name": "Rajasthan",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Rajasthan",
-        "keywords": "Airports in Rajasthan"
-    },
-    "navaids": [
-        {
-            "id": "89908",
-            "filename": "Kota_NDB_IN",
-            "ident": "KO",
-            "name": "Kota",
-            "type": "NDB",
-            "frequency_khz": "284",
-            "latitude_deg": "25.165599822998047",
-            "longitude_deg": "75.84369659423828",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.054",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VIKO"
-        }
     ]
 }

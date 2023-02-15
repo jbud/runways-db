@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Ba%C3%AFbokoum_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302604",
-        "code": "TD",
-        "name": "Chad",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chad",
-        "keywords": "Airports in Chad"
-    },
-    "region": {
-        "id": "305695",
-        "code": "TD-LR",
-        "local_code": "LR",
-        "name": "Logone-Oriental",
-        "continent": "AF",
-        "iso_country": "TD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Logone_Oriental_(region)",
-        "keywords": "Airports in Logone-Oriental"
-    }
+    "keywords": ""
 }

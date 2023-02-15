@@ -62,49 +62,5 @@
             "he_heading_degT": "224.9",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "60579",
-            "airport_ref": "19723",
-            "airport_ident": "KEDE",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "121.125"
-        },
-        {
-            "id": "60580",
-            "airport_ref": "19723",
-            "airport_ident": "KEDE",
-            "type": "CNTR",
-            "description": "WASHINGTON CNTR",
-            "frequency_mhz": "123.85"
-        },
-        {
-            "id": "60581",
-            "airport_ref": "19723",
-            "airport_ident": "KEDE",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306103",
-        "code": "US-NC",
-        "local_code": "NC",
-        "name": "North Carolina",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
-        "keywords": "Airports in North Carolina"
-    }
+    ]
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Stalbes lidlauks",
-    "country": {
-        "id": "302702",
-        "code": "LV",
-        "name": "Latvia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Latvia",
-        "keywords": "Latvian airports"
-    },
-    "region": {
-        "id": "304528",
-        "code": "LV-067",
-        "local_code": "067",
-        "name": "Ogre Municipality",
-        "continent": "EU",
-        "iso_country": "LV",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ogre_Municipality",
-        "keywords": "Airports in Ogre Municipality"
-    }
+    "keywords": "Stalbes lidlauks"
 }

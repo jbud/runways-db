@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "323027",
-            "airport_ref": "323025",
-            "airport_ident": "DNDS",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "120.5"
-        }
-    ],
-    "country": {
-        "id": "302593",
-        "code": "NG",
-        "name": "Nigeria",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nigeria",
-        "keywords": ""
-    },
-    "region": {
-        "id": "304893",
-        "code": "NG-JI",
-        "local_code": "JI",
-        "name": "Jigawa State",
-        "continent": "AF",
-        "iso_country": "NG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Jigawa_State",
-        "keywords": "Airports in Jigawa"
-    }
+    ]
 }

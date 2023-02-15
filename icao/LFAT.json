@@ -62,57 +62,5 @@
             "he_heading_degT": "313",
             "he_displaced_threshold_ft": "492"
         }
-    ],
-    "freqs": [
-        {
-            "id": "52627",
-            "airport_ref": "4055",
-            "airport_ident": "LFAT",
-            "type": "APP",
-            "description": "LILLE APP",
-            "frequency_mhz": "120.275"
-        },
-        {
-            "id": "52628",
-            "airport_ref": "4055",
-            "airport_ident": "LFAT",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "123.125"
-        },
-        {
-            "id": "52629",
-            "airport_ref": "4055",
-            "airport_ident": "LFAT",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "125.3"
-        },
-        {
-            "id": "52630",
-            "airport_ref": "4055",
-            "airport_ident": "LFAT",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.45"
-        }
-    ],
-    "country": {
-        "id": "302687",
-        "code": "FR",
-        "name": "France",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
-        "keywords": "Aéroports de France"
-    },
-    "region": {
-        "id": "306337",
-        "code": "FR-HDF",
-        "local_code": "HDF",
-        "name": "Hauts-de-France",
-        "continent": "EU",
-        "iso_country": "FR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hauts-de-France",
-        "keywords": "Airports in Hauts-de-France"
-    }
+    ]
 }

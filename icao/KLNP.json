@@ -40,49 +40,5 @@
             "he_heading_degT": "236.2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "66495",
-            "airport_ref": "20362",
-            "airport_ident": "KLNP",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.6"
-        },
-        {
-            "id": "66496",
-            "airport_ref": "20362",
-            "airport_ident": "KLNP",
-            "type": "CNTR",
-            "description": "INDIANAPOLIS CNTR",
-            "frequency_mhz": "126.57"
-        },
-        {
-            "id": "66497",
-            "airport_ref": "20362",
-            "airport_ident": "KLNP",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306122",
-        "code": "US-VA",
-        "local_code": "VA",
-        "name": "Virginia",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
-        "keywords": "Virginian airports"
-    }
+    ]
 }

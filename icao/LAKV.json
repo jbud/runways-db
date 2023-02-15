@@ -40,33 +40,5 @@
             "he_heading_degT": "317",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "48314",
-            "airport_ref": "3971",
-            "airport_ident": "LAKV",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "124.5"
-        }
-    ],
-    "country": {
-        "id": "302673",
-        "code": "AL",
-        "name": "Albania",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Albania",
-        "keywords": "Albanian airports"
-    },
-    "region": {
-        "id": "302862",
-        "code": "AL-01",
-        "local_code": "01",
-        "name": "Berat County",
-        "continent": "EU",
-        "iso_country": "AL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Berat_County",
-        "keywords": "Airports in Berat County"
-    }
+    ]
 }

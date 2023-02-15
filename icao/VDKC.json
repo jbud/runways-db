@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302641",
-        "code": "KH",
-        "name": "Cambodia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cambodia",
-        "keywords": "Cambodian airports"
-    },
-    "region": {
-        "id": "304369",
-        "code": "KH-3",
-        "local_code": "3",
-        "name": "Kampong Cham province",
-        "continent": "AS",
-        "iso_country": "KH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kampong_Cham_province",
-        "keywords": "Airports in Kampong Chaam, កំពង់ចាម"
-    }
+    "keywords": ""
 }

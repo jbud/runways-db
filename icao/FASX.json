@@ -62,47 +62,5 @@
             "he_heading_degT": "306",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302610",
-        "code": "ZA",
-        "name": "South Africa",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
-        "keywords": "South African airports"
-    },
-    "region": {
-        "id": "306304",
-        "code": "ZA-WC",
-        "local_code": "WC",
-        "name": "Western Cape",
-        "continent": "AF",
-        "iso_country": "ZA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Cape",
-        "keywords": "Airports in Western Cape"
-    },
-    "navaids": [
-        {
-            "id": "94103",
-            "filename": "Swellendam_VOR_ZA",
-            "ident": "SWV",
-            "name": "Swellendam",
-            "type": "VOR",
-            "frequency_khz": "114400",
-            "latitude_deg": "-34.07720184326172",
-            "longitude_deg": "20.543100357055664",
-            "elevation_ft": "",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-24.5",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FASX"
-        }
     ]
 }

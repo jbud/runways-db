@@ -16,41 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "freqs": [
-        {
-            "id": "322985",
-            "airport_ref": "44072",
-            "airport_ident": "BGNO",
-            "type": "ATS",
-            "description": "Station Nord",
-            "frequency_mhz": "118.1"
-        },
-        {
-            "id": "322986",
-            "airport_ref": "44072",
-            "airport_ident": "BGNO",
-            "type": "ATS",
-            "description": "Station Nord",
-            "frequency_mhz": "267.3"
-        }
-    ],
-    "country": {
-        "id": "302736",
-        "code": "GL",
-        "name": "Greenland",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Greenland",
-        "keywords": "Airports in Greenland"
-    },
-    "region": {
-        "id": "505045",
-        "code": "GL-NE",
-        "local_code": "NE",
-        "name": "Northeast Greenland National Park",
-        "continent": "NA",
-        "iso_country": "GL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Northeast_Greenland_National_Park",
-        "keywords": ""
-    }
+    "keywords": ""
 }

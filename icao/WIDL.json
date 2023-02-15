@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Letung_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302632",
-        "code": "ID",
-        "name": "Indonesia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
-        "keywords": "Bandara di Indonesia"
-    },
-    "region": {
-        "id": "304119",
-        "code": "ID-RI",
-        "local_code": "RI",
-        "name": "Riau",
-        "continent": "AS",
-        "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Riau",
-        "keywords": "Airports in Riau"
-    }
+    "keywords": ""
 }

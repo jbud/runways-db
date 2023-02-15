@@ -16,41 +16,5 @@
     "local_code": "",
     "home_link": "http://www.helicoptertours.co.nz/",
     "wikipedia_link": "",
-    "keywords": "Huka Falls",
-    "freqs": [
-        {
-            "id": "321316",
-            "airport_ref": "321157",
-            "airport_ident": "NZ-0024",
-            "type": "AWIB",
-            "description": "Taupo Weather Information",
-            "frequency_mhz": "125.2"
-        },
-        {
-            "id": "321315",
-            "airport_ref": "321157",
-            "airport_ident": "NZ-0024",
-            "type": "CTAF (MBZ)",
-            "description": "Taupo Traffic",
-            "frequency_mhz": "118.4"
-        }
-    ],
-    "country": {
-        "id": "302776",
-        "code": "NZ",
-        "name": "New Zealand",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Zealand",
-        "keywords": "Airports in New Zealand"
-    },
-    "region": {
-        "id": "304985",
-        "code": "NZ-WKO",
-        "local_code": "WKO",
-        "name": "Waikato Region",
-        "continent": "OC",
-        "iso_country": "NZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Waikato",
-        "keywords": "Airports in Waikato Region"
-    }
+    "keywords": "Huka Falls"
 }

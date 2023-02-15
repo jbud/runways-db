@@ -16,23 +16,5 @@
     "local_code": "GUT",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302793",
-        "code": "CO",
-        "name": "Colombia",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
-        "keywords": "Aeropuertos de Colombia"
-    },
-    "region": {
-        "id": "303486",
-        "code": "CO-TOL",
-        "local_code": "TOL",
-        "name": "Tolima Department",
-        "continent": "SA",
-        "iso_country": "CO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tolima_Department",
-        "keywords": "Airports in Tolima Department"
-    }
+    "keywords": ""
 }

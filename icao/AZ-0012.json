@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Aghdam, Ağdam, UBEA",
-    "country": {
-        "id": "302621",
-        "code": "AZ",
-        "name": "Azerbaijan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Azerbaijan",
-        "keywords": "Azerbaijani airports"
-    },
-    "region": {
-        "id": "302982",
-        "code": "AZ-AGM",
-        "local_code": "AGM",
-        "name": "Agdam District",
-        "continent": "AS",
-        "iso_country": "AZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Agdam_District",
-        "keywords": "Airports in Agdam District"
-    }
+    "keywords": "Aghdam, Ağdam, UBEA"
 }

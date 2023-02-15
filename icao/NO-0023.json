@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75343",
-            "airport_ref": "44891",
-            "airport_ident": "NO-0023",
-            "type": "TWR",
-            "description": "Rena Tower",
-            "frequency_mhz": "135.3"
-        }
-    ],
-    "country": {
-        "id": "302709",
-        "code": "NO",
-        "name": "Norway",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
-        "keywords": "Flyplasser i Norge"
-    },
-    "region": {
-        "id": "349852",
-        "code": "NO-34",
-        "local_code": "34",
-        "name": "Innlandet",
-        "continent": "EU",
-        "iso_country": "NO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Innlandet",
-        "keywords": "Airports in Innlandet"
-    }
+    ]
 }

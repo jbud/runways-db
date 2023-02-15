@@ -62,23 +62,5 @@
             "he_heading_degT": "236",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302662",
-        "code": "SY",
-        "name": "Syria",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Syria",
-        "keywords": "مطارات سوريا"
-    },
-    "region": {
-        "id": "305678",
-        "code": "SY-SU",
-        "local_code": "SU",
-        "name": "As-Suwayda Governorate",
-        "continent": "AS",
-        "iso_country": "SY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/As-Suwayda_Governorate",
-        "keywords": "Airports in As-Suwayda Governorate"
-    }
+    ]
 }

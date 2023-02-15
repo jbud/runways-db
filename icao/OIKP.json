@@ -40,33 +40,5 @@
             "he_heading_degT": "258.8",
             "he_displaced_threshold_ft": "515"
         }
-    ],
-    "freqs": [
-        {
-            "id": "54024",
-            "airport_ref": "5176",
-            "airport_ident": "OIKP",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "123.15"
-        }
-    ],
-    "country": {
-        "id": "302637",
-        "code": "IR",
-        "name": "Iran",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
-        "keywords": "فرودگاه های ایران"
-    },
-    "region": {
-        "id": "304240",
-        "code": "IR-22",
-        "local_code": "22",
-        "name": "Hormozgan Province",
-        "continent": "AS",
-        "iso_country": "IR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hormozgan_Province",
-        "keywords": "Airports in Hormozgan Province"
-    }
+    ]
 }

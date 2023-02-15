@@ -40,33 +40,5 @@
             "he_heading_degT": "199",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "333241",
-            "airport_ref": "30049",
-            "airport_ident": "LKKM",
-            "type": "RADIO",
-            "description": "",
-            "frequency_mhz": "122.205"
-        }
-    ],
-    "country": {
-        "id": "302680",
-        "code": "CZ",
-        "name": "Czech Republic",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
-        "keywords": "Letiště České republiky, Czechia"
-    },
-    "region": {
-        "id": "303546",
-        "code": "CZ-ZL",
-        "local_code": "ZL",
-        "name": "Zlín Region",
-        "continent": "EU",
-        "iso_country": "CZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Zlín_Region",
-        "keywords": "Zlínský kraj"
-    }
+    ]
 }

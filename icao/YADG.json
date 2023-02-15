@@ -106,41 +106,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "313779",
-            "airport_ref": "27316",
-            "airport_ident": "YADG",
-            "type": "ATC",
-            "description": "Adelaide Radar",
-            "frequency_mhz": "130.45"
-        },
-        {
-            "id": "72029",
-            "airport_ref": "27316",
-            "airport_ident": "YADG",
-            "type": "CTAF",
-            "description": "Aldinga Traffic",
-            "frequency_mhz": "127.15"
-        }
-    ],
-    "country": {
-        "id": "302764",
-        "code": "AU",
-        "name": "Australia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
-        "keywords": "Australian airports"
-    },
-    "region": {
-        "id": "302972",
-        "code": "AU-SA",
-        "local_code": "SA",
-        "name": "South Australia",
-        "continent": "OC",
-        "iso_country": "AU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
-        "keywords": "South Australian airports"
-    }
+    ]
 }

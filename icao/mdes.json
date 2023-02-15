@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302734",
-        "code": "DO",
-        "name": "Dominican Republic",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Dominican_Republic",
-        "keywords": "Airports in Dominican Republic"
-    },
-    "region": {
-        "id": "303598",
-        "code": "DO-27",
-        "local_code": "27",
-        "name": "Valverde Province",
-        "continent": "NA",
-        "iso_country": "DO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Valverde_Province",
-        "keywords": "Airports in Valverde Province"
-    }
+    "keywords": ""
 }

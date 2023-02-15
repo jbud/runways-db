@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302752",
-        "code": "SV",
-        "name": "El Salvador",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/El_Salvador",
-        "keywords": "Salvadorian, Salvadorean"
-    },
-    "region": {
-        "id": "305659",
-        "code": "SV-SM",
-        "local_code": "SM",
-        "name": "San Miguel Department",
-        "continent": "NA",
-        "iso_country": "SV",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/San_Miguel_Department_(El_Salvador)",
-        "keywords": "Airports in San Miguel"
-    }
+    "keywords": ""
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Pearls_Airport",
-    "keywords": "MKPE, MKPE",
-    "country": {
-        "id": "302735",
-        "code": "GD",
-        "name": "Grenada",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Grenada",
-        "keywords": "Grenadian airports"
-    },
-    "region": {
-        "id": "303831",
-        "code": "GD-AN",
-        "local_code": "AN",
-        "name": "Saint Andrew",
-        "continent": "NA",
-        "iso_country": "GD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Andrew",
-        "keywords": "Airports in Saint Andrew"
-    }
+    "keywords": "MKPE, MKPE"
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "346535",
-            "airport_ref": "29955",
-            "airport_ident": "ENHS",
-            "type": "CTAF",
-            "description": "Hokksund Traffic",
-            "frequency_mhz": "122.175"
-        }
-    ],
-    "country": {
-        "id": "302709",
-        "code": "NO",
-        "name": "Norway",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
-        "keywords": "Flyplasser i Norge"
-    },
-    "region": {
-        "id": "349851",
-        "code": "NO-30",
-        "local_code": "30",
-        "name": "Viken",
-        "continent": "EU",
-        "iso_country": "NO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Viken_(county)",
-        "keywords": "Airports in Viken"
-    }
+    ]
 }

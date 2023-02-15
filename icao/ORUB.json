@@ -62,33 +62,5 @@
             "he_heading_degT": "288.6",
             "he_displaced_threshold_ft": "1200"
         }
-    ],
-    "freqs": [
-        {
-            "id": "54403",
-            "airport_ref": "5301",
-            "airport_ident": "ORUB",
-            "type": "TWR",
-            "description": "BLAIR TWR",
-            "frequency_mhz": "135.5"
-        }
-    ],
-    "country": {
-        "id": "302636",
-        "code": "IQ",
-        "name": "Iraq",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iraq",
-        "keywords": "مطارات العراق"
-    },
-    "region": {
-        "id": "304218",
-        "code": "IQ-WA",
-        "local_code": "WA",
-        "name": "Wasit Governorate",
-        "continent": "AS",
-        "iso_country": "IQ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Wasit_Governorate",
-        "keywords": "واسط"
-    }
+    ]
 }

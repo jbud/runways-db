@@ -40,41 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "310644",
-            "airport_ref": "300781",
-            "airport_ident": "DNAS",
-            "type": "SAB - VOR",
-            "description": "",
-            "frequency_mhz": "112.6"
-        },
-        {
-            "id": "310643",
-            "airport_ref": "300781",
-            "airport_ident": "DNAS",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "118.5"
-        }
-    ],
-    "country": {
-        "id": "302593",
-        "code": "NG",
-        "name": "Nigeria",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nigeria",
-        "keywords": ""
-    },
-    "region": {
-        "id": "304885",
-        "code": "NG-DE",
-        "local_code": "DE",
-        "name": "Delta State",
-        "continent": "AF",
-        "iso_country": "NG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Delta_State",
-        "keywords": "Airports in Delta"
-    }
+    ]
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302560",
-        "code": "BW",
-        "name": "Botswana",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Botswana",
-        "keywords": "Botswana airports"
-    },
-    "region": {
-        "id": "303278",
-        "code": "BW-SO",
-        "local_code": "SO",
-        "name": "Southern District",
-        "continent": "AF",
-        "iso_country": "BW",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_District_(Botswana)",
-        "keywords": "Airports in Southern District"
-    }
+    "keywords": ""
 }

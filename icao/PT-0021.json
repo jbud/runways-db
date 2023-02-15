@@ -62,33 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "298562",
-            "airport_ref": "298559",
-            "airport_ident": "PT-0021",
-            "type": "AFIS",
-            "description": "Benavente Internacional",
-            "frequency_mhz": "122.675"
-        }
-    ],
-    "country": {
-        "id": "302711",
-        "code": "PT",
-        "name": "Portugal",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Portugal",
-        "keywords": "Aeroportos de Portugal"
-    },
-    "region": {
-        "id": "305180",
-        "code": "PT-14",
-        "local_code": "14",
-        "name": "Santarém District",
-        "continent": "EU",
-        "iso_country": "PT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Santarém_District",
-        "keywords": "Airports in Santarém District"
-    }
+    ]
 }

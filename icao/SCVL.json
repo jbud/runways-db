@@ -40,33 +40,5 @@
             "he_heading_degT": "3.1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "51302",
-            "airport_ref": "6049",
-            "airport_ident": "SCVL",
-            "type": "INFO",
-            "description": "VALDIVIA INFO",
-            "frequency_mhz": "126.7"
-        }
-    ],
-    "country": {
-        "id": "302792",
-        "code": "CL",
-        "name": "Chile",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
-        "keywords": "Aeropuertos de Chile"
-    },
-    "region": {
-        "id": "306388",
-        "code": "CL-LR",
-        "local_code": "LR",
-        "name": "Los Ríos Region",
-        "continent": "SA",
-        "iso_country": "CL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Los_Ríos_Region",
-        "keywords": "Airports in Los Ríos Region"
-    }
+    ]
 }

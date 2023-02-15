@@ -24,63 +24,21 @@
             "airport_ident": "ENHF",
             "length_ft": "3061",
             "width_ft": "98",
-            "surface": "UNK",
+            "surface": "ASP",
             "lighted": "0",
             "closed": "0",
             "le_ident": "04",
-            "le_latitude_deg": "70.67737579345703",
-            "le_longitude_deg": "23.65849494934082",
+            "le_latitude_deg": "70.677376",
+            "le_longitude_deg": "23.658495",
             "le_elevation_ft": "259",
             "le_heading_degT": "46",
             "le_displaced_threshold_ft": "",
             "he_ident": "22",
-            "he_latitude_deg": "70.681640625",
-            "he_longitude_deg": "23.67756462097168",
+            "he_latitude_deg": "70.681641",
+            "he_longitude_deg": "23.677565",
             "he_elevation_ft": "260",
             "he_heading_degT": "226",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "country": {
-        "id": "302709",
-        "code": "NO",
-        "name": "Norway",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
-        "keywords": "Flyplasser i Norge"
-    },
-    "region": {
-        "id": "349858",
-        "code": "NO-54",
-        "local_code": "54",
-        "name": "Troms og Finnmark",
-        "continent": "EU",
-        "iso_country": "NO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Troms_og_Finnmark",
-        "keywords": "Airports in Troms og Finnmark"
-    },
-    "navaids": [
-        {
-            "id": "88909",
-            "filename": "Hammerfest_VOR-DME_NO",
-            "ident": "HMF",
-            "name": "Hammerfest",
-            "type": "VOR-DME",
-            "frequency_khz": "112400",
-            "latitude_deg": "70.7042007446289",
-            "longitude_deg": "23.69070053100586",
-            "elevation_ft": "1254",
-            "iso_country": "NO",
-            "dme_frequency_khz": "112400",
-            "dme_channel": "071X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "7.001",
-            "magnetic_variation_deg": "9.195",
-            "usageType": "RNAV",
-            "power": "LOW",
-            "associated_airport": "ENHF"
         }
     ]
 }

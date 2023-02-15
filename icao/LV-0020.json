@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302702",
-        "code": "LV",
-        "name": "Latvia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Latvia",
-        "keywords": "Latvian airports"
-    },
-    "region": {
-        "id": "353735",
-        "code": "LV-111",
-        "local_code": "111",
-        "name": "Augšdaugava Municipality",
-        "continent": "EU",
-        "iso_country": "LV",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Aug%C5%A1daugava_Municipality",
-        "keywords": "Airports in Augšdaugava Municipality"
-    }
+    "keywords": ""
 }

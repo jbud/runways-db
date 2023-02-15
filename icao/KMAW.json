@@ -84,57 +84,5 @@
             "he_heading_degT": "0.6",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "71486",
-            "airport_ref": "20473",
-            "airport_ident": "KMAW",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.825"
-        },
-        {
-            "id": "71487",
-            "airport_ref": "20473",
-            "airport_ident": "KMAW",
-            "type": "CNTR",
-            "description": "MEMPHIS CNTR",
-            "frequency_mhz": "133.65"
-        },
-        {
-            "id": "71488",
-            "airport_ref": "20473",
-            "airport_ident": "KMAW",
-            "type": "RDO",
-            "description": "ST LOUIS RDO",
-            "frequency_mhz": "111.2"
-        },
-        {
-            "id": "71489",
-            "airport_ref": "20473",
-            "airport_ident": "KMAW",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306100",
-        "code": "US-MO",
-        "local_code": "MO",
-        "name": "Missouri",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
-        "keywords": "Airports in Missouri"
-    }
+    ]
 }

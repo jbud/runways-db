@@ -40,47 +40,5 @@
             "he_heading_degT": "3.3",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302583",
-        "code": "LY",
-        "name": "Libya",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Libya",
-        "keywords": "مطارات في ليبيا"
-    },
-    "region": {
-        "id": "304551",
-        "code": "LY-MI",
-        "local_code": "MI",
-        "name": "Misurata District",
-        "continent": "AF",
-        "iso_country": "LY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Misurata",
-        "keywords": "Mişrātah"
-    },
-    "navaids": [
-        {
-            "id": "95451",
-            "filename": "Beni_Walid_VOR-DME_LY",
-            "ident": "WLD",
-            "name": "Beni Walid",
-            "type": "VOR-DME",
-            "frequency_khz": "115900",
-            "latitude_deg": "31.782499313354492",
-            "longitude_deg": "14.009400367736816",
-            "elevation_ft": "890",
-            "iso_country": "LY",
-            "dme_frequency_khz": "115900",
-            "dme_channel": "106X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "1.339",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HL54"
-        }
     ]
 }

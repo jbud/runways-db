@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Djougou_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302559",
-        "code": "BJ",
-        "name": "Benin",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Benin",
-        "keywords": "Beninese airports"
-    },
-    "region": {
-        "id": "303175",
-        "code": "BJ-DO",
-        "local_code": "DO",
-        "name": "Donga Department",
-        "continent": "AF",
-        "iso_country": "BJ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Donga_Department",
-        "keywords": "Airports in Donga Department"
-    }
+    "keywords": ""
 }

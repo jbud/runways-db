@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302749",
-        "code": "PA",
-        "name": "Panama",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Panama",
-        "keywords": "Aeropuertos de Panamá"
-    },
-    "region": {
-        "id": "305003",
-        "code": "PA-8",
-        "local_code": "8",
-        "name": "Panamá Province",
-        "continent": "NA",
-        "iso_country": "PA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Panamá_Province",
-        "keywords": "Airports in Panamá Province"
-    }
+    "keywords": ""
 }

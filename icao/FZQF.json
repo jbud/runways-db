@@ -16,33 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "freqs": [
-        {
-            "id": "299984",
-            "airport_ref": "31438",
-            "airport_ident": "FZQF",
-            "type": "TWR",
-            "description": "Fungurume Tower",
-            "frequency_mhz": "118.7"
-        }
-    ],
-    "country": {
-        "id": "302561",
-        "code": "CD",
-        "name": "Democratic Republic of the Congo",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
-        "keywords": "DRC"
-    },
-    "region": {
-        "id": "505638",
-        "code": "CD-LU",
-        "local_code": "LU",
-        "name": "Lualaba Province",
-        "continent": "AF",
-        "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lualaba_Province",
-        "keywords": "Airports in Lualaba Province"
-    }
+    "keywords": ""
 }

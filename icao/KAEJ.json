@@ -40,49 +40,5 @@
             "he_heading_degT": "342.2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "63310",
-            "airport_ref": "19243",
-            "airport_ident": "KAEJ",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "132.925"
-        },
-        {
-            "id": "63311",
-            "airport_ref": "19243",
-            "airport_ident": "KAEJ",
-            "type": "CNTR",
-            "description": "DENVER CNTR",
-            "frequency_mhz": "119.85"
-        },
-        {
-            "id": "63312",
-            "airport_ref": "19243",
-            "airport_ident": "KAEJ",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306081",
-        "code": "US-CO",
-        "local_code": "CO",
-        "name": "Colorado",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
-        "keywords": "Airports in Colorado"
-    }
+    ]
 }

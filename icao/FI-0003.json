@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302685",
-        "code": "FI",
-        "name": "Finland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
-        "keywords": "Lentokentät, Suomen"
-    },
-    "region": {
-        "id": "336504",
-        "code": "FI-03",
-        "local_code": "03",
-        "name": "South Ostrobothnia Region",
-        "continent": "EU",
-        "iso_country": "FI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Ostrobothnia",
-        "keywords": "Airports in South Ostrobothnia Region"
-    }
+    "keywords": ""
 }

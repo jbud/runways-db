@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "竹原広域行政組合消防本部ヘリポート,  Takehara Regional Administration Association Fire Department Headquarters Heliport",
-    "country": {
-        "id": "302639",
-        "code": "JP",
-        "name": "Japan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
-        "keywords": "Nippon, 日本の空港"
-    },
-    "region": {
-        "id": "304319",
-        "code": "JP-34",
-        "local_code": "34",
-        "name": "Hiroshima Prefecture",
-        "continent": "AS",
-        "iso_country": "JP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hiroshima",
-        "keywords": "Chugoku"
-    }
+    "keywords": "竹原広域行政組合消防本部ヘリポート,  Takehara Regional Administration Association Fire Department Headquarters Heliport"
 }

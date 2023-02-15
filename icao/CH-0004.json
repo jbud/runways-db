@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Tsanfleuron,Diablerets",
-    "country": {
-        "id": "302679",
-        "code": "CH",
-        "name": "Switzerland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
-        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
-    },
-    "region": {
-        "id": "303373",
-        "code": "CH-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
-        "continent": "EU",
-        "iso_country": "CH",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
-    }
+    "keywords": "Tsanfleuron,Diablerets"
 }

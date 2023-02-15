@@ -40,41 +40,5 @@
             "he_heading_degT": "222",
             "he_displaced_threshold_ft": "330"
         }
-    ],
-    "freqs": [
-        {
-            "id": "326505",
-            "airport_ref": "28542",
-            "airport_ident": "EDVC",
-            "type": "AFIS",
-            "description": "Arloh Info",
-            "frequency_mhz": "123.65"
-        },
-        {
-            "id": "326506",
-            "airport_ref": "28542",
-            "airport_ident": "EDVC",
-            "type": "TWR",
-            "description": "Celle Tower",
-            "frequency_mhz": "118.25"
-        }
-    ],
-    "country": {
-        "id": "302681",
-        "code": "DE",
-        "name": "Germany",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
-        "keywords": "Flughäfen in Deutschland"
-    },
-    "region": {
-        "id": "303555",
-        "code": "DE-NI",
-        "local_code": "NI",
-        "name": "Lower Saxony",
-        "continent": "EU",
-        "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Saxony",
-        "keywords": "Niedersachsen"
-    }
+    ]
 }

@@ -62,23 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302792",
-        "code": "CL",
-        "name": "Chile",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
-        "keywords": "Aeropuertos de Chile"
-    },
-    "region": {
-        "id": "303406",
-        "code": "CL-ML",
-        "local_code": "ML",
-        "name": "Maule Region",
-        "continent": "SA",
-        "iso_country": "CL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Maule_Region",
-        "keywords": "Airports in Maule Region"
-    }
+    ]
 }

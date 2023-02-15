@@ -40,57 +40,5 @@
             "he_heading_degT": "177.8",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "56049",
-            "airport_ref": "6093",
-            "airport_ident": "SGME",
-            "type": "RDO",
-            "description": "MARISCAL RDO",
-            "frequency_mhz": "118.8"
-        }
-    ],
-    "country": {
-        "id": "302799",
-        "code": "PY",
-        "name": "Paraguay",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraguay",
-        "keywords": "Aeropuertos de Paraguay"
-    },
-    "region": {
-        "id": "305197",
-        "code": "PY-19",
-        "local_code": "19",
-        "name": "Boquerón Department",
-        "continent": "SA",
-        "iso_country": "PY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Boquer%C3%B3n_Department",
-        "keywords": "Airports in Boquerón Department"
-    },
-    "navaids": [
-        {
-            "id": "90798",
-            "filename": "Mariscal_Estigarribia_NDB_PY",
-            "ident": "MCL",
-            "name": "Mariscal Estigarribia",
-            "type": "NDB",
-            "frequency_khz": "381",
-            "latitude_deg": "-22.042499542236328",
-            "longitude_deg": "-60.61690139770508",
-            "elevation_ft": "682",
-            "iso_country": "PY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.301",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SGME"
-        }
     ]
 }

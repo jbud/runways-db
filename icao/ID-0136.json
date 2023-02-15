@@ -40,23 +40,5 @@
             "he_heading_degT": "284",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302632",
-        "code": "ID",
-        "name": "Indonesia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
-        "keywords": "Bandara di Indonesia"
-    },
-    "region": {
-        "id": "304109",
-        "code": "ID-KB",
-        "local_code": "KB",
-        "name": "Kalimantan Barat (West Kalimantan)",
-        "continent": "AS",
-        "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kalimantan_Barat",
-        "keywords": "Airports in Kalimantan Barat"
-    }
+    ]
 }

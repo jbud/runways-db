@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "GQPT",
-    "country": {
-        "id": "302587",
-        "code": "MR",
-        "name": "Mauritania",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mauritania",
-        "keywords": "مطارات موريتانيا"
-    },
-    "region": {
-        "id": "304717",
-        "code": "MR-11",
-        "local_code": "11",
-        "name": "Tiris Zemmour Region",
-        "continent": "AF",
-        "iso_country": "MR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tiris_Zemmour_Region",
-        "keywords": "Airports in Tiris Zemmour Region"
-    }
+    "keywords": "GQPT"
 }

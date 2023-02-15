@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "https://web.archive.org/web/20160921031759/http://www.slk.ee/900.html",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Tapa_Airfield",
-    "keywords": "Аэродром Тапа, EETA",
-    "country": {
-        "id": "302683",
-        "code": "EE",
-        "name": "Estonia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Estonia",
-        "keywords": "Estonian airports"
-    },
-    "region": {
-        "id": "303681",
-        "code": "EE-59",
-        "local_code": "59",
-        "name": "Lääne-Viru County",
-        "continent": "EU",
-        "iso_country": "EE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/L%C3%A4%C3%A4ne-Viru_County",
-        "keywords": "Airports in Lääne-Viru County"
-    }
+    "keywords": "Аэродром Тапа, EETA"
 }

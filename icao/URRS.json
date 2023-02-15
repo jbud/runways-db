@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Аэропорт Сальск, УРРС",
-    "country": {
-        "id": "302714",
-        "code": "RU",
-        "name": "Russia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
-        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
-    },
-    "region": {
-        "id": "305318",
-        "code": "RU-ROS",
-        "local_code": "ROS",
-        "name": "Rostov Oblast",
-        "continent": "EU",
-        "iso_country": "RU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Rostov_Oblast",
-        "keywords": "Airports in Rostov Oblast"
-    }
+    "keywords": "Аэропорт Сальск, УРРС"
 }

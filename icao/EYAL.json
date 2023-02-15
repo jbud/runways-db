@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302700",
-        "code": "LT",
-        "name": "Lithuania",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lithuania",
-        "keywords": "Lithuanian airports"
-    },
-    "region": {
-        "id": "304494",
-        "code": "LT-AL",
-        "local_code": "AL",
-        "name": "Alytus County",
-        "continent": "EU",
-        "iso_country": "LT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Alytus_County",
-        "keywords": ""
-    }
+    "keywords": ""
 }

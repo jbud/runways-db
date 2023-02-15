@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302558",
-        "code": "BI",
-        "name": "Burundi",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Burundi",
-        "keywords": "Burundian airports"
-    },
-    "region": {
-        "id": "303166",
-        "code": "BI-NG",
-        "local_code": "NG",
-        "name": "Ngozi Province",
-        "continent": "AF",
-        "iso_country": "BI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ngozi_Province",
-        "keywords": "Airports in Ngozi Province"
-    }
+    "keywords": ""
 }

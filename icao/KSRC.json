@@ -40,57 +40,5 @@
             "he_heading_degT": "193",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "69742",
-            "airport_ref": "21107",
-            "airport_ident": "KSRC",
-            "type": "A/D",
-            "description": "LITTLE ROCK APP/DEP",
-            "frequency_mhz": "119.75"
-        },
-        {
-            "id": "69743",
-            "airport_ref": "21107",
-            "airport_ident": "KSRC",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "128.325"
-        },
-        {
-            "id": "69744",
-            "airport_ref": "21107",
-            "airport_ident": "KSRC",
-            "type": "CLD",
-            "description": "LITTLE ROCK CLNC DEL",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "69745",
-            "airport_ref": "21107",
-            "airport_ident": "KSRC",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.7"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306078",
-        "code": "US-AR",
-        "local_code": "AR",
-        "name": "Arkansas",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
-        "keywords": "Airports in Arkansas"
-    }
+    ]
 }

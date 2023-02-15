@@ -40,49 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "74158",
-            "airport_ref": "27860",
-            "airport_ident": "YNYP",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "121.85"
-        },
-        {
-            "id": "74159",
-            "airport_ref": "27860",
-            "airport_ident": "YNYP",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "119.6"
-        },
-        {
-            "id": "74160",
-            "airport_ref": "27860",
-            "airport_ident": "YNYP",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "128.1"
-        }
-    ],
-    "country": {
-        "id": "302764",
-        "code": "AU",
-        "name": "Australia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
-        "keywords": "Australian airports"
-    },
-    "region": {
-        "id": "302972",
-        "code": "AU-SA",
-        "local_code": "SA",
-        "name": "South Australia",
-        "continent": "OC",
-        "iso_country": "AU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
-        "keywords": "South Australian airports"
-    }
+    ]
 }

@@ -62,33 +62,5 @@
             "he_heading_degT": "343.8",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "55297",
-            "airport_ref": "3019",
-            "airport_ident": "FWLE",
-            "type": "INFO",
-            "description": "LILONGWE INFO",
-            "frequency_mhz": "120.6"
-        }
-    ],
-    "country": {
-        "id": "302589",
-        "code": "MW",
-        "name": "Malawi",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Malawi",
-        "keywords": "Airports in Malawi"
-    },
-    "region": {
-        "id": "304771",
-        "code": "MW-LI",
-        "local_code": "LI",
-        "name": "Lilongwe District",
-        "continent": "AF",
-        "iso_country": "MW",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lilongwe_District",
-        "keywords": "Airports in Lilongwe District"
-    }
+    ]
 }

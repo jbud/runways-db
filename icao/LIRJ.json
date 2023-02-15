@@ -40,33 +40,5 @@
             "he_heading_degT": "340",
             "he_displaced_threshold_ft": "285"
         }
-    ],
-    "freqs": [
-        {
-            "id": "54202",
-            "airport_ref": "4375",
-            "airport_ident": "LIRJ",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "123.7"
-        }
-    ],
-    "country": {
-        "id": "302697",
-        "code": "IT",
-        "name": "Italy",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
-        "keywords": "Aeroporti d'Italia"
-    },
-    "region": {
-        "id": "306357",
-        "code": "IT-52",
-        "local_code": "52",
-        "name": "Tuscany",
-        "continent": "EU",
-        "iso_country": "IT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tuscany",
-        "keywords": "TC"
-    }
+    ]
 }

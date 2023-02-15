@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://www.zagorje-aerodrom.hr/",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302692",
-        "code": "HR",
-        "name": "Croatia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Croatia",
-        "keywords": "Croatian airports"
-    },
-    "region": {
-        "id": "304026",
-        "code": "HR-02",
-        "local_code": "02",
-        "name": "Krapina-Zagorje County",
-        "continent": "EU",
-        "iso_country": "HR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Krapina-Zagorje_County",
-        "keywords": "Airports in Krapina-Zagorje County"
-    }
+    "keywords": ""
 }

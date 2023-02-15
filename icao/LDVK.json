@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302692",
-        "code": "HR",
-        "name": "Croatia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Croatia",
-        "keywords": "Croatian airports"
-    },
-    "region": {
-        "id": "304030",
-        "code": "HR-06",
-        "local_code": "06",
-        "name": "Koprivnica-Križevci County",
-        "continent": "EU",
-        "iso_country": "HR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Koprivnica-Križevci_County",
-        "keywords": "Airports in Koprivnica-Križevci County"
-    }
+    "keywords": ""
 }

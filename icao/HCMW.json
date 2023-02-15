@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "354106",
-            "airport_ref": "319714",
-            "airport_ident": "HCMW",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "118.4"
-        }
-    ],
-    "country": {
-        "id": "302601",
-        "code": "SO",
-        "name": "Somalia",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Somalia",
-        "keywords": ""
-    },
-    "region": {
-        "id": "305629",
-        "code": "SO-NU",
-        "local_code": "NU",
-        "name": "Nugal",
-        "continent": "AF",
-        "iso_country": "SO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nugal,_Somalia",
-        "keywords": "Airports in Nugaal"
-    }
+    ]
 }

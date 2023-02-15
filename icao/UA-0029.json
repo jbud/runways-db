@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Bolshoi Tokmak Air Base, Аэродром Большой Токмак",
-    "country": {
-        "id": "302719",
-        "code": "UA",
-        "name": "Ukraine",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ukraine",
-        "keywords": "Аеропорти України"
-    },
-    "region": {
-        "id": "305988",
-        "code": "UA-23",
-        "local_code": "23",
-        "name": "Zaporizhia Oblast",
-        "continent": "EU",
-        "iso_country": "UA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Zaporizhia_Oblast",
-        "keywords": "Airports in Zaporizhia Oblast"
-    }
+    "keywords": "Bolshoi Tokmak Air Base, Аэродром Большой Токмак"
 }

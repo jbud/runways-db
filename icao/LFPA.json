@@ -84,33 +84,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75327",
-            "airport_ref": "28970",
-            "airport_ident": "LFPA",
-            "type": "CTAF",
-            "description": "PERSAN-BEAUMONT",
-            "frequency_mhz": "119.5"
-        }
-    ],
-    "country": {
-        "id": "302687",
-        "code": "FR",
-        "name": "France",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
-        "keywords": "Aéroports de France"
-    },
-    "region": {
-        "id": "306342",
-        "code": "FR-IDF",
-        "local_code": "IDF",
-        "name": "Île-de-France",
-        "continent": "EU",
-        "iso_country": "FR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Île-de-France",
-        "keywords": "Airports in Île-de-France"
-    }
+    ]
 }

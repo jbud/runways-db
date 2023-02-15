@@ -16,23 +16,5 @@
     "local_code": "FHGH",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302598",
-        "code": "SH",
-        "name": "Saint Helena, Ascension and Tristan da Cunha",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha",
-        "keywords": "Airports in Saint Helena, Ascension and Tristan da Cunha"
-    },
-    "region": {
-        "id": "305436",
-        "code": "SH-TA",
-        "local_code": "TA",
-        "name": "Tristan da Cunha",
-        "continent": "AF",
-        "iso_country": "SH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tristan_da_Cunha",
-        "keywords": "Airports in Tristan da Cunha"
-    }
+    "keywords": ""
 }

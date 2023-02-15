@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": "360"
         }
-    ],
-    "freqs": [
-        {
-            "id": "75569",
-            "airport_ref": "29511",
-            "airport_ident": "LSPN",
-            "type": "AFIS",
-            "description": "",
-            "frequency_mhz": "124.525"
-        }
-    ],
-    "country": {
-        "id": "302679",
-        "code": "CH",
-        "name": "Switzerland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
-        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
-    },
-    "region": {
-        "id": "303363",
-        "code": "CH-LU",
-        "local_code": "LU",
-        "name": "Canton of Lucerne",
-        "continent": "EU",
-        "iso_country": "CH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lucerne",
-        "keywords": "Luzern"
-    }
+    ]
 }

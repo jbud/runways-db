@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Puttalam Airport",
-    "country": {
-        "id": "302648",
-        "code": "LK",
-        "name": "Sri Lanka",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sri_Lanka",
-        "keywords": "Sri Lankan airports"
-    },
-    "region": {
-        "id": "306761",
-        "code": "LK-6",
-        "local_code": "6",
-        "name": "North Western Province",
-        "continent": "AS",
-        "iso_country": "LK",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Western_Province,_Sri_Lanka",
-        "keywords": "Wayamba Palata"
-    }
+    "keywords": "Puttalam Airport"
 }

@@ -40,47 +40,5 @@
             "he_heading_degT": "204",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306076",
-        "code": "US-AK",
-        "local_code": "AK",
-        "name": "Alaska",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
-        "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "89822",
-            "filename": "Koyuk_NDB-DME_US",
-            "ident": "KKA",
-            "name": "Koyuk",
-            "type": "NDB-DME",
-            "frequency_khz": "299",
-            "latitude_deg": "64.93199920654297",
-            "longitude_deg": "-161.1479949951172",
-            "elevation_ft": "74",
-            "iso_country": "US",
-            "dme_frequency_khz": "113600",
-            "dme_channel": "083X",
-            "dme_latitude_deg": "64.9322",
-            "dme_longitude_deg": "-161.149",
-            "dme_elevation_ft": "74",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "16.083",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "PAKK"
-        }
     ]
 }

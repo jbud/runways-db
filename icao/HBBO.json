@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kirundo_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302558",
-        "code": "BI",
-        "name": "Burundi",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Burundi",
-        "keywords": "Burundian airports"
-    },
-    "region": {
-        "id": "332644",
-        "code": "BI-KI",
-        "local_code": "KI",
-        "name": "Kirundo Province",
-        "continent": "AF",
-        "iso_country": "BI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kirundo_Province",
-        "keywords": "Airports in Kirundo Province"
-    }
+    "keywords": ""
 }

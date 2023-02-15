@@ -84,23 +84,5 @@
             "he_heading_degT": "325",
             "he_displaced_threshold_ft": "800"
         }
-    ],
-    "country": {
-        "id": "302629",
-        "code": "CY",
-        "name": "Cyprus",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cyprus",
-        "keywords": "Cypriot airports"
-    },
-    "region": {
-        "id": "303526",
-        "code": "CY-02",
-        "local_code": "02",
-        "name": "Nicosia District",
-        "continent": "AS",
-        "iso_country": "CY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nicosia_District",
-        "keywords": "Airports in Nicosia District"
-    }
+    ]
 }

@@ -40,49 +40,5 @@
             "he_heading_degT": "340.7",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "54396",
-            "airport_ref": "5299",
-            "airport_ident": "ORTI",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122"
-        },
-        {
-            "id": "54397",
-            "airport_ref": "5299",
-            "airport_ident": "ORTI",
-            "type": "MISC",
-            "description": "FARP",
-            "frequency_mhz": "88.1"
-        },
-        {
-            "id": "54398",
-            "airport_ref": "5299",
-            "airport_ident": "ORTI",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "40.85"
-        }
-    ],
-    "country": {
-        "id": "302636",
-        "code": "IQ",
-        "name": "Iraq",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iraq",
-        "keywords": "مطارات العراق"
-    },
-    "region": {
-        "id": "304204",
-        "code": "IQ-BG",
-        "local_code": "BG",
-        "name": "Baghdad Governorate",
-        "continent": "AS",
-        "iso_country": "IQ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Baghdad_Governorate",
-        "keywords": "بغداد"
-    }
+    ]
 }

@@ -40,23 +40,5 @@
             "he_heading_degT": "294",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302802",
-        "code": "VE",
-        "name": "Venezuela",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
-        "keywords": "Aeropuertos de Venezuela"
-    },
-    "region": {
-        "id": "306177",
-        "code": "VE-M",
-        "local_code": "M",
-        "name": "Miranda State",
-        "continent": "SA",
-        "iso_country": "VE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Miranda_(state)",
-        "keywords": "Airports in Miranda State"
-    }
+    ]
 }

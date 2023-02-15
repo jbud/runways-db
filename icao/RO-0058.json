@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "https://casa-teo.ro/",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302712",
-        "code": "RO",
-        "name": "Romania",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Romania",
-        "keywords": "Aeroporturi din România"
-    },
-    "region": {
-        "id": "305249",
-        "code": "RO-PH",
-        "local_code": "PH",
-        "name": "Prahova County",
-        "continent": "EU",
-        "iso_country": "RO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Prahova_County",
-        "keywords": "Southern Romania (Wallachia), Wallachian"
-    }
+    "keywords": ""
 }

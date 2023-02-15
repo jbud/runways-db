@@ -40,23 +40,5 @@
             "he_heading_degT": "265.8",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302741",
-        "code": "JM",
-        "name": "Jamaica",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Jamaica",
-        "keywords": "Jamaican airports"
-    },
-    "region": {
-        "id": "304262",
-        "code": "JM-05",
-        "local_code": "05",
-        "name": "Saint Mary Parish",
-        "continent": "NA",
-        "iso_country": "JM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Mary_Parish,_Jamaica",
-        "keywords": "Airports in Saint Mary"
-    }
+    ]
 }

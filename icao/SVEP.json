@@ -40,23 +40,5 @@
             "he_heading_degT": "245.7",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302802",
-        "code": "VE",
-        "name": "Venezuela",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
-        "keywords": "Aeropuertos de Venezuela"
-    },
-    "region": {
-        "id": "306168",
-        "code": "VE-D",
-        "local_code": "D",
-        "name": "Aragua State",
-        "continent": "SA",
-        "iso_country": "VE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Aragua",
-        "keywords": "Airports in Aragua State"
-    }
+    ]
 }

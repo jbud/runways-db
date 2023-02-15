@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302648",
-        "code": "LK",
-        "name": "Sri Lanka",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sri_Lanka",
-        "keywords": "Sri Lankan airports"
-    },
-    "region": {
-        "id": "306758",
-        "code": "LK-3",
-        "local_code": "3",
-        "name": "Southern Province",
-        "continent": "AS",
-        "iso_country": "LK",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_Province,_Sri_Lanka",
-        "keywords": "Dakunu Palata"
-    }
+    "keywords": ""
 }

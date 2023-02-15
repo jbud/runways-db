@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302732",
-        "code": "CU",
-        "name": "Cuba",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cuba",
-        "keywords": "Aeropuertos de Cuba"
-    },
-    "region": {
-        "id": "303508",
-        "code": "CU-10",
-        "local_code": "10",
-        "name": "Las Tunas Province",
-        "continent": "NA",
-        "iso_country": "CU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Las_Tunas_Province",
-        "keywords": "Airports in Las Tunas Province"
-    }
+    "keywords": ""
 }

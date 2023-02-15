@@ -84,33 +84,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "299975",
-            "airport_ref": "299971",
-            "airport_ident": "SE-0005",
-            "type": "CTAF",
-            "description": "Molanda Radio",
-            "frequency_mhz": "123.45"
-        }
-    ],
-    "country": {
-        "id": "302715",
-        "code": "SE",
-        "name": "Sweden",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
-        "keywords": "Flygplatserna, Sverige"
-    },
-    "region": {
-        "id": "305432",
-        "code": "SE-Z",
-        "local_code": "Z",
-        "name": "Jämtlande län",
-        "continent": "EU",
-        "iso_country": "SE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Jämtlande_län",
-        "keywords": "Jämtland County"
-    }
+    ]
 }

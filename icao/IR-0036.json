@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302637",
-        "code": "IR",
-        "name": "Iran",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
-        "keywords": "فرودگاه های ایران"
-    },
-    "region": {
-        "id": "349689",
-        "code": "IR-30",
-        "local_code": "30",
-        "name": "Alborz Province",
-        "continent": "AS",
-        "iso_country": "IR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Alborz_Province",
-        "keywords": "Airports in Alborz Province"
-    }
+    "keywords": ""
 }

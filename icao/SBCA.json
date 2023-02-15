@@ -40,57 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "49656",
-            "airport_ref": "5878",
-            "airport_ident": "SBCA",
-            "type": "AFIS",
-            "description": "RDO",
-            "frequency_mhz": "131.85"
-        }
-    ],
-    "country": {
-        "id": "302791",
-        "code": "BR",
-        "name": "Brazil",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
-        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
-    },
-    "region": {
-        "id": "303216",
-        "code": "BR-PR",
-        "local_code": "PR",
-        "name": "Paraná",
-        "continent": "SA",
-        "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Paran%C3%A1_(state)",
-        "keywords": "Airports in Paraná"
-    },
-    "navaids": [
-        {
-            "id": "86594",
-            "filename": "Cascavel_NDB_BR",
-            "ident": "CAV",
-            "name": "Cascavel",
-            "type": "NDB",
-            "frequency_khz": "220",
-            "latitude_deg": "-25.003000259399414",
-            "longitude_deg": "-53.50320053100586",
-            "elevation_ft": "2473",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-15.133",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SBCA"
-        }
     ]
 }

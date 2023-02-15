@@ -40,33 +40,5 @@
             "he_heading_degT": "242",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "56399",
-            "airport_ref": "5487",
-            "airport_ident": "PKMA",
-            "type": "AAS",
-            "description": "RDO",
-            "frequency_mhz": "126.2"
-        }
-    ],
-    "country": {
-        "id": "302770",
-        "code": "MH",
-        "name": "Marshall Islands",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Marshall_Islands",
-        "keywords": "Airports in Marshall Islands"
-    },
-    "region": {
-        "id": "304635",
-        "code": "MH-ENI",
-        "local_code": "ENI",
-        "name": "Eniwetok",
-        "continent": "OC",
-        "iso_country": "MH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Eniwetok",
-        "keywords": "Airports in Eniwetok"
-    }
+    ]
 }

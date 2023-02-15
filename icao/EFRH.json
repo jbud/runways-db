@@ -40,33 +40,5 @@
             "he_heading_degT": "287",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "52092",
-            "airport_ref": "2339",
-            "airport_ident": "EFRH",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302685",
-        "code": "FI",
-        "name": "Finland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
-        "keywords": "Lentokentät, Suomen"
-    },
-    "region": {
-        "id": "336515",
-        "code": "FI-14",
-        "local_code": "14",
-        "name": "North Ostrobothnia Region",
-        "continent": "EU",
-        "iso_country": "FI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Ostrobothnia",
-        "keywords": "Airports in North Ostrobothnia Region"
-    }
+    ]
 }

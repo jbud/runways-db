@@ -40,57 +40,5 @@
             "he_heading_degT": "259",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "62313",
-            "airport_ref": "18585",
-            "airport_ident": "K2G4",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "120.125"
-        },
-        {
-            "id": "62314",
-            "airport_ref": "18585",
-            "airport_ident": "K2G4",
-            "type": "CNTR",
-            "description": "CLEVELAND CNTR",
-            "frequency_mhz": "124.4"
-        },
-        {
-            "id": "62315",
-            "airport_ref": "18585",
-            "airport_ident": "K2G4",
-            "type": "FSS",
-            "description": "ELKINS RDO",
-            "frequency_mhz": "112.3"
-        },
-        {
-            "id": "62316",
-            "airport_ref": "18585",
-            "airport_ident": "K2G4",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306096",
-        "code": "US-MD",
-        "local_code": "MD",
-        "name": "Maryland",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Maryland",
-        "keywords": "Airports in Maryland"
-    }
+    ]
 }

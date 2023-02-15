@@ -62,33 +62,5 @@
             "he_heading_degT": "308",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "308977",
-            "airport_ref": "2807",
-            "airport_ident": "FAMB",
-            "type": "Radio",
-            "description": "Middelburg Radio",
-            "frequency_mhz": "127.95"
-        }
-    ],
-    "country": {
-        "id": "302610",
-        "code": "ZA",
-        "name": "South Africa",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
-        "keywords": "South African airports"
-    },
-    "region": {
-        "id": "306298",
-        "code": "ZA-MP",
-        "local_code": "MP",
-        "name": "Mpumalanga",
-        "continent": "AF",
-        "iso_country": "ZA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mpumalanga",
-        "keywords": "Airports in Mpumalanga"
-    }
+    ]
 }

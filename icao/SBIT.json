@@ -40,57 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "49700",
-            "airport_ref": "5919",
-            "airport_ident": "SBIT",
-            "type": "AFIS",
-            "description": "ITUMBIARA RDO",
-            "frequency_mhz": "130.3"
-        }
-    ],
-    "country": {
-        "id": "302791",
-        "code": "BR",
-        "name": "Brazil",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
-        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
-    },
-    "region": {
-        "id": "303207",
-        "code": "BR-GO",
-        "local_code": "GO",
-        "name": "Goiás",
-        "continent": "SA",
-        "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Goiás",
-        "keywords": "Airports in Goiás"
-    },
-    "navaids": [
-        {
-            "id": "95622",
-            "filename": "Itumbiara_NDB_BR",
-            "ident": "YBA",
-            "name": "Itumbiara",
-            "type": "NDB",
-            "frequency_khz": "245",
-            "latitude_deg": "-18.44029998779297",
-            "longitude_deg": "-49.21870040893555",
-            "elevation_ft": "1630",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.236",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SBIT"
-        }
     ]
 }

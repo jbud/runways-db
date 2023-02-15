@@ -40,41 +40,5 @@
             "he_heading_degT": "292.2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "55281",
-            "airport_ref": "27208",
-            "airport_ident": "ZMCD",
-            "type": "APP",
-            "description": "ONON APP",
-            "frequency_mhz": "130"
-        },
-        {
-            "id": "55282",
-            "airport_ref": "27208",
-            "airport_ident": "ZMCD",
-            "type": "RDO",
-            "description": "ONON RDO",
-            "frequency_mhz": "550.5"
-        }
-    ],
-    "country": {
-        "id": "302650",
-        "code": "MN",
-        "name": "Mongolia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mongolia",
-        "keywords": "Mongolian airports"
-    },
-    "region": {
-        "id": "304694",
-        "code": "MN-061",
-        "local_code": "061",
-        "name": "Dornod Province",
-        "continent": "AS",
-        "iso_country": "MN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Dornod_Province",
-        "keywords": "Airports in Dornod Province"
-    }
+    ]
 }

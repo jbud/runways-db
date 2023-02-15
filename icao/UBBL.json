@@ -40,23 +40,5 @@
             "he_heading_degT": "331",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302621",
-        "code": "AZ",
-        "name": "Azerbaijan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Azerbaijan",
-        "keywords": "Azerbaijani airports"
-    },
-    "region": {
-        "id": "303007",
-        "code": "AZ-LA",
-        "local_code": "LA",
-        "name": "Lankaran District",
-        "continent": "AS",
-        "iso_country": "AZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lankaran_District",
-        "keywords": "Airports in Lankaran District"
-    }
+    ]
 }

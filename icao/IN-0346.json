@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Bihta_Air_Force_Station",
-    "keywords": "",
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304168",
-        "code": "IN-BR",
-        "local_code": "BR",
-        "name": "Bihar",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bihar",
-        "keywords": "Airports in Bihar"
-    }
+    "keywords": ""
 }

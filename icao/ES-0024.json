@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "315716",
-            "airport_ref": "315715",
-            "airport_ident": "ES-0024",
-            "type": "info",
-            "description": "",
-            "frequency_mhz": "130.125"
-        }
-    ],
-    "country": {
-        "id": "302684",
-        "code": "ES",
-        "name": "Spain",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
-        "keywords": "Aeropuertos de España"
-    },
-    "region": {
-        "id": "303729",
-        "code": "ES-AN",
-        "local_code": "AN",
-        "name": "Andalucía",
-        "continent": "EU",
-        "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Andalusia",
-        "keywords": "Airports in Andalucía"
-    }
+    ]
 }

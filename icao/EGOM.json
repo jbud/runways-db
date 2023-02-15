@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://www.raf.mod.uk/rafspadeadam/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Spadeadam",
-    "keywords": "",
-    "country": {
-        "id": "302688",
-        "code": "GB",
-        "name": "United Kingdom",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
-        "keywords": "Great Britain"
-    },
-    "region": {
-        "id": "306374",
-        "code": "GB-ENG",
-        "local_code": "ENG",
-        "name": "England",
-        "continent": "EU",
-        "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
-        "keywords": "English airports"
-    }
+    "keywords": ""
 }

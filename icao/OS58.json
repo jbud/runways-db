@@ -40,23 +40,5 @@
             "he_heading_degT": "279",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302662",
-        "code": "SY",
-        "name": "Syria",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Syria",
-        "keywords": "مطارات سوريا"
-    },
-    "region": {
-        "id": "305672",
-        "code": "SY-HM",
-        "local_code": "HM",
-        "name": "Hama Governorate",
-        "continent": "AS",
-        "iso_country": "SY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hama_Governorate",
-        "keywords": "Hamah"
-    }
+    ]
 }

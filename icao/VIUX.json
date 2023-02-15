@@ -40,41 +40,5 @@
             "he_heading_degT": "358.8",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "53899",
-            "airport_ref": "26581",
-            "airport_ident": "VIUX",
-            "type": "A/G",
-            "description": "RDO",
-            "frequency_mhz": "561"
-        },
-        {
-            "id": "53900",
-            "airport_ref": "26581",
-            "airport_ident": "VIUX",
-            "type": "ACC",
-            "description": "CTLZ",
-            "frequency_mhz": "122.7"
-        }
-    ],
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304178",
-        "code": "IN-JK",
-        "local_code": "JK",
-        "name": "Jammu and Kashmir",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Jammu_and_Kashmir",
-        "keywords": "Airports in Jammu and Kashmir"
-    }
+    ]
 }

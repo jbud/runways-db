@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302694",
-        "code": "IE",
-        "name": "Ireland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ireland",
-        "keywords": "Eire"
-    },
-    "region": {
-        "id": "304141",
-        "code": "IE-LK",
-        "local_code": "LK",
-        "name": "County Limerick",
-        "continent": "EU",
-        "iso_country": "IE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Limerick",
-        "keywords": "Airports in County Limerick"
-    }
+    ]
 }

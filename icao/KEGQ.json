@@ -84,41 +84,5 @@
             "he_heading_degT": "360",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "59156",
-            "airport_ref": "19736",
-            "airport_ident": "KEGQ",
-            "type": "CNTR",
-            "description": "MINNEAPOLIS CNTR",
-            "frequency_mhz": "127.75"
-        },
-        {
-            "id": "59157",
-            "airport_ref": "19736",
-            "airport_ident": "KEGQ",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306088",
-        "code": "US-IA",
-        "local_code": "IA",
-        "name": "Iowa",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
-        "keywords": "Airports in Iowa"
-    }
+    ]
 }

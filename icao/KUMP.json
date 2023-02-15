@@ -40,57 +40,5 @@
             "he_heading_degT": "325.7",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "64886",
-            "airport_ref": "21296",
-            "airport_ident": "KUMP",
-            "type": "A/D",
-            "description": "APP/DEP",
-            "frequency_mhz": "127.15"
-        },
-        {
-            "id": "64887",
-            "airport_ref": "21296",
-            "airport_ident": "KUMP",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "33.8"
-        },
-        {
-            "id": "64888",
-            "airport_ref": "21296",
-            "airport_ident": "KUMP",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.625"
-        },
-        {
-            "id": "64889",
-            "airport_ref": "21296",
-            "airport_ident": "KUMP",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306091",
-        "code": "US-IN",
-        "local_code": "IN",
-        "name": "Indiana",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
-        "keywords": "Airports in Indiana"
-    }
+    ]
 }

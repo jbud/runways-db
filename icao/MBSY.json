@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Salt_Cay_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302753",
-        "code": "TC",
-        "name": "Turks and Caicos Islands",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands",
-        "keywords": "Airports in Turks and Caicos Islands"
-    },
-    "region": {
-        "id": "306708",
-        "code": "TC-SL",
-        "local_code": "SL",
-        "name": "Salt Cay",
-        "continent": "NA",
-        "iso_country": "TC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Salt_Cay_",
-        "keywords": "Airports in Salt Cay"
-    }
+    "keywords": ""
 }

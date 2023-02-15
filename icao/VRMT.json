@@ -40,57 +40,5 @@
             "he_heading_degT": "335.2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "55392",
-            "airport_ref": "26637",
-            "airport_ident": "VRMT",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.4"
-        }
-    ],
-    "country": {
-        "id": "302652",
-        "code": "MV",
-        "name": "Maldives",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Maldives",
-        "keywords": "Airports in Maldives"
-    },
-    "region": {
-        "id": "304758",
-        "code": "MV-28",
-        "local_code": "28",
-        "name": "Gaafu Dhaalu Atoll",
-        "continent": "AS",
-        "iso_country": "MV",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Gaafu_Dhaalu_Atoll",
-        "keywords": "Airports in Gaafu Dhaalu Atoll"
-    },
-    "navaids": [
-        {
-            "id": "89628",
-            "filename": "Kaadedhdhoo_NDB_MV",
-            "ident": "KA",
-            "name": "Kaadedhdhoo",
-            "type": "NDB",
-            "frequency_khz": "274",
-            "latitude_deg": "0.49577799439430237",
-            "longitude_deg": "72.99530029296875",
-            "elevation_ft": "",
-            "iso_country": "MV",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.364",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VRMT"
-        }
     ]
 }

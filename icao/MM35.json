@@ -40,33 +40,5 @@
             "he_heading_degT": "329",
             "he_displaced_threshold_ft": "200"
         }
-    ],
-    "freqs": [
-        {
-            "id": "430329",
-            "airport_ref": "313720",
-            "airport_ident": "MM35",
-            "type": "CTAF",
-            "description": "Tráfico Cd. Altamirano",
-            "frequency_mhz": "122.5"
-        }
-    ],
-    "country": {
-        "id": "302747",
-        "code": "MX",
-        "name": "Mexico",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
-        "keywords": "Aeropuertos de México, Mexican airports"
-    },
-    "region": {
-        "id": "304800",
-        "code": "MX-GRO",
-        "local_code": "GRO",
-        "name": "Guerrero",
-        "continent": "NA",
-        "iso_country": "MX",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Guerrero",
-        "keywords": "Airports in Guerrero"
-    }
+    ]
 }

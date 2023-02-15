@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302749",
-        "code": "PA",
-        "name": "Panama",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Panama",
-        "keywords": "Aeropuertos de Panamá"
-    },
-    "region": {
-        "id": "305002",
-        "code": "PA-7",
-        "local_code": "7",
-        "name": "Los Santos Province",
-        "continent": "NA",
-        "iso_country": "PA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Los_Santos_Province",
-        "keywords": "Airports in Los Santos Province"
-    }
+    ]
 }

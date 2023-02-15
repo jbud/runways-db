@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302743",
-        "code": "KY",
-        "name": "Cayman Islands",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cayman_Islands",
-        "keywords": "Airports in Cayman Islands"
-    },
-    "region": {
-        "id": "304423",
-        "code": "KY-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
-        "continent": "NA",
-        "iso_country": "KY",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
-    }
+    ]
 }

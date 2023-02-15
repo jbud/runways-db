@@ -84,33 +84,5 @@
             "he_heading_degT": "255.2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "54187",
-            "airport_ref": "4326",
-            "airport_ident": "LIDA",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "122.6"
-        }
-    ],
-    "country": {
-        "id": "302697",
-        "code": "IT",
-        "name": "Italy",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
-        "keywords": "Aeroporti d'Italia"
-    },
-    "region": {
-        "id": "306354",
-        "code": "IT-34",
-        "local_code": "34",
-        "name": "Veneto",
-        "continent": "EU",
-        "iso_country": "IT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Veneto",
-        "keywords": "VN"
-    }
+    ]
 }

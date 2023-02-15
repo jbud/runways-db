@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302676",
-        "code": "BE",
-        "name": "Belgium",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Belgium",
-        "keywords": "Aéroports de Belgique,Luchthavens van België"
-    },
-    "region": {
-        "id": "303070",
-        "code": "BE-VAN",
-        "local_code": "VAN",
-        "name": "Antwerp Province",
-        "continent": "EU",
-        "iso_country": "BE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Antwerp_Province",
-        "keywords": "Antwerpen, Flanders, Flemish Region, Vlaams Gewest, Vlaanderen"
-    }
+    "keywords": ""
 }

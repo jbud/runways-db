@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "BITF, BITF",
-    "country": {
-        "id": "302696",
-        "code": "IS",
-        "name": "Iceland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iceland",
-        "keywords": "Icelandic airports"
-    },
-    "region": {
-        "id": "304250",
-        "code": "IS-4",
-        "local_code": "4",
-        "name": "Westfjords",
-        "continent": "EU",
-        "iso_country": "IS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Westfjords",
-        "keywords": "Vestfirðir"
-    }
+    "keywords": "BITF, BITF"
 }

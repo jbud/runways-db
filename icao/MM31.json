@@ -40,33 +40,5 @@
             "he_heading_degT": "260.7",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "55430",
-            "airport_ref": "4882",
-            "airport_ident": "MM31",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.5"
-        }
-    ],
-    "country": {
-        "id": "302747",
-        "code": "MX",
-        "name": "Mexico",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
-        "keywords": "Aeropuertos de México, Mexican airports"
-    },
-    "region": {
-        "id": "304820",
-        "code": "MX-VER",
-        "local_code": "VER",
-        "name": "Veracruz",
-        "continent": "NA",
-        "iso_country": "MX",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Veracruz",
-        "keywords": "Airports in Veracruz"
-    }
+    ]
 }

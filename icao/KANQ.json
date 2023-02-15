@@ -40,49 +40,5 @@
             "he_heading_degT": "227",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "62113",
-            "airport_ref": "19285",
-            "airport_ident": "KANQ",
-            "type": "A/D",
-            "description": "FORT WAYNE APP/DEP",
-            "frequency_mhz": "132.15"
-        },
-        {
-            "id": "62114",
-            "airport_ref": "19285",
-            "airport_ident": "KANQ",
-            "type": "FSS",
-            "description": "LITCHFIELD RDO",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "62115",
-            "airport_ref": "19285",
-            "airport_ident": "KANQ",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123.075"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306091",
-        "code": "US-IN",
-        "local_code": "IN",
-        "name": "Indiana",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
-        "keywords": "Airports in Indiana"
-    }
+    ]
 }

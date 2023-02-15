@@ -62,33 +62,5 @@
             "he_heading_degT": "307",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "52133",
-            "airport_ref": "2310",
-            "airport_ident": "EFHV",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "122.5"
-        }
-    ],
-    "country": {
-        "id": "302685",
-        "code": "FI",
-        "name": "Finland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
-        "keywords": "Lentokentät, Suomen"
-    },
-    "region": {
-        "id": "336519",
-        "code": "FI-18",
-        "local_code": "18",
-        "name": "Uusimaa Region",
-        "continent": "EU",
-        "iso_country": "FI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Uusimaa",
-        "keywords": "Airports in Uusimaa Region"
-    }
+    ]
 }

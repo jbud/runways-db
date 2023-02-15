@@ -40,49 +40,5 @@
             "he_heading_degT": "258",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75303",
-            "airport_ref": "35371",
-            "airport_ident": "OAAK",
-            "type": "ACC",
-            "description": "Khabul Centre",
-            "frequency_mhz": "118.3"
-        },
-        {
-            "id": "75304",
-            "airport_ref": "35371",
-            "airport_ident": "OAAK",
-            "type": "ACC",
-            "description": "Khabul Centre",
-            "frequency_mhz": "120.9"
-        },
-        {
-            "id": "75305",
-            "airport_ref": "35371",
-            "airport_ident": "OAAK",
-            "type": "ATF",
-            "description": "",
-            "frequency_mhz": "125.2"
-        }
-    ],
-    "country": {
-        "id": "302619",
-        "code": "AF",
-        "name": "Afghanistan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Afghanistan",
-        "keywords": ""
-    },
-    "region": {
-        "id": "302833",
-        "code": "AF-FYB",
-        "local_code": "FYB",
-        "name": "Faryab Province",
-        "continent": "AS",
-        "iso_country": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Faryab_Province",
-        "keywords": "Airports in Faryab Province"
-    }
+    ]
 }

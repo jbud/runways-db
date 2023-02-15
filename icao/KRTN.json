@@ -62,49 +62,5 @@
             "he_heading_degT": "257.6",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "71239",
-            "airport_ref": "20965",
-            "airport_ident": "KRTN",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "118.375"
-        },
-        {
-            "id": "71240",
-            "airport_ref": "20965",
-            "airport_ident": "KRTN",
-            "type": "CNTR",
-            "description": "ALBUQUERQUE CNTR",
-            "frequency_mhz": "132.8"
-        },
-        {
-            "id": "71241",
-            "airport_ref": "20965",
-            "airport_ident": "KRTN",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306108",
-        "code": "US-NM",
-        "local_code": "NM",
-        "name": "New Mexico",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
-        "keywords": "Airports in New Mexico"
-    }
+    ]
 }

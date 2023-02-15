@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Sihong, 泗洪直升機場",
-    "country": {
-        "id": "302668",
-        "code": "TW",
-        "name": "Taiwan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
-        "keywords": "Taiwanese airports"
-    },
-    "region": {
-        "id": "306754",
-        "code": "TW-X-KM",
-        "local_code": "X-KM",
-        "name": "Kinmen County",
-        "continent": "AS",
-        "iso_country": "TW",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kinmen",
-        "keywords": "Airports in Kinmen County"
-    }
+    "keywords": "Sihong, 泗洪直升機場"
 }

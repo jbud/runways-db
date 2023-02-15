@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302606",
-        "code": "TN",
-        "name": "Tunisia",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tunisia",
-        "keywords": "مطارات تونس"
-    },
-    "region": {
-        "id": "305816",
-        "code": "TN-23",
-        "local_code": "23",
-        "name": "Bizerte Governorate",
-        "continent": "AF",
-        "iso_country": "TN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bizerte_Governorate",
-        "keywords": "Airports in Bizerte Governorate"
-    }
+    "keywords": ""
 }

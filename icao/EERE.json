@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302683",
-        "code": "EE",
-        "name": "Estonia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Estonia",
-        "keywords": "Estonian airports"
-    },
-    "region": {
-        "id": "303681",
-        "code": "EE-59",
-        "local_code": "59",
-        "name": "Lääne-Viru County",
-        "continent": "EU",
-        "iso_country": "EE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/L%C3%A4%C3%A4ne-Viru_County",
-        "keywords": "Airports in Lääne-Viru County"
-    }
+    ]
 }

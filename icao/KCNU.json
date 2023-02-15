@@ -62,57 +62,5 @@
             "he_heading_degT": "7",
             "he_displaced_threshold_ft": "270"
         }
-    ],
-    "freqs": [
-        {
-            "id": "59163",
-            "airport_ref": "19527",
-            "airport_ident": "KCNU",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "127.075"
-        },
-        {
-            "id": "59164",
-            "airport_ref": "19527",
-            "airport_ident": "KCNU",
-            "type": "CNTR",
-            "description": "KANSAS CITY CNTR",
-            "frequency_mhz": "132.9"
-        },
-        {
-            "id": "59165",
-            "airport_ref": "19527",
-            "airport_ident": "KCNU",
-            "type": "RDO",
-            "description": "WICHITA RDO",
-            "frequency_mhz": "122.35"
-        },
-        {
-            "id": "59166",
-            "airport_ref": "19527",
-            "airport_ident": "KCNU",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.7"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306092",
-        "code": "US-KS",
-        "local_code": "KS",
-        "name": "Kansas",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
-        "keywords": "Airports in Kansas"
-    }
+    ]
 }

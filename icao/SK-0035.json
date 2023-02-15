@@ -16,23 +16,5 @@
     "local_code": "LZJANO",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302717",
-        "code": "SK",
-        "name": "Slovakia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Slovakia",
-        "keywords": "letisko Slovenska"
-    },
-    "region": {
-        "id": "305591",
-        "code": "SK-BC",
-        "local_code": "BC",
-        "name": "Banská Bystrica Region",
-        "continent": "EU",
-        "iso_country": "SK",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Banská_Bystrica_Region",
-        "keywords": "Banskobystrický kraj"
-    }
+    "keywords": ""
 }

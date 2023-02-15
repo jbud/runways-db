@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "http://sv.wikipedia.org/Moholm-Bällefors_flygbas",
-    "keywords": "ESFM, ESFM",
-    "country": {
-        "id": "302715",
-        "code": "SE",
-        "name": "Sweden",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
-        "keywords": "Flygplatserna, Sverige"
-    },
-    "region": {
-        "id": "305424",
-        "code": "SE-Q",
-        "local_code": "Q",
-        "name": "Västra Götalands län",
-        "continent": "EU",
-        "iso_country": "SE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Västra_Götalands_län",
-        "keywords": "Västra Götaland County"
-    }
+    "keywords": "ESFM, ESFM"
 }

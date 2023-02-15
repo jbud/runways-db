@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://airgreenland.com/om_rejsen/efter_rejsen/din_destination_/qasigiannguit/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Qasigiannguit_Heliport",
-    "keywords": "Christianshåb",
-    "country": {
-        "id": "302736",
-        "code": "GL",
-        "name": "Greenland",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Greenland",
-        "keywords": "Airports in Greenland"
-    },
-    "region": {
-        "id": "505042",
-        "code": "GL-QK",
-        "local_code": "QK",
-        "name": "Qeqertalik Municipality",
-        "continent": "NA",
-        "iso_country": "GL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Qeqertalik",
-        "keywords": ""
-    }
+    "keywords": "Christianshåb"
 }

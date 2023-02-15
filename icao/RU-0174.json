@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://www.emergency.spb.ru/",
     "wikipedia_link": "",
-    "keywords": "Вертолётная площадка НИИ Скорой помощи",
-    "country": {
-        "id": "302714",
-        "code": "RU",
-        "name": "Russia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
-        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
-    },
-    "region": {
-        "id": "305326",
-        "code": "RU-SPE",
-        "local_code": "SPE",
-        "name": "Saint Petersburg (city)",
-        "continent": "EU",
-        "iso_country": "RU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Petersburg_(city)",
-        "keywords": "Airports in Saint Petersburg (city)"
-    }
+    "keywords": "Вертолётная площадка НИИ Скорой помощи"
 }

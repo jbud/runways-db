@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Helipuerto Civil Madrid - Banco de España",
-    "country": {
-        "id": "302684",
-        "code": "ES",
-        "name": "Spain",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
-        "keywords": "Aeropuertos de España"
-    },
-    "region": {
-        "id": "303761",
-        "code": "ES-MD",
-        "local_code": "MD",
-        "name": "Madrid (community)",
-        "continent": "EU",
-        "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Community_of_Madrid",
-        "keywords": "Airports in Madrid"
-    }
+    "keywords": "Helipuerto Civil Madrid - Banco de España"
 }

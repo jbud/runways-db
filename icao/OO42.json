@@ -40,23 +40,5 @@
             "he_heading_degT": "337.9",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302655",
-        "code": "OM",
-        "name": "Oman",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Oman",
-        "keywords": "مطارات عمان"
-    },
-    "region": {
-        "id": "304989",
-        "code": "OM-ZU",
-        "local_code": "ZU",
-        "name": "Dhofar Governorate",
-        "continent": "AS",
-        "iso_country": "OM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Dhofar_Governorate",
-        "keywords": "الداخلية‎"
-    }
+    ]
 }

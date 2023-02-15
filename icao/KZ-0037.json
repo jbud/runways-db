@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302645",
-        "code": "KZ",
-        "name": "Kazakhstan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kazakhstan",
-        "keywords": "Kazakh"
-    },
-    "region": {
-        "id": "430281",
-        "code": "KZ-ULY",
-        "local_code": "ULY",
-        "name": "Ulytau Region",
-        "continent": "AS",
-        "iso_country": "KZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ulytau_Region",
-        "keywords": ""
-    }
+    "keywords": ""
 }

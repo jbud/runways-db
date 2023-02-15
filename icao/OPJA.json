@@ -62,49 +62,5 @@
             "he_heading_degT": "327.3",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "56130",
-            "airport_ref": "5254",
-            "airport_ident": "OPJA",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "29.04"
-        },
-        {
-            "id": "56131",
-            "airport_ref": "5254",
-            "airport_ident": "OPJA",
-            "type": "POST",
-            "description": "COMD POST",
-            "frequency_mhz": "27.312"
-        },
-        {
-            "id": "56132",
-            "airport_ref": "5254",
-            "airport_ident": "OPJA",
-            "type": "TWR",
-            "description": "JACOBABAD TWR",
-            "frequency_mhz": "124.625"
-        }
-    ],
-    "country": {
-        "id": "302657",
-        "code": "PK",
-        "name": "Pakistan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pakistan",
-        "keywords": "پاکستان کے ہوائی اڈوں"
-    },
-    "region": {
-        "id": "305141",
-        "code": "PK-SD",
-        "local_code": "SD",
-        "name": "Sindh",
-        "continent": "AS",
-        "iso_country": "PK",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sindh",
-        "keywords": "Sind"
-    }
+    ]
 }

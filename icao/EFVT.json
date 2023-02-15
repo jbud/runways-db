@@ -40,41 +40,5 @@
             "he_heading_degT": "252.1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "310820",
-            "airport_ref": "27271",
-            "airport_ident": "EFVT",
-            "type": "ACC",
-            "description": "Tampere radar",
-            "frequency_mhz": "127.1"
-        },
-        {
-            "id": "310819",
-            "airport_ref": "27271",
-            "airport_ident": "EFVT",
-            "type": "RDO",
-            "description": "Sulkaharju traffic",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302685",
-        "code": "FI",
-        "name": "Finland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
-        "keywords": "Lentokentät, Suomen"
-    },
-    "region": {
-        "id": "336508",
-        "code": "FI-07",
-        "local_code": "07",
-        "name": "Central Ostrobothnia Region",
-        "continent": "EU",
-        "iso_country": "FI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Ostrobothnia",
-        "keywords": "Airports in Central Ostrobothnia Region"
-    }
+    ]
 }

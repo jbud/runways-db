@@ -16,33 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Para%C4%87in_Airport",
-    "keywords": "Davidovic",
-    "freqs": [
-        {
-            "id": "320361",
-            "airport_ref": "320360",
-            "airport_ident": "LYPN",
-            "type": "Info",
-            "description": "Davidovac Info",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302713",
-        "code": "RS",
-        "name": "Serbia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Serbia",
-        "keywords": "Serb"
-    },
-    "region": {
-        "id": "306602",
-        "code": "RS-12",
-        "local_code": "12",
-        "name": "Šumadija District",
-        "continent": "EU",
-        "iso_country": "RS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Šumadija_District",
-        "keywords": "Airports in Šumadija District"
-    }
+    "keywords": "Davidovic"
 }

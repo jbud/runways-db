@@ -84,41 +84,5 @@
             "he_heading_degT": "304",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "59519",
-            "airport_ref": "18399",
-            "airport_ident": "K0W3",
-            "type": "A/D",
-            "description": "POTOMAC APP/DEP",
-            "frequency_mhz": "126.75"
-        },
-        {
-            "id": "59520",
-            "airport_ref": "18399",
-            "airport_ident": "K0W3",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306096",
-        "code": "US-MD",
-        "local_code": "MD",
-        "name": "Maryland",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Maryland",
-        "keywords": "Airports in Maryland"
-    }
+    ]
 }

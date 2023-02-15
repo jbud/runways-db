@@ -40,49 +40,5 @@
             "he_heading_degT": "269",
             "he_displaced_threshold_ft": "800"
         }
-    ],
-    "freqs": [
-        {
-            "id": "69471",
-            "airport_ref": "19189",
-            "airport_ident": "K9G2",
-            "type": "A/D",
-            "description": "FLINT APP/DEP",
-            "frequency_mhz": "128.55"
-        },
-        {
-            "id": "69472",
-            "airport_ref": "19189",
-            "airport_ident": "K9G2",
-            "type": "FSS",
-            "description": "FLINT RDO",
-            "frequency_mhz": "122.3"
-        },
-        {
-            "id": "69473",
-            "airport_ref": "19189",
-            "airport_ident": "K9G2",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306098",
-        "code": "US-MI",
-        "local_code": "MI",
-        "name": "Michigan",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
-        "keywords": "Airports in Michigan"
-    }
+    ]
 }

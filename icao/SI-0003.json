@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75242",
-            "airport_ref": "44909",
-            "airport_ident": "SI-0003",
-            "type": "VHF",
-            "description": "Vzletišče Veržej",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302716",
-        "code": "SI",
-        "name": "Slovenia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Slovenia",
-        "keywords": ""
-    },
-    "region": {
-        "id": "305583",
-        "code": "SI-188",
-        "local_code": "188",
-        "name": "Verzej",
-        "continent": "EU",
-        "iso_country": "SI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Verzej",
-        "keywords": "Airports in Verzej"
-    }
+    ]
 }

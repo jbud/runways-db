@@ -40,33 +40,5 @@
             "he_heading_degT": "187",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "308182",
-            "airport_ref": "46333",
-            "airport_ident": "RU-0408",
-            "type": "TWR",
-            "description": "\"Vektor\"",
-            "frequency_mhz": "120.15"
-        }
-    ],
-    "country": {
-        "id": "302714",
-        "code": "RU",
-        "name": "Russia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
-        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
-    },
-    "region": {
-        "id": "305299",
-        "code": "RU-LEN",
-        "local_code": "LEN",
-        "name": "Leningrad Oblast",
-        "continent": "EU",
-        "iso_country": "RU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Leningrad_Oblast",
-        "keywords": "Airports in Leningrad Oblast"
-    }
+    ]
 }

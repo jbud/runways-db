@@ -106,49 +106,5 @@
             "he_heading_degT": "0",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "62583",
-            "airport_ref": "21053",
-            "airport_ident": "KSER",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.425"
-        },
-        {
-            "id": "62584",
-            "airport_ref": "21053",
-            "airport_ident": "KSER",
-            "type": "CNTR",
-            "description": "INDIANAPOLIS CNTR",
-            "frequency_mhz": "124.775"
-        },
-        {
-            "id": "62585",
-            "airport_ref": "21053",
-            "airport_ident": "KSER",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306091",
-        "code": "US-IN",
-        "local_code": "IN",
-        "name": "Indiana",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
-        "keywords": "Airports in Indiana"
-    }
+    ]
 }

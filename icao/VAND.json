@@ -40,41 +40,5 @@
             "he_heading_degT": "278",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "307435",
-            "airport_ref": "30180",
-            "airport_ident": "VAND",
-            "type": "NDD",
-            "description": "",
-            "frequency_mhz": "113"
-        },
-        {
-            "id": "307434",
-            "airport_ref": "30180",
-            "airport_ident": "VAND",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "118.75"
-        }
-    ],
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304183",
-        "code": "IN-MM",
-        "local_code": "MM",
-        "name": "Maharashtra",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Maharashtra",
-        "keywords": "Airports in Maharashtra"
-    }
+    ]
 }

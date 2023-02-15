@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SWCK",
-    "country": {
-        "id": "302791",
-        "code": "BR",
-        "name": "Brazil",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
-        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
-    },
-    "region": {
-        "id": "303207",
-        "code": "BR-GO",
-        "local_code": "GO",
-        "name": "Goiás",
-        "continent": "SA",
-        "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Goiás",
-        "keywords": "Airports in Goiás"
-    }
+    "keywords": "SWCK"
 }

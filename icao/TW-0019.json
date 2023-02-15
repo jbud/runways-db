@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://www.pch.org.tw/english/e_index.html",
     "wikipedia_link": "https://zh.wikipedia.org/wiki/%E5%9F%94%E9%87%8C%E5%9F%BA%E7%9D%A3%E6%95%99%E9%86%AB%E9%99%A2",
-    "keywords": "Puli Christian Hospital, 普里基督醫院直升機場",
-    "country": {
-        "id": "302668",
-        "code": "TW",
-        "name": "Taiwan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
-        "keywords": "Taiwanese airports"
-    },
-    "region": {
-        "id": "305944",
-        "code": "TW-NAN",
-        "local_code": "NAN",
-        "name": "Nantou County",
-        "continent": "AS",
-        "iso_country": "TW",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nantou_County",
-        "keywords": "Airports in Nantou County"
-    }
+    "keywords": "Puli Christian Hospital, 普里基督醫院直升機場"
 }

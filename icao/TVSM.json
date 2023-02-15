@@ -40,33 +40,5 @@
             "he_heading_degT": "251",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "71639",
-            "airport_ref": "6414",
-            "airport_ident": "TVSM",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302756",
-        "code": "VC",
-        "name": "Saint Vincent and the Grenadines",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
-        "keywords": "Airports in Saint Vincent and the Grenadines"
-    },
-    "region": {
-        "id": "306723",
-        "code": "VC-06",
-        "local_code": "06",
-        "name": "Grenadines",
-        "continent": "NA",
-        "iso_country": "VC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Grenadines",
-        "keywords": "Airports in Grenadines"
-    }
+    ]
 }

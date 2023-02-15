@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302792",
-        "code": "CL",
-        "name": "Chile",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
-        "keywords": "Aeropuertos de Chile"
-    },
-    "region": {
-        "id": "303399",
-        "code": "CL-AR",
-        "local_code": "AR",
-        "name": "Araucanía Region",
-        "continent": "SA",
-        "iso_country": "CL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Araucanía_Region",
-        "keywords": "Airports in Araucanía Region"
-    }
+    ]
 }

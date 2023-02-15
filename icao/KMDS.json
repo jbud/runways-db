@@ -62,41 +62,5 @@
             "he_heading_degT": "333.7",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "71495",
-            "airport_ref": "20489",
-            "airport_ident": "KMDS",
-            "type": "CNTR",
-            "description": "MINNEAPOLIS CNTR",
-            "frequency_mhz": "132.05"
-        },
-        {
-            "id": "71496",
-            "airport_ref": "20489",
-            "airport_ident": "KMDS",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306117",
-        "code": "US-SD",
-        "local_code": "SD",
-        "name": "South Dakota",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Dakota",
-        "keywords": "Airports in South Dakota"
-    }
+    ]
 }

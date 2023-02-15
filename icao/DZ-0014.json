@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302568",
-        "code": "DZ",
-        "name": "Algeria",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Algeria",
-        "keywords": "مطارات الجزائر"
-    },
-    "region": {
-        "id": "303644",
-        "code": "DZ-42",
-        "local_code": "42",
-        "name": "Tipaza Province",
-        "continent": "AF",
-        "iso_country": "DZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tipaza_Province",
-        "keywords": "Airports in Tipaza Province"
-    }
+    "keywords": ""
 }

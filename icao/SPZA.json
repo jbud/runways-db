@@ -40,41 +40,5 @@
             "he_heading_degT": "246",
             "he_displaced_threshold_ft": "90"
         }
-    ],
-    "freqs": [
-        {
-            "id": "56085",
-            "airport_ref": "6242",
-            "airport_ident": "SPZA",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "56086",
-            "airport_ref": "6242",
-            "airport_ident": "SPZA",
-            "type": "TWR",
-            "description": "NASCA TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
-    "country": {
-        "id": "302798",
-        "code": "PE",
-        "name": "Peru",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
-        "keywords": "Aeropuertos de Perú"
-    },
-    "region": {
-        "id": "305017",
-        "code": "PE-ICA",
-        "local_code": "ICA",
-        "name": "Ica Region",
-        "continent": "SA",
-        "iso_country": "PE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ica_Region",
-        "keywords": "Airports in Ica Region"
-    }
+    ]
 }

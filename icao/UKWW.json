@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302719",
-        "code": "UA",
-        "name": "Ukraine",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ukraine",
-        "keywords": "Аеропорти України"
-    },
-    "region": {
-        "id": "305981",
-        "code": "UA-05",
-        "local_code": "05",
-        "name": "Vinnytsia Oblast",
-        "continent": "EU",
-        "iso_country": "UA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Vinnytsia_Oblast",
-        "keywords": "Vinnyts'ka Oblast'"
-    }
+    ]
 }

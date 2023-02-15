@@ -40,41 +40,5 @@
             "he_heading_degT": "270",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "50974",
-            "airport_ref": "1844",
-            "airport_ident": "CYPD",
-            "type": "RDO",
-            "description": "HALIFAX RDO",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "50975",
-            "airport_ref": "1844",
-            "airport_ident": "CYPD",
-            "type": "UNIC",
-            "description": "ATF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302730",
-        "code": "CA",
-        "name": "Canada",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
-        "keywords": "Canadian airports"
-    },
-    "region": {
-        "id": "303299",
-        "code": "CA-NS",
-        "local_code": "NS",
-        "name": "Nova Scotia",
-        "continent": "NA",
-        "iso_country": "CA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nova_Scotia",
-        "keywords": "Nova Scotian airports"
-    }
+    ]
 }

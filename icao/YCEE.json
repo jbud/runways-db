@@ -62,41 +62,5 @@
             "he_heading_degT": "2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "48773",
-            "airport_ref": "26951",
-            "airport_ident": "YCEE",
-            "type": "CTAF",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "48774",
-            "airport_ref": "26951",
-            "airport_ident": "YCEE",
-            "type": "FSS",
-            "description": "MELBOURNE CNTR",
-            "frequency_mhz": "125.9"
-        }
-    ],
-    "country": {
-        "id": "302764",
-        "code": "AU",
-        "name": "Australia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
-        "keywords": "Australian airports"
-    },
-    "region": {
-        "id": "302972",
-        "code": "AU-SA",
-        "local_code": "SA",
-        "name": "South Australia",
-        "continent": "OC",
-        "iso_country": "AU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
-        "keywords": "South Australian airports"
-    }
+    ]
 }

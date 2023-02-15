@@ -40,23 +40,5 @@
             "he_heading_degT": "338.2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302802",
-        "code": "VE",
-        "name": "Venezuela",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
-        "keywords": "Aeropuertos de Venezuela"
-    },
-    "region": {
-        "id": "306169",
-        "code": "VE-E",
-        "local_code": "E",
-        "name": "Barinas State",
-        "continent": "SA",
-        "iso_country": "VE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Barinas_(state)",
-        "keywords": "Airports in Barinas State"
-    }
+    ]
 }

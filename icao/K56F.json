@@ -62,41 +62,5 @@
             "he_heading_degT": "345",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "63983",
-            "airport_ref": "18886",
-            "airport_ident": "K56F",
-            "type": "CNTR",
-            "description": "FORT WORTH CNTR",
-            "frequency_mhz": "127.45"
-        },
-        {
-            "id": "63984",
-            "airport_ref": "18886",
-            "airport_ident": "K56F",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306119",
-        "code": "US-TX",
-        "local_code": "TX",
-        "name": "Texas",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
-        "keywords": "Texan airports"
-    }
+    ]
 }

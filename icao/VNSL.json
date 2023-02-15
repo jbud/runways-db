@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Rukum_Salle_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302654",
-        "code": "NP",
-        "name": "Nepal",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nepal",
-        "keywords": "नेपाल विमानस्थलको"
-    },
-    "region": {
-        "id": "430334",
-        "code": "NP-P6",
-        "local_code": "P6",
-        "name": "Karnali Province",
-        "continent": "AS",
-        "iso_country": "NP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Karnali_Province",
-        "keywords": ""
-    }
+    "keywords": ""
 }

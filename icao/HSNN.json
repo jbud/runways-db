@@ -40,33 +40,5 @@
             "he_heading_degT": "221.4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "57385",
-            "airport_ref": "3244",
-            "airport_ident": "HSNN",
-            "type": "TWR",
-            "description": "TWR/APP",
-            "frequency_mhz": "118.1"
-        }
-    ],
-    "country": {
-        "id": "302597",
-        "code": "SD",
-        "name": "Sudan",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sudan",
-        "keywords": "مطارات السودان"
-    },
-    "region": {
-        "id": "305394",
-        "code": "SD-11",
-        "local_code": "11",
-        "name": "South Darfur State",
-        "continent": "AF",
-        "iso_country": "SD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Darfur",
-        "keywords": "Airports in South Darfur State"
-    }
+    ]
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302640",
-        "code": "KG",
-        "name": "Kyrgyzstan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kyrgyzstan",
-        "keywords": ""
-    },
-    "region": {
-        "id": "304343",
-        "code": "KG-B",
-        "local_code": "B",
-        "name": "Batken Region",
-        "continent": "AS",
-        "iso_country": "KG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Batken_Region",
-        "keywords": "Airports in Batken Region"
-    }
+    "keywords": ""
 }

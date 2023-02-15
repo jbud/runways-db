@@ -62,23 +62,5 @@
             "he_heading_degT": "350.4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302706",
-        "code": "MK",
-        "name": "North Macedonia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Macedonia",
-        "keywords": "Macedonian airports"
-    },
-    "region": {
-        "id": "317096",
-        "code": "MK-005",
-        "local_code": "005",
-        "name": "Pelagonia Statistical Region",
-        "continent": "EU",
-        "iso_country": "MK",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pelagonia_Statistical_Region",
-        "keywords": "Airports in Pelagonia Statistical Region"
-    }
+    ]
 }

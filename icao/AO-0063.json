@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Chinjenje",
-    "country": {
-        "id": "302556",
-        "code": "AO",
-        "name": "Angola",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Angola",
-        "keywords": "Angolan airports"
-    },
-    "region": {
-        "id": "302920",
-        "code": "AO-HUA",
-        "local_code": "HUA",
-        "name": "Huambo Province",
-        "continent": "AF",
-        "iso_country": "AO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Huambo_ Province",
-        "keywords": "Airports in Huambo Province"
-    }
+    "keywords": "Chinjenje"
 }

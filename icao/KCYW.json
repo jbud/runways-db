@@ -40,41 +40,5 @@
             "he_heading_degT": "1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "67802",
-            "airport_ref": "19581",
-            "airport_ident": "KCYW",
-            "type": "A/D",
-            "description": "KANSAS CITY CNTR",
-            "frequency_mhz": "127.35"
-        },
-        {
-            "id": "67803",
-            "airport_ref": "19581",
-            "airport_ident": "KCYW",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306092",
-        "code": "US-KS",
-        "local_code": "KS",
-        "name": "Kansas",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
-        "keywords": "Airports in Kansas"
-    }
+    ]
 }

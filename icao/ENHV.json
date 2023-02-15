@@ -40,57 +40,5 @@
             "he_heading_degT": "260",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75235",
-            "airport_ref": "29261",
-            "airport_ident": "ENHV",
-            "type": "AFIS",
-            "description": "",
-            "frequency_mhz": "119.8"
-        }
-    ],
-    "country": {
-        "id": "302709",
-        "code": "NO",
-        "name": "Norway",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
-        "keywords": "Flyplasser i Norge"
-    },
-    "region": {
-        "id": "349858",
-        "code": "NO-54",
-        "local_code": "54",
-        "name": "Troms og Finnmark",
-        "continent": "EU",
-        "iso_country": "NO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Troms_og_Finnmark",
-        "keywords": "Airports in Troms og Finnmark"
-    },
-    "navaids": [
-        {
-            "id": "88893",
-            "filename": "Helnes_NDB_NO",
-            "ident": "HLN",
-            "name": "Helnes",
-            "type": "NDB",
-            "frequency_khz": "309",
-            "latitude_deg": "71.00740051269531",
-            "longitude_deg": "25.995899200439453",
-            "elevation_ft": "",
-            "iso_country": "NO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "10.478",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "ENHV"
-        }
     ]
 }

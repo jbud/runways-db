@@ -62,33 +62,5 @@
             "he_heading_degT": "215.1",
             "he_displaced_threshold_ft": "1307"
         }
-    ],
-    "freqs": [
-        {
-            "id": "55607",
-            "airport_ref": "26871",
-            "airport_ident": "WMKF",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "126.5"
-        }
-    ],
-    "country": {
-        "id": "302653",
-        "code": "MY",
-        "name": "Malaysia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Malaysia",
-        "keywords": "Lapangan Terbang Malaysia"
-    },
-    "region": {
-        "id": "304836",
-        "code": "MY-14",
-        "local_code": "14",
-        "name": "Kuala Lumpur (Federal Territory)",
-        "continent": "AS",
-        "iso_country": "MY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kuala_Lumpur",
-        "keywords": "Airports in Kuala Lumpur"
-    }
+    ]
 }

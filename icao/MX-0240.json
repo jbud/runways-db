@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "JLS, JLS",
-    "country": {
-        "id": "302747",
-        "code": "MX",
-        "name": "Mexico",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
-        "keywords": "Aeropuertos de México, Mexican airports"
-    },
-    "region": {
-        "id": "304797",
-        "code": "MX-COL",
-        "local_code": "COL",
-        "name": "Colima",
-        "continent": "NA",
-        "iso_country": "MX",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Colima",
-        "keywords": "Airports in Colima"
-    }
+    "keywords": "JLS, JLS"
 }

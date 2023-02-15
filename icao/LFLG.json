@@ -40,49 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75324",
-            "airport_ref": "28927",
-            "airport_ident": "LFLG",
-            "type": "ATIS",
-            "description": "",
-            "frequency_mhz": "125.225"
-        },
-        {
-            "id": "75326",
-            "airport_ref": "28927",
-            "airport_ident": "LFLG",
-            "type": "GND",
-            "description": "",
-            "frequency_mhz": "121.65"
-        },
-        {
-            "id": "75325",
-            "airport_ref": "28927",
-            "airport_ident": "LFLG",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "121"
-        }
-    ],
-    "country": {
-        "id": "302687",
-        "code": "FR",
-        "name": "France",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
-        "keywords": "Aéroports de France"
-    },
-    "region": {
-        "id": "306351",
-        "code": "FR-ARA",
-        "local_code": "ARA",
-        "name": "Auvergne-Rhône-Alpes",
-        "continent": "EU",
-        "iso_country": "FR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes",
-        "keywords": "Airports in Auvergne-Rhône-Alpes"
-    }
+    ]
 }

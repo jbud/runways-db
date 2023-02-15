@@ -40,57 +40,5 @@
             "he_heading_degT": "221",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "51599",
-            "airport_ref": "4814",
-            "airport_ident": "MRQP",
-            "type": "RDO",
-            "description": "COCO RDO",
-            "frequency_mhz": "126.8"
-        }
-    ],
-    "country": {
-        "id": "302731",
-        "code": "CR",
-        "name": "Costa Rica",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Costa_Rica",
-        "keywords": "Aeropuertos de Costa Rica"
-    },
-    "region": {
-        "id": "303496",
-        "code": "CR-P",
-        "local_code": "P",
-        "name": "Puntarenas Province",
-        "continent": "NA",
-        "iso_country": "CR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Puntarenas_Province",
-        "keywords": "Airports in Puntarenas"
-    },
-    "navaids": [
-        {
-            "id": "92277",
-            "filename": "Parrita_NDB_CR",
-            "ident": "PAR",
-            "name": "Parrita",
-            "type": "NDB",
-            "frequency_khz": "395",
-            "latitude_deg": "9.517499923706055",
-            "longitude_deg": "-84.31690216064453",
-            "elevation_ft": "",
-            "iso_country": "CR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.04",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "MRQP"
-        }
     ]
 }

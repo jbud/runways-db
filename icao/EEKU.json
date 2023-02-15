@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://www.eepu.ee/index.php?sitesig=PILEN&page=PILEN_013_Kihnu_Airfield&subpage=PILEN_001_General",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kihnu_Airfield",
-    "keywords": "Kihnu Island",
-    "country": {
-        "id": "302683",
-        "code": "EE",
-        "name": "Estonia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Estonia",
-        "keywords": "Estonian airports"
-    },
-    "region": {
-        "id": "303683",
-        "code": "EE-67",
-        "local_code": "67",
-        "name": "Pärnu County",
-        "continent": "EU",
-        "iso_country": "EE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/P%C3%A4rnu_County",
-        "keywords": "Airports in Pärnu County"
-    }
+    "keywords": "Kihnu Island"
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "309712",
-            "airport_ref": "309711",
-            "airport_ident": "lrpv",
-            "type": "lrpv",
-            "description": "Strejnic dispatch",
-            "frequency_mhz": "118.4"
-        }
-    ],
-    "country": {
-        "id": "302712",
-        "code": "RO",
-        "name": "Romania",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Romania",
-        "keywords": "Aeroporturi din România"
-    },
-    "region": {
-        "id": "305249",
-        "code": "RO-PH",
-        "local_code": "PH",
-        "name": "Prahova County",
-        "continent": "EU",
-        "iso_country": "RO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Prahova_County",
-        "keywords": "Southern Romania (Wallachia), Wallachian"
-    }
+    ]
 }

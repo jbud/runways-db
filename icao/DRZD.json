@@ -40,47 +40,5 @@
             "he_heading_degT": "221.4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302592",
-        "code": "NE",
-        "name": "Niger",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Niger",
-        "keywords": "Nigerien airports"
-    },
-    "region": {
-        "id": "304866",
-        "code": "NE-1",
-        "local_code": "1",
-        "name": "Agadez Region",
-        "continent": "AF",
-        "iso_country": "NE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Agadez_Region",
-        "keywords": "Airports in Agadez Region"
-    },
-    "navaids": [
-        {
-            "id": "87385",
-            "filename": "Dirkou_VOR_NE",
-            "ident": "DIR",
-            "name": "Dirkou",
-            "type": "VOR",
-            "frequency_khz": "113900",
-            "latitude_deg": "18.98150062561035",
-            "longitude_deg": "12.880499839782715",
-            "elevation_ft": "1289",
-            "iso_country": "NE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.212",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "DRZD"
-        }
     ]
 }

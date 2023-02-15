@@ -40,33 +40,5 @@
             "he_heading_degT": "250.7",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "51961",
-            "airport_ref": "2297",
-            "airport_ident": "EEEI",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "120.9"
-        }
-    ],
-    "country": {
-        "id": "302683",
-        "code": "EE",
-        "name": "Estonia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Estonia",
-        "keywords": "Estonian airports"
-    },
-    "region": {
-        "id": "303675",
-        "code": "EE-37",
-        "local_code": "37",
-        "name": "Harju County",
-        "continent": "EU",
-        "iso_country": "EE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Harju_County",
-        "keywords": "Airports in Harju County"
-    }
+    ]
 }

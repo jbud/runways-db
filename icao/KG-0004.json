@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302640",
-        "code": "KG",
-        "name": "Kyrgyzstan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kyrgyzstan",
-        "keywords": ""
-    },
-    "region": {
-        "id": "304349",
-        "code": "KG-T",
-        "local_code": "T",
-        "name": "Talas Region",
-        "continent": "AS",
-        "iso_country": "KG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Talas_Region",
-        "keywords": "Airports in Talas Region"
-    }
+    ]
 }

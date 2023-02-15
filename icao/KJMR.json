@@ -62,57 +62,5 @@
             "he_heading_degT": "352",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "59020",
-            "airport_ref": "20217",
-            "airport_ident": "KJMR",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "32.7"
-        },
-        {
-            "id": "59021",
-            "airport_ref": "20217",
-            "airport_ident": "KJMR",
-            "type": "CNTR",
-            "description": "MINNEAPOLIS CNTR",
-            "frequency_mhz": "121.05"
-        },
-        {
-            "id": "59022",
-            "airport_ref": "20217",
-            "airport_ident": "KJMR",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        },
-        {
-            "id": "59023",
-            "airport_ref": "20217",
-            "airport_ident": "KJMR",
-            "type": "RDO",
-            "description": "PRINCETON RDO",
-            "frequency_mhz": "122.4"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306099",
-        "code": "US-MN",
-        "local_code": "MN",
-        "name": "Minnesota",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
-        "keywords": "Airports in Minnesota"
-    }
+    ]
 }

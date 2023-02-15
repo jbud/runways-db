@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "316808",
-            "airport_ref": "316807",
-            "airport_ident": "CZ-0095",
-            "type": "Info",
-            "description": "Doudleby Radio",
-            "frequency_mhz": "125.825"
-        }
-    ],
-    "country": {
-        "id": "302680",
-        "code": "CZ",
-        "name": "Czech Republic",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
-        "keywords": "Letiště České republiky, Czechia"
-    },
-    "region": {
-        "id": "303532",
-        "code": "CZ-JC",
-        "local_code": "JC",
-        "name": "South Bohemian Region",
-        "continent": "EU",
-        "iso_country": "CZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Bohemian_Region",
-        "keywords": "Jihočeský kraj, South Bohemia"
-    }
+    ]
 }

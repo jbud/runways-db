@@ -40,23 +40,5 @@
             "he_heading_degT": "315.3",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302713",
-        "code": "RS",
-        "name": "Serbia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Serbia",
-        "keywords": "Serb"
-    },
-    "region": {
-        "id": "306594",
-        "code": "RS-04",
-        "local_code": "04",
-        "name": "South Banat District",
-        "continent": "EU",
-        "iso_country": "RS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Banat_District",
-        "keywords": "Airports in South Banat District"
-    }
+    ]
 }

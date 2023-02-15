@@ -40,57 +40,5 @@
             "he_heading_degT": "337",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "54009",
-            "airport_ref": "5199",
-            "airport_ident": "OITK",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "122.25"
-        }
-    ],
-    "country": {
-        "id": "302637",
-        "code": "IR",
-        "name": "Iran",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
-        "keywords": "فرودگاه های ایران"
-    },
-    "region": {
-        "id": "304220",
-        "code": "IR-04",
-        "local_code": "04",
-        "name": "West Azerbaijan Province",
-        "continent": "AS",
-        "iso_country": "IR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Azerbaijan_province",
-        "keywords": "Airports in West Azerbaijan Province"
-    },
-    "navaids": [
-        {
-            "id": "89780",
-            "filename": "Khoy_NDB_IR",
-            "ident": "KHY",
-            "name": "Khoy",
-            "type": "NDB",
-            "frequency_khz": "288",
-            "latitude_deg": "38.42919921875",
-            "longitude_deg": "44.969200134277344",
-            "elevation_ft": "",
-            "iso_country": "IR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.529",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "OITK"
-        }
     ]
 }

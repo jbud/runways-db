@@ -40,33 +40,5 @@
             "he_heading_degT": "242",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "56285",
-            "airport_ref": "4442",
-            "airport_ident": "LPBR",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "122.005"
-        }
-    ],
-    "country": {
-        "id": "302711",
-        "code": "PT",
-        "name": "Portugal",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Portugal",
-        "keywords": "Aeroportos de Portugal"
-    },
-    "region": {
-        "id": "305169",
-        "code": "PT-03",
-        "local_code": "03",
-        "name": "Braga District",
-        "continent": "EU",
-        "iso_country": "PT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Braga_District",
-        "keywords": "Airports in Braga District"
-    }
+    ]
 }

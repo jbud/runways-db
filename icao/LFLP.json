@@ -40,49 +40,5 @@
             "he_heading_degT": "219",
             "he_displaced_threshold_ft": "755"
         }
-    ],
-    "freqs": [
-        {
-            "id": "52448",
-            "airport_ref": "4141",
-            "airport_ident": "LFLP",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "118.2"
-        },
-        {
-            "id": "52449",
-            "airport_ref": "4141",
-            "airport_ident": "LFLP",
-            "type": "APP",
-            "description": "CHAMBERY APP",
-            "frequency_mhz": "123.7"
-        },
-        {
-            "id": "52450",
-            "airport_ref": "4141",
-            "airport_ident": "LFLP",
-            "type": "TWR",
-            "description": "ANNECY TWR",
-            "frequency_mhz": "118.2"
-        }
-    ],
-    "country": {
-        "id": "302687",
-        "code": "FR",
-        "name": "France",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
-        "keywords": "Aéroports de France"
-    },
-    "region": {
-        "id": "306351",
-        "code": "FR-ARA",
-        "local_code": "ARA",
-        "name": "Auvergne-Rhône-Alpes",
-        "continent": "EU",
-        "iso_country": "FR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes",
-        "keywords": "Airports in Auvergne-Rhône-Alpes"
-    }
+    ]
 }

@@ -62,49 +62,5 @@
             "he_heading_degT": "360",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "69752",
-            "airport_ref": "19624",
-            "airport_ident": "KDEW",
-            "type": "A/D",
-            "description": "SPOKANE APP/DEP",
-            "frequency_mhz": "123.75"
-        },
-        {
-            "id": "69753",
-            "airport_ref": "19624",
-            "airport_ident": "KDEW",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "135.175"
-        },
-        {
-            "id": "69754",
-            "airport_ref": "19624",
-            "airport_ident": "KDEW",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306124",
-        "code": "US-WA",
-        "local_code": "WA",
-        "name": "Washington",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
-        "keywords": "Airports in Washington"
-    }
+    ]
 }

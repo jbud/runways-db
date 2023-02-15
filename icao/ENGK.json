@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75332",
-            "airport_ref": "29927",
-            "airport_ident": "ENGK",
-            "type": "UNIC",
-            "description": "Gullknapp Traffic",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302709",
-        "code": "NO",
-        "name": "Norway",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
-        "keywords": "Flyplasser i Norge"
-    },
-    "region": {
-        "id": "349854",
-        "code": "NO-42",
-        "local_code": "42",
-        "name": "Agder",
-        "continent": "EU",
-        "iso_country": "NO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Agder",
-        "keywords": "Airports in Agder"
-    }
+    ]
 }

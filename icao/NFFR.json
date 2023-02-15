@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302766",
-        "code": "FJ",
-        "name": "Fiji",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Fiji",
-        "keywords": "Fijan airports"
-    },
-    "region": {
-        "id": "303808",
-        "code": "FJ-N",
-        "local_code": "N",
-        "name": "Northern Division",
-        "continent": "OC",
-        "iso_country": "FJ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Division,_Fiji",
-        "keywords": "Airports in Northern"
-    }
+    "keywords": ""
 }

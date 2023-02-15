@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302705",
-        "code": "ME",
-        "name": "Montenegro",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Montenegro",
-        "keywords": "Montenegran airports"
-    },
-    "region": {
-        "id": "306580",
-        "code": "ME-12",
-        "local_code": "12",
-        "name": "Nikšić Municipality",
-        "continent": "EU",
-        "iso_country": "ME",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nik%C5%A1i%C4%87",
-        "keywords": "Airports in Nikšić Municipality"
-    }
+    ]
 }

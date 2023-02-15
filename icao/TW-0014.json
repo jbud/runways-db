@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "https://802.mnd.gov.tw/ListP07002.ShowItemListState.do",
     "wikipedia_link": "",
-    "keywords": "Kaohsiung Armed Forces General Hospital; 高雄武裝總醫院直升機場",
-    "country": {
-        "id": "302668",
-        "code": "TW",
-        "name": "Taiwan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
-        "keywords": "Taiwanese airports"
-    },
-    "region": {
-        "id": "306750",
-        "code": "TW-KHH",
-        "local_code": "KHH",
-        "name": "Kaohsiung (municipality)",
-        "continent": "AS",
-        "iso_country": "TW",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kaohsiung",
-        "keywords": "Airports in Kaohsiung (municipality)"
-    }
+    "keywords": "Kaohsiung Armed Forces General Hospital; 高雄武裝總醫院直升機場"
 }

@@ -40,57 +40,5 @@
             "he_heading_degT": "280.6",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "55886",
-            "airport_ref": "26594",
-            "airport_ident": "VNCG",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "122.5"
-        }
-    ],
-    "country": {
-        "id": "302654",
-        "code": "NP",
-        "name": "Nepal",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nepal",
-        "keywords": "नेपाल विमानस्थलको"
-    },
-    "region": {
-        "id": "430330",
-        "code": "NP-P1",
-        "local_code": "P1",
-        "name": "Province No. 1",
-        "continent": "AS",
-        "iso_country": "NP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Province_No._1",
-        "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "89538",
-            "filename": "Chandragadhi_NDB_NP",
-            "ident": "JPA",
-            "name": "Chandragadhi",
-            "type": "NDB",
-            "frequency_khz": "397",
-            "latitude_deg": "26.56999969482422",
-            "longitude_deg": "88.07749938964844",
-            "elevation_ft": "",
-            "iso_country": "NP",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.09",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "VNCG"
-        }
     ]
 }

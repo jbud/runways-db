@@ -40,57 +40,5 @@
             "he_heading_degT": "249.6",
             "he_displaced_threshold_ft": "360"
         }
-    ],
-    "freqs": [
-        {
-            "id": "61981",
-            "airport_ref": "20619",
-            "airport_ident": "KCKZ",
-            "type": "A/D",
-            "description": "PHILADELPHIA APP/DEP",
-            "frequency_mhz": "123.8"
-        },
-        {
-            "id": "61982",
-            "airport_ref": "20619",
-            "airport_ident": "KCKZ",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "108.85"
-        },
-        {
-            "id": "61983",
-            "airport_ref": "20619",
-            "airport_ident": "KCKZ",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "118.55"
-        },
-        {
-            "id": "61984",
-            "airport_ref": "20619",
-            "airport_ident": "KCKZ",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306114",
-        "code": "US-PA",
-        "local_code": "PA",
-        "name": "Pennsylvania",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
-        "keywords": "Airports in Pennsylvania"
-    }
+    ]
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "228",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "332197",
-            "airport_ref": "298716",
-            "airport_ident": "LICB",
-            "type": "ILS",
-            "description": "ILS pista 09",
-            "frequency_mhz": "108.9"
-        }
-    ],
-    "country": {
-        "id": "302697",
-        "code": "IT",
-        "name": "Italy",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
-        "keywords": "Aeroporti d'Italia"
-    },
-    "region": {
-        "id": "306373",
-        "code": "IT-82",
-        "local_code": "82",
-        "name": "Sicily",
-        "continent": "EU",
-        "iso_country": "IT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sicily",
-        "keywords": "SC"
-    }
+    ]
 }

@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302711",
-        "code": "PT",
-        "name": "Portugal",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Portugal",
-        "keywords": "Aeroportos de Portugal"
-    },
-    "region": {
-        "id": "305169",
-        "code": "PT-03",
-        "local_code": "03",
-        "name": "Braga District",
-        "continent": "EU",
-        "iso_country": "PT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Braga_District",
-        "keywords": "Airports in Braga District"
-    }
+    ]
 }

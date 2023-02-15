@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Taimali",
-    "country": {
-        "id": "302668",
-        "code": "TW",
-        "name": "Taiwan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
-        "keywords": "Taiwanese airports"
-    },
-    "region": {
-        "id": "305950",
-        "code": "TW-TTT",
-        "local_code": "TTT",
-        "name": "Taitung County",
-        "continent": "AS",
-        "iso_country": "TW",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Taitung_County",
-        "keywords": "Airports in Taitung County"
-    }
+    "keywords": "Taimali"
 }

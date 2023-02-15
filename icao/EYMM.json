@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302700",
-        "code": "LT",
-        "name": "Lithuania",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lithuania",
-        "keywords": "Lithuanian airports"
-    },
-    "region": {
-        "id": "304497",
-        "code": "LT-MR",
-        "local_code": "MR",
-        "name": "Marijampolė County",
-        "continent": "EU",
-        "iso_country": "LT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Marijampol%C4%97_County",
-        "keywords": "Airports in Marijampolė County"
-    }
+    ]
 }

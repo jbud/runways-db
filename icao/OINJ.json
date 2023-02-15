@@ -40,33 +40,5 @@
             "he_heading_degT": "258.6",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "54036",
-            "airport_ref": "5189",
-            "airport_ident": "OINJ",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "121.9"
-        }
-    ],
-    "country": {
-        "id": "302637",
-        "code": "IR",
-        "name": "Iran",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
-        "keywords": "فرودگاه های ایران"
-    },
-    "region": {
-        "id": "304238",
-        "code": "IR-02",
-        "local_code": "02",
-        "name": "Mazandaran Province",
-        "continent": "AS",
-        "iso_country": "IR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mazandaran_Province",
-        "keywords": "Airports in Mazandaran Province"
-    }
+    ]
 }

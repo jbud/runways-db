@@ -40,23 +40,5 @@
             "he_heading_degT": "261",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302669",
-        "code": "UZ",
-        "name": "Uzbekistan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Uzbekistan",
-        "keywords": "Uzbek"
-    },
-    "region": {
-        "id": "306161",
-        "code": "UZ-TO",
-        "local_code": "TO",
-        "name": "Tashkent Region",
-        "continent": "AS",
-        "iso_country": "UZ",
-        "wikipedia_link": "https://en.m.wikipedia.org/wiki/Tashkent_Region",
-        "keywords": "Airports in Tashkent Region"
-    }
+    ]
 }

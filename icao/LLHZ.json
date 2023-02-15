@@ -40,41 +40,5 @@
             "he_heading_degT": "290",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75401",
-            "airport_ref": "29947",
-            "airport_ident": "LLHZ",
-            "type": "Tower Primary",
-            "description": "Herzlia",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "75402",
-            "airport_ref": "29947",
-            "airport_ident": "LLHZ",
-            "type": "Tower Secondary",
-            "description": "Herzlia",
-            "frequency_mhz": "129.4"
-        }
-    ],
-    "country": {
-        "id": "302633",
-        "code": "IL",
-        "name": "Israel",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Israel",
-        "keywords": "שדות התעופה של ישראל"
-    },
-    "region": {
-        "id": "304160",
-        "code": "IL-TA",
-        "local_code": "TA",
-        "name": "Tel Aviv District",
-        "continent": "AS",
-        "iso_country": "IL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tel_Aviv_District",
-        "keywords": "Mehoz Tel-Aviv"
-    }
+    ]
 }

@@ -40,41 +40,5 @@
             "he_heading_degT": "222.8",
             "he_displaced_threshold_ft": "65"
         }
-    ],
-    "freqs": [
-        {
-            "id": "310746",
-            "airport_ref": "27248",
-            "airport_ident": "EFFO",
-            "type": "ACC",
-            "description": "Tampere radar",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "310745",
-            "airport_ref": "27248",
-            "airport_ident": "EFFO",
-            "type": "RDO",
-            "description": "Forssa traffic",
-            "frequency_mhz": "123.15"
-        }
-    ],
-    "country": {
-        "id": "302685",
-        "code": "FI",
-        "name": "Finland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
-        "keywords": "Lentokentät, Suomen"
-    },
-    "region": {
-        "id": "336507",
-        "code": "FI-06",
-        "local_code": "06",
-        "name": "Kanta-Häme Region",
-        "continent": "EU",
-        "iso_country": "FI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kanta-H%C3%A4me",
-        "keywords": "Airports in Kanta-Häme Region"
-    }
+    ]
 }

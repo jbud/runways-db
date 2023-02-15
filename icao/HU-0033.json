@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "326770",
-            "airport_ref": "318134",
-            "airport_ident": "HU-0033",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "133.425"
-        }
-    ],
-    "country": {
-        "id": "302693",
-        "code": "HU",
-        "name": "Hungary",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
-        "keywords": "Repülőterek Magyarország"
-    },
-    "region": {
-        "id": "304094",
-        "code": "HU-VE",
-        "local_code": "VE",
-        "name": "Veszprém County",
-        "continent": "EU",
-        "iso_country": "HU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Veszprém_County",
-        "keywords": "Airports in Veszprém County"
-    }
+    ]
 }

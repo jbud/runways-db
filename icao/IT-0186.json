@@ -16,23 +16,5 @@
     "local_code": "RMNTT",
     "home_link": "http://www.alinettuno.it",
     "wikipedia_link": "",
-    "keywords": "RM07",
-    "country": {
-        "id": "302697",
-        "code": "IT",
-        "name": "Italy",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
-        "keywords": "Aeroporti d'Italia"
-    },
-    "region": {
-        "id": "306365",
-        "code": "IT-62",
-        "local_code": "62",
-        "name": "Lazio",
-        "continent": "EU",
-        "iso_country": "IT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lazio",
-        "keywords": "LZ"
-    }
+    "keywords": "RM07"
 }

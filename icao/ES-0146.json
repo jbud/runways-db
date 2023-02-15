@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://escueladevuelo.com",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302684",
-        "code": "ES",
-        "name": "Spain",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
-        "keywords": "Aeropuertos de España"
-    },
-    "region": {
-        "id": "303759",
-        "code": "ES-RI",
-        "local_code": "RI",
-        "name": "La Rioja",
-        "continent": "EU",
-        "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/La_Rioja",
-        "keywords": "Airports in La Rioja"
-    }
+    "keywords": ""
 }

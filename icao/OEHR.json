@@ -40,47 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302660",
-        "code": "SA",
-        "name": "Saudi Arabia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
-        "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
-    },
-    "region": {
-        "id": "305363",
-        "code": "SA-04",
-        "local_code": "04",
-        "name": "Ash Sharqiyah Region",
-        "continent": "AS",
-        "iso_country": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ash_Sharqiyah_Region",
-        "keywords": "Airports in Ash Sharqiyah Region"
-    },
-    "navaids": [
-        {
-            "id": "88722",
-            "filename": "Harad_NDB_SA",
-            "ident": "HAR",
-            "name": "Harad",
-            "type": "NDB",
-            "frequency_khz": "322",
-            "latitude_deg": "24.13330078125",
-            "longitude_deg": "49.06669998168945",
-            "elevation_ft": "110",
-            "iso_country": "SA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.043",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "OEHR"
-        }
     ]
 }

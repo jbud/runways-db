@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302621",
-        "code": "AZ",
-        "name": "Azerbaijan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Azerbaijan",
-        "keywords": "Azerbaijani airports"
-    },
-    "region": {
-        "id": "303024",
-        "code": "AZ-SA",
-        "local_code": "SA",
-        "name": "Shaki District",
-        "continent": "AS",
-        "iso_country": "AZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Shaki_District",
-        "keywords": "Airports in Shaki District"
-    }
+    "keywords": ""
 }

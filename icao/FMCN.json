@@ -40,47 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302580",
-        "code": "KM",
-        "name": "Comoros",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Comoros",
-        "keywords": "جزر القمر"
-    },
-    "region": {
-        "id": "304382",
-        "code": "KM-G",
-        "local_code": "G",
-        "name": "Grande Comore (Ngazidja)",
-        "continent": "AF",
-        "iso_country": "KM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Grande_Comore",
-        "keywords": "Airports in Grande Comore (Ngazidja)"
-    },
-    "navaids": [
-        {
-            "id": "88211",
-            "filename": "Iconi_NDB_KM",
-            "ident": "FXM",
-            "name": "Iconi",
-            "type": "NDB",
-            "frequency_khz": "387",
-            "latitude_deg": "-11.688599586486816",
-            "longitude_deg": "43.246498107910156",
-            "elevation_ft": "",
-            "iso_country": "KM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.251",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FMCN"
-        }
     ]
 }

@@ -40,57 +40,5 @@
             "he_heading_degT": "238",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "53807",
-            "airport_ref": "26459",
-            "airport_ident": "VARP",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "124.75"
-        }
-    ],
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304169",
-        "code": "IN-CT",
-        "local_code": "CT",
-        "name": "Chhattisgarh",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chhattisgarh",
-        "keywords": "Airports in Chhattisgarh"
-    },
-    "navaids": [
-        {
-            "id": "93236",
-            "filename": "Raipur_VOR-DME_IN",
-            "ident": "RRP",
-            "name": "Raipur",
-            "type": "VOR-DME",
-            "frequency_khz": "116100",
-            "latitude_deg": "21.180299758911133",
-            "longitude_deg": "81.74559783935547",
-            "elevation_ft": "1042",
-            "iso_country": "IN",
-            "dme_frequency_khz": "116100",
-            "dme_channel": "108X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.011",
-            "magnetic_variation_deg": "-0.399",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VARP"
-        }
     ]
 }

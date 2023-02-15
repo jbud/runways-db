@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Thbeng_Meanchey_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302641",
-        "code": "KH",
-        "name": "Cambodia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cambodia",
-        "keywords": "Cambodian airports"
-    },
-    "region": {
-        "id": "304356",
-        "code": "KH-13",
-        "local_code": "13",
-        "name": "Preah Vihear province",
-        "continent": "AS",
-        "iso_country": "KH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Preah_Vihear_province",
-        "keywords": "Airports in Preah Vihear, ព្រះវិហារ"
-    }
+    "keywords": ""
 }

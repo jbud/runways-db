@@ -40,41 +40,5 @@
             "he_heading_degT": "272",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "352518",
-            "airport_ref": "28121",
-            "airport_ident": "EHHO",
-            "type": "FIS",
-            "description": "Dutch MIL Info",
-            "frequency_mhz": "132.35"
-        },
-        {
-            "id": "75288",
-            "airport_ref": "28121",
-            "airport_ident": "EHHO",
-            "type": "INFO",
-            "description": "Hoogeveen Radio",
-            "frequency_mhz": "127.355"
-        }
-    ],
-    "country": {
-        "id": "302708",
-        "code": "NL",
-        "name": "Netherlands",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
-        "keywords": "Holland, Luchthavens van Nederland, Dutch airports"
-    },
-    "region": {
-        "id": "304932",
-        "code": "NL-DR",
-        "local_code": "DR",
-        "name": "Drente",
-        "continent": "EU",
-        "iso_country": "NL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Drente",
-        "keywords": "Airports in Drente"
-    }
+    ]
 }

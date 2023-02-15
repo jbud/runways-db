@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302783",
-        "code": "TO",
-        "name": "Tonga",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tonga",
-        "keywords": "Airports in Tonga"
-    },
-    "region": {
-        "id": "306712",
-        "code": "TO-01",
-        "local_code": "01",
-        "name": "'Eua",
-        "continent": "OC",
-        "iso_country": "TO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/%CA%BBEua",
-        "keywords": "Airports in 'Eua"
-    }
+    ]
 }

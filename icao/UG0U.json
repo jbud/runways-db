@@ -40,23 +40,5 @@
             "he_heading_degT": "331.2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302630",
-        "code": "GE",
-        "name": "Georgia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia_(country)",
-        "keywords": "Georgian airports"
-    },
-    "region": {
-        "id": "306412",
-        "code": "GE-AB",
-        "local_code": "AB",
-        "name": "Autonomous Republic of Abkhazia",
-        "continent": "AS",
-        "iso_country": "GE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Abkhazia",
-        "keywords": "აფხაზეთი"
-    }
+    ]
 }

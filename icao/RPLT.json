@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302656",
-        "code": "PH",
-        "name": "Philippines",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
-        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
-    },
-    "region": {
-        "id": "305069",
-        "code": "PH-BTN",
-        "local_code": "BTN",
-        "name": "Batanes Province",
-        "continent": "AS",
-        "iso_country": "PH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Batanes_Province",
-        "keywords": "Airports in Batanes Province"
-    }
+    ]
 }

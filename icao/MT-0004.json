@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Krendi",
-    "keywords": "",
-    "country": {
-        "id": "302707",
-        "code": "MT",
-        "name": "Malta",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Malta",
-        "keywords": ""
-    },
-    "region": {
-        "id": "306841",
-        "code": "MT-44",
-        "local_code": "44",
-        "name": "Qrendi",
-        "continent": "EU",
-        "iso_country": "MT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Qrendi",
-        "keywords": "Airports in Qrendi"
-    }
+    "keywords": ""
 }

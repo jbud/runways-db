@@ -40,57 +40,5 @@
             "he_heading_degT": "294.9",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "48342",
-            "airport_ref": "2938",
-            "airport_ident": "FNGI",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "118.7"
-        }
-    ],
-    "country": {
-        "id": "302556",
-        "code": "AO",
-        "name": "Angola",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Angola",
-        "keywords": "Angolan airports"
-    },
-    "region": {
-        "id": "302917",
-        "code": "AO-CNN",
-        "local_code": "CNN",
-        "name": "Cunene Province",
-        "continent": "AF",
-        "iso_country": "AO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cunene_ Province",
-        "keywords": "Airports in Cunene Province"
-    },
-    "navaids": [
-        {
-            "id": "92352",
-            "filename": "Ngiva_NDB_AO",
-            "ident": "PE",
-            "name": "Ngiva",
-            "type": "NDB",
-            "frequency_khz": "327",
-            "latitude_deg": "-17.066699981689453",
-            "longitude_deg": "15.75",
-            "elevation_ft": "",
-            "iso_country": "AO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-9.152",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FNGI"
-        }
     ]
 }

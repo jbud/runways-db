@@ -40,57 +40,5 @@
             "he_heading_degT": "343.3",
             "he_displaced_threshold_ft": "148"
         }
-    ],
-    "freqs": [
-        {
-            "id": "55800",
-            "airport_ref": "2597",
-            "airport_ident": "ENSS",
-            "type": "AFIS",
-            "description": "VARDO INFO",
-            "frequency_mhz": "122.15"
-        }
-    ],
-    "country": {
-        "id": "302709",
-        "code": "NO",
-        "name": "Norway",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
-        "keywords": "Flyplasser i Norge"
-    },
-    "region": {
-        "id": "349858",
-        "code": "NO-54",
-        "local_code": "54",
-        "name": "Troms og Finnmark",
-        "continent": "EU",
-        "iso_country": "NO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Troms_og_Finnmark",
-        "keywords": "Airports in Troms og Finnmark"
-    },
-    "navaids": [
-        {
-            "id": "95267",
-            "filename": "Vardo_VOR-DME_NO",
-            "ident": "VRD",
-            "name": "Vardo",
-            "type": "VOR-DME",
-            "frequency_khz": "114100",
-            "latitude_deg": "70.35759735107422",
-            "longitude_deg": "31.047199249267578",
-            "elevation_ft": "58",
-            "iso_country": "NO",
-            "dme_frequency_khz": "114100",
-            "dme_channel": "088X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "11.001",
-            "magnetic_variation_deg": "13.294",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ENSS"
-        }
     ]
 }

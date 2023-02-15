@@ -40,49 +40,5 @@
             "he_heading_degT": "5.3",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "71191",
-            "airport_ref": "21079",
-            "airport_ident": "KSLG",
-            "type": "A/D",
-            "description": "RAZORBACK APP/DEP",
-            "frequency_mhz": "121"
-        },
-        {
-            "id": "71192",
-            "airport_ref": "21079",
-            "airport_ident": "KSLG",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.375"
-        },
-        {
-            "id": "71193",
-            "airport_ref": "21079",
-            "airport_ident": "KSLG",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306078",
-        "code": "US-AR",
-        "local_code": "AR",
-        "name": "Arkansas",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
-        "keywords": "Airports in Arkansas"
-    }
+    ]
 }

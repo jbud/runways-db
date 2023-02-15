@@ -40,33 +40,5 @@
             "he_heading_degT": "318",
             "he_displaced_threshold_ft": "498"
         }
-    ],
-    "freqs": [
-        {
-            "id": "53404",
-            "airport_ref": "4263",
-            "airport_ident": "LGKM",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.1"
-        }
-    ],
-    "country": {
-        "id": "302691",
-        "code": "GR",
-        "name": "Greece",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
-        "keywords": "αεροδρόμια στην Ελλάδα"
-    },
-    "region": {
-        "id": "353665",
-        "code": "GR-A",
-        "local_code": "A",
-        "name": "Eastern Macedonia and Thrace",
-        "continent": "EU",
-        "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Macedonia_and_Thrace",
-        "keywords": "Airports in Eastern Macedonia and Thrace"
-    }
+    ]
 }

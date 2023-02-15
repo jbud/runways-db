@@ -16,41 +16,5 @@
     "local_code": "",
     "home_link": "https://wetten.overheid.nl/BWBR0029858/2010-11-01#Bijlage",
     "wikipedia_link": "https://nl.wikipedia.org/wiki/Vliehors",
-    "keywords": "Military,Shooting Range, Heliport",
-    "freqs": [
-        {
-            "id": "430395",
-            "airport_ref": "430394",
-            "airport_ident": "NL-0080",
-            "type": "Radio",
-            "description": "Cornfield Radio",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "430396",
-            "airport_ref": "430394",
-            "airport_ident": "NL-0080",
-            "type": "Tower",
-            "description": "",
-            "frequency_mhz": "138.075"
-        }
-    ],
-    "country": {
-        "id": "302708",
-        "code": "NL",
-        "name": "Netherlands",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
-        "keywords": "Holland, Luchthavens van Nederland, Dutch airports"
-    },
-    "region": {
-        "id": "304934",
-        "code": "NL-FR",
-        "local_code": "FR",
-        "name": "Friesland",
-        "continent": "EU",
-        "iso_country": "NL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Friesland",
-        "keywords": "Airports in Friesland"
-    }
+    "keywords": "Military,Shooting Range, Heliport"
 }

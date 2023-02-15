@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302702",
-        "code": "LV",
-        "name": "Latvia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Latvia",
-        "keywords": "Latvian airports"
-    },
-    "region": {
-        "id": "304541",
-        "code": "LV-113",
-        "local_code": "113",
-        "name": "Valmiera Municipality",
-        "continent": "EU",
-        "iso_country": "LV",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Valmiera_Municipality",
-        "keywords": "Airports in Valmiera Municipality"
-    }
+    "keywords": ""
 }

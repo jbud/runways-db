@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302653",
-        "code": "MY",
-        "name": "Malaysia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Malaysia",
-        "keywords": "Lapangan Terbang Malaysia"
-    },
-    "region": {
-        "id": "304835",
-        "code": "MY-13",
-        "local_code": "13",
-        "name": "Sarawak",
-        "continent": "AS",
-        "iso_country": "MY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sarawak",
-        "keywords": "Airports in Sarawak"
-    }
+    ]
 }

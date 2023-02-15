@@ -62,41 +62,5 @@
             "he_heading_degT": "256",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "52741",
-            "airport_ref": "2197",
-            "airport_ident": "EDBJ",
-            "type": "A/G",
-            "description": "INFO",
-            "frequency_mhz": "122.05"
-        },
-        {
-            "id": "52742",
-            "airport_ref": "2197",
-            "airport_ident": "EDBJ",
-            "type": "AFIS",
-            "description": "BERLIN INFO",
-            "frequency_mhz": "125.8"
-        }
-    ],
-    "country": {
-        "id": "302681",
-        "code": "DE",
-        "name": "Germany",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
-        "keywords": "Flughäfen in Deutschland"
-    },
-    "region": {
-        "id": "303562",
-        "code": "DE-TH",
-        "local_code": "TH",
-        "name": "Thuringia",
-        "continent": "EU",
-        "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Thuringia",
-        "keywords": "Thueringen, Freistaat Thüringen"
-    }
+    ]
 }

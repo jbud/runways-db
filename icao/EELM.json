@@ -40,23 +40,5 @@
             "he_heading_degT": "246",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302683",
-        "code": "EE",
-        "name": "Estonia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Estonia",
-        "keywords": "Estonian airports"
-    },
-    "region": {
-        "id": "303686",
-        "code": "EE-7B",
-        "local_code": "7B",
-        "name": "Tartu County",
-        "continent": "EU",
-        "iso_country": "EE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tartu_County",
-        "keywords": "Airports in Tartu County"
-    }
+    ]
 }

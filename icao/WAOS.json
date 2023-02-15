@@ -40,57 +40,5 @@
             "he_heading_degT": "313",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "53751",
-            "airport_ref": "26781",
-            "airport_ident": "WAOS",
-            "type": "A/G",
-            "description": "SAMPIT INFO",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302632",
-        "code": "ID",
-        "name": "Indonesia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
-        "keywords": "Bandara di Indonesia"
-    },
-    "region": {
-        "id": "304112",
-        "code": "ID-KT",
-        "local_code": "KT",
-        "name": "Kalimantan Tengah (Central Kalimantan)",
-        "continent": "AS",
-        "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Kalimantan",
-        "keywords": "Kalimantan Tengah"
-    },
-    "navaids": [
-        {
-            "id": "93858",
-            "filename": "Sampit_NDB_ID",
-            "ident": "SP",
-            "name": "Sampit",
-            "type": "NDB",
-            "frequency_khz": "305",
-            "latitude_deg": "-2.504300117492676",
-            "longitude_deg": "112.97799682617188",
-            "elevation_ft": "50",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.109",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WAOS"
-        }
     ]
 }

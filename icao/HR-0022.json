@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "LDSR",
-    "country": {
-        "id": "302692",
-        "code": "HR",
-        "name": "Croatia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Croatia",
-        "keywords": "Croatian airports"
-    },
-    "region": {
-        "id": "304041",
-        "code": "HR-17",
-        "local_code": "17",
-        "name": "Split-Dalmatia County",
-        "continent": "EU",
-        "iso_country": "HR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Split-Dalmatia_County",
-        "keywords": "Airports in Split-Dalmatia County"
-    }
+    "keywords": "LDSR"
 }

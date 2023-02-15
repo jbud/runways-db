@@ -40,57 +40,5 @@
             "he_heading_degT": "287.1",
             "he_displaced_threshold_ft": "590"
         }
-    ],
-    "freqs": [
-        {
-            "id": "52606",
-            "airport_ref": "4219",
-            "airport_ident": "LFRO",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.4"
-        }
-    ],
-    "country": {
-        "id": "302687",
-        "code": "FR",
-        "name": "France",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
-        "keywords": "Aéroports de France"
-    },
-    "region": {
-        "id": "306348",
-        "code": "FR-BRE",
-        "local_code": "BRE",
-        "name": "Brittany",
-        "continent": "EU",
-        "iso_country": "FR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brittany",
-        "keywords": "Bretagne"
-    },
-    "navaids": [
-        {
-            "id": "90430",
-            "filename": "Lannion_NDB_FR",
-            "ident": "LN",
-            "name": "Lannion",
-            "type": "NDB",
-            "frequency_khz": "345",
-            "latitude_deg": "48.71929931640625",
-            "longitude_deg": "-3.3077800273895264",
-            "elevation_ft": "297",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.018",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "LFRO"
-        }
     ]
 }

@@ -40,41 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "300138",
-            "airport_ref": "300136",
-            "airport_ident": "LSZQ",
-            "type": "AFIS",
-            "description": "",
-            "frequency_mhz": "122.05"
-        },
-        {
-            "id": "302426",
-            "airport_ref": "300136",
-            "airport_ident": "LSZQ",
-            "type": "APP",
-            "description": "Bale Approach",
-            "frequency_mhz": "119.35"
-        }
-    ],
-    "country": {
-        "id": "302679",
-        "code": "CH",
-        "name": "Switzerland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
-        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
-    },
-    "region": {
-        "id": "303362",
-        "code": "CH-JU",
-        "local_code": "JU",
-        "name": "Canton of Jura",
-        "continent": "EU",
-        "iso_country": "CH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Jura",
-        "keywords": "Airports in Canton of Jura"
-    }
+    ]
 }

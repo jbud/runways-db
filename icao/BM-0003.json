@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Darrell%27s_Island,_Bermuda",
-    "keywords": "",
-    "country": {
-        "id": "302727",
-        "code": "BM",
-        "name": "Bermuda",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bermuda",
-        "keywords": ""
-    },
-    "region": {
-        "id": "303183",
-        "code": "BM-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
-        "continent": "NA",
-        "iso_country": "BM",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
-    }
+    "keywords": ""
 }

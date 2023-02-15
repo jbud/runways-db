@@ -40,33 +40,5 @@
             "he_heading_degT": "195",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "56493",
-            "airport_ref": "5724",
-            "airport_ident": "RPUQ",
-            "type": "FSS",
-            "description": "RDO",
-            "frequency_mhz": "120.1"
-        }
-    ],
-    "country": {
-        "id": "302656",
-        "code": "PH",
-        "name": "Philippines",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
-        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
-    },
-    "region": {
-        "id": "305089",
-        "code": "PH-ILS",
-        "local_code": "ILS",
-        "name": "Ilocos Sur Province",
-        "continent": "AS",
-        "iso_country": "PH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ilocos_Sur_Province",
-        "keywords": "Airports in Ilocos Sur Province"
-    }
+    ]
 }

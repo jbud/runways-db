@@ -40,41 +40,5 @@
             "he_heading_degT": "202",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "61992",
-            "airport_ref": "20841",
-            "airport_ident": "KPLR",
-            "type": "A/D",
-            "description": "BIRMINGHAM APP/DEP",
-            "frequency_mhz": "123.8"
-        },
-        {
-            "id": "61993",
-            "airport_ref": "20841",
-            "airport_ident": "KPLR",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123.05"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306077",
-        "code": "US-AL",
-        "local_code": "AL",
-        "name": "Alabama",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
-        "keywords": "Airports in Alabama"
-    }
+    ]
 }

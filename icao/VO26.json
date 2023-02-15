@@ -40,23 +40,5 @@
             "he_heading_degT": "343.3",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304193",
-        "code": "IN-TN",
-        "local_code": "TN",
-        "name": "Tamil Nadu",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tamil_Nadu",
-        "keywords": "Airports in Tamil Nadu"
-    }
+    ]
 }

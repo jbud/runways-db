@@ -62,57 +62,5 @@
             "he_heading_degT": "349",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "63545",
-            "airport_ref": "19394",
-            "airport_ident": "KBMT",
-            "type": "A/D",
-            "description": "APP/DEP",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "63546",
-            "airport_ref": "19394",
-            "airport_ident": "KBMT",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.75"
-        },
-        {
-            "id": "63547",
-            "airport_ref": "19394",
-            "airport_ident": "KBMT",
-            "type": "RDO",
-            "description": "MONTGOMERY CO RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "63548",
-            "airport_ref": "19394",
-            "airport_ident": "KBMT",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306119",
-        "code": "US-TX",
-        "local_code": "TX",
-        "name": "Texas",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
-        "keywords": "Texan airports"
-    }
+    ]
 }

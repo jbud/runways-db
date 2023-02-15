@@ -62,49 +62,5 @@
             "he_heading_degT": "354",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "69421",
-            "airport_ref": "21125",
-            "airport_ident": "KSWT",
-            "type": "A/D",
-            "description": "LINCOLN APP/DEP",
-            "frequency_mhz": "124"
-        },
-        {
-            "id": "69422",
-            "airport_ref": "21125",
-            "airport_ident": "KSWT",
-            "type": "FSS",
-            "description": "COLUMBUS RDO",
-            "frequency_mhz": "122.65"
-        },
-        {
-            "id": "69423",
-            "airport_ref": "21125",
-            "airport_ident": "KSWT",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306105",
-        "code": "US-NE",
-        "local_code": "NE",
-        "name": "Nebraska",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
-        "keywords": "Airports in Nebraska"
-    }
+    ]
 }

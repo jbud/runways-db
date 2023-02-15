@@ -40,33 +40,5 @@
             "he_heading_degT": "343",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "311685",
-            "airport_ref": "29031",
-            "airport_ident": "EBBT",
-            "type": "FIS",
-            "description": "Brasschaat Radio",
-            "frequency_mhz": "122.905"
-        }
-    ],
-    "country": {
-        "id": "302676",
-        "code": "BE",
-        "name": "Belgium",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Belgium",
-        "keywords": "Aéroports de Belgique,Luchthavens van België"
-    },
-    "region": {
-        "id": "303070",
-        "code": "BE-VAN",
-        "local_code": "VAN",
-        "name": "Antwerp Province",
-        "continent": "EU",
-        "iso_country": "BE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Antwerp_Province",
-        "keywords": "Antwerpen, Flanders, Flemish Region, Vlaams Gewest, Vlaanderen"
-    }
+    ]
 }

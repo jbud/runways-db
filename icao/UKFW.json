@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://unavia.narod.ru/engl/index.html",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Zavodske_Airfield",
-    "keywords": "Zavodskoye Airfield, Аэродром Заводское",
-    "country": {
-        "id": "302719",
-        "code": "UA",
-        "name": "Ukraine",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ukraine",
-        "keywords": "Аеропорти України"
-    },
-    "region": {
-        "id": "305994",
-        "code": "UA-43",
-        "local_code": "43",
-        "name": "Crimea (Autonomous Republic)",
-        "continent": "EU",
-        "iso_country": "UA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Autonomous_Republic_of_Crimea",
-        "keywords": "Автономна Республіка Крим"
-    }
+    "keywords": "Zavodskoye Airfield, Аэродром Заводское"
 }

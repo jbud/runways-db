@@ -62,49 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "317175",
-            "airport_ref": "18966",
-            "airport_ident": "K67L",
-            "type": "AWOS",
-            "description": "",
-            "frequency_mhz": "118.525"
-        },
-        {
-            "id": "64130",
-            "airport_ref": "18966",
-            "airport_ident": "K67L",
-            "type": "CNTR",
-            "description": "LOS ANGELES CNTR",
-            "frequency_mhz": "124.2"
-        },
-        {
-            "id": "64131",
-            "airport_ref": "18966",
-            "airport_ident": "K67L",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306109",
-        "code": "US-NV",
-        "local_code": "NV",
-        "name": "Nevada",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nevada",
-        "keywords": "Airports in Nevada"
-    }
+    ]
 }

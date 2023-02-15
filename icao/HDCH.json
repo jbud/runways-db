@@ -40,57 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "323285",
-            "airport_ref": "31574",
-            "airport_ident": "HDCH",
-            "type": "GND",
-            "description": "",
-            "frequency_mhz": "120.425"
-        },
-        {
-            "id": "323286",
-            "airport_ref": "31574",
-            "airport_ident": "HDCH",
-            "type": "GND",
-            "description": "",
-            "frequency_mhz": "233.2"
-        },
-        {
-            "id": "323283",
-            "airport_ref": "31574",
-            "airport_ident": "HDCH",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "126.8"
-        },
-        {
-            "id": "323284",
-            "airport_ref": "31574",
-            "airport_ident": "HDCH",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "238.05"
-        }
-    ],
-    "country": {
-        "id": "302567",
-        "code": "DJ",
-        "name": "Djibouti",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Djibouti",
-        "keywords": "Djiboutian airports"
-    },
-    "region": {
-        "id": "306331",
-        "code": "DJ-AR",
-        "local_code": "AR",
-        "name": "Arta Region",
-        "continent": "AF",
-        "iso_country": "DJ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Arta_Region",
-        "keywords": "Airports in Arta Region"
-    }
+    ]
 }

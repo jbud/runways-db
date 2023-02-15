@@ -40,57 +40,5 @@
             "he_heading_degT": "358",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "53617",
-            "airport_ref": "26794",
-            "airport_ident": "WASR",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "122.2"
-        }
-    ],
-    "country": {
-        "id": "302632",
-        "code": "ID",
-        "name": "Indonesia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
-        "keywords": "Bandara di Indonesia"
-    },
-    "region": {
-        "id": "304103",
-        "code": "ID-PB",
-        "local_code": "PB",
-        "name": "Papua Barat (West Papua)",
-        "continent": "AS",
-        "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Papua_(region)",
-        "keywords": "Irian Jaya"
-    },
-    "navaids": [
-        {
-            "id": "96090",
-            "filename": "Manokwari_NDB_ID",
-            "ident": "ZQ",
-            "name": "Manokwari",
-            "type": "NDB",
-            "frequency_khz": "207",
-            "latitude_deg": "-0.8871250152587891",
-            "longitude_deg": "134.052001953125",
-            "elevation_ft": "15",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.306",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WASR"
-        }
     ]
 }

@@ -40,23 +40,5 @@
             "he_heading_degT": "206.7",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302793",
-        "code": "CO",
-        "name": "Colombia",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
-        "keywords": "Aeropuertos de Colombia"
-    },
-    "region": {
-        "id": "303475",
-        "code": "CO-LAG",
-        "local_code": "LAG",
-        "name": "La Guajira Department",
-        "continent": "SA",
-        "iso_country": "CO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/La_Guajira_Department",
-        "keywords": "Airports in La Guajira Department"
-    }
+    ]
 }

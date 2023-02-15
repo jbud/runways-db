@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://www.europeanballoon.be/fr/site-decollage-place-ceroux-mousty.html",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302676",
-        "code": "BE",
-        "name": "Belgium",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Belgium",
-        "keywords": "Aéroports de Belgique,Luchthavens van België"
-    },
-    "region": {
-        "id": "303075",
-        "code": "BE-WBR",
-        "local_code": "WBR",
-        "name": "Walloon Brabant Province",
-        "continent": "EU",
-        "iso_country": "BE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Walloon_Brabant",
-        "keywords": "Wallonia, Walloon Region"
-    }
+    "keywords": ""
 }

@@ -62,49 +62,5 @@
             "he_heading_degT": "287.7",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "70017",
-            "airport_ref": "21177",
-            "airport_ident": "KTAN",
-            "type": "A/D",
-            "description": "PROVIDENCE APP/DEP",
-            "frequency_mhz": "128.7"
-        },
-        {
-            "id": "70018",
-            "airport_ref": "21177",
-            "airport_ident": "KTAN",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "132.675"
-        },
-        {
-            "id": "70019",
-            "airport_ref": "21177",
-            "airport_ident": "KTAN",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.7"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306095",
-        "code": "US-MA",
-        "local_code": "MA",
-        "name": "Massachusetts",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Massachusetts",
-        "keywords": "Airports in Massachusetts"
-    }
+    ]
 }

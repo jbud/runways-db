@@ -62,23 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302710",
-        "code": "PL",
-        "name": "Poland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
-        "keywords": "Lotniska Polski"
-    },
-    "region": {
-        "id": "305148",
-        "code": "PL-LU",
-        "local_code": "LU",
-        "name": "Lublin Voivodeship",
-        "continent": "EU",
-        "iso_country": "PL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lublin_Voivodeship",
-        "keywords": "Lubelskie"
-    }
+    ]
 }

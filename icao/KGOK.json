@@ -40,49 +40,5 @@
             "he_heading_degT": "345",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "65603",
-            "airport_ref": "19969",
-            "airport_ident": "KGOK",
-            "type": "A/D",
-            "description": "OKE CITY APP/DEP",
-            "frequency_mhz": "124.2"
-        },
-        {
-            "id": "65604",
-            "airport_ref": "19969",
-            "airport_ident": "KGOK",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "133.975"
-        },
-        {
-            "id": "65605",
-            "airport_ref": "19969",
-            "airport_ident": "KGOK",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306112",
-        "code": "US-OK",
-        "local_code": "OK",
-        "name": "Oklahoma",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
-        "keywords": "Airports in Oklahoma"
-    }
+    ]
 }

@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302650",
-        "code": "MN",
-        "name": "Mongolia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mongolia",
-        "keywords": "Mongolian airports"
-    },
-    "region": {
-        "id": "304691",
-        "code": "MN-055",
-        "local_code": "055",
-        "name": "Övörkhangai",
-        "continent": "AS",
-        "iso_country": "MN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ovorhangay",
-        "keywords": "Өвөрхангай"
-    }
+    ]
 }

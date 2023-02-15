@@ -84,33 +84,5 @@
             "he_heading_degT": "316",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "57079",
-            "airport_ref": "2786",
-            "airport_ident": "FAGT",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302610",
-        "code": "ZA",
-        "name": "South Africa",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
-        "keywords": "South African airports"
-    },
-    "region": {
-        "id": "306295",
-        "code": "ZA-EC",
-        "local_code": "EC",
-        "name": "Eastern Cape",
-        "continent": "AF",
-        "iso_country": "ZA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Cape",
-        "keywords": "Airports in Eastern Cape"
-    }
+    ]
 }

@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302710",
-        "code": "PL",
-        "name": "Poland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
-        "keywords": "Lotniska Polski"
-    },
-    "region": {
-        "id": "305154",
-        "code": "PL-PM",
-        "local_code": "PM",
-        "name": "Pomeranian Voivodeship",
-        "continent": "EU",
-        "iso_country": "PL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pomeranian_Voivodeship",
-        "keywords": "Pomorskie"
-    }
+    ]
 }

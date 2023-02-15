@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://ulmvillamarco.com",
     "wikipedia_link": "",
-    "keywords": "Ultraligeros Léon",
-    "country": {
-        "id": "302684",
-        "code": "ES",
-        "name": "Spain",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
-        "keywords": "Aeropuertos de España"
-    },
-    "region": {
-        "id": "303740",
-        "code": "ES-CL",
-        "local_code": "CL",
-        "name": "Castilla y León",
-        "continent": "EU",
-        "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Castile_and_Le%C3%B3n",
-        "keywords": "Airports in Castilla y León, Castile and León"
-    }
+    "keywords": "Ultraligeros Léon"
 }

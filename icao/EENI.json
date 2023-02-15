@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Koigi_(air_base)",
-    "keywords": "Koigi Air Base",
-    "country": {
-        "id": "302683",
-        "code": "EE",
-        "name": "Estonia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Estonia",
-        "keywords": "Estonian airports"
-    },
-    "region": {
-        "id": "303679",
-        "code": "EE-51",
-        "local_code": "51",
-        "name": "Järva County",
-        "continent": "EU",
-        "iso_country": "EE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/J%C3%A4rva_County",
-        "keywords": ""
-    }
+    "keywords": "Koigi Air Base"
 }

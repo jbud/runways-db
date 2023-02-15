@@ -40,49 +40,5 @@
             "he_heading_degT": "209",
             "he_displaced_threshold_ft": "371"
         }
-    ],
-    "freqs": [
-        {
-            "id": "63604",
-            "airport_ref": "18565",
-            "airport_ident": "K2A0",
-            "type": "A/D",
-            "description": "CHATTANOOGA APP/DEP",
-            "frequency_mhz": "125.1"
-        },
-        {
-            "id": "63605",
-            "airport_ref": "18565",
-            "airport_ident": "K2A0",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "135.075"
-        },
-        {
-            "id": "63606",
-            "airport_ref": "18565",
-            "airport_ident": "K2A0",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306118",
-        "code": "US-TN",
-        "local_code": "TN",
-        "name": "Tennessee",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
-        "keywords": "Airports in Tennessee"
-    }
+    ]
 }

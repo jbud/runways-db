@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302786",
-        "code": "VU",
-        "name": "Vanuatu",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Vanuatu",
-        "keywords": "Airports in Vanuatu"
-    },
-    "region": {
-        "id": "306257",
-        "code": "VU-SAM",
-        "local_code": "SAM",
-        "name": "Sanma",
-        "continent": "OC",
-        "iso_country": "VU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sanma",
-        "keywords": "Airports in Sanma"
-    }
+    ]
 }

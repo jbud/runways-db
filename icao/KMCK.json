@@ -84,57 +84,5 @@
             "he_heading_degT": "1.5",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "62770",
-            "airport_ref": "20481",
-            "airport_ident": "KMCK",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "119.025"
-        },
-        {
-            "id": "62771",
-            "airport_ref": "20481",
-            "airport_ident": "KMCK",
-            "type": "CNTR",
-            "description": "DENVER CNTR",
-            "frequency_mhz": "118.475"
-        },
-        {
-            "id": "62772",
-            "airport_ref": "20481",
-            "airport_ident": "KMCK",
-            "type": "RDO",
-            "description": "COLUMBUS RDO",
-            "frequency_mhz": "122.6"
-        },
-        {
-            "id": "62773",
-            "airport_ref": "20481",
-            "airport_ident": "KMCK",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306105",
-        "code": "US-NE",
-        "local_code": "NE",
-        "name": "Nebraska",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
-        "keywords": "Airports in Nebraska"
-    }
+    ]
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Foya_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302581",
-        "code": "LR",
-        "name": "Liberia",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Liberia",
-        "keywords": ""
-    },
-    "region": {
-        "id": "304475",
-        "code": "LR-LO",
-        "local_code": "LO",
-        "name": "Lofa County",
-        "continent": "AF",
-        "iso_country": "LR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lofa_County",
-        "keywords": "Airports in Lofa County"
-    }
+    "keywords": ""
 }

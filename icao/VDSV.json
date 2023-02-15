@@ -40,41 +40,5 @@
             "he_heading_degT": "207.6",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "301397",
-            "airport_ref": "26478",
-            "airport_ident": "VDSV",
-            "type": "KOS VOR-DME",
-            "description": "KOS vortac station (top of rwy 21)",
-            "frequency_mhz": "116"
-        },
-        {
-            "id": "301395",
-            "airport_ref": "26478",
-            "airport_ident": "VDSV",
-            "type": "TWR",
-            "description": "VDSV Tower",
-            "frequency_mhz": "124"
-        }
-    ],
-    "country": {
-        "id": "302641",
-        "code": "KH",
-        "name": "Cambodia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cambodia",
-        "keywords": "Cambodian airports"
-    },
-    "region": {
-        "id": "304361",
-        "code": "KH-18",
-        "local_code": "18",
-        "name": "Preah Sihanouk province",
-        "continent": "AS",
-        "iso_country": "KH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Preah_Sihanouk_province",
-        "keywords": "Airports in Xrong Preah Sihanouk, ព្រះសីហនុ"
-    }
+    ]
 }

@@ -40,23 +40,5 @@
             "he_heading_degT": "354.1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302666",
-        "code": "TM",
-        "name": "Turkmenistan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkmenistan",
-        "keywords": "Turkmenistani airports, Airports in Turkmenistan"
-    },
-    "region": {
-        "id": "305807",
-        "code": "TM-L",
-        "local_code": "L",
-        "name": "Lebap Region",
-        "continent": "AS",
-        "iso_country": "TM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lebap_Region",
-        "keywords": "Airports in Lebap"
-    }
+    ]
 }

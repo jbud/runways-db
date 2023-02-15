@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Keski-Suomen keskussairaala",
-    "country": {
-        "id": "302685",
-        "code": "FI",
-        "name": "Finland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
-        "keywords": "Lentokentät, Suomen"
-    },
-    "region": {
-        "id": "336509",
-        "code": "FI-08",
-        "local_code": "08",
-        "name": "Central Finland Region",
-        "continent": "EU",
-        "iso_country": "FI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Finland",
-        "keywords": "Airports in Central Finland Region"
-    }
+    "keywords": "Keski-Suomen keskussairaala"
 }

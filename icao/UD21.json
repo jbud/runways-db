@@ -62,23 +62,5 @@
             "he_heading_degT": "6.1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302620",
-        "code": "AM",
-        "name": "Armenia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Armenia",
-        "keywords": ""
-    },
-    "region": {
-        "id": "302904",
-        "code": "AM-KT",
-        "local_code": "KT",
-        "name": "Kotayk Province",
-        "continent": "AS",
-        "iso_country": "AM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kotayk_Province",
-        "keywords": "Kotayk', Կոտայք"
-    }
+    ]
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302692",
-        "code": "HR",
-        "name": "Croatia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Croatia",
-        "keywords": "Croatian airports"
-    },
-    "region": {
-        "id": "304038",
-        "code": "HR-14",
-        "local_code": "14",
-        "name": "Osijek-Baranja County",
-        "continent": "EU",
-        "iso_country": "HR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Osijek-Baranja_County",
-        "keywords": "Airports in Osijek-Baranja County"
-    }
+    "keywords": ""
 }

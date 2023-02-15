@@ -62,57 +62,5 @@
             "he_heading_degT": "272.1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "54029",
-            "airport_ref": "5153",
-            "airport_ident": "OIFE",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "118.5"
-        }
-    ],
-    "country": {
-        "id": "302637",
-        "code": "IR",
-        "name": "Iran",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
-        "keywords": "فرودگاه های ایران"
-    },
-    "region": {
-        "id": "304222",
-        "code": "IR-10",
-        "local_code": "10",
-        "name": "Isfahan Province",
-        "continent": "AS",
-        "iso_country": "IR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Isfahan_Province",
-        "keywords": "Airports in Isfahan Province"
-    },
-    "navaids": [
-        {
-            "id": "89008",
-            "filename": "Hesa_NDB-DME_IR",
-            "ident": "HSA",
-            "name": "Hesa",
-            "type": "NDB-DME",
-            "frequency_khz": "230",
-            "latitude_deg": "32.93259811401367",
-            "longitude_deg": "51.56010055541992",
-            "elevation_ft": "5250",
-            "iso_country": "IR",
-            "dme_frequency_khz": "113450",
-            "dme_channel": "081Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.22",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "OIFE"
-        }
     ]
 }

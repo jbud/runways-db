@@ -40,49 +40,5 @@
             "he_heading_degT": "3",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "51486",
-            "airport_ref": "6152",
-            "airport_ident": "SKPQ",
-            "type": "ACC",
-            "description": "ACC",
-            "frequency_mhz": "127.9"
-        },
-        {
-            "id": "51488",
-            "airport_ref": "6152",
-            "airport_ident": "SKPQ",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.6"
-        },
-        {
-            "id": "51489",
-            "airport_ref": "6152",
-            "airport_ident": "SKPQ",
-            "type": "TWR/APP",
-            "description": "TWR/APP",
-            "frequency_mhz": "126.3"
-        }
-    ],
-    "country": {
-        "id": "302793",
-        "code": "CO",
-        "name": "Colombia",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
-        "keywords": "Aeropuertos de Colombia"
-    },
-    "region": {
-        "id": "303470",
-        "code": "CO-CUN",
-        "local_code": "CUN",
-        "name": "Cundinamarca Department",
-        "continent": "SA",
-        "iso_country": "CO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cundinamarca_Department",
-        "keywords": "Airports in Cundinamarca Department"
-    }
+    ]
 }

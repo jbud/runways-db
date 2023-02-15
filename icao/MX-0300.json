@@ -16,23 +16,5 @@
     "local_code": "RGE",
     "home_link": "http://www.ranchograndehunting.com/id2.html",
     "wikipedia_link": "",
-    "keywords": "Rancho Grande Hunting Lodge",
-    "country": {
-        "id": "302747",
-        "code": "MX",
-        "name": "Mexico",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
-        "keywords": "Aeropuertos de México, Mexican airports"
-    },
-    "region": {
-        "id": "304815",
-        "code": "MX-SON",
-        "local_code": "SON",
-        "name": "Sonora",
-        "continent": "NA",
-        "iso_country": "MX",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sonora",
-        "keywords": "Airports in Sonora"
-    }
+    "keywords": "Rancho Grande Hunting Lodge"
 }

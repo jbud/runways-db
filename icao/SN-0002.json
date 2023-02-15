@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302600",
-        "code": "SN",
-        "name": "Senegal",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Senegal",
-        "keywords": "Aéroports du Sénégal, Senegalese airports"
-    },
-    "region": {
-        "id": "305617",
-        "code": "SN-ZG",
-        "local_code": "ZG",
-        "name": "Ziguinchor Region",
-        "continent": "AF",
-        "iso_country": "SN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ziguinchor_Region",
-        "keywords": "Basse Casamance"
-    }
+    "keywords": ""
 }

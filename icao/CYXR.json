@@ -62,49 +62,5 @@
             "he_heading_degT": "329.3",
             "he_displaced_threshold_ft": "300"
         }
-    ],
-    "freqs": [
-        {
-            "id": "75540",
-            "airport_ref": "1965",
-            "airport_ident": "CYXR",
-            "type": "AWOS",
-            "description": "",
-            "frequency_mhz": "128.6"
-        },
-        {
-            "id": "50279",
-            "airport_ref": "1965",
-            "airport_ident": "CYXR",
-            "type": "MF",
-            "description": "Earlton Traffic",
-            "frequency_mhz": "122"
-        },
-        {
-            "id": "50280",
-            "airport_ref": "1965",
-            "airport_ident": "CYXR",
-            "type": "RDO",
-            "description": "LONDON RDO",
-            "frequency_mhz": "123.375"
-        }
-    ],
-    "country": {
-        "id": "302730",
-        "code": "CA",
-        "name": "Canada",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
-        "keywords": "Canadian airports"
-    },
-    "region": {
-        "id": "303302",
-        "code": "CA-ON",
-        "local_code": "ON",
-        "name": "Ontario",
-        "continent": "NA",
-        "iso_country": "CA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
-        "keywords": "Airports in Ontario"
-    }
+    ]
 }

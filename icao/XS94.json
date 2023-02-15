@@ -40,33 +40,5 @@
             "he_heading_degT": "350",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "69292",
-            "airport_ref": "26317",
-            "airport_ident": "XS94",
-            "type": "CNTR",
-            "description": "HOUSTON CNTR",
-            "frequency_mhz": "126.625"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306119",
-        "code": "US-TX",
-        "local_code": "TX",
-        "name": "Texas",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
-        "keywords": "Texan airports"
-    }
+    ]
 }

@@ -62,33 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "504849",
-            "airport_ref": "29525",
-            "airport_ident": "LSZO",
-            "type": "Aerodrome",
-            "description": "Aerodrome",
-            "frequency_mhz": "122.45"
-        }
-    ],
-    "country": {
-        "id": "302679",
-        "code": "CH",
-        "name": "Switzerland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
-        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
-    },
-    "region": {
-        "id": "303363",
-        "code": "CH-LU",
-        "local_code": "LU",
-        "name": "Canton of Lucerne",
-        "continent": "EU",
-        "iso_country": "CH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lucerne",
-        "keywords": "Luzern"
-    }
+    ]
 }

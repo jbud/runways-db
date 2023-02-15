@@ -16,23 +16,5 @@
     "local_code": "HLN",
     "home_link": "https://www.marinetraffic.com/en/ais/details/ships/shipid:413369/mmsi:353960000/imo:8770091/vessel:LA_MURALLA_IV",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302747",
-        "code": "MX",
-        "name": "Mexico",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
-        "keywords": "Aeropuertos de México, Mexican airports"
-    },
-    "region": {
-        "id": "304820",
-        "code": "MX-VER",
-        "local_code": "VER",
-        "name": "Veracruz",
-        "continent": "NA",
-        "iso_country": "MX",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Veracruz",
-        "keywords": "Airports in Veracruz"
-    }
+    "keywords": ""
 }

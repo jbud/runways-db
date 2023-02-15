@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "309235",
-            "airport_ref": "43884",
-            "airport_ident": "BA-0001",
-            "type": "Ciljuge Info",
-            "description": "Ciljuge Info",
-            "frequency_mhz": "123.6"
-        }
-    ],
-    "country": {
-        "id": "302675",
-        "code": "BA",
-        "name": "Bosnia and Herzegovina",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
-        "keywords": "Bosnian airports"
-    },
-    "region": {
-        "id": "303052",
-        "code": "BA-BIH",
-        "local_code": "BIH",
-        "name": "Federation of Bosnia and Herzegovina",
-        "continent": "EU",
-        "iso_country": "BA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Federation_of_Bosnia_and_Herzegovina",
-        "keywords": "Bosnian airports"
-    }
+    ]
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "313592",
-            "airport_ref": "29216",
-            "airport_ident": "EIBT",
-            "type": "Radio",
-            "description": "",
-            "frequency_mhz": "123.6"
-        }
-    ],
-    "country": {
-        "id": "302694",
-        "code": "IE",
-        "name": "Ireland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ireland",
-        "keywords": "Eire"
-    },
-    "region": {
-        "id": "304146",
-        "code": "IE-MO",
-        "local_code": "MO",
-        "name": "County Mayo",
-        "continent": "EU",
-        "iso_country": "IE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mayo",
-        "keywords": "Airports in County Mayo"
-    }
+    ]
 }

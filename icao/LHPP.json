@@ -40,57 +40,5 @@
             "he_heading_degT": "337.3",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "53540",
-            "airport_ref": "4302",
-            "airport_ident": "LHPP",
-            "type": "AFIS",
-            "description": "POGANY INFO",
-            "frequency_mhz": "126.9"
-        }
-    ],
-    "country": {
-        "id": "302693",
-        "code": "HU",
-        "name": "Hungary",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
-        "keywords": "Repülőterek Magyarország"
-    },
-    "region": {
-        "id": "304055",
-        "code": "HU-BA",
-        "local_code": "BA",
-        "name": "Baranya County",
-        "continent": "EU",
-        "iso_country": "HU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Baranya_County",
-        "keywords": "Airports in Baranya County"
-    },
-    "navaids": [
-        {
-            "id": "92629",
-            "filename": "Pecs-Pogany_NDB_HU",
-            "ident": "PP",
-            "name": "Pecs-Pogany",
-            "type": "NDB",
-            "frequency_khz": "412",
-            "latitude_deg": "46.00579833984375",
-            "longitude_deg": "18.232799530029297",
-            "elevation_ft": "",
-            "iso_country": "HU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.057",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LHPP"
-        }
     ]
 }

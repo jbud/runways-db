@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Ballykelly",
-    "keywords": "RAF Ballykelly, EGQB",
-    "country": {
-        "id": "302688",
-        "code": "GB",
-        "name": "United Kingdom",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
-        "keywords": "Great Britain"
-    },
-    "region": {
-        "id": "306375",
-        "code": "GB-NIR",
-        "local_code": "NIR",
-        "name": "Northern Ireland",
-        "continent": "EU",
-        "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Ireland",
-        "keywords": "keep"
-    }
+    "keywords": "RAF Ballykelly, EGQB"
 }

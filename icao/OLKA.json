@@ -40,57 +40,5 @@
             "he_heading_degT": "242",
             "he_displaced_threshold_ft": "250"
         }
-    ],
-    "freqs": [
-        {
-            "id": "55149",
-            "airport_ref": "5223",
-            "airport_ident": "OLKA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.5"
-        }
-    ],
-    "country": {
-        "id": "302647",
-        "code": "LB",
-        "name": "Lebanon",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lebanon",
-        "keywords": "المطارات في لبنان"
-    },
-    "region": {
-        "id": "304459",
-        "code": "LB-AS",
-        "local_code": "AS",
-        "name": "North Governorate",
-        "continent": "AS",
-        "iso_country": "LB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Governorate",
-        "keywords": "Ash-Shamal"
-    },
-    "navaids": [
-        {
-            "id": "92952",
-            "filename": "Rene_Mouawad_NDB_LB",
-            "ident": "RA",
-            "name": "Rene Mouawad",
-            "type": "NDB",
-            "frequency_khz": "450",
-            "latitude_deg": "34.5989990234375",
-            "longitude_deg": "36.08300018310547",
-            "elevation_ft": "",
-            "iso_country": "LB",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.015",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "OLKA"
-        }
     ]
 }

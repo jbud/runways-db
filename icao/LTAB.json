@@ -62,49 +62,5 @@
             "he_heading_degT": "270",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75481",
-            "airport_ref": "4508",
-            "airport_ident": "LTAB",
-            "type": "ATIS",
-            "description": "",
-            "frequency_mhz": "118.675"
-        },
-        {
-            "id": "75480",
-            "airport_ref": "4508",
-            "airport_ident": "LTAB",
-            "type": "GND",
-            "description": "",
-            "frequency_mhz": "120.2"
-        },
-        {
-            "id": "57850",
-            "airport_ref": "4508",
-            "airport_ident": "LTAB",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "132"
-        }
-    ],
-    "country": {
-        "id": "302667",
-        "code": "TR",
-        "name": "Turkey",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
-        "keywords": "Türkiye havaalanları"
-    },
-    "region": {
-        "id": "305841",
-        "code": "TR-06",
-        "local_code": "06",
-        "name": "Ankara Province",
-        "continent": "AS",
-        "iso_country": "TR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ankara_Province",
-        "keywords": "Airports in Ankara Province"
-    }
+    ]
 }

@@ -40,23 +40,5 @@
             "he_heading_degT": "195.6",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302793",
-        "code": "CO",
-        "name": "Colombia",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
-        "keywords": "Aeropuertos de Colombia"
-    },
-    "region": {
-        "id": "303461",
-        "code": "CO-BOL",
-        "local_code": "BOL",
-        "name": "Bolívar Department",
-        "continent": "SA",
-        "iso_country": "CO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bolívar_Department",
-        "keywords": "Airports in Bolívar Department"
-    }
+    ]
 }

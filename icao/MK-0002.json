@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Сушево",
-    "country": {
-        "id": "302706",
-        "code": "MK",
-        "name": "North Macedonia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Macedonia",
-        "keywords": "Macedonian airports"
-    },
-    "region": {
-        "id": "304655",
-        "code": "MK-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
-        "continent": "EU",
-        "iso_country": "MK",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
-    }
+    "keywords": "Сушево"
 }

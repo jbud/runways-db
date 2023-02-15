@@ -40,57 +40,5 @@
             "he_heading_degT": "282.2",
             "he_displaced_threshold_ft": "660"
         }
-    ],
-    "freqs": [
-        {
-            "id": "71738",
-            "airport_ref": "6282",
-            "airport_ident": "SVFM",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.4"
-        },
-        {
-            "id": "71739",
-            "airport_ref": "6282",
-            "airport_ident": "SVFM",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "71740",
-            "airport_ref": "6282",
-            "airport_ident": "SVFM",
-            "type": "RDO",
-            "description": "MIRANDA RDO",
-            "frequency_mhz": "569.55"
-        },
-        {
-            "id": "71741",
-            "airport_ref": "6282",
-            "airport_ident": "SVFM",
-            "type": "TWR",
-            "description": "MIRANDA TWR",
-            "frequency_mhz": "118.8"
-        }
-    ],
-    "country": {
-        "id": "302802",
-        "code": "VE",
-        "name": "Venezuela",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
-        "keywords": "Aeropuertos de Venezuela"
-    },
-    "region": {
-        "id": "306177",
-        "code": "VE-M",
-        "local_code": "M",
-        "name": "Miranda State",
-        "continent": "SA",
-        "iso_country": "VE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Miranda_(state)",
-        "keywords": "Airports in Miranda State"
-    }
+    ]
 }

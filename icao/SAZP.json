@@ -40,57 +40,5 @@
             "he_heading_degT": "360",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "48403",
-            "airport_ref": "5850",
-            "airport_ident": "SAZP",
-            "type": "TWR",
-            "description": "PEHUAJO TWR",
-            "frequency_mhz": "118.35"
-        }
-    ],
-    "country": {
-        "id": "302789",
-        "code": "AR",
-        "name": "Argentina",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
-        "keywords": "Aeropuertos de Argentina"
-    },
-    "region": {
-        "id": "302933",
-        "code": "AR-B",
-        "local_code": "B",
-        "name": "Buenos Aires Province",
-        "continent": "SA",
-        "iso_country": "AR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
-        "keywords": "Airports in Buenos Aires Province"
-    },
-    "navaids": [
-        {
-            "id": "92364",
-            "filename": "Pehuajo_NDB_AR",
-            "ident": "PEH",
-            "name": "Pehuajo",
-            "type": "NDB",
-            "frequency_khz": "265",
-            "latitude_deg": "-35.84109878540039",
-            "longitude_deg": "-61.860801696777344",
-            "elevation_ft": "279",
-            "iso_country": "AR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.156",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "SAZP"
-        }
     ]
 }

@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302643",
-        "code": "KR",
-        "name": "South Korea",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Korea",
-        "keywords": "한국의 공항"
-    },
-    "region": {
-        "id": "304400",
-        "code": "KR-11",
-        "local_code": "11",
-        "name": "Seoul Teugbyeolsi",
-        "continent": "AS",
-        "iso_country": "KR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Seoul_Teugbyeolsi",
-        "keywords": "Airports in Seoul Teugbyeolsi"
-    }
+    ]
 }

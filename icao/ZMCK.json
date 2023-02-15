@@ -40,49 +40,5 @@
             "he_heading_degT": "285",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "505380",
-            "airport_ref": "335326",
-            "airport_ident": "ZMCK",
-            "type": "APP",
-            "description": "",
-            "frequency_mhz": "120"
-        },
-        {
-            "id": "346826",
-            "airport_ref": "335326",
-            "airport_ident": "ZMCK",
-            "type": "ATIS",
-            "description": "",
-            "frequency_mhz": "123.7"
-        },
-        {
-            "id": "346827",
-            "airport_ref": "335326",
-            "airport_ident": "ZMCK",
-            "type": "TWR",
-            "description": "CONTROL TOWER",
-            "frequency_mhz": "129"
-        }
-    ],
-    "country": {
-        "id": "302650",
-        "code": "MN",
-        "name": "Mongolia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mongolia",
-        "keywords": "Mongolian airports"
-    },
-    "region": {
-        "id": "304687",
-        "code": "MN-047",
-        "local_code": "047",
-        "name": "Töv Province",
-        "continent": "AS",
-        "iso_country": "MN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/T%C3%B6v_Province",
-        "keywords": "Airports in Töv Province"
-    }
+    ]
 }

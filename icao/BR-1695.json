@@ -16,23 +16,5 @@
     "local_code": "MG0204",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302791",
-        "code": "BR",
-        "name": "Brazil",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
-        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
-    },
-    "region": {
-        "id": "303209",
-        "code": "BR-MG",
-        "local_code": "MG",
-        "name": "Minas Gerais",
-        "continent": "SA",
-        "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
-        "keywords": "Airports in Minas Gerais"
-    }
+    "keywords": ""
 }

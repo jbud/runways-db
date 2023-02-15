@@ -40,33 +40,5 @@
             "he_heading_degT": "291.1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "56191",
-            "airport_ref": "2633",
-            "airport_ident": "EPSN",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "128.5"
-        }
-    ],
-    "country": {
-        "id": "302710",
-        "code": "PL",
-        "name": "Poland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
-        "keywords": "Lotniska Polski"
-    },
-    "region": {
-        "id": "305160",
-        "code": "PL-ZP",
-        "local_code": "ZP",
-        "name": "West Pomeranian Voivodeship",
-        "continent": "EU",
-        "iso_country": "PL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Pomeranian_Voivodeship",
-        "keywords": "Zachodniopomorskie, West Pomerania"
-    }
+    ]
 }

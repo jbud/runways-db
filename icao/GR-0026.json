@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302691",
-        "code": "GR",
-        "name": "Greece",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
-        "keywords": "αεροδρόμια στην Ελλάδα"
-    },
-    "region": {
-        "id": "430177",
-        "code": "GR-F",
-        "local_code": "F",
-        "name": "Ionian Islands",
-        "continent": "EU",
-        "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ionian_Islands_(region)",
-        "keywords": "Περιφέρεια Ιονίων Νήσων"
-    }
+    "keywords": ""
 }

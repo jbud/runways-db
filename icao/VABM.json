@@ -40,57 +40,5 @@
             "he_heading_degT": "259",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "53795",
-            "airport_ref": "26437",
-            "airport_ident": "VABM",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304179",
-        "code": "IN-KA",
-        "local_code": "KA",
-        "name": "Karnataka",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Karnataka",
-        "keywords": "Airports in Karnataka"
-    },
-    "navaids": [
-        {
-            "id": "85846",
-            "filename": "Belgaum_VOR-DME_IN",
-            "ident": "BBM",
-            "name": "Belgaum",
-            "type": "VOR-DME",
-            "frequency_khz": "112100",
-            "latitude_deg": "15.856200218200684",
-            "longitude_deg": "74.61689758300781",
-            "elevation_ft": "2488",
-            "iso_country": "IN",
-            "dme_frequency_khz": "112100",
-            "dme_channel": "058X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.011",
-            "magnetic_variation_deg": "-1.232",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VABM"
-        }
     ]
 }

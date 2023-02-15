@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302669",
-        "code": "UZ",
-        "name": "Uzbekistan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Uzbekistan",
-        "keywords": "Uzbek"
-    },
-    "region": {
-        "id": "306158",
-        "code": "UZ-SI",
-        "local_code": "SI",
-        "name": "Sirdaryo Region",
-        "continent": "AS",
-        "iso_country": "UZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sirdaryo_Region",
-        "keywords": "Airports in Sirdaryo Region"
-    }
+    "keywords": ""
 }

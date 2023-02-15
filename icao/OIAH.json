@@ -40,57 +40,5 @@
             "he_heading_degT": "304.6",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "54035",
-            "airport_ref": "5133",
-            "airport_ident": "OIAH",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "122.1"
-        }
-    ],
-    "country": {
-        "id": "302637",
-        "code": "IR",
-        "name": "Iran",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
-        "keywords": "فرودگاه های ایران"
-    },
-    "region": {
-        "id": "304235",
-        "code": "IR-17",
-        "local_code": "17",
-        "name": "Kohgiluyeh and Boyer-Ahmad Province",
-        "continent": "AS",
-        "iso_country": "IR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kohgiluyeh_and_Boyer-Ahmad_Province",
-        "keywords": "Airports in Kohgiluyeh and Boyer-Ahmad Province"
-    },
-    "navaids": [
-        {
-            "id": "88596",
-            "filename": "Gachsaran_NDB_IR",
-            "ident": "GSN",
-            "name": "Gachsaran",
-            "type": "NDB",
-            "frequency_khz": "245",
-            "latitude_deg": "30.312299728393555",
-            "longitude_deg": "50.870399475097656",
-            "elevation_ft": "2414",
-            "iso_country": "IR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.527",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "OIAH"
-        }
     ]
 }

@@ -40,57 +40,5 @@
             "he_heading_degT": "213.4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "70950",
-            "airport_ref": "19116",
-            "airport_ident": "K8A3",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "126.175"
-        },
-        {
-            "id": "70951",
-            "airport_ref": "19116",
-            "airport_ident": "K8A3",
-            "type": "CNTR",
-            "description": "INDIANAPOLIS CNTR",
-            "frequency_mhz": "121.325"
-        },
-        {
-            "id": "70952",
-            "airport_ref": "19116",
-            "airport_ident": "K8A3",
-            "type": "RDO",
-            "description": "NASHVILLE RDO",
-            "frequency_mhz": "108.4"
-        },
-        {
-            "id": "70953",
-            "airport_ref": "19116",
-            "airport_ident": "K8A3",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306118",
-        "code": "US-TN",
-        "local_code": "TN",
-        "name": "Tennessee",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
-        "keywords": "Airports in Tennessee"
-    }
+    ]
 }

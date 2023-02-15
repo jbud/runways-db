@@ -40,33 +40,5 @@
             "he_heading_degT": "273",
             "he_displaced_threshold_ft": "330"
         }
-    ],
-    "freqs": [
-        {
-            "id": "57515",
-            "airport_ref": "6341",
-            "airport_ident": "OS59",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.5"
-        }
-    ],
-    "country": {
-        "id": "302662",
-        "code": "SY",
-        "name": "Syria",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Syria",
-        "keywords": "مطارات سوريا"
-    },
-    "region": {
-        "id": "305676",
-        "code": "SY-RA",
-        "local_code": "RA",
-        "name": "Ar-Raqqah Governorate",
-        "continent": "AS",
-        "iso_country": "SY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ar-Raqqah_Governorate",
-        "keywords": "Airports in Ar-Raqqah Governorate"
-    }
+    ]
 }

@@ -62,23 +62,5 @@
             "he_heading_degT": "253",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302714",
-        "code": "RU",
-        "name": "Russia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
-        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
-    },
-    "region": {
-        "id": "305290",
-        "code": "RU-KIR",
-        "local_code": "KIR",
-        "name": "Kirov Oblast",
-        "continent": "EU",
-        "iso_country": "RU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kirov_Oblast",
-        "keywords": "Airports in Kirov Oblast"
-    }
+    ]
 }

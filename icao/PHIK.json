@@ -16,23 +16,5 @@
     "local_code": "HIK",
     "home_link": "https://www.hickam.af.mil",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Hickam_Air_Force_Base",
-    "keywords": "",
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306087",
-        "code": "US-HI",
-        "local_code": "HI",
-        "name": "Hawaii",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hawaii",
-        "keywords": "Airports in Hawaii"
-    }
+    "keywords": ""
 }

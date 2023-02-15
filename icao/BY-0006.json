@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Byaroza Air Base, Beryoza Air Base, Аэродром Осовцы, Аэродром Бяроза, Аэродром Берёза, УММО",
-    "country": {
-        "id": "302678",
-        "code": "BY",
-        "name": "Belarus",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Belarus",
-        "keywords": "Belarussian, Беларусь"
-    },
-    "region": {
-        "id": "303280",
-        "code": "BY-BR",
-        "local_code": "BR",
-        "name": "Brest Region",
-        "continent": "EU",
-        "iso_country": "BY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brest_Region",
-        "keywords": "Brèsckaja voblasc'"
-    }
+    "keywords": "Byaroza Air Base, Beryoza Air Base, Аэродром Осовцы, Аэродром Бяроза, Аэродром Берёза, УММО"
 }

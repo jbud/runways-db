@@ -40,57 +40,5 @@
             "he_heading_degT": "360",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "60324",
-            "airport_ref": "19249",
-            "airport_ident": "KAFO",
-            "type": "ARTC",
-            "description": "SALT LAKE CITY CNTR",
-            "frequency_mhz": "128.35"
-        },
-        {
-            "id": "60325",
-            "airport_ref": "19249",
-            "airport_ident": "KAFO",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.025"
-        },
-        {
-            "id": "60326",
-            "airport_ref": "19249",
-            "airport_ident": "KAFO",
-            "type": "RCO",
-            "description": "CASPER RDO",
-            "frequency_mhz": "122.3"
-        },
-        {
-            "id": "60327",
-            "airport_ref": "19249",
-            "airport_ident": "KAFO",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306127",
-        "code": "US-WY",
-        "local_code": "WY",
-        "name": "Wyoming",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Wyoming",
-        "keywords": "Airports in Wyoming"
-    }
+    ]
 }

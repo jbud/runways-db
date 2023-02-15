@@ -40,33 +40,5 @@
             "he_heading_degT": "203",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75218",
-            "airport_ref": "44408",
-            "airport_ident": "EGEL",
-            "type": "A/G",
-            "description": "Coll Radio",
-            "frequency_mhz": "125"
-        }
-    ],
-    "country": {
-        "id": "302688",
-        "code": "GB",
-        "name": "United Kingdom",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
-        "keywords": "Great Britain"
-    },
-    "region": {
-        "id": "306377",
-        "code": "GB-SCT",
-        "local_code": "SCT",
-        "name": "Scotland",
-        "continent": "EU",
-        "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
-        "keywords": "keep"
-    }
+    ]
 }

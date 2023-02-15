@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302632",
-        "code": "ID",
-        "name": "Indonesia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
-        "keywords": "Bandara di Indonesia"
-    },
-    "region": {
-        "id": "304100",
-        "code": "ID-BE",
-        "local_code": "BE",
-        "name": "Bengkulu",
-        "continent": "AS",
-        "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bengkulu",
-        "keywords": "Airports in Bengkulu"
-    }
+    "keywords": ""
 }

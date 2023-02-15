@@ -40,41 +40,5 @@
             "he_heading_degT": "1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "59367",
-            "airport_ref": "19556",
-            "airport_ident": "KCRZ",
-            "type": "CNTR",
-            "description": "MINNEAPOLIS CNTR",
-            "frequency_mhz": "119.6"
-        },
-        {
-            "id": "59368",
-            "airport_ref": "19556",
-            "airport_ident": "KCRZ",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306088",
-        "code": "US-IA",
-        "local_code": "IA",
-        "name": "Iowa",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
-        "keywords": "Airports in Iowa"
-    }
+    ]
 }

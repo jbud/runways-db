@@ -40,23 +40,5 @@
             "he_heading_degT": "2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302667",
-        "code": "TR",
-        "name": "Turkey",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
-        "keywords": "Türkiye havaalanları"
-    },
-    "region": {
-        "id": "305872",
-        "code": "TR-37",
-        "local_code": "37",
-        "name": "Kastamonu Province",
-        "continent": "AS",
-        "iso_country": "TR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kastamonu_Province",
-        "keywords": "Airports in Kastamonu Province"
-    }
+    ]
 }

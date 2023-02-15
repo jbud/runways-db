@@ -16,23 +16,5 @@
     "local_code": "AZ04",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "eloy, sawtooth, az04",
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306079",
-        "code": "US-AZ",
-        "local_code": "AZ",
-        "name": "Arizona",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
-        "keywords": "Airports in Arizona"
-    }
+    "keywords": "eloy, sawtooth, az04"
 }

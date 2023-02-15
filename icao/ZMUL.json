@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302650",
-        "code": "MN",
-        "name": "Mongolia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mongolia",
-        "keywords": "Mongolian airports"
-    },
-    "region": {
-        "id": "304700",
-        "code": "MN-071",
-        "local_code": "071",
-        "name": "Bayan-Ölgii Province",
-        "continent": "AS",
-        "iso_country": "MN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bayan-Ölgii_Province",
-        "keywords": "Airports in Bayan-Ölgii Province"
-    }
+    ]
 }

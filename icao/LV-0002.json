@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302702",
-        "code": "LV",
-        "name": "Latvia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Latvia",
-        "keywords": "Latvian airports"
-    },
-    "region": {
-        "id": "304514",
-        "code": "LV-DGV",
-        "local_code": "DGV",
-        "name": "Daugavpils (city)",
-        "continent": "EU",
-        "iso_country": "LV",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Daugavpils",
-        "keywords": "Airports in Daugavpils (city)"
-    }
+    "keywords": ""
 }

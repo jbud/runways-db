@@ -16,23 +16,5 @@
     "local_code": "BRCEL",
     "home_link": "http://alimessapia.altervista.org/alimessapia/",
     "wikipedia_link": "",
-    "keywords": "AliMessapia, Esperti, Aviosuperficie Esperti",
-    "country": {
-        "id": "302697",
-        "code": "IT",
-        "name": "Italy",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
-        "keywords": "Aeroporti d'Italia"
-    },
-    "region": {
-        "id": "306371",
-        "code": "IT-75",
-        "local_code": "75",
-        "name": "Apulia",
-        "continent": "EU",
-        "iso_country": "IT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Apulia",
-        "keywords": "PU"
-    }
+    "keywords": "AliMessapia, Esperti, Aviosuperficie Esperti"
 }

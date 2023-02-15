@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302718",
-        "code": "SM",
-        "name": "San Marino",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/San_Marino",
-        "keywords": "Airports in San Marino"
-    },
-    "region": {
-        "id": "306885",
-        "code": "SM-06",
-        "local_code": "06",
-        "name": "Borgo Maggiore",
-        "continent": "EU",
-        "iso_country": "SM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Borgo_Maggiore",
-        "keywords": "Airports in Borgo Maggiore"
-    }
+    "keywords": ""
 }

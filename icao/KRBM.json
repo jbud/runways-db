@@ -40,49 +40,5 @@
             "he_heading_degT": "219.4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "61216",
-            "airport_ref": "20913",
-            "airport_ident": "KRBM",
-            "type": "A/D",
-            "description": "LITTLE ROCK APP/DEP",
-            "frequency_mhz": "119.5"
-        },
-        {
-            "id": "61217",
-            "airport_ref": "20913",
-            "airport_ident": "KRBM",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.2"
-        },
-        {
-            "id": "61218",
-            "airport_ref": "20913",
-            "airport_ident": "KRBM",
-            "type": "OPS",
-            "description": "OPS",
-            "frequency_mhz": "41.5"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306078",
-        "code": "US-AR",
-        "local_code": "AR",
-        "name": "Arkansas",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
-        "keywords": "Airports in Arkansas"
-    }
+    ]
 }

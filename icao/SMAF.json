@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Afobaka_Airstrip",
-    "keywords": "",
-    "country": {
-        "id": "302800",
-        "code": "SR",
-        "name": "Suriname",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Suriname",
-        "keywords": "Surinamese airports"
-    },
-    "region": {
-        "id": "305637",
-        "code": "SR-BR",
-        "local_code": "BR",
-        "name": "Brokopondo",
-        "continent": "SA",
-        "iso_country": "SR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brokopondo",
-        "keywords": "Airports in Brokopondo"
-    }
+    "keywords": ""
 }

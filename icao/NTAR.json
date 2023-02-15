@@ -40,57 +40,5 @@
             "he_heading_degT": "288",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "52182",
-            "airport_ref": "4980",
-            "airport_ident": "NTAR",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "118.3"
-        }
-    ],
-    "country": {
-        "id": "302777",
-        "code": "PF",
-        "name": "French Polynesia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/French_Polynesia",
-        "keywords": ""
-    },
-    "region": {
-        "id": "305033",
-        "code": "PF-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
-        "continent": "OC",
-        "iso_country": "PF",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "93262",
-            "filename": "Rurutu_NDB_PF",
-            "ident": "RT",
-            "name": "Rurutu",
-            "type": "NDB",
-            "frequency_khz": "283",
-            "latitude_deg": "-22.433300018310547",
-            "longitude_deg": "-151.36700439453125",
-            "elevation_ft": "62",
-            "iso_country": "PF",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "14.174",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "NTAR"
-        }
     ]
 }

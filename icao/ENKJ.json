@@ -40,33 +40,5 @@
             "he_heading_degT": "303",
             "he_displaced_threshold_ft": "232"
         }
-    ],
-    "freqs": [
-        {
-            "id": "55807",
-            "airport_ref": "2582",
-            "airport_ident": "ENKJ",
-            "type": "CTAF",
-            "description": "Kjeller Traffic",
-            "frequency_mhz": "119.1"
-        }
-    ],
-    "country": {
-        "id": "302709",
-        "code": "NO",
-        "name": "Norway",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
-        "keywords": "Flyplasser i Norge"
-    },
-    "region": {
-        "id": "349851",
-        "code": "NO-30",
-        "local_code": "30",
-        "name": "Viken",
-        "continent": "EU",
-        "iso_country": "NO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Viken_(county)",
-        "keywords": "Airports in Viken"
-    }
+    ]
 }

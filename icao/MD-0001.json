@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Balti_-_City_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302704",
-        "code": "MD",
-        "name": "Moldova",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Moldova",
-        "keywords": "Airports in Moldova"
-    },
-    "region": {
-        "id": "306447",
-        "code": "MD-BL",
-        "local_code": "BL",
-        "name": "Bălţi (city)",
-        "continent": "EU",
-        "iso_country": "MD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bălţi",
-        "keywords": "Airports in Bălţi (city)"
-    }
+    "keywords": ""
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "316346",
-            "airport_ref": "316345",
-            "airport_ident": "PL-0083",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "123.45"
-        }
-    ],
-    "country": {
-        "id": "302710",
-        "code": "PL",
-        "name": "Poland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
-        "keywords": "Lotniska Polski"
-    },
-    "region": {
-        "id": "305155",
-        "code": "PL-SK",
-        "local_code": "SK",
-        "name": "Świętokrzyskie Voivodeship",
-        "continent": "EU",
-        "iso_country": "PL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/%C5%9Awi%C4%99tokrzyskie_Voivodeship",
-        "keywords": "Holy Cross"
-    }
+    ]
 }

@@ -40,41 +40,5 @@
             "he_heading_degT": "264.6",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "53875",
-            "airport_ref": "3301",
-            "airport_ident": "VAOZ",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "122.7"
-        },
-        {
-            "id": "53876",
-            "airport_ref": "3301",
-            "airport_ident": "VAOZ",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304183",
-        "code": "IN-MM",
-        "local_code": "MM",
-        "name": "Maharashtra",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Maharashtra",
-        "keywords": "Airports in Maharashtra"
-    }
+    ]
 }

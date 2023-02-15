@@ -40,41 +40,5 @@
             "he_heading_degT": "229",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "55628",
-            "airport_ref": "26863",
-            "airport_ident": "WMAP",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "122.4"
-        },
-        {
-            "id": "55629",
-            "airport_ref": "26863",
-            "airport_ident": "WMAP",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "128.3"
-        }
-    ],
-    "country": {
-        "id": "302653",
-        "code": "MY",
-        "name": "Malaysia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Malaysia",
-        "keywords": "Lapangan Terbang Malaysia"
-    },
-    "region": {
-        "id": "304823",
-        "code": "MY-01",
-        "local_code": "01",
-        "name": "Johor",
-        "continent": "AS",
-        "iso_country": "MY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Johor",
-        "keywords": "Airports in Johor"
-    }
+    ]
 }

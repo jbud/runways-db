@@ -16,23 +16,5 @@
     "local_code": "SIO",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Siorapaluk_Heliport",
-    "keywords": "Hiurapaluk",
-    "country": {
-        "id": "302736",
-        "code": "GL",
-        "name": "Greenland",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Greenland",
-        "keywords": "Airports in Greenland"
-    },
-    "region": {
-        "id": "505040",
-        "code": "GL-AV",
-        "local_code": "AV",
-        "name": "Avannaata Municipality",
-        "continent": "NA",
-        "iso_country": "GL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Avannaata",
-        "keywords": ""
-    }
+    "keywords": "Hiurapaluk"
 }

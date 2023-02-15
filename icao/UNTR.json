@@ -40,33 +40,5 @@
             "he_heading_degT": "194",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "354743",
-            "airport_ref": "354740",
-            "airport_ident": "UNTR",
-            "type": "CTAF",
-            "description": "Beryozkino",
-            "frequency_mhz": "119.15"
-        }
-    ],
-    "country": {
-        "id": "302714",
-        "code": "RU",
-        "name": "Russia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
-        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
-    },
-    "region": {
-        "id": "305331",
-        "code": "RU-TOM",
-        "local_code": "TOM",
-        "name": "Tomsk Oblast",
-        "continent": "EU",
-        "iso_country": "RU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tomsk_Oblast",
-        "keywords": "Airports in Tomsk Oblast"
-    }
+    ]
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302589",
-        "code": "MW",
-        "name": "Malawi",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Malawi",
-        "keywords": "Airports in Malawi"
-    },
-    "region": {
-        "id": "304769",
-        "code": "MW-KR",
-        "local_code": "KR",
-        "name": "Karonga District",
-        "continent": "AF",
-        "iso_country": "MW",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Karonga_District",
-        "keywords": "Airports in Karonga District"
-    }
+    "keywords": ""
 }

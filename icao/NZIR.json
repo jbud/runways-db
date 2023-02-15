@@ -62,49 +62,5 @@
             "he_heading_degT": "303.5",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "49269",
-            "airport_ref": "5035",
-            "airport_ident": "NZIR",
-            "type": "CNTR",
-            "description": "MCMURDO CNTR",
-            "frequency_mhz": "118.2"
-        },
-        {
-            "id": "49270",
-            "airport_ref": "5035",
-            "airport_ident": "NZIR",
-            "type": "EMR",
-            "description": "INTL DISTRESS",
-            "frequency_mhz": "218.2"
-        },
-        {
-            "id": "49271",
-            "airport_ref": "5035",
-            "airport_ident": "NZIR",
-            "type": "TWR",
-            "description": "ICE TWR",
-            "frequency_mhz": "126.2"
-        }
-    ],
-    "country": {
-        "id": "302615",
-        "code": "AQ",
-        "name": "Antarctica",
-        "continent": "AN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Antarctica",
-        "keywords": "Airports in Antarctica"
-    },
-    "region": {
-        "id": "302931",
-        "code": "AQ-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
-        "continent": "AN",
-        "iso_country": "AQ",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
-    }
+    ]
 }

@@ -62,33 +62,5 @@
             "he_heading_degT": "349",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "48315",
-            "airport_ref": "3969",
-            "airport_ident": "LAGJ",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "129.5"
-        }
-    ],
-    "country": {
-        "id": "302673",
-        "code": "AL",
-        "name": "Albania",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Albania",
-        "keywords": "Albanian airports"
-    },
-    "region": {
-        "id": "302881",
-        "code": "AL-08",
-        "local_code": "08",
-        "name": "Lezhë County",
-        "continent": "EU",
-        "iso_country": "AL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lezhë_County",
-        "keywords": "Airports in Lezhë County"
-    }
+    ]
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "277.8",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "54114",
-            "airport_ref": "4414",
-            "airport_ident": "LLES",
-            "type": "APP",
-            "description": "TEL AVIV APP",
-            "frequency_mhz": "132.05"
-        }
-    ],
-    "country": {
-        "id": "302633",
-        "code": "IL",
-        "name": "Israel",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Israel",
-        "keywords": "שדות התעופה של ישראל"
-    },
-    "region": {
-        "id": "304162",
-        "code": "IL-Z",
-        "local_code": "Z",
-        "name": "Northern District",
-        "continent": "AS",
-        "iso_country": "IL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_District_(Israel)",
-        "keywords": "Mehoz HaTzafon"
-    }
+    ]
 }

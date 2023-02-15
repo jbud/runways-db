@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Cacolo_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302556",
-        "code": "AO",
-        "name": "Angola",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Angola",
-        "keywords": "Angolan airports"
-    },
-    "region": {
-        "id": "302923",
-        "code": "AO-LSU",
-        "local_code": "LSU",
-        "name": "Lunda Sul Province",
-        "continent": "AF",
-        "iso_country": "AO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lunda_Sul_ Province",
-        "keywords": "Airports in Lunda Sul Province"
-    }
+    "keywords": ""
 }

@@ -40,41 +40,5 @@
             "he_heading_degT": "322",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "52052",
-            "airport_ref": "2352",
-            "airport_ident": "EFVR",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "128.325"
-        },
-        {
-            "id": "52053",
-            "airport_ref": "2352",
-            "airport_ident": "EFVR",
-            "type": "MISC",
-            "description": "AFIS",
-            "frequency_mhz": "120.4"
-        }
-    ],
-    "country": {
-        "id": "302685",
-        "code": "FI",
-        "name": "Finland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
-        "keywords": "Lentokentät, Suomen"
-    },
-    "region": {
-        "id": "336505",
-        "code": "FI-04",
-        "local_code": "04",
-        "name": "Southern Savonia Region",
-        "continent": "EU",
-        "iso_country": "FI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Savo",
-        "keywords": "Airports in Southern Savonia Region"
-    }
+    ]
 }

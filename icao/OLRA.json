@@ -40,33 +40,5 @@
             "he_heading_degT": "226.3",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "55154",
-            "airport_ref": "5224",
-            "airport_ident": "OLRA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.7"
-        }
-    ],
-    "country": {
-        "id": "302647",
-        "code": "LB",
-        "name": "Lebanon",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lebanon",
-        "keywords": "المطارات في لبنان"
-    },
-    "region": {
-        "id": "304461",
-        "code": "LB-BI",
-        "local_code": "BI",
-        "name": "Beqaa Governorate",
-        "continent": "AS",
-        "iso_country": "LB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Beqaa_Governorate",
-        "keywords": "Béqaa, البقاع‎"
-    }
+    ]
 }

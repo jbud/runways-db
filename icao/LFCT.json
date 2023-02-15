@@ -62,33 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "333346",
-            "airport_ref": "28798",
-            "airport_ident": "LFCT",
-            "type": "A/A",
-            "description": "",
-            "frequency_mhz": "123.35"
-        }
-    ],
-    "country": {
-        "id": "302687",
-        "code": "FR",
-        "name": "France",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
-        "keywords": "Aéroports de France"
-    },
-    "region": {
-        "id": "306352",
-        "code": "FR-NAQ",
-        "local_code": "NAQ",
-        "name": "Nouvelle-Aquitaine",
-        "continent": "EU",
-        "iso_country": "FR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nouvelle-Aquitaine",
-        "keywords": "Limousin, Poitou-Charentes"
-    }
+    ]
 }

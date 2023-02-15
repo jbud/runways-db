@@ -40,33 +40,5 @@
             "he_heading_degT": "4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "319268",
-            "airport_ref": "5743",
-            "airport_ident": "RPVO",
-            "type": "UNICOM",
-            "description": "Ormoc Traffic Advisory",
-            "frequency_mhz": "121.9"
-        }
-    ],
-    "country": {
-        "id": "302656",
-        "code": "PH",
-        "name": "Philippines",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
-        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
-    },
-    "region": {
-        "id": "305095",
-        "code": "PH-LEY",
-        "local_code": "LEY",
-        "name": "Leyte Province",
-        "continent": "AS",
-        "iso_country": "PH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Leyte_Province",
-        "keywords": "Airports in Leyte Province"
-    }
+    ]
 }

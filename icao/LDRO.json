@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302692",
-        "code": "HR",
-        "name": "Croatia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Croatia",
-        "keywords": "Croatian airports"
-    },
-    "region": {
-        "id": "304033",
-        "code": "HR-09",
-        "local_code": "09",
-        "name": "Lika-Senj County",
-        "continent": "EU",
-        "iso_country": "HR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lika-Senj_County",
-        "keywords": "Airports in Lika-Senj County"
-    }
+    "keywords": ""
 }

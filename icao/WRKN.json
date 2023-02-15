@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302632",
-        "code": "ID",
-        "name": "Indonesia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
-        "keywords": "Bandara di Indonesia"
-    },
-    "region": {
-        "id": "304117",
-        "code": "ID-NT",
-        "local_code": "NT",
-        "name": "Nusa Tenggara Timur (East Nusa Tenggara)",
-        "continent": "AS",
-        "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nusa_Tenggara_Timur",
-        "keywords": "Airports in Nusa Tenggara Timur"
-    }
+    "keywords": ""
 }

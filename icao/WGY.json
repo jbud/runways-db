@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "WGY, WGY",
-    "country": {
-        "id": "302573",
-        "code": "GA",
-        "name": "Gabon",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Gabon",
-        "keywords": "Gabonese airports"
-    },
-    "region": {
-        "id": "303826",
-        "code": "GA-7",
-        "local_code": "7",
-        "name": "Ogooué-Lolo Province",
-        "continent": "AF",
-        "iso_country": "GA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ogoou%C3%A9-Lolo_Province",
-        "keywords": "Airports in Ogooué-Lolo Province"
-    }
+    "keywords": "WGY, WGY"
 }

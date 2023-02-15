@@ -106,49 +106,5 @@
             "he_heading_degT": "309.7",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "310815",
-            "airport_ref": "2342",
-            "airport_ident": "EFRY",
-            "type": "ACC",
-            "description": "Tampere radar",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "52129",
-            "airport_ref": "2342",
-            "airport_ident": "EFRY",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "122.625"
-        },
-        {
-            "id": "310814",
-            "airport_ref": "2342",
-            "airport_ident": "EFRY",
-            "type": "RDo",
-            "description": "Räyskälä traffic",
-            "frequency_mhz": "122.65"
-        }
-    ],
-    "country": {
-        "id": "302685",
-        "code": "FI",
-        "name": "Finland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
-        "keywords": "Lentokentät, Suomen"
-    },
-    "region": {
-        "id": "336507",
-        "code": "FI-06",
-        "local_code": "06",
-        "name": "Kanta-Häme Region",
-        "continent": "EU",
-        "iso_country": "FI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kanta-H%C3%A4me",
-        "keywords": "Airports in Kanta-Häme Region"
-    }
+    ]
 }

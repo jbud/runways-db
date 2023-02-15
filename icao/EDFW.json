@@ -40,41 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "322918",
-            "airport_ref": "28764",
-            "airport_ident": "EDFW",
-            "type": "AFIS",
-            "description": "Schenkenturm Info",
-            "frequency_mhz": "122.175"
-        },
-        {
-            "id": "322919",
-            "airport_ref": "28764",
-            "airport_ident": "EDFW",
-            "type": "FIS",
-            "description": "Langen Information",
-            "frequency_mhz": "119.15"
-        }
-    ],
-    "country": {
-        "id": "302681",
-        "code": "DE",
-        "name": "Germany",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
-        "keywords": "Flughäfen in Deutschland"
-    },
-    "region": {
-        "id": "303550",
-        "code": "DE-BY",
-        "local_code": "BY",
-        "name": "Bavaria",
-        "continent": "EU",
-        "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
-        "keywords": "Bayern"
-    }
+    ]
 }

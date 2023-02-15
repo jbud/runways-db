@@ -40,41 +40,5 @@
             "he_heading_degT": "205",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "50981",
-            "airport_ref": "1111",
-            "airport_ident": "CJQ6",
-            "type": "A/G",
-            "description": "AIR GND",
-            "frequency_mhz": "444.1"
-        },
-        {
-            "id": "50982",
-            "airport_ref": "1111",
-            "airport_ident": "CJQ6",
-            "type": "ATF",
-            "description": "Tanquary Traffic, 5nm below 3100ASL",
-            "frequency_mhz": "123.2"
-        }
-    ],
-    "country": {
-        "id": "302730",
-        "code": "CA",
-        "name": "Canada",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
-        "keywords": "Canadian airports"
-    },
-    "region": {
-        "id": "303301",
-        "code": "CA-NU",
-        "local_code": "NU",
-        "name": "Nunavut",
-        "continent": "NA",
-        "iso_country": "CA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nunavut",
-        "keywords": "Airports in Nunavut"
-    }
+    ]
 }

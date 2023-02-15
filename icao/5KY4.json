@@ -40,33 +40,5 @@
             "he_heading_degT": "317",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "59436",
-            "airport_ref": "18493",
-            "airport_ident": "5KY4",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306093",
-        "code": "US-KY",
-        "local_code": "KY",
-        "name": "Kentucky",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
-        "keywords": "Airports in Kentucky"
-    }
+    ]
 }

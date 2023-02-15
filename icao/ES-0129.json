@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "https://web.archive.org/web/20190502151940/http://aerodromojuanespadafor.com:80/wp/",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302684",
-        "code": "ES",
-        "name": "Spain",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
-        "keywords": "Aeropuertos de España"
-    },
-    "region": {
-        "id": "303729",
-        "code": "ES-AN",
-        "local_code": "AN",
-        "name": "Andalucía",
-        "continent": "EU",
-        "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Andalusia",
-        "keywords": "Airports in Andalucía"
-    }
+    "keywords": ""
 }

@@ -62,49 +62,5 @@
             "he_heading_degT": "297.1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "64773",
-            "airport_ref": "21046",
-            "airport_ident": "KSDY",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.275"
-        },
-        {
-            "id": "64774",
-            "airport_ref": "21046",
-            "airport_ident": "KSDY",
-            "type": "RDO",
-            "description": "GREAT FALLS RDO",
-            "frequency_mhz": "123.65"
-        },
-        {
-            "id": "64775",
-            "airport_ref": "21046",
-            "airport_ident": "KSDY",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306102",
-        "code": "US-MT",
-        "local_code": "MT",
-        "name": "Montana",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
-        "keywords": "Airports in Montana"
-    }
+    ]
 }

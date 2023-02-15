@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": "100"
         }
-    ],
-    "freqs": [
-        {
-            "id": "320044",
-            "airport_ref": "1451",
-            "airport_ident": "CPS4",
-            "type": "ATF",
-            "description": "traffic, 5NM 4000 ASL",
-            "frequency_mhz": "123.2"
-        }
-    ],
-    "country": {
-        "id": "302730",
-        "code": "CA",
-        "name": "Canada",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
-        "keywords": "Canadian airports"
-    },
-    "region": {
-        "id": "303302",
-        "code": "CA-ON",
-        "local_code": "ON",
-        "name": "Ontario",
-        "continent": "NA",
-        "iso_country": "CA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
-        "keywords": "Airports in Ontario"
-    }
+    ]
 }

@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302589",
-        "code": "MW",
-        "name": "Malawi",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Malawi",
-        "keywords": "Airports in Malawi"
-    },
-    "region": {
-        "id": "304764",
-        "code": "MW-CK",
-        "local_code": "CK",
-        "name": "Chikwawa District",
-        "continent": "AF",
-        "iso_country": "MW",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chikwawa_District",
-        "keywords": "Airports in Chikwawa District"
-    }
+    ]
 }

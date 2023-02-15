@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302677",
-        "code": "BG",
-        "name": "Bulgaria",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bulgaria",
-        "keywords": "Bulgarian airports"
-    },
-    "region": {
-        "id": "303151",
-        "code": "BG-27",
-        "local_code": "27",
-        "name": "Sumen Province",
-        "continent": "EU",
-        "iso_country": "BG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sumen_Province",
-        "keywords": "Airports in Sumen Province"
-    }
+    "keywords": ""
 }

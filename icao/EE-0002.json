@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Tokhaapsalu",
-    "keywords": "Tokhaapsalu Air Base",
-    "country": {
-        "id": "302683",
-        "code": "EE",
-        "name": "Estonia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Estonia",
-        "keywords": "Estonian airports"
-    },
-    "region": {
-        "id": "303680",
-        "code": "EE-57",
-        "local_code": "57",
-        "name": "Lääne County",
-        "continent": "EU",
-        "iso_country": "EE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/L%C3%A4%C3%A4ne_County",
-        "keywords": "Airports in Lääne County"
-    }
+    "keywords": "Tokhaapsalu Air Base"
 }

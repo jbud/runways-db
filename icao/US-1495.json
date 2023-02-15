@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/South_Lawn",
-    "keywords": "white house south lawn",
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306083",
-        "code": "US-DC",
-        "local_code": "DC",
-        "name": "District of Columbia",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/District_of_Columbia",
-        "keywords": "Airports in the District of Columbia"
-    }
+    "keywords": "white house south lawn"
 }

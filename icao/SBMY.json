@@ -40,57 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "49744",
-            "airport_ref": "5946",
-            "airport_ident": "SBMY",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "125.9"
-        }
-    ],
-    "country": {
-        "id": "302791",
-        "code": "BR",
-        "name": "Brazil",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
-        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
-    },
-    "region": {
-        "id": "303201",
-        "code": "BR-AM",
-        "local_code": "AM",
-        "name": "Amazonas",
-        "continent": "SA",
-        "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Amazonas_(Brazilian_state)",
-        "keywords": "Airports in Amazonas"
-    },
-    "navaids": [
-        {
-            "id": "90806",
-            "filename": "Manicore_NDB_BR",
-            "ident": "MCR",
-            "name": "Manicore",
-            "type": "NDB",
-            "frequency_khz": "310",
-            "latitude_deg": "-5.8071699142456055",
-            "longitude_deg": "-61.28200149536133",
-            "elevation_ft": "",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-13.115",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBMY"
-        }
     ]
 }

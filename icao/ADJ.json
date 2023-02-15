@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Castletown",
-    "keywords": "",
-    "country": {
-        "id": "302688",
-        "code": "GB",
-        "name": "United Kingdom",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
-        "keywords": "Great Britain"
-    },
-    "region": {
-        "id": "306377",
-        "code": "GB-SCT",
-        "local_code": "SCT",
-        "name": "Scotland",
-        "continent": "EU",
-        "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
-        "keywords": "keep"
-    }
+    "keywords": ""
 }

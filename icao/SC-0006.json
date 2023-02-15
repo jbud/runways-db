@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302596",
-        "code": "SC",
-        "name": "Seychelles",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Seychelles",
-        "keywords": "Airports in Seychelles"
-    },
-    "region": {
-        "id": "306647",
-        "code": "SC-21",
-        "local_code": "21",
-        "name": "Port Glaud",
-        "continent": "AF",
-        "iso_country": "SC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Port_Glaud",
-        "keywords": "Airports in Port Glaud"
-    }
+    "keywords": ""
 }

@@ -40,23 +40,5 @@
             "he_heading_degT": "2.5",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302619",
-        "code": "AF",
-        "name": "Afghanistan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Afghanistan",
-        "keywords": ""
-    },
-    "region": {
-        "id": "302832",
-        "code": "AF-FRA",
-        "local_code": "FRA",
-        "name": "Farah Province",
-        "continent": "AS",
-        "iso_country": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Farah_Province",
-        "keywords": "Airports in Farah Province"
-    }
+    ]
 }

@@ -40,41 +40,5 @@
             "he_heading_degT": "312",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "53608",
-            "airport_ref": "3270",
-            "airport_ident": "WA44",
-            "type": "AFIS",
-            "description": "HASANDUDDIN INFO",
-            "frequency_mhz": "905.5"
-        },
-        {
-            "id": "53609",
-            "airport_ref": "3270",
-            "airport_ident": "WA44",
-            "type": "RDO",
-            "description": "TOMEA RDO",
-            "frequency_mhz": "122.7"
-        }
-    ],
-    "country": {
-        "id": "302632",
-        "code": "ID",
-        "name": "Indonesia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
-        "keywords": "Bandara di Indonesia"
-    },
-    "region": {
-        "id": "304122",
-        "code": "ID-SG",
-        "local_code": "SG",
-        "name": "Sulawesi Tenggara (Southeast Sulawesi)",
-        "continent": "AS",
-        "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sulawesi_Tenggara",
-        "keywords": "Airports in Sulawesi Tenggara"
-    }
+    ]
 }

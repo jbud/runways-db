@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Baltra_Island",
-    "keywords": "",
-    "country": {
-        "id": "302794",
-        "code": "EC",
-        "name": "Ecuador",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
-        "keywords": "Aeropuertos de Ecuador"
-    },
-    "region": {
-        "id": "303671",
-        "code": "EC-W",
-        "local_code": "W",
-        "name": "Galapagos Province",
-        "continent": "SA",
-        "iso_country": "EC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Galapagos_Province",
-        "keywords": "Airports in Galapagos Province"
-    }
+    "keywords": ""
 }

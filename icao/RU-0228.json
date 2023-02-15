@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Аэродром Рыдома",
-    "country": {
-        "id": "302714",
-        "code": "RU",
-        "name": "Russia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
-        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
-    },
-    "region": {
-        "id": "305332",
-        "code": "RU-TUL",
-        "local_code": "TUL",
-        "name": "Tula Oblast",
-        "continent": "EU",
-        "iso_country": "RU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tula_Oblast",
-        "keywords": "Airports in Tula Oblast"
-    }
+    "keywords": "Аэродром Рыдома"
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Sajeong-ri, Cheongwon Rest",
-    "country": {
-        "id": "302643",
-        "code": "KR",
-        "name": "South Korea",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Korea",
-        "keywords": "한국의 공항"
-    },
-    "region": {
-        "id": "304409",
-        "code": "KR-43",
-        "local_code": "43",
-        "name": "Chungcheongbugdo",
-        "continent": "AS",
-        "iso_country": "KR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chungcheongbugdo",
-        "keywords": "Airports in Chungcheongbugdo"
-    }
+    "keywords": "Sajeong-ri, Cheongwon Rest"
 }

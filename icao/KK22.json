@@ -40,49 +40,5 @@
             "he_heading_degT": "211",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "68585",
-            "airport_ref": "20244",
-            "airport_ident": "KK22",
-            "type": "A/D",
-            "description": "HUNTINGTON APP/DEP",
-            "frequency_mhz": "119.75"
-        },
-        {
-            "id": "68586",
-            "airport_ref": "20244",
-            "airport_ident": "KK22",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "120.175"
-        },
-        {
-            "id": "68587",
-            "airport_ref": "20244",
-            "airport_ident": "KK22",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123.05"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306093",
-        "code": "US-KY",
-        "local_code": "KY",
-        "name": "Kentucky",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
-        "keywords": "Airports in Kentucky"
-    }
+    ]
 }

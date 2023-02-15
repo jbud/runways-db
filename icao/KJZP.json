@@ -40,57 +40,5 @@
             "he_heading_degT": "339",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "61247",
-            "airport_ref": "20235",
-            "airport_ident": "KJZP",
-            "type": "AWOS",
-            "description": "AWOS A",
-            "frequency_mhz": "28.5"
-        },
-        {
-            "id": "61248",
-            "airport_ref": "20235",
-            "airport_ident": "KJZP",
-            "type": "CNTR",
-            "description": "ATLANTA CNTR APP/DEP",
-            "frequency_mhz": "133.1"
-        },
-        {
-            "id": "61249",
-            "airport_ref": "20235",
-            "airport_ident": "KJZP",
-            "type": "GCO",
-            "description": "MACON FSS",
-            "frequency_mhz": "121.725"
-        },
-        {
-            "id": "61250",
-            "airport_ref": "20235",
-            "airport_ident": "KJZP",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306086",
-        "code": "US-GA",
-        "local_code": "GA",
-        "name": "Georgia",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
-        "keywords": "Airports in Georgia"
-    }
+    ]
 }

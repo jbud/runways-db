@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "308577",
-            "airport_ref": "43988",
-            "airport_ident": "HU-0006",
-            "type": "TOWER",
-            "description": "",
-            "frequency_mhz": "123.2"
-        }
-    ],
-    "country": {
-        "id": "302693",
-        "code": "HU",
-        "name": "Hungary",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
-        "keywords": "Repülőterek Magyarország"
-    },
-    "region": {
-        "id": "304061",
-        "code": "HU-CS",
-        "local_code": "CS",
-        "name": "Csongrád-Csanád County",
-        "continent": "EU",
-        "iso_country": "HU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Csongrád-Csanád_County",
-        "keywords": "Airports in Csongrád-Csanád County"
-    }
+    ]
 }

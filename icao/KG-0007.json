@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302640",
-        "code": "KG",
-        "name": "Kyrgyzstan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kyrgyzstan",
-        "keywords": ""
-    },
-    "region": {
-        "id": "304344",
-        "code": "KG-C",
-        "local_code": "C",
-        "name": "Chuy Region",
-        "continent": "AS",
-        "iso_country": "KG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chuy_Region",
-        "keywords": "Chui"
-    }
+    ]
 }

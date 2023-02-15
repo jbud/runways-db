@@ -40,47 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302793",
-        "code": "CO",
-        "name": "Colombia",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
-        "keywords": "Aeropuertos de Colombia"
-    },
-    "region": {
-        "id": "303457",
-        "code": "CO-AMA",
-        "local_code": "AMA",
-        "name": "Amazonas Department",
-        "continent": "SA",
-        "iso_country": "CO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Amazonas_Department",
-        "keywords": "Airports in Amazonas Department"
-    },
-    "navaids": [
-        {
-            "id": "90498",
-            "filename": "La_Pedrera_NDB_CO",
-            "ident": "LPD",
-            "name": "La Pedrera",
-            "type": "NDB",
-            "frequency_khz": "315",
-            "latitude_deg": "-1.322100043296814",
-            "longitude_deg": "-69.5802001953125",
-            "elevation_ft": "590",
-            "iso_country": "CO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.503",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SKLP"
-        }
     ]
 }

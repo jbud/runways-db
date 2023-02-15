@@ -62,57 +62,5 @@
             "he_heading_degT": "0.2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "58711",
-            "airport_ref": "19388",
-            "airport_ident": "KBLH",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "120.175"
-        },
-        {
-            "id": "58712",
-            "airport_ref": "19388",
-            "airport_ident": "KBLH",
-            "type": "CNTR",
-            "description": "LOS ANGELES CNTR",
-            "frequency_mhz": "128.15"
-        },
-        {
-            "id": "58713",
-            "airport_ref": "19388",
-            "airport_ident": "KBLH",
-            "type": "RDO",
-            "description": "RIVERSIDE RDO",
-            "frequency_mhz": "122.4"
-        },
-        {
-            "id": "58714",
-            "airport_ref": "19388",
-            "airport_ident": "KBLH",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306080",
-        "code": "US-CA",
-        "local_code": "CA",
-        "name": "California",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
-        "keywords": "Californian airports"
-    }
+    ]
 }

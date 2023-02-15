@@ -16,41 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "freqs": [
-        {
-            "id": "75311",
-            "airport_ref": "30738",
-            "airport_ident": "BIMS",
-            "type": "afis",
-            "description": "Tungubakki",
-            "frequency_mhz": "118.2"
-        },
-        {
-            "id": "75312",
-            "airport_ref": "30738",
-            "airport_ident": "BIMS",
-            "type": "TWR: BIRK",
-            "description": "Reykjavik Tower",
-            "frequency_mhz": "118"
-        }
-    ],
-    "country": {
-        "id": "302696",
-        "code": "IS",
-        "name": "Iceland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iceland",
-        "keywords": "Icelandic airports"
-    },
-    "region": {
-        "id": "304247",
-        "code": "IS-1",
-        "local_code": "1",
-        "name": "Capital Region",
-        "continent": "EU",
-        "iso_country": "IS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Capital_Region_(Iceland)",
-        "keywords": "Höfuðborgarsvæði"
-    }
+    "keywords": ""
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "313",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "314923",
-            "airport_ref": "28602",
-            "airport_ident": "EDVI",
-            "type": "INFO",
-            "description": "Höxter Info",
-            "frequency_mhz": "130.28"
-        }
-    ],
-    "country": {
-        "id": "302681",
-        "code": "DE",
-        "name": "Germany",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
-        "keywords": "Flughäfen in Deutschland"
-    },
-    "region": {
-        "id": "303556",
-        "code": "DE-NW",
-        "local_code": "NW",
-        "name": "North Rhine-Westphalia",
-        "continent": "EU",
-        "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Rhine-Westphalia",
-        "keywords": "Nordrhein-Westfalen"
-    }
+    ]
 }

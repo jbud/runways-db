@@ -40,49 +40,5 @@
             "he_heading_degT": "344.3",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "68673",
-            "airport_ref": "19392",
-            "airport_ident": "KBML",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "135.175"
-        },
-        {
-            "id": "68674",
-            "airport_ref": "19392",
-            "airport_ident": "KBML",
-            "type": "RDO",
-            "description": "BANGOR RDO/CLNC DEL",
-            "frequency_mhz": "122.35"
-        },
-        {
-            "id": "68675",
-            "airport_ref": "19392",
-            "airport_ident": "KBML",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.7"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306106",
-        "code": "US-NH",
-        "local_code": "NH",
-        "name": "New Hampshire",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Hampshire",
-        "keywords": "Airports in New Hampshire"
-    }
+    ]
 }

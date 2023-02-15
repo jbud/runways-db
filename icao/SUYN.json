@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302801",
-        "code": "UY",
-        "name": "Uruguay",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Uruguay",
-        "keywords": "Aeropuertos de Uruguay"
-    },
-    "region": {
-        "id": "306139",
-        "code": "UY-RN",
-        "local_code": "RN",
-        "name": "Río Negro Department",
-        "continent": "SA",
-        "iso_country": "UY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Río_Negro_Department",
-        "keywords": "Airports in Río Negro Department"
-    }
+    "keywords": ""
 }

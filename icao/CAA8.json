@@ -40,41 +40,5 @@
             "he_heading_degT": "350",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "49952",
-            "airport_ref": "612",
-            "airport_ident": "CAA8",
-            "type": "ATF",
-            "description": "ATF",
-            "frequency_mhz": "123.2"
-        },
-        {
-            "id": "49953",
-            "airport_ref": "612",
-            "airport_ident": "CAA8",
-            "type": "RCO",
-            "description": "PACIFIC RDO",
-            "frequency_mhz": "126.7"
-        }
-    ],
-    "country": {
-        "id": "302730",
-        "code": "CA",
-        "name": "Canada",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
-        "keywords": "Canadian airports"
-    },
-    "region": {
-        "id": "303295",
-        "code": "CA-BC",
-        "local_code": "BC",
-        "name": "British Columbia",
-        "continent": "NA",
-        "iso_country": "CA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
-        "keywords": "British Columbian airports"
-    }
+    ]
 }

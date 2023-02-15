@@ -62,49 +62,5 @@
             "he_heading_degT": "320.6",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "67411",
-            "airport_ref": "19501",
-            "airport_ident": "KCIR",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.025"
-        },
-        {
-            "id": "67412",
-            "airport_ref": "19501",
-            "airport_ident": "KCIR",
-            "type": "CNTR",
-            "description": "MEMPHIS CNTR",
-            "frequency_mhz": "133.65"
-        },
-        {
-            "id": "67413",
-            "airport_ref": "19501",
-            "airport_ident": "KCIR",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306090",
-        "code": "US-IL",
-        "local_code": "IL",
-        "name": "Illinois",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
-        "keywords": "Airports in Illinois"
-    }
+    ]
 }

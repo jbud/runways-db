@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Heliponto da Centro Hospitalar Conde de São Januário, Conde de São Januário Hospital Heliport",
-    "country": {
-        "id": "302651",
-        "code": "MO",
-        "name": "Macau",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Macau",
-        "keywords": "Macao"
-    },
-    "region": {
-        "id": "504908",
-        "code": "MO-SEE",
-        "local_code": "SEE",
-        "name": "Sé (Da)",
-        "continent": "AS",
-        "iso_country": "MO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A9,_Macau",
-        "keywords": ""
-    }
+    "keywords": "Heliponto da Centro Hospitalar Conde de São Januário, Conde de São Januário Hospital Heliport"
 }

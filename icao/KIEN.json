@@ -62,49 +62,5 @@
             "he_heading_degT": "309",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "64212",
-            "airport_ref": "20157",
-            "airport_ident": "KIEN",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "126.775"
-        },
-        {
-            "id": "64213",
-            "airport_ref": "20157",
-            "airport_ident": "KIEN",
-            "type": "CNTR",
-            "description": "DENVER CNTR",
-            "frequency_mhz": "127.95"
-        },
-        {
-            "id": "64214",
-            "airport_ref": "20157",
-            "airport_ident": "KIEN",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306117",
-        "code": "US-SD",
-        "local_code": "SD",
-        "name": "South Dakota",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Dakota",
-        "keywords": "Airports in South Dakota"
-    }
+    ]
 }

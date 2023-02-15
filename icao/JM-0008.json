@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302741",
-        "code": "JM",
-        "name": "Jamaica",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Jamaica",
-        "keywords": "Jamaican airports"
-    },
-    "region": {
-        "id": "304269",
-        "code": "JM-12",
-        "local_code": "12",
-        "name": "Manchester Parish",
-        "continent": "NA",
-        "iso_country": "JM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Manchester_Parish",
-        "keywords": "Airports in Manchester"
-    }
+    "keywords": ""
 }

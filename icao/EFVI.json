@@ -40,41 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "310832",
-            "airport_ref": "30532",
-            "airport_ident": "EFVI",
-            "type": "ACC",
-            "description": "Tampere radar",
-            "frequency_mhz": "132.325"
-        },
-        {
-            "id": "310831",
-            "airport_ref": "30532",
-            "airport_ident": "EFVI",
-            "type": "RDO",
-            "description": "Viitasaari traffic",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302685",
-        "code": "FI",
-        "name": "Finland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
-        "keywords": "Lentokentät, Suomen"
-    },
-    "region": {
-        "id": "336509",
-        "code": "FI-08",
-        "local_code": "08",
-        "name": "Central Finland Region",
-        "continent": "EU",
-        "iso_country": "FI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Finland",
-        "keywords": "Airports in Central Finland Region"
-    }
+    ]
 }

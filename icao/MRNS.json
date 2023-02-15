@@ -40,33 +40,5 @@
             "he_heading_degT": "216",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "51610",
-            "airport_ref": "4809",
-            "airport_ident": "MRNS",
-            "type": "RDO",
-            "description": "COCO RDO",
-            "frequency_mhz": "126.8"
-        }
-    ],
-    "country": {
-        "id": "302731",
-        "code": "CR",
-        "name": "Costa Rica",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Costa_Rica",
-        "keywords": "Aeropuertos de Costa Rica"
-    },
-    "region": {
-        "id": "303493",
-        "code": "CR-G",
-        "local_code": "G",
-        "name": "Guanacaste Province",
-        "continent": "NA",
-        "iso_country": "CR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Guanacaste_Province",
-        "keywords": "Airports in Guanacaste"
-    }
+    ]
 }

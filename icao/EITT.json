@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "313605",
-            "airport_ref": "43998",
-            "airport_ident": "EITT",
-            "type": "Radio",
-            "description": "",
-            "frequency_mhz": "118.275"
-        }
-    ],
-    "country": {
-        "id": "302694",
-        "code": "IE",
-        "name": "Ireland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ireland",
-        "keywords": "Eire"
-    },
-    "region": {
-        "id": "304144",
-        "code": "IE-MH",
-        "local_code": "MH",
-        "name": "County Meath",
-        "continent": "EU",
-        "iso_country": "IE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Meath",
-        "keywords": "Airports in County Meath"
-    }
+    ]
 }

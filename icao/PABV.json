@@ -62,49 +62,5 @@
             "he_heading_degT": "204",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "68523",
-            "airport_ref": "5344",
-            "airport_ident": "PABV",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "135.55"
-        },
-        {
-            "id": "68524",
-            "airport_ref": "5344",
-            "airport_ident": "PABV",
-            "type": "CNTR",
-            "description": "ANCHORAGE CNTR",
-            "frequency_mhz": "132.3"
-        },
-        {
-            "id": "68525",
-            "airport_ref": "5344",
-            "airport_ident": "PABV",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306076",
-        "code": "US-AK",
-        "local_code": "AK",
-        "name": "Alaska",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
-        "keywords": "Airports in Alaska"
-    }
+    ]
 }

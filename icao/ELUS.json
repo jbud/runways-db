@@ -40,33 +40,5 @@
             "he_heading_degT": "281",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "309828",
-            "airport_ref": "31003",
-            "airport_ident": "ELUS",
-            "type": "AFIS",
-            "description": "Urseldange Radio",
-            "frequency_mhz": "129.435"
-        }
-    ],
-    "country": {
-        "id": "302701",
-        "code": "LU",
-        "name": "Luxembourg",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Luxembourg",
-        "keywords": "Airports in Luxembourg"
-    },
-    "region": {
-        "id": "304505",
-        "code": "LU-D",
-        "local_code": "D",
-        "name": "Diekirch",
-        "continent": "EU",
-        "iso_country": "LU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Diekirch",
-        "keywords": "Airports in Diekirch"
-    }
+    ]
 }

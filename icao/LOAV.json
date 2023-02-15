@@ -84,49 +84,5 @@
             "he_heading_degT": "126",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "317147",
-            "airport_ref": "28136",
-            "airport_ident": "LOAV",
-            "type": "AFIS",
-            "description": "Vöslau Aerodrome",
-            "frequency_mhz": "118.605"
-        },
-        {
-            "id": "318908",
-            "airport_ref": "28136",
-            "airport_ident": "LOAV",
-            "type": "APP",
-            "description": "Wien Radar",
-            "frequency_mhz": "134.675"
-        },
-        {
-            "id": "318907",
-            "airport_ref": "28136",
-            "airport_ident": "LOAV",
-            "type": "FIS",
-            "description": "Wien Information",
-            "frequency_mhz": "118.525"
-        }
-    ],
-    "country": {
-        "id": "302674",
-        "code": "AT",
-        "name": "Austria",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
-        "keywords": "Flughäfen in Österreich"
-    },
-    "region": {
-        "id": "302959",
-        "code": "AT-3",
-        "local_code": "3",
-        "name": "Lower Austria",
-        "continent": "EU",
-        "iso_country": "AT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Austria",
-        "keywords": "Niederösterreich"
-    }
+    ]
 }

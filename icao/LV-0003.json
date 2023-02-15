@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Druva Airfield",
-    "country": {
-        "id": "302702",
-        "code": "LV",
-        "name": "Latvia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Latvia",
-        "keywords": "Latvian airports"
-    },
-    "region": {
-        "id": "304534",
-        "code": "LV-088",
-        "local_code": "088",
-        "name": "Saldus Municipality",
-        "continent": "EU",
-        "iso_country": "LV",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Saldus_Municipality",
-        "keywords": "Airports in Saldus Municipality"
-    }
+    "keywords": "Druva Airfield"
 }

@@ -62,57 +62,5 @@
             "he_heading_degT": "360",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "62731",
-            "airport_ref": "21315",
-            "airport_ident": "KVCV",
-            "type": "A/D",
-            "description": "JOSHUA APP/DEP",
-            "frequency_mhz": "124.55"
-        },
-        {
-            "id": "62732",
-            "airport_ref": "21315",
-            "airport_ident": "KVCV",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "109.4"
-        },
-        {
-            "id": "62733",
-            "airport_ref": "21315",
-            "airport_ident": "KVCV",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "124.45"
-        },
-        {
-            "id": "62734",
-            "airport_ref": "21315",
-            "airport_ident": "KVCV",
-            "type": "TWR",
-            "description": "VICTORVILLE TWR",
-            "frequency_mhz": "118.35"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306080",
-        "code": "US-CA",
-        "local_code": "CA",
-        "name": "California",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
-        "keywords": "Californian airports"
-    }
+    ]
 }

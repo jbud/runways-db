@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302700",
-        "code": "LT",
-        "name": "Lithuania",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lithuania",
-        "keywords": "Lithuanian airports"
-    },
-    "region": {
-        "id": "304501",
-        "code": "LT-TE",
-        "local_code": "TE",
-        "name": "Telšiai County",
-        "continent": "EU",
-        "iso_country": "LT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tel%C5%A1iai_County",
-        "keywords": "Airports in Telšiai County"
-    }
+    "keywords": ""
 }

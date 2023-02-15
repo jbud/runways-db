@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Sjenica_Airport",
-    "keywords": "војни аеродром Дубиње, Sjenica Air Base, Dubinje Airport, LYSJ",
-    "country": {
-        "id": "302713",
-        "code": "RS",
-        "name": "Serbia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Serbia",
-        "keywords": "Serb"
-    },
-    "region": {
-        "id": "306606",
-        "code": "RS-16",
-        "local_code": "16",
-        "name": "Zlatibor District",
-        "continent": "EU",
-        "iso_country": "RS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Zlatibor_District",
-        "keywords": "Airports in Zlatibor District"
-    }
+    "keywords": "војни аеродром Дубиње, Sjenica Air Base, Dubinje Airport, LYSJ"
 }

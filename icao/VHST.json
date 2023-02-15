@@ -16,41 +16,5 @@
     "local_code": "",
     "home_link": "http://www.skyshuttlehk.com/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Hong_Kong-Macau_Ferry_Pier,_Hong_Kong#Heliport",
-    "keywords": "",
-    "freqs": [
-        {
-            "id": "75397",
-            "airport_ref": "43192",
-            "airport_ident": "VHST",
-            "type": "STAR",
-            "description": "Shun Tak Heliport Radio",
-            "frequency_mhz": "131"
-        },
-        {
-            "id": "75398",
-            "airport_ref": "43192",
-            "airport_ident": "VHST",
-            "type": "ZNC",
-            "description": "Zone Control",
-            "frequency_mhz": "120.6"
-        }
-    ],
-    "country": {
-        "id": "302631",
-        "code": "HK",
-        "name": "Hong Kong",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hong_Kong",
-        "keywords": "Airports in Hong Kong"
-    },
-    "region": {
-        "id": "504837",
-        "code": "HK-HK",
-        "local_code": "HK",
-        "name": "Hong Kong Island",
-        "continent": "AS",
-        "iso_country": "HK",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hong_Kong_Island",
-        "keywords": ""
-    }
+    "keywords": ""
 }

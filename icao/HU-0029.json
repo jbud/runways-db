@@ -62,33 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "506049",
-            "airport_ref": "317630",
-            "airport_ident": "HU-0029",
-            "type": "CTAF",
-            "description": "Atkar traffic",
-            "frequency_mhz": "129.985"
-        }
-    ],
-    "country": {
-        "id": "302693",
-        "code": "HU",
-        "name": "Hungary",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
-        "keywords": "Repülőterek Magyarország"
-    },
-    "region": {
-        "id": "304069",
-        "code": "HU-HE",
-        "local_code": "HE",
-        "name": "Heves County",
-        "continent": "EU",
-        "iso_country": "HU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Heves_County",
-        "keywords": "Airports in Heves County"
-    }
+    ]
 }

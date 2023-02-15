@@ -40,33 +40,5 @@
             "he_heading_degT": "319",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "307057",
-            "airport_ref": "14377",
-            "airport_ident": "7S3",
-            "type": "CTAF",
-            "description": "Twin Oaks Traffic",
-            "frequency_mhz": "123.05"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306113",
-        "code": "US-OR",
-        "local_code": "OR",
-        "name": "Oregon",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Oregon",
-        "keywords": "Airports in Oregon"
-    }
+    ]
 }

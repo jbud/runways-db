@@ -16,23 +16,5 @@
     "local_code": "ZKA",
     "home_link": "",
     "wikipedia_link": "https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Zacacoyuca",
-    "keywords": "MM2B, MX50",
-    "country": {
-        "id": "302747",
-        "code": "MX",
-        "name": "Mexico",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
-        "keywords": "Aeropuertos de México, Mexican airports"
-    },
-    "region": {
-        "id": "304800",
-        "code": "MX-GRO",
-        "local_code": "GRO",
-        "name": "Guerrero",
-        "continent": "NA",
-        "iso_country": "MX",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Guerrero",
-        "keywords": "Airports in Guerrero"
-    }
+    "keywords": "MM2B, MX50"
 }

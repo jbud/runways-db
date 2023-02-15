@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75333",
-            "airport_ref": "44897",
-            "airport_ident": "ENSI",
-            "type": "UNIC",
-            "description": "Ski Traffic",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302709",
-        "code": "NO",
-        "name": "Norway",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
-        "keywords": "Flyplasser i Norge"
-    },
-    "region": {
-        "id": "349851",
-        "code": "NO-30",
-        "local_code": "30",
-        "name": "Viken",
-        "continent": "EU",
-        "iso_country": "NO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Viken_(county)",
-        "keywords": "Airports in Viken"
-    }
+    ]
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Šilinės, Skirsnemunės",
-    "country": {
-        "id": "302700",
-        "code": "LT",
-        "name": "Lithuania",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lithuania",
-        "keywords": "Lithuanian airports"
-    },
-    "region": {
-        "id": "304500",
-        "code": "LT-TA",
-        "local_code": "TA",
-        "name": "Tauragė County",
-        "continent": "EU",
-        "iso_country": "LT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Taurag%C4%97_County",
-        "keywords": ""
-    }
+    "keywords": "Šilinės, Skirsnemunės"
 }

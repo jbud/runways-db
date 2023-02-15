@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Tabangao",
-    "country": {
-        "id": "302656",
-        "code": "PH",
-        "name": "Philippines",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
-        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
-    },
-    "region": {
-        "id": "305068",
-        "code": "PH-BTG",
-        "local_code": "BTG",
-        "name": "Batangas Province",
-        "continent": "AS",
-        "iso_country": "PH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Batangas_Province",
-        "keywords": "Airports in Batangas Province"
-    }
+    "keywords": "Tabangao"
 }

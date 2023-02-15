@@ -40,41 +40,5 @@
             "he_heading_degT": "288",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "48760",
-            "airport_ref": "27045",
-            "airport_ident": "YMBA",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "48761",
-            "airport_ref": "27045",
-            "airport_ident": "YMBA",
-            "type": "FSS",
-            "description": "CAIRNS APP",
-            "frequency_mhz": "126.1"
-        }
-    ],
-    "country": {
-        "id": "302764",
-        "code": "AU",
-        "name": "Australia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
-        "keywords": "Australian airports"
-    },
-    "region": {
-        "id": "302971",
-        "code": "AU-QLD",
-        "local_code": "QLD",
-        "name": "Queensland",
-        "continent": "OC",
-        "iso_country": "AU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
-        "keywords": "Airports in Queensland"
-    }
+    ]
 }

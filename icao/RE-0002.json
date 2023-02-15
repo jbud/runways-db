@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302594",
-        "code": "RE",
-        "name": "Réunion",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Réunion",
-        "keywords": "Île Bourbon, La Réunion"
-    },
-    "region": {
-        "id": "505679",
-        "code": "RE-SB",
-        "local_code": "SB",
-        "name": "Saint-Benoît Arrondissement",
-        "continent": "AF",
-        "iso_country": "RE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Arrondissement_of_Saint-Beno%C3%AEt",
-        "keywords": "Airports of Saint-Benoît Arrondissement"
-    }
+    "keywords": ""
 }

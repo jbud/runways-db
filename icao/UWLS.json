@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Аэродром Солдатская Ташла, УВЛС",
-    "country": {
-        "id": "302714",
-        "code": "RU",
-        "name": "Russia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
-        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
-    },
-    "region": {
-        "id": "305338",
-        "code": "RU-ULY",
-        "local_code": "ULY",
-        "name": "Ulyanovsk Oblast",
-        "continent": "EU",
-        "iso_country": "RU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ulyanovsk_Oblast",
-        "keywords": "Airports in Ulyanovsk Oblast"
-    }
+    "keywords": "Аэродром Солдатская Ташла, УВЛС"
 }

@@ -62,33 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "316257",
-            "airport_ref": "30432",
-            "airport_ident": "LZSV",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302717",
-        "code": "SK",
-        "name": "Slovakia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Slovakia",
-        "keywords": "letisko Slovenska"
-    },
-    "region": {
-        "id": "305593",
-        "code": "SK-KI",
-        "local_code": "KI",
-        "name": "Košice Region",
-        "continent": "EU",
-        "iso_country": "SK",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Košice_Region",
-        "keywords": "Košický kraj"
-    }
+    ]
 }

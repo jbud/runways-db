@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "316390",
-            "airport_ref": "28137",
-            "airport_ident": "LOAR",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "125.25"
-        }
-    ],
-    "country": {
-        "id": "302674",
-        "code": "AT",
-        "name": "Austria",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
-        "keywords": "Flughäfen in Österreich"
-    },
-    "region": {
-        "id": "302959",
-        "code": "AT-3",
-        "local_code": "3",
-        "name": "Lower Austria",
-        "continent": "EU",
-        "iso_country": "AT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Austria",
-        "keywords": "Niederösterreich"
-    }
+    ]
 }

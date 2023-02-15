@@ -40,49 +40,5 @@
             "he_heading_degT": "7",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "60689",
-            "airport_ref": "19972",
-            "airport_ident": "KGPH",
-            "type": "A/D",
-            "description": "KANSAS CITY APP/DEP",
-            "frequency_mhz": "119"
-        },
-        {
-            "id": "60690",
-            "airport_ref": "19972",
-            "airport_ident": "KGPH",
-            "type": "CLD",
-            "description": "KANAS CITY",
-            "frequency_mhz": "118.2"
-        },
-        {
-            "id": "60691",
-            "airport_ref": "19972",
-            "airport_ident": "KGPH",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.7"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306100",
-        "code": "US-MO",
-        "local_code": "MO",
-        "name": "Missouri",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
-        "keywords": "Airports in Missouri"
-    }
+    ]
 }

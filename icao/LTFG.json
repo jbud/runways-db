@@ -40,33 +40,5 @@
             "he_heading_degT": "257",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "346229",
-            "airport_ref": "44487",
-            "airport_ident": "LTFG",
-            "type": "TOWER",
-            "description": "",
-            "frequency_mhz": "119.25"
-        }
-    ],
-    "country": {
-        "id": "302667",
-        "code": "TR",
-        "name": "Turkey",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
-        "keywords": "Türkiye havaalanları"
-    },
-    "region": {
-        "id": "305842",
-        "code": "TR-07",
-        "local_code": "07",
-        "name": "Antalya Province",
-        "continent": "AS",
-        "iso_country": "TR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Antalya_Province",
-        "keywords": "Airports in Antalya Province"
-    }
+    ]
 }

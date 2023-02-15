@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Geçitkale_Air_Base",
-    "keywords": "Geçitkale Air Base",
-    "country": {
-        "id": "302629",
-        "code": "CY",
-        "name": "Cyprus",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cyprus",
-        "keywords": "Cypriot airports"
-    },
-    "region": {
-        "id": "303527",
-        "code": "CY-03",
-        "local_code": "03",
-        "name": "Famagusta District",
-        "continent": "AS",
-        "iso_country": "CY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Famagusta_District",
-        "keywords": "Airports in Famagusta District"
-    }
+    "keywords": "Geçitkale Air Base"
 }

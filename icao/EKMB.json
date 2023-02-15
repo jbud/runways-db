@@ -40,41 +40,5 @@
             "he_heading_degT": "277",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "51738",
-            "airport_ref": "2548",
-            "airport_ident": "EKMB",
-            "type": "AFIS",
-            "description": "MARIBO AFIS",
-            "frequency_mhz": "118.975"
-        },
-        {
-            "id": "51739",
-            "airport_ref": "2548",
-            "airport_ident": "EKMB",
-            "type": "INFO",
-            "description": "COPENHAGEN INFO",
-            "frequency_mhz": "127.075"
-        }
-    ],
-    "country": {
-        "id": "302682",
-        "code": "DK",
-        "name": "Denmark",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Denmark",
-        "keywords": "Lufthavnene i Danmark"
-    },
-    "region": {
-        "id": "306325",
-        "code": "DK-85",
-        "local_code": "85",
-        "name": "Zealand",
-        "continent": "EU",
-        "iso_country": "DK",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Zealand",
-        "keywords": "Sjælland"
-    }
+    ]
 }

@@ -40,49 +40,5 @@
             "he_heading_degT": "360",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "59448",
-            "airport_ref": "20293",
-            "airport_ident": "KL31",
-            "type": "A/D",
-            "description": "NEW ORLEANS APP/DEP",
-            "frequency_mhz": "133.15"
-        },
-        {
-            "id": "59449",
-            "airport_ref": "20293",
-            "airport_ident": "KL31",
-            "type": "FSS",
-            "description": "DE RIDDER",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "59450",
-            "airport_ref": "20293",
-            "airport_ident": "KL31",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306094",
-        "code": "US-LA",
-        "local_code": "LA",
-        "name": "Louisiana",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
-        "keywords": "Airports in Louisiana"
-    }
+    ]
 }

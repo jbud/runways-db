@@ -16,33 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "freqs": [
-        {
-            "id": "327822",
-            "airport_ref": "316328",
-            "airport_ident": "GB-0205",
-            "type": "A/G",
-            "description": "",
-            "frequency_mhz": "130.38"
-        }
-    ],
-    "country": {
-        "id": "302688",
-        "code": "GB",
-        "name": "United Kingdom",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
-        "keywords": "Great Britain"
-    },
-    "region": {
-        "id": "306376",
-        "code": "GB-WLS",
-        "local_code": "WLS",
-        "name": "Wales",
-        "continent": "EU",
-        "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Wales",
-        "keywords": "keep"
-    }
+    "keywords": ""
 }

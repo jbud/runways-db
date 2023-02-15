@@ -40,33 +40,5 @@
             "he_heading_degT": "317",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "51367",
-            "airport_ref": "6006",
-            "airport_ident": "SCCC",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "127.7"
-        }
-    ],
-    "country": {
-        "id": "302792",
-        "code": "CL",
-        "name": "Chile",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
-        "keywords": "Aeropuertos de Chile"
-    },
-    "region": {
-        "id": "303397",
-        "code": "CL-AI",
-        "local_code": "AI",
-        "name": "Aysén Region",
-        "continent": "SA",
-        "iso_country": "CL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ays%C3%A9n_Region",
-        "keywords": "XI Aysén del General Carlos Ibáñez del Campo Region"
-    }
+    ]
 }

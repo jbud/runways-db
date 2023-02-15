@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302611",
-        "code": "ZM",
-        "name": "Zambia",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Zambia",
-        "keywords": "Zambian airports"
-    },
-    "region": {
-        "id": "306309",
-        "code": "ZM-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
-        "continent": "AF",
-        "iso_country": "ZM",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
-    }
+    "keywords": ""
 }

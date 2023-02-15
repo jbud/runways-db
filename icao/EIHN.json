@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302694",
-        "code": "IE",
-        "name": "Ireland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ireland",
-        "keywords": "Eire"
-    },
-    "region": {
-        "id": "304132",
-        "code": "IE-CW",
-        "local_code": "CW",
-        "name": "County Carlow",
-        "continent": "EU",
-        "iso_country": "IE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Carlow",
-        "keywords": "Airports in County Carlow"
-    }
+    ]
 }

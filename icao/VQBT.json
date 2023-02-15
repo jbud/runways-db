@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302625",
-        "code": "BT",
-        "name": "Bhutan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bhutan",
-        "keywords": "Bhutanese airports"
-    },
-    "region": {
-        "id": "303260",
-        "code": "BT-33",
-        "local_code": "33",
-        "name": "Bumthang District",
-        "continent": "AS",
-        "iso_country": "BT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bumthang_District",
-        "keywords": "Airports in Bumthang"
-    }
+    ]
 }

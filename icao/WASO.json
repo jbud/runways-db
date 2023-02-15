@@ -40,33 +40,5 @@
             "he_heading_degT": "203",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "53785",
-            "airport_ref": "26793",
-            "airport_ident": "WASO",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "681.12"
-        }
-    ],
-    "country": {
-        "id": "302632",
-        "code": "ID",
-        "name": "Indonesia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
-        "keywords": "Bandara di Indonesia"
-    },
-    "region": {
-        "id": "304103",
-        "code": "ID-PB",
-        "local_code": "PB",
-        "name": "Papua Barat (West Papua)",
-        "continent": "AS",
-        "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Papua_(region)",
-        "keywords": "Irian Jaya"
-    }
+    ]
 }

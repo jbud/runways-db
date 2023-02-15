@@ -62,41 +62,5 @@
             "he_heading_degT": "290",
             "he_displaced_threshold_ft": "385"
         }
-    ],
-    "freqs": [
-        {
-            "id": "52607",
-            "airport_ref": "4056",
-            "airport_ident": "LFAV",
-            "type": "AFIS",
-            "description": "VALENCIENNES INFO",
-            "frequency_mhz": "122.6"
-        },
-        {
-            "id": "52608",
-            "airport_ref": "4056",
-            "airport_ident": "LFAV",
-            "type": "APP",
-            "description": "LILLE APP",
-            "frequency_mhz": "126.475"
-        }
-    ],
-    "country": {
-        "id": "302687",
-        "code": "FR",
-        "name": "France",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
-        "keywords": "Aéroports de France"
-    },
-    "region": {
-        "id": "306337",
-        "code": "FR-HDF",
-        "local_code": "HDF",
-        "name": "Hauts-de-France",
-        "continent": "EU",
-        "iso_country": "FR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hauts-de-France",
-        "keywords": "Airports in Hauts-de-France"
-    }
+    ]
 }

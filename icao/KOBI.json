@@ -62,49 +62,5 @@
             "he_heading_degT": "300",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "59236",
-            "airport_ref": "18497",
-            "airport_ident": "KOBI",
-            "type": "A/D",
-            "description": "APP/DEP",
-            "frequency_mhz": "124.6"
-        },
-        {
-            "id": "59237",
-            "airport_ref": "18497",
-            "airport_ident": "KOBI",
-            "type": "RDO",
-            "description": "MILLVILLE RDO",
-            "frequency_mhz": "115.2"
-        },
-        {
-            "id": "59238",
-            "airport_ref": "18497",
-            "airport_ident": "KOBI",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123.05"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306107",
-        "code": "US-NJ",
-        "local_code": "NJ",
-        "name": "New Jersey",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
-        "keywords": "Airports in New Jersey"
-    }
+    ]
 }

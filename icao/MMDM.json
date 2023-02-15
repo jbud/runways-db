@@ -16,23 +16,5 @@
     "local_code": "CDM",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Ciudad_Mante_National_Airport",
-    "keywords": "Cuauhtemoc Airport, Aeropuerto Nacional Las Huastecas",
-    "country": {
-        "id": "302747",
-        "code": "MX",
-        "name": "Mexico",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
-        "keywords": "Aeropuertos de México, Mexican airports"
-    },
-    "region": {
-        "id": "304817",
-        "code": "MX-TAM",
-        "local_code": "TAM",
-        "name": "Tamaulipas",
-        "continent": "NA",
-        "iso_country": "MX",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tamaulipas",
-        "keywords": "Airports in Tamaulipas"
-    }
+    "keywords": "Cuauhtemoc Airport, Aeropuerto Nacional Las Huastecas"
 }

@@ -40,57 +40,5 @@
             "he_heading_degT": "337.1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "49493",
-            "airport_ref": "26717",
-            "airport_ident": "VYEL",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
-    "country": {
-        "id": "302649",
-        "code": "MM",
-        "name": "Myanmar",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Burma",
-        "keywords": "Myanmar"
-    },
-    "region": {
-        "id": "304669",
-        "code": "MM-04",
-        "local_code": "04",
-        "name": "Mandalay Region",
-        "continent": "AS",
-        "iso_country": "MM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mandalay_Region",
-        "keywords": "Airports in Mandalay Division"
-    },
-    "navaids": [
-        {
-            "id": "87707",
-            "filename": "El_NDB_MM",
-            "ident": "EL",
-            "name": "El",
-            "type": "NDB",
-            "frequency_khz": "390",
-            "latitude_deg": "19.62459945678711",
-            "longitude_deg": "96.19750213623047",
-            "elevation_ft": "302",
-            "iso_country": "MM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.453",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "VYEL"
-        }
     ]
 }

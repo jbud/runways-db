@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302677",
-        "code": "BG",
-        "name": "Bulgaria",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bulgaria",
-        "keywords": "Bulgarian airports"
-    },
-    "region": {
-        "id": "303139",
-        "code": "BG-14",
-        "local_code": "14",
-        "name": "Pernik Province",
-        "continent": "EU",
-        "iso_country": "BG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pernik_Province",
-        "keywords": "Airports in Pernik Province"
-    }
+    "keywords": ""
 }

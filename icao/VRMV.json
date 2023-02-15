@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302652",
-        "code": "MV",
-        "name": "Maldives",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Maldives",
-        "keywords": "Airports in Maldives"
-    },
-    "region": {
-        "id": "354351",
-        "code": "MV-00",
-        "local_code": "00",
-        "name": "Alif Dhaal Atoll",
-        "continent": "AS",
-        "iso_country": "MV",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Alif_Dhaal_Atoll",
-        "keywords": "Airports in Alif Dhaal Atoll"
-    }
+    ]
 }

@@ -40,57 +40,5 @@
             "he_heading_degT": "253",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "51146",
-            "airport_ref": "3055",
-            "airport_ident": "FZKJ",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
-    "country": {
-        "id": "302561",
-        "code": "CD",
-        "name": "Democratic Republic of the Congo",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
-        "keywords": "DRC"
-    },
-    "region": {
-        "id": "505642",
-        "code": "CD-BU",
-        "local_code": "BU",
-        "name": "Bas-Uélé Province",
-        "continent": "AF",
-        "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bas-U%C3%A9l%C3%A9",
-        "keywords": "Airports in Bas-Uélé Province"
-    },
-    "navaids": [
-        {
-            "id": "86444",
-            "filename": "Buta_NDB_CD",
-            "ident": "BUT",
-            "name": "Buta",
-            "type": "NDB",
-            "frequency_khz": "397",
-            "latitude_deg": "2.807110071182251",
-            "longitude_deg": "24.773099899291992",
-            "elevation_ft": "",
-            "iso_country": "CD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.268",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FZKJ"
-        }
     ]
 }

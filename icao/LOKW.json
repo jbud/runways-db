@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75283",
-            "airport_ref": "29468",
-            "airport_ident": "LOKW",
-            "type": "AFIS",
-            "description": "Wolfsberg Flugplatz",
-            "frequency_mhz": "122.5"
-        }
-    ],
-    "country": {
-        "id": "302674",
-        "code": "AT",
-        "name": "Austria",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
-        "keywords": "Flughäfen in Österreich"
-    },
-    "region": {
-        "id": "302958",
-        "code": "AT-2",
-        "local_code": "2",
-        "name": "Carinthia",
-        "continent": "EU",
-        "iso_country": "AT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Carinthia",
-        "keywords": "Kärnten"
-    }
+    ]
 }

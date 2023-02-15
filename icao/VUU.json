@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302589",
-        "code": "MW",
-        "name": "Malawi",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Malawi",
-        "keywords": "Airports in Malawi"
-    },
-    "region": {
-        "id": "304775",
-        "code": "MW-MH",
-        "local_code": "MH",
-        "name": "Machinga District",
-        "continent": "AF",
-        "iso_country": "MW",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Machinga_District",
-        "keywords": "Airports in Machinga District"
-    }
+    "keywords": ""
 }

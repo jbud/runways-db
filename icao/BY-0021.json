@@ -16,23 +16,5 @@
     "local_code": "H213",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Х213, Дрозды",
-    "country": {
-        "id": "302678",
-        "code": "BY",
-        "name": "Belarus",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Belarus",
-        "keywords": "Belarussian, Беларусь"
-    },
-    "region": {
-        "id": "303284",
-        "code": "BY-MI",
-        "local_code": "MI",
-        "name": "Minsk Region",
-        "continent": "EU",
-        "iso_country": "BY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Minsk_Region",
-        "keywords": "Minskaja voblasc', Мі́нская во́бласць"
-    }
+    "keywords": "Х213, Дрозды"
 }

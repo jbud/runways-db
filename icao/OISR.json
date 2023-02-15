@@ -40,57 +40,5 @@
             "he_heading_degT": "293.9",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "53997",
-            "airport_ref": "5196",
-            "airport_ident": "OISR",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "122.65"
-        }
-    ],
-    "country": {
-        "id": "302637",
-        "code": "IR",
-        "name": "Iran",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
-        "keywords": "فرودگاه های ایران"
-    },
-    "region": {
-        "id": "304231",
-        "code": "IR-07",
-        "local_code": "07",
-        "name": "Fars Province",
-        "continent": "AS",
-        "iso_country": "IR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Fars_Province",
-        "keywords": "Airports in Fars Province"
-    },
-    "navaids": [
-        {
-            "id": "90157",
-            "filename": "Lamerd_NDB_IR",
-            "ident": "LAM",
-            "name": "Lamerd",
-            "type": "NDB",
-            "frequency_khz": "346",
-            "latitude_deg": "27.36709976196289",
-            "longitude_deg": "53.1952018737793",
-            "elevation_ft": "1345",
-            "iso_country": "IR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.062",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OISR"
-        }
     ]
 }

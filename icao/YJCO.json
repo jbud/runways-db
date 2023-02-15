@@ -40,49 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "73288",
-            "airport_ref": "27648",
-            "airport_ident": "YJCO",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.5"
-        },
-        {
-            "id": "73290",
-            "airport_ref": "27648",
-            "airport_ident": "YJCO",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "124.9"
-        },
-        {
-            "id": "73289",
-            "airport_ref": "27648",
-            "airport_ident": "YJCO",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "125.3"
-        }
-    ],
-    "country": {
-        "id": "302764",
-        "code": "AU",
-        "name": "Australia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
-        "keywords": "Australian airports"
-    },
-    "region": {
-        "id": "302973",
-        "code": "AU-TAS",
-        "local_code": "TAS",
-        "name": "Tasmania",
-        "continent": "OC",
-        "iso_country": "AU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tasmania",
-        "keywords": "Tasmanian airports"
-    }
+    ]
 }

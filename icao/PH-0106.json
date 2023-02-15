@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines",
-    "keywords": "Santa Rosa, Concepcion, VOA",
-    "country": {
-        "id": "302656",
-        "code": "PH",
-        "name": "Philippines",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
-        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
-    },
-    "region": {
-        "id": "305127",
-        "code": "PH-TAR",
-        "local_code": "TAR",
-        "name": "Tarlac Province",
-        "continent": "AS",
-        "iso_country": "PH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tarlac_Province",
-        "keywords": "Airports in Tarlac Province"
-    }
+    "keywords": "Santa Rosa, Concepcion, VOA"
 }

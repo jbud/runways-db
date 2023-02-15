@@ -40,33 +40,5 @@
             "he_heading_degT": "305",
             "he_displaced_threshold_ft": "197"
         }
-    ],
-    "freqs": [
-        {
-            "id": "298892",
-            "airport_ref": "4970",
-            "airport_ident": "DN56",
-            "type": "131.7",
-            "description": "ESCRAVOS TOWER",
-            "frequency_mhz": "0"
-        }
-    ],
-    "country": {
-        "id": "302593",
-        "code": "NG",
-        "name": "Nigeria",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nigeria",
-        "keywords": ""
-    },
-    "region": {
-        "id": "304885",
-        "code": "NG-DE",
-        "local_code": "DE",
-        "name": "Delta State",
-        "continent": "AF",
-        "iso_country": "NG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Delta_State",
-        "keywords": "Airports in Delta"
-    }
+    ]
 }

@@ -84,33 +84,5 @@
             "he_heading_degT": "334",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "71959",
-            "airport_ref": "29105",
-            "airport_ident": "EGAD",
-            "type": "A/G",
-            "description": "Newtownards A/G",
-            "frequency_mhz": "128.305"
-        }
-    ],
-    "country": {
-        "id": "302688",
-        "code": "GB",
-        "name": "United Kingdom",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
-        "keywords": "Great Britain"
-    },
-    "region": {
-        "id": "306375",
-        "code": "GB-NIR",
-        "local_code": "NIR",
-        "name": "Northern Ireland",
-        "continent": "EU",
-        "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Ireland",
-        "keywords": "keep"
-    }
+    ]
 }

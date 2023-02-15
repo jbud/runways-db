@@ -40,49 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "302430",
-            "airport_ref": "29528",
-            "airport_ident": "LSZU",
-            "type": "AFIS",
-            "description": "",
-            "frequency_mhz": "122.15"
-        },
-        {
-            "id": "302432",
-            "airport_ref": "29528",
-            "airport_ident": "LSZU",
-            "type": "ARR EMMEN",
-            "description": "Zurich Terminal (within TMA C)",
-            "frequency_mhz": "127.75"
-        },
-        {
-            "id": "302431",
-            "airport_ref": "29528",
-            "airport_ident": "LSZU",
-            "type": "FIS",
-            "description": "Zurich Information (en, ge)",
-            "frequency_mhz": "124.7"
-        }
-    ],
-    "country": {
-        "id": "302679",
-        "code": "CH",
-        "name": "Switzerland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
-        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
-    },
-    "region": {
-        "id": "303352",
-        "code": "CH-AG",
-        "local_code": "AG",
-        "name": "Canton of Aargau",
-        "continent": "EU",
-        "iso_country": "CH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Aargau",
-        "keywords": "Airports in Canton of Aargau"
-    }
+    ]
 }

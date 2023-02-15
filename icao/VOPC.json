@@ -40,57 +40,5 @@
             "he_heading_degT": "248",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "298619",
-            "airport_ref": "26621",
-            "airport_ident": "VOPC",
-            "type": "Tower",
-            "description": "",
-            "frequency_mhz": "122.9"
-        }
-    ],
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304190",
-        "code": "IN-PY",
-        "local_code": "PY",
-        "name": "Pondicherry",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pondicherry",
-        "keywords": "Airports in Pondicherry"
-    },
-    "navaids": [
-        {
-            "id": "92012",
-            "filename": "Pondicherry_NDB_IN",
-            "ident": "OM",
-            "name": "Pondicherry",
-            "type": "NDB",
-            "frequency_khz": "385",
-            "latitude_deg": "11.96619987487793",
-            "longitude_deg": "79.80979919433594",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.563",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VOPC"
-        }
     ]
 }

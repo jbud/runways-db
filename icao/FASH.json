@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75427",
-            "airport_ref": "27295",
-            "airport_ident": "FASH",
-            "type": "ATF",
-            "description": "",
-            "frequency_mhz": "119.3"
-        }
-    ],
-    "country": {
-        "id": "302610",
-        "code": "ZA",
-        "name": "South Africa",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
-        "keywords": "South African airports"
-    },
-    "region": {
-        "id": "306304",
-        "code": "ZA-WC",
-        "local_code": "WC",
-        "name": "Western Cape",
-        "continent": "AF",
-        "iso_country": "ZA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Cape",
-        "keywords": "Airports in Western Cape"
-    }
+    ]
 }

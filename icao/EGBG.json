@@ -128,57 +128,5 @@
             "he_heading_degT": "330.8",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "58186",
-            "airport_ref": "2391",
-            "airport_ident": "EGBG",
-            "type": "A/G",
-            "description": "RDO",
-            "frequency_mhz": "122.125"
-        }
-    ],
-    "country": {
-        "id": "302688",
-        "code": "GB",
-        "name": "United Kingdom",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
-        "keywords": "Great Britain"
-    },
-    "region": {
-        "id": "306374",
-        "code": "GB-ENG",
-        "local_code": "ENG",
-        "name": "England",
-        "continent": "EU",
-        "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
-        "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "90260",
-            "filename": "Leicester_NDB_GB",
-            "ident": "LE",
-            "name": "Leicester",
-            "type": "NDB",
-            "frequency_khz": "384",
-            "latitude_deg": "52.60639953613281",
-            "longitude_deg": "-1.034999966621399",
-            "elevation_ft": "",
-            "iso_country": "GB",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.482",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EGBG"
-        }
     ]
 }

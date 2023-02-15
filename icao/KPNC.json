@@ -40,57 +40,5 @@
             "he_heading_degT": "360",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "59190",
-            "airport_ref": "20849",
-            "airport_ident": "KPNC",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "134.075"
-        },
-        {
-            "id": "59191",
-            "airport_ref": "20849",
-            "airport_ident": "KPNC",
-            "type": "CNTR",
-            "description": "KANSAS CITY CNTR",
-            "frequency_mhz": "127.8"
-        },
-        {
-            "id": "59192",
-            "airport_ref": "20849",
-            "airport_ident": "KPNC",
-            "type": "RDO",
-            "description": "MC ALESTER RDO",
-            "frequency_mhz": "122.25"
-        },
-        {
-            "id": "59193",
-            "airport_ref": "20849",
-            "airport_ident": "KPNC",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306112",
-        "code": "US-OK",
-        "local_code": "OK",
-        "name": "Oklahoma",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
-        "keywords": "Airports in Oklahoma"
-    }
+    ]
 }

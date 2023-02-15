@@ -40,41 +40,5 @@
             "he_heading_degT": "279",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "65496",
-            "airport_ref": "20533",
-            "airport_ident": "KMNF",
-            "type": "CNTR",
-            "description": "KANSAS CITY CNTR",
-            "frequency_mhz": "133.8"
-        },
-        {
-            "id": "65497",
-            "airport_ref": "20533",
-            "airport_ident": "KMNF",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306100",
-        "code": "US-MO",
-        "local_code": "MO",
-        "name": "Missouri",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
-        "keywords": "Airports in Missouri"
-    }
+    ]
 }

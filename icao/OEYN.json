@@ -40,49 +40,5 @@
             "he_heading_degT": "283.2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "56924",
-            "airport_ref": "5129",
-            "airport_ident": "OEYN",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "118.1"
-        },
-        {
-            "id": "56925",
-            "airport_ref": "5129",
-            "airport_ident": "OEYN",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.8"
-        },
-        {
-            "id": "56926",
-            "airport_ref": "5129",
-            "airport_ident": "OEYN",
-            "type": "MISC",
-            "description": "FIRE RESCUE SVC",
-            "frequency_mhz": "133.5"
-        }
-    ],
-    "country": {
-        "id": "302660",
-        "code": "SA",
-        "name": "Saudi Arabia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
-        "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
-    },
-    "region": {
-        "id": "305362",
-        "code": "SA-03",
-        "local_code": "03",
-        "name": "Al Madinah Region",
-        "continent": "AS",
-        "iso_country": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Madinah_Region",
-        "keywords": "Airports in Al Madinah Region"
-    }
+    ]
 }

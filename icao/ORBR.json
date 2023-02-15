@@ -40,33 +40,5 @@
             "he_heading_degT": "318.9",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "54418",
-            "airport_ref": "5291",
-            "airport_ident": "ORBR",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "131.27"
-        }
-    ],
-    "country": {
-        "id": "302636",
-        "code": "IQ",
-        "name": "Iraq",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iraq",
-        "keywords": "مطارات العراق"
-    },
-    "region": {
-        "id": "304201",
-        "code": "IQ-AR",
-        "local_code": "AR",
-        "name": "Arbil Governorate",
-        "continent": "AS",
-        "iso_country": "IQ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Arbil_Governorate",
-        "keywords": "أربيل"
-    }
+    ]
 }

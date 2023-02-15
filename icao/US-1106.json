@@ -16,23 +16,5 @@
     "local_code": "IN04",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306091",
-        "code": "US-IN",
-        "local_code": "IN",
-        "name": "Indiana",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
-        "keywords": "Airports in Indiana"
-    }
+    "keywords": ""
 }

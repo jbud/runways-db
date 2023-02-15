@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "301285",
-            "airport_ref": "32690",
-            "airport_ident": "MX-XAL",
-            "type": "Unicom",
-            "description": "",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302747",
-        "code": "MX",
-        "name": "Mexico",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
-        "keywords": "Aeropuertos de México, Mexican airports"
-    },
-    "region": {
-        "id": "304815",
-        "code": "MX-SON",
-        "local_code": "SON",
-        "name": "Sonora",
-        "continent": "NA",
-        "iso_country": "MX",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sonora",
-        "keywords": "Airports in Sonora"
-    }
+    ]
 }

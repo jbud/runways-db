@@ -40,23 +40,5 @@
             "he_heading_degT": "271.2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302630",
-        "code": "GE",
-        "name": "Georgia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia_(country)",
-        "keywords": "Georgian airports"
-    },
-    "region": {
-        "id": "306407",
-        "code": "GE-KK",
-        "local_code": "KK",
-        "name": "Kvemo Kartli",
-        "continent": "AS",
-        "iso_country": "GE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kvemo_Kartli",
-        "keywords": "K'vemo K'art'li, ქვემო ქართლი"
-    }
+    ]
 }

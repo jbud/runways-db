@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "LHGM, LHGM",
-    "country": {
-        "id": "302693",
-        "code": "HU",
-        "name": "Hungary",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
-        "keywords": "Repülőterek Magyarország"
-    },
-    "region": {
-        "id": "304057",
-        "code": "HU-BE",
-        "local_code": "BE",
-        "name": "Békés County",
-        "continent": "EU",
-        "iso_country": "HU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Békés_County",
-        "keywords": "Békés megye"
-    }
+    "keywords": "LHGM, LHGM"
 }

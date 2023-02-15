@@ -40,33 +40,5 @@
             "he_heading_degT": "315",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "356173",
-            "airport_ref": "29921",
-            "airport_ident": "EPGI",
-            "type": "Radio",
-            "description": "Lisie Kąty Radio",
-            "frequency_mhz": "119.885"
-        }
-    ],
-    "country": {
-        "id": "302710",
-        "code": "PL",
-        "name": "Poland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
-        "keywords": "Lotniska Polski"
-    },
-    "region": {
-        "id": "305145",
-        "code": "PL-KP",
-        "local_code": "KP",
-        "name": "Kuyavian-Pomeranian Voivodeship",
-        "continent": "EU",
-        "iso_country": "PL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kuyavian-Pomeranian_Voivodeship",
-        "keywords": "Kujawsko-Pomorskie"
-    }
+    ]
 }

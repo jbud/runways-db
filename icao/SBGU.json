@@ -40,57 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "49840",
-            "airport_ref": "5911",
-            "airport_ident": "SBGU",
-            "type": "AFIS",
-            "description": "GUARAPUAVA RDO",
-            "frequency_mhz": "130.75"
-        }
-    ],
-    "country": {
-        "id": "302791",
-        "code": "BR",
-        "name": "Brazil",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
-        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
-    },
-    "region": {
-        "id": "303216",
-        "code": "BR-PR",
-        "local_code": "PR",
-        "name": "Paraná",
-        "continent": "SA",
-        "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Paran%C3%A1_(state)",
-        "keywords": "Airports in Paraná"
-    },
-    "navaids": [
-        {
-            "id": "88581",
-            "filename": "Guarapuava_NDB_BR",
-            "ident": "GRU",
-            "name": "Guarapuava",
-            "type": "NDB",
-            "frequency_khz": "230",
-            "latitude_deg": "-25.386699676513672",
-            "longitude_deg": "-51.522701263427734",
-            "elevation_ft": "3429",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-16.317",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SBGU"
-        }
     ]
 }

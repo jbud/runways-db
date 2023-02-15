@@ -40,41 +40,5 @@
             "he_heading_degT": "339",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "70624",
-            "airport_ref": "18387",
-            "airport_ident": "K0R3",
-            "type": "A/D",
-            "description": "LAFAYETTE APP/DEP",
-            "frequency_mhz": "121.1"
-        },
-        {
-            "id": "70625",
-            "airport_ref": "18387",
-            "airport_ident": "K0R3",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306094",
-        "code": "US-LA",
-        "local_code": "LA",
-        "name": "Louisiana",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
-        "keywords": "Airports in Louisiana"
-    }
+    ]
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Berane_Airport",
-    "keywords": "Dolac Airport, Аеродром Беране, Aerodrom Berane",
-    "country": {
-        "id": "302705",
-        "code": "ME",
-        "name": "Montenegro",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Montenegro",
-        "keywords": "Montenegran airports"
-    },
-    "region": {
-        "id": "306571",
-        "code": "ME-03",
-        "local_code": "03",
-        "name": "Berane Municipality",
-        "continent": "EU",
-        "iso_country": "ME",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Berane",
-        "keywords": "Airports in Berane Municipality"
-    }
+    "keywords": "Dolac Airport, Аеродром Беране, Aerodrom Berane"
 }

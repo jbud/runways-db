@@ -62,41 +62,5 @@
             "he_heading_degT": "344",
             "he_displaced_threshold_ft": "279"
         }
-    ],
-    "freqs": [
-        {
-            "id": "52789",
-            "airport_ref": "2287",
-            "airport_ident": "EDWB",
-            "type": "AFIS",
-            "description": "BREMEN INFO",
-            "frequency_mhz": "125.1"
-        },
-        {
-            "id": "52790",
-            "airport_ref": "2287",
-            "airport_ident": "EDWB",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "129.05"
-        }
-    ],
-    "country": {
-        "id": "302681",
-        "code": "DE",
-        "name": "Germany",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
-        "keywords": "Flughäfen in Deutschland"
-    },
-    "region": {
-        "id": "303551",
-        "code": "DE-HB",
-        "local_code": "HB",
-        "name": "Bremen",
-        "continent": "EU",
-        "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bremen",
-        "keywords": "Airports in Bremen"
-    }
+    ]
 }

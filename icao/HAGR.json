@@ -62,23 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302572",
-        "code": "ET",
-        "name": "Ethiopia",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ethiopia",
-        "keywords": "Ethiopian airports"
-    },
-    "region": {
-        "id": "303794",
-        "code": "ET-OR",
-        "local_code": "OR",
-        "name": "Oromia Region",
-        "continent": "AF",
-        "iso_country": "ET",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Oromia_Region",
-        "keywords": "Airports in Oromia Region"
-    }
+    ]
 }

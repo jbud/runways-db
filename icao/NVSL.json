@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Malekoula_Airport",
-    "keywords": "Malekoula Airport",
-    "country": {
-        "id": "302786",
-        "code": "VU",
-        "name": "Vanuatu",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Vanuatu",
-        "keywords": "Airports in Vanuatu"
-    },
-    "region": {
-        "id": "306255",
-        "code": "VU-MAP",
-        "local_code": "MAP",
-        "name": "Malampa",
-        "continent": "OC",
-        "iso_country": "VU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Malampa",
-        "keywords": "Airports in Malampa"
-    }
+    "keywords": "Malekoula Airport"
 }

@@ -84,57 +84,5 @@
             "he_heading_degT": "346",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "57134",
-            "airport_ref": "2793",
-            "airport_ident": "FAKD",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302610",
-        "code": "ZA",
-        "name": "South Africa",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
-        "keywords": "South African airports"
-    },
-    "region": {
-        "id": "306302",
-        "code": "ZA-NW",
-        "local_code": "NW",
-        "name": "North-West",
-        "continent": "AF",
-        "iso_country": "ZA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_West_(South_African_province)",
-        "keywords": "Airports in North-West"
-    },
-    "navaids": [
-        {
-            "id": "89707",
-            "filename": "Klerksdorp_NDB_ZA",
-            "ident": "KD",
-            "name": "Klerksdorp",
-            "type": "NDB",
-            "frequency_khz": "280",
-            "latitude_deg": "-26.84510040283203",
-            "longitude_deg": "26.710599899291992",
-            "elevation_ft": "",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-18.198",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FAKD"
-        }
     ]
 }

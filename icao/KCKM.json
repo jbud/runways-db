@@ -40,49 +40,5 @@
             "he_heading_degT": "3",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "68593",
-            "airport_ref": "19507",
-            "airport_ident": "KCKM",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "120.675"
-        },
-        {
-            "id": "68594",
-            "airport_ref": "19507",
-            "airport_ident": "KCKM",
-            "type": "CNTR",
-            "description": "MEMPHIS CNTR",
-            "frequency_mhz": "135.3"
-        },
-        {
-            "id": "68595",
-            "airport_ref": "19507",
-            "airport_ident": "KCKM",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306101",
-        "code": "US-MS",
-        "local_code": "MS",
-        "name": "Mississippi",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
-        "keywords": "Airports in Mississippi"
-    }
+    ]
 }

@@ -40,57 +40,5 @@
             "he_heading_degT": "215",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "53592",
-            "airport_ref": "26774",
-            "airport_ident": "WAFW",
-            "type": "A/G",
-            "description": "INFO",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302632",
-        "code": "ID",
-        "name": "Indonesia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
-        "keywords": "Bandara di Indonesia"
-    },
-    "region": {
-        "id": "304125",
-        "code": "ID-ST",
-        "local_code": "ST",
-        "name": "Sulawesi Tengah (Central Sulawesi)",
-        "continent": "AS",
-        "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sulawesi_Tengah",
-        "keywords": "Airports in Sulawesi Tengah"
-    },
-    "navaids": [
-        {
-            "id": "90375",
-            "filename": "Bubung_NDB_ID",
-            "ident": "LK",
-            "name": "Bubung",
-            "type": "NDB",
-            "frequency_khz": "250",
-            "latitude_deg": "-1.0433100461959839",
-            "longitude_deg": "122.7760009765625",
-            "elevation_ft": "56",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.21",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WAFW"
-        }
     ]
 }

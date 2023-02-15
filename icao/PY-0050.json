@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "https://www.fuerzaaerea.mil.py",
     "wikipedia_link": "https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya",
-    "keywords": "",
-    "country": {
-        "id": "302799",
-        "code": "PY",
-        "name": "Paraguay",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraguay",
-        "keywords": "Aeropuertos de Paraguay"
-    },
-    "region": {
-        "id": "305191",
-        "code": "PY-11",
-        "local_code": "11",
-        "name": "Central Department",
-        "continent": "SA",
-        "iso_country": "PY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Department",
-        "keywords": "Airports in Central Department"
-    }
+    "keywords": ""
 }

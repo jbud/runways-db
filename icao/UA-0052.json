@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://www.aeroclub.net.ua/",
     "wikipedia_link": "",
-    "keywords": "Korotich Airfield, Аэродром Коротыч, Аэродром Коротич",
-    "country": {
-        "id": "302719",
-        "code": "UA",
-        "name": "Ukraine",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ukraine",
-        "keywords": "Аеропорти України"
-    },
-    "region": {
-        "id": "306002",
-        "code": "UA-63",
-        "local_code": "63",
-        "name": "Kharkiv Oblast",
-        "continent": "EU",
-        "iso_country": "UA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kharkiv_Oblast",
-        "keywords": "Airports in Kharkiv Oblast"
-    }
+    "keywords": "Korotich Airfield, Аэродром Коротыч, Аэродром Коротич"
 }

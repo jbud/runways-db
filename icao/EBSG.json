@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75276",
-            "airport_ref": "29047",
-            "airport_ident": "EBSG",
-            "type": "AFIS",
-            "description": "Saint-Ghislain Radio",
-            "frequency_mhz": "122.17"
-        }
-    ],
-    "country": {
-        "id": "302676",
-        "code": "BE",
-        "name": "Belgium",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Belgium",
-        "keywords": "Aéroports de Belgique,Luchthavens van België"
-    },
-    "region": {
-        "id": "303076",
-        "code": "BE-WHT",
-        "local_code": "WHT",
-        "name": "Hainaut Province",
-        "continent": "EU",
-        "iso_country": "BE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hainaut_Province",
-        "keywords": "Wallonia, Walloon Region"
-    }
+    ]
 }

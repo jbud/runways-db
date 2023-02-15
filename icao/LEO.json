@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Léconi",
-    "country": {
-        "id": "302573",
-        "code": "GA",
-        "name": "Gabon",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Gabon",
-        "keywords": "Gabonese airports"
-    },
-    "region": {
-        "id": "303821",
-        "code": "GA-2",
-        "local_code": "2",
-        "name": "Haut-Ogooué Province",
-        "continent": "AF",
-        "iso_country": "GA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Haut-Ogoou%C3%A9_Province",
-        "keywords": "Airports in Haut-Ogooué Province"
-    }
+    "keywords": "Léconi"
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Lewa_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302579",
-        "code": "KE",
-        "name": "Kenya",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kenya",
-        "keywords": "Kenyan airports"
-    },
-    "region": {
-        "id": "304337",
-        "code": "KE-400",
-        "local_code": "400",
-        "name": "Eastern Province",
-        "continent": "AF",
-        "iso_country": "KE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Province_(Kenya)",
-        "keywords": "Mashariki"
-    }
+    "keywords": ""
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": "328"
         }
-    ],
-    "freqs": [
-        {
-            "id": "313559",
-            "airport_ref": "28135",
-            "airport_ident": "LOAG",
-            "type": "AFIS",
-            "description": "Krems Flugplatz",
-            "frequency_mhz": "122.7"
-        }
-    ],
-    "country": {
-        "id": "302674",
-        "code": "AT",
-        "name": "Austria",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
-        "keywords": "Flughäfen in Österreich"
-    },
-    "region": {
-        "id": "302959",
-        "code": "AT-3",
-        "local_code": "3",
-        "name": "Lower Austria",
-        "continent": "EU",
-        "iso_country": "AT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Austria",
-        "keywords": "Niederösterreich"
-    }
+    ]
 }

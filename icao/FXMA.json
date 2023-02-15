@@ -16,23 +16,5 @@
     "local_code": "MSG",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Matsaile_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302582",
-        "code": "LS",
-        "name": "Lesotho",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lesotho",
-        "keywords": "Airports in Lesotho"
-    },
-    "region": {
-        "id": "304492",
-        "code": "LS-K",
-        "local_code": "K",
-        "name": "Thaba-Tseka District",
-        "continent": "AF",
-        "iso_country": "LS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Thaba-Tseka_District",
-        "keywords": "Airports in Thaba-Tseka District"
-    }
+    "keywords": ""
 }

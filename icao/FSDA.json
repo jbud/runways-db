@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/D'Arros_Island_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302596",
-        "code": "SC",
-        "name": "Seychelles",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Seychelles",
-        "keywords": "Airports in Seychelles"
-    },
-    "region": {
-        "id": "306641",
-        "code": "SC-15",
-        "local_code": "15",
-        "name": "La Digue",
-        "continent": "AF",
-        "iso_country": "SC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/La_Digue",
-        "keywords": "Airports in La Digue"
-    }
+    "keywords": ""
 }

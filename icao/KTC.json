@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Katiola_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302564",
-        "code": "CI",
-        "name": "Côte d'Ivoire",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Côte_d'Ivoire",
-        "keywords": "Ivory Coast"
-    },
-    "region": {
-        "id": "303382",
-        "code": "CI-VB",
-        "local_code": "VB",
-        "name": "Vallée du Bandama District",
-        "continent": "AF",
-        "iso_country": "CI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Vall%C3%A9e_du_Bandama_District",
-        "keywords": "Airports in Vallée du Bandama District"
-    }
+    "keywords": ""
 }

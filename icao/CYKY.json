@@ -62,57 +62,5 @@
             "he_heading_degT": "359.9",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "50021",
-            "airport_ref": "1794",
-            "airport_ident": "CYKY",
-            "type": "ATF",
-            "description": "ATF",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302730",
-        "code": "CA",
-        "name": "Canada",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
-        "keywords": "Canadian airports"
-    },
-    "region": {
-        "id": "303305",
-        "code": "CA-SK",
-        "local_code": "SK",
-        "name": "Saskatchewan",
-        "continent": "NA",
-        "iso_country": "CA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
-        "keywords": "Airports in Saskatchewan"
-    },
-    "navaids": [
-        {
-            "id": "90686",
-            "filename": "Kindersley_NDB_CA",
-            "ident": "M3",
-            "name": "Kindersley",
-            "type": "NDB",
-            "frequency_khz": "402",
-            "latitude_deg": "51.5171012878418",
-            "longitude_deg": "-109.1780014038086",
-            "elevation_ft": "2277",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "13.486",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYKY"
-        }
     ]
 }

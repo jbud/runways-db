@@ -40,41 +40,5 @@
             "he_heading_degT": "246",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "59178",
-            "airport_ref": "21268",
-            "airport_ident": "KU63",
-            "type": "CNTR",
-            "description": "SALT LAKE CITY CNTR",
-            "frequency_mhz": "128.05"
-        },
-        {
-            "id": "59179",
-            "airport_ref": "21268",
-            "airport_ident": "KU63",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306089",
-        "code": "US-ID",
-        "local_code": "ID",
-        "name": "Idaho",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho",
-        "keywords": "Airports in Idaho"
-    }
+    ]
 }

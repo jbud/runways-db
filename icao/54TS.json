@@ -40,47 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306119",
-        "code": "US-TX",
-        "local_code": "TX",
-        "name": "Texas",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
-        "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "94459",
-            "filename": "Stamford_NDB_US",
-            "ident": "TMV",
-            "name": "Stamford",
-            "type": "NDB",
-            "frequency_khz": "290",
-            "latitude_deg": "32.86859893798828",
-            "longitude_deg": "-99.73370361328125",
-            "elevation_ft": "1541",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.211",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "54TS"
-        }
     ]
 }

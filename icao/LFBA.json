@@ -40,57 +40,5 @@
             "he_heading_degT": "292",
             "he_displaced_threshold_ft": "1312"
         }
-    ],
-    "freqs": [
-        {
-            "id": "52362",
-            "airport_ref": "4058",
-            "airport_ident": "LFBA",
-            "type": "APP",
-            "description": "BLAGNAC APP",
-            "frequency_mhz": "121.1"
-        },
-        {
-            "id": "52361",
-            "airport_ref": "4058",
-            "airport_ident": "LFBA",
-            "type": "APP",
-            "description": "TOULOUSE APP",
-            "frequency_mhz": "121.175"
-        },
-        {
-            "id": "52363",
-            "airport_ref": "4058",
-            "airport_ident": "LFBA",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "129.6"
-        },
-        {
-            "id": "52364",
-            "airport_ref": "4058",
-            "airport_ident": "LFBA",
-            "type": "TWR",
-            "description": "AGEN TWR",
-            "frequency_mhz": "121.3"
-        }
-    ],
-    "country": {
-        "id": "302687",
-        "code": "FR",
-        "name": "France",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
-        "keywords": "Aéroports de France"
-    },
-    "region": {
-        "id": "306352",
-        "code": "FR-NAQ",
-        "local_code": "NAQ",
-        "name": "Nouvelle-Aquitaine",
-        "continent": "EU",
-        "iso_country": "FR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nouvelle-Aquitaine",
-        "keywords": "Limousin, Poitou-Charentes"
-    }
+    ]
 }

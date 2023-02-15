@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Lu%C4%8Dko_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302692",
-        "code": "HR",
-        "name": "Croatia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Croatia",
-        "keywords": "Croatian airports"
-    },
-    "region": {
-        "id": "306726",
-        "code": "HR-21",
-        "local_code": "21",
-        "name": "Zagreb (city)",
-        "continent": "EU",
-        "iso_country": "HR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Zagreb",
-        "keywords": "Airports in Zagreb (city)"
-    }
+    "keywords": ""
 }

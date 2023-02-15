@@ -40,49 +40,5 @@
             "he_heading_degT": "202.4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "64274",
-            "airport_ref": "20100",
-            "airport_ident": "KHVS",
-            "type": "A/D",
-            "description": "SHAW APP/DEP",
-            "frequency_mhz": "125.4"
-        },
-        {
-            "id": "64275",
-            "airport_ref": "20100",
-            "airport_ident": "KHVS",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.225"
-        },
-        {
-            "id": "64276",
-            "airport_ref": "20100",
-            "airport_ident": "KHVS",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306116",
-        "code": "US-SC",
-        "local_code": "SC",
-        "name": "South Carolina",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Carolina",
-        "keywords": "Airports in South Carolina"
-    }
+    ]
 }

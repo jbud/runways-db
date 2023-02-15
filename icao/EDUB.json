@@ -40,41 +40,5 @@
             "he_heading_degT": "253",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "53246",
-            "airport_ref": "2279",
-            "airport_ident": "EDUB",
-            "type": "AFIS",
-            "description": "BERLIN INFO",
-            "frequency_mhz": "126.35"
-        },
-        {
-            "id": "53247",
-            "airport_ref": "2279",
-            "airport_ident": "EDUB",
-            "type": "INFO",
-            "description": "BRIEST INFO",
-            "frequency_mhz": "130.125"
-        }
-    ],
-    "country": {
-        "id": "302681",
-        "code": "DE",
-        "name": "Germany",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
-        "keywords": "Flughäfen in Deutschland"
-    },
-    "region": {
-        "id": "303547",
-        "code": "DE-BR",
-        "local_code": "BR",
-        "name": "Brandenburg",
-        "continent": "EU",
-        "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brandenburg",
-        "keywords": "Airports in Brandenburg"
-    }
+    ]
 }

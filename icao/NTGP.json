@@ -40,23 +40,5 @@
             "he_heading_degT": "292.5",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302777",
-        "code": "PF",
-        "name": "French Polynesia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/French_Polynesia",
-        "keywords": ""
-    },
-    "region": {
-        "id": "305033",
-        "code": "PF-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
-        "continent": "OC",
-        "iso_country": "PF",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
-    }
+    ]
 }

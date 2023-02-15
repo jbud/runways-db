@@ -62,57 +62,5 @@
             "he_heading_degT": "345.8",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "61614",
-            "airport_ref": "21113",
-            "airport_ident": "KSTK",
-            "type": "A/D",
-            "description": "DENVER CNTR",
-            "frequency_mhz": "118.475"
-        },
-        {
-            "id": "61615",
-            "airport_ref": "21113",
-            "airport_ident": "KSTK",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.525"
-        },
-        {
-            "id": "61616",
-            "airport_ref": "21113",
-            "airport_ident": "KSTK",
-            "type": "RDO",
-            "description": "AKRON RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "61617",
-            "airport_ref": "21113",
-            "airport_ident": "KSTK",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306081",
-        "code": "US-CO",
-        "local_code": "CO",
-        "name": "Colorado",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
-        "keywords": "Airports in Colorado"
-    }
+    ]
 }

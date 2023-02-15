@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://www.hwln.mohw.gov.tw/",
     "wikipedia_link": "",
-    "keywords": "Hulien Hospital, 胡聯醫院直升機場",
-    "country": {
-        "id": "302668",
-        "code": "TW",
-        "name": "Taiwan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
-        "keywords": "Taiwanese airports"
-    },
-    "region": {
-        "id": "305939",
-        "code": "TW-HUA",
-        "local_code": "HUA",
-        "name": "Hualien County",
-        "continent": "AS",
-        "iso_country": "TW",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hualien_County",
-        "keywords": "Airports in Hualien County"
-    }
+    "keywords": "Hulien Hospital, 胡聯醫院直升機場"
 }

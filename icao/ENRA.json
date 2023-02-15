@@ -40,47 +40,5 @@
             "he_heading_degT": "316",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302709",
-        "code": "NO",
-        "name": "Norway",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
-        "keywords": "Flyplasser i Norge"
-    },
-    "region": {
-        "id": "304961",
-        "code": "NO-18",
-        "local_code": "18",
-        "name": "Nordland",
-        "continent": "EU",
-        "iso_country": "NO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nordland",
-        "keywords": "Airports in Nordland"
-    },
-    "navaids": [
-        {
-            "id": "93999",
-            "filename": "Strommen_NDB_NO",
-            "ident": "STM",
-            "name": "Strommen",
-            "type": "NDB",
-            "frequency_khz": "345",
-            "latitude_deg": "66.29019927978516",
-            "longitude_deg": "13.768799781799316",
-            "elevation_ft": "100",
-            "iso_country": "NO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.517",
-            "usageType": "RNAV",
-            "power": "LOW",
-            "associated_airport": "ENRA"
-        }
     ]
 }

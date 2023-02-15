@@ -40,23 +40,5 @@
             "he_heading_degT": "201",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302656",
-        "code": "PH",
-        "name": "Philippines",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
-        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
-    },
-    "region": {
-        "id": "305084",
-        "code": "PH-EAS",
-        "local_code": "EAS",
-        "name": "Eastern Samar Province",
-        "continent": "AS",
-        "iso_country": "PH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Samar_Province",
-        "keywords": "Airports in Eastern Samar Province"
-    }
+    ]
 }

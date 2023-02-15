@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302607",
-        "code": "TZ",
-        "name": "Tanzania",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tanzania",
-        "keywords": "Tanzanian airports"
-    },
-    "region": {
-        "id": "305966",
-        "code": "TZ-13",
-        "local_code": "13",
-        "name": "Mara Region",
-        "continent": "AF",
-        "iso_country": "TZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mara_Region",
-        "keywords": "Airports in Mara Region"
-    }
+    ]
 }

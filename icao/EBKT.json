@@ -40,57 +40,5 @@
             "he_heading_degT": "242",
             "he_displaced_threshold_ft": "380"
         }
-    ],
-    "freqs": [
-        {
-            "id": "49317",
-            "airport_ref": "2161",
-            "airport_ident": "EBKT",
-            "type": "UNIC",
-            "description": "AFIS",
-            "frequency_mhz": "120.25"
-        }
-    ],
-    "country": {
-        "id": "302676",
-        "code": "BE",
-        "name": "Belgium",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Belgium",
-        "keywords": "Aéroports de Belgique,Luchthavens van België"
-    },
-    "region": {
-        "id": "303074",
-        "code": "BE-VWV",
-        "local_code": "VWV",
-        "name": "West Flanders Province",
-        "continent": "EU",
-        "iso_country": "BE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Flanders",
-        "keywords": "West-Vlaanderen, Flanders, Flemish Region, Vlaams Gewest, Vlaanderen"
-    },
-    "navaids": [
-        {
-            "id": "91981",
-            "filename": "Kortrijk_NDB_BE",
-            "ident": "OKT",
-            "name": "Kortrijk",
-            "type": "NDB",
-            "frequency_khz": "371",
-            "latitude_deg": "50.82400131225586",
-            "longitude_deg": "3.224829912185669",
-            "elevation_ft": "60",
-            "iso_country": "BE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.597",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EBKT"
-        }
     ]
 }

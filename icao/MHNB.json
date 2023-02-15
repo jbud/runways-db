@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302739",
-        "code": "HN",
-        "name": "Honduras",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Honduras",
-        "keywords": "Aeropuertos de Honduras"
-    },
-    "region": {
-        "id": "304012",
-        "code": "HN-EP",
-        "local_code": "EP",
-        "name": "El Paraíso Department",
-        "continent": "NA",
-        "iso_country": "HN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/El_Para%C3%ADso_Department",
-        "keywords": "Airports in El Paraíso Department"
-    }
+    "keywords": ""
 }

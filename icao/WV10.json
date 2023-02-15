@@ -16,23 +16,5 @@
     "local_code": "WV10",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306126",
-        "code": "US-WV",
-        "local_code": "WV",
-        "name": "West Virginia",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Virginia",
-        "keywords": "Airports in West Virginia"
-    }
+    "keywords": ""
 }

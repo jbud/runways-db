@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Vernam_Field",
-    "keywords": "Vernam Field",
-    "country": {
-        "id": "302741",
-        "code": "JM",
-        "name": "Jamaica",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Jamaica",
-        "keywords": "Jamaican airports"
-    },
-    "region": {
-        "id": "304270",
-        "code": "JM-13",
-        "local_code": "13",
-        "name": "Clarendon Parish",
-        "continent": "NA",
-        "iso_country": "JM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Clarendon_Parish,_Jamaica",
-        "keywords": "Airports in Clarendon"
-    }
+    "keywords": "Vernam Field"
 }

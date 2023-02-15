@@ -40,49 +40,5 @@
             "he_heading_degT": "336",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "56403",
-            "airport_ref": "4478",
-            "airport_ident": "LRCT",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "129"
-        },
-        {
-            "id": "56404",
-            "airport_ref": "4478",
-            "airport_ident": "LRCT",
-            "type": "DEP",
-            "description": "DEP",
-            "frequency_mhz": "129"
-        },
-        {
-            "id": "56405",
-            "airport_ref": "4478",
-            "airport_ident": "LRCT",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "129"
-        }
-    ],
-    "country": {
-        "id": "302712",
-        "code": "RO",
-        "name": "Romania",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Romania",
-        "keywords": "Aeroporturi din România"
-    },
-    "region": {
-        "id": "305229",
-        "code": "RO-CJ",
-        "local_code": "CJ",
-        "name": "Cluj County",
-        "continent": "EU",
-        "iso_country": "RO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cluj_County",
-        "keywords": "Transylvania, Transylvanian Region"
-    }
+    ]
 }

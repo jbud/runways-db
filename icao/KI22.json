@@ -62,41 +62,5 @@
             "he_heading_degT": "271.9",
             "he_displaced_threshold_ft": "302"
         }
-    ],
-    "freqs": [
-        {
-            "id": "70150",
-            "airport_ref": "20125",
-            "airport_ident": "KI22",
-            "type": "A/D",
-            "description": "DAYTON APP/DEP",
-            "frequency_mhz": "134.45"
-        },
-        {
-            "id": "70151",
-            "airport_ref": "20125",
-            "airport_ident": "KI22",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306091",
-        "code": "US-IN",
-        "local_code": "IN",
-        "name": "Indiana",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
-        "keywords": "Airports in Indiana"
-    }
+    ]
 }

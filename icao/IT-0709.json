@@ -40,33 +40,5 @@
             "he_heading_degT": "19",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "506431",
-            "airport_ref": "506425",
-            "airport_ident": "IT-0709",
-            "type": "Info",
-            "description": "Bolgheri",
-            "frequency_mhz": "130"
-        }
-    ],
-    "country": {
-        "id": "302697",
-        "code": "IT",
-        "name": "Italy",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
-        "keywords": "Aeroporti d'Italia"
-    },
-    "region": {
-        "id": "306357",
-        "code": "IT-52",
-        "local_code": "52",
-        "name": "Tuscany",
-        "continent": "EU",
-        "iso_country": "IT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tuscany",
-        "keywords": "TC"
-    }
+    ]
 }

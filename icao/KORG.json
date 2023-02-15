@@ -62,49 +62,5 @@
             "he_heading_degT": "317.1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "67611",
-            "airport_ref": "20764",
-            "airport_ident": "KORG",
-            "type": "A/D",
-            "description": "BEAUMONT APP/DEP",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "67612",
-            "airport_ref": "20764",
-            "airport_ident": "KORG",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.975"
-        },
-        {
-            "id": "67613",
-            "airport_ref": "20764",
-            "airport_ident": "KORG",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306119",
-        "code": "US-TX",
-        "local_code": "TX",
-        "name": "Texas",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
-        "keywords": "Texan airports"
-    }
+    ]
 }

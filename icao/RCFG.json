@@ -40,41 +40,5 @@
             "he_heading_degT": "206.2",
             "he_displaced_threshold_ft": "394"
         }
-    ],
-    "freqs": [
-        {
-            "id": "57995",
-            "airport_ref": "5513",
-            "airport_ident": "RCFG",
-            "type": "TCA",
-            "description": "TAIPEI CON",
-            "frequency_mhz": "125.5"
-        },
-        {
-            "id": "57996",
-            "airport_ref": "5513",
-            "airport_ident": "RCFG",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.55"
-        }
-    ],
-    "country": {
-        "id": "302668",
-        "code": "TW",
-        "name": "Taiwan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
-        "keywords": "Taiwanese airports"
-    },
-    "region": {
-        "id": "306753",
-        "code": "TW-X-LK",
-        "local_code": "X-LK",
-        "name": "Lienchiang County",
-        "continent": "AS",
-        "iso_country": "TW",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Matsu_Islands",
-        "keywords": "Matsu Islands"
-    }
+    ]
 }

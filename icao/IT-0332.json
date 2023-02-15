@@ -16,23 +16,5 @@
     "local_code": "MCCOR",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Ali del Chienti",
-    "country": {
-        "id": "302697",
-        "code": "IT",
-        "name": "Italy",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
-        "keywords": "Aeroporti d'Italia"
-    },
-    "region": {
-        "id": "306362",
-        "code": "IT-57",
-        "local_code": "57",
-        "name": "Marche",
-        "continent": "EU",
-        "iso_country": "IT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Marche",
-        "keywords": "MH"
-    }
+    "keywords": "Ali del Chienti"
 }

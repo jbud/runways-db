@@ -40,41 +40,5 @@
             "he_heading_degT": "359",
             "he_displaced_threshold_ft": "19"
         }
-    ],
-    "freqs": [
-        {
-            "id": "310768",
-            "airport_ref": "27253",
-            "airport_ident": "EFII",
-            "type": "ACC",
-            "description": "Tampere radar",
-            "frequency_mhz": "132.325"
-        },
-        {
-            "id": "310767",
-            "airport_ref": "27253",
-            "airport_ident": "EFII",
-            "type": "RDO",
-            "description": "Iisalmi traffic",
-            "frequency_mhz": "123.55"
-        }
-    ],
-    "country": {
-        "id": "302685",
-        "code": "FI",
-        "name": "Finland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
-        "keywords": "Lentokentät, Suomen"
-    },
-    "region": {
-        "id": "336516",
-        "code": "FI-15",
-        "local_code": "15",
-        "name": "Northern Savonia Region",
-        "continent": "EU",
-        "iso_country": "FI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Savo",
-        "keywords": "Airports in Northern Savonia Region"
-    }
+    ]
 }

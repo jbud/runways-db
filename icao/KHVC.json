@@ -40,49 +40,5 @@
             "he_heading_degT": "257.8",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "70267",
-            "airport_ref": "20097",
-            "airport_ident": "KHVC",
-            "type": "A/D",
-            "description": "CAMPBELL APP/DEP",
-            "frequency_mhz": "118.1"
-        },
-        {
-            "id": "70268",
-            "airport_ref": "20097",
-            "airport_ident": "KHVC",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "132.575"
-        },
-        {
-            "id": "70269",
-            "airport_ref": "20097",
-            "airport_ident": "KHVC",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306093",
-        "code": "US-KY",
-        "local_code": "KY",
-        "name": "Kentucky",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
-        "keywords": "Airports in Kentucky"
-    }
+    ]
 }

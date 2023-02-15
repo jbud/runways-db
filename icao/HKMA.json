@@ -40,47 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302579",
-        "code": "KE",
-        "name": "Kenya",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kenya",
-        "keywords": "Kenyan airports"
-    },
-    "region": {
-        "id": "304338",
-        "code": "KE-500",
-        "local_code": "500",
-        "name": "North-Eastern Province",
-        "continent": "AF",
-        "iso_country": "KE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Eastern_Province_(Kenya)",
-        "keywords": "Kaskazini Mashariki"
-    },
-    "navaids": [
-        {
-            "id": "90702",
-            "filename": "Mandera_NDB_KE",
-            "ident": "MA",
-            "name": "Mandera",
-            "type": "NDB",
-            "frequency_khz": "400",
-            "latitude_deg": "3.9403300285339355",
-            "longitude_deg": "41.864200592041016",
-            "elevation_ft": "",
-            "iso_country": "KE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.299",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "HKMA"
-        }
     ]
 }

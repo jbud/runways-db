@@ -16,41 +16,5 @@
     "local_code": "",
     "home_link": "http://www.flugplatz-troestau.de/",
     "wikipedia_link": "",
-    "keywords": "EDTT",
-    "freqs": [
-        {
-            "id": "355175",
-            "airport_ref": "308649",
-            "airport_ident": "DE-0065",
-            "type": "CTAF",
-            "description": "TRÖSTAU INFO",
-            "frequency_mhz": "118.535"
-        },
-        {
-            "id": "355176",
-            "airport_ref": "308649",
-            "airport_ident": "DE-0065",
-            "type": "FIS",
-            "description": "LANGEN INFORMATION",
-            "frequency_mhz": "125.8"
-        }
-    ],
-    "country": {
-        "id": "302681",
-        "code": "DE",
-        "name": "Germany",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
-        "keywords": "Flughäfen in Deutschland"
-    },
-    "region": {
-        "id": "303550",
-        "code": "DE-BY",
-        "local_code": "BY",
-        "name": "Bavaria",
-        "continent": "EU",
-        "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
-        "keywords": "Bayern"
-    }
+    "keywords": "EDTT"
 }

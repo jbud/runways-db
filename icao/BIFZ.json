@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302696",
-        "code": "IS",
-        "name": "Iceland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iceland",
-        "keywords": "Icelandic airports"
-    },
-    "region": {
-        "id": "304254",
-        "code": "IS-8",
-        "local_code": "8",
-        "name": "Southern Region",
-        "continent": "EU",
-        "iso_country": "IS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_Region_(Iceland)",
-        "keywords": "Suðurland"
-    }
+    ]
 }

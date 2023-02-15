@@ -40,41 +40,5 @@
             "he_heading_degT": "322",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "57814",
-            "airport_ref": "26882",
-            "airport_ident": "WPEC",
-            "type": "CTAF",
-            "description": "E TIMOR COMMON HIGH",
-            "frequency_mhz": "123.45"
-        },
-        {
-            "id": "57815",
-            "airport_ref": "26882",
-            "airport_ident": "WPEC",
-            "type": "INFO",
-            "description": "E TIMOR COMMON LOW",
-            "frequency_mhz": "127.1"
-        }
-    ],
-    "country": {
-        "id": "302665",
-        "code": "TL",
-        "name": "Timor-Leste",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Timor-Leste",
-        "keywords": "East Timor"
-    },
-    "region": {
-        "id": "305792",
-        "code": "TL-BA",
-        "local_code": "BA",
-        "name": "Baucau",
-        "continent": "AS",
-        "iso_country": "TL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Baucau",
-        "keywords": "Airports in Baucau"
-    }
+    ]
 }

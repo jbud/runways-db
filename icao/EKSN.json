@@ -40,41 +40,5 @@
             "he_heading_degT": "266",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "51742",
-            "airport_ref": "2554",
-            "airport_ident": "EKSN",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "118.75"
-        },
-        {
-            "id": "51743",
-            "airport_ref": "2554",
-            "airport_ident": "EKSN",
-            "type": "APP",
-            "description": "AALBORG APP",
-            "frequency_mhz": "123.975"
-        }
-    ],
-    "country": {
-        "id": "302682",
-        "code": "DK",
-        "name": "Denmark",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Denmark",
-        "keywords": "Lufthavnene i Danmark"
-    },
-    "region": {
-        "id": "306329",
-        "code": "DK-81",
-        "local_code": "81",
-        "name": "North Jutland",
-        "continent": "EU",
-        "iso_country": "DK",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Jutland",
-        "keywords": "Nordjylland"
-    }
+    ]
 }

@@ -40,57 +40,5 @@
             "he_heading_degT": "197.8",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "49494",
-            "airport_ref": "26723",
-            "airport_ident": "VYKT",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
-    "country": {
-        "id": "302649",
-        "code": "MM",
-        "name": "Myanmar",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Burma",
-        "keywords": "Myanmar"
-    },
-    "region": {
-        "id": "304670",
-        "code": "MM-05",
-        "local_code": "05",
-        "name": "Tanintharyi Region",
-        "continent": "AS",
-        "iso_country": "MM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tanintharyi_Region",
-        "keywords": "Airports in Tanintharyi Division"
-    },
-    "navaids": [
-        {
-            "id": "90014",
-            "filename": "Kawthoung_NDB_MM",
-            "ident": "KT",
-            "name": "Kawthoung",
-            "type": "NDB",
-            "frequency_khz": "290",
-            "latitude_deg": "10.051799774169922",
-            "longitude_deg": "98.54969787597656",
-            "elevation_ft": "",
-            "iso_country": "MM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.351",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VYKT"
-        }
     ]
 }

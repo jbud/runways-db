@@ -40,57 +40,5 @@
             "he_heading_degT": "259.1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "55536",
-            "airport_ref": "4692",
-            "airport_ident": "MMBT",
-            "type": "TWR",
-            "description": "HUATULCO TWR",
-            "frequency_mhz": "118"
-        }
-    ],
-    "country": {
-        "id": "302747",
-        "code": "MX",
-        "name": "Mexico",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
-        "keywords": "Aeropuertos de México, Mexican airports"
-    },
-    "region": {
-        "id": "304809",
-        "code": "MX-OAX",
-        "local_code": "OAX",
-        "name": "Oaxaca",
-        "continent": "NA",
-        "iso_country": "MX",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Oaxaca",
-        "keywords": "Airports in Oaxaca"
-    },
-    "navaids": [
-        {
-            "id": "89054",
-            "filename": "Huatulco_VOR-DME_MX",
-            "ident": "HUX",
-            "name": "Huatulco",
-            "type": "VOR-DME",
-            "frequency_khz": "113200",
-            "latitude_deg": "15.777799606323242",
-            "longitude_deg": "-96.26139831542969",
-            "elevation_ft": "464",
-            "iso_country": "MX",
-            "dme_frequency_khz": "113200",
-            "dme_channel": "079X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "7.005",
-            "magnetic_variation_deg": "5.049",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMBT"
-        }
     ]
 }

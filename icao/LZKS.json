@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "311263",
-            "airport_ref": "30044",
-            "airport_ident": "LZKS",
-            "type": "CTAF",
-            "description": "Kralova prevadzka / Kralova Traffic",
-            "frequency_mhz": "122.7"
-        }
-    ],
-    "country": {
-        "id": "302717",
-        "code": "SK",
-        "name": "Slovakia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Slovakia",
-        "keywords": "letisko Slovenska"
-    },
-    "region": {
-        "id": "305592",
-        "code": "SK-BL",
-        "local_code": "BL",
-        "name": "Bratislava Region",
-        "continent": "EU",
-        "iso_country": "SK",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bratislava_Region",
-        "keywords": "Bratislavský kraj"
-    }
+    ]
 }

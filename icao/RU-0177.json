@@ -16,33 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Uglich Fominskoe Helipad, Вертолётная площадка Углич-Фоминское",
-    "freqs": [
-        {
-            "id": "75185",
-            "airport_ref": "44640",
-            "airport_ident": "RU-0177",
-            "type": "Unknown",
-            "description": "Srazu Klub",
-            "frequency_mhz": "120.55"
-        }
-    ],
-    "country": {
-        "id": "302714",
-        "code": "RU",
-        "name": "Russia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
-        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
-    },
-    "region": {
-        "id": "305345",
-        "code": "RU-YAR",
-        "local_code": "YAR",
-        "name": "Yaroslavl Oblast",
-        "continent": "EU",
-        "iso_country": "RU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Yaroslavl_Oblast",
-        "keywords": "Airports in Yaroslavl Oblast"
-    }
+    "keywords": "Uglich Fominskoe Helipad, Вертолётная площадка Углич-Фоминское"
 }

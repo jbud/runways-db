@@ -16,23 +16,5 @@
     "local_code": "RIV",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302789",
-        "code": "AR",
-        "name": "Argentina",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
-        "keywords": "Aeropuertos de Argentina"
-    },
-    "region": {
-        "id": "302932",
-        "code": "AR-A",
-        "local_code": "A",
-        "name": "Salta Province",
-        "continent": "SA",
-        "iso_country": "AR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Salta_Province",
-        "keywords": "Airports in Salta Province"
-    }
+    "keywords": ""
 }

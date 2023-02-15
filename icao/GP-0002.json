@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "LF97102",
-    "country": {
-        "id": "302737",
-        "code": "GP",
-        "name": "Guadeloupe",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Guadeloupe",
-        "keywords": "Airports in Guadeloupe"
-    },
-    "region": {
-        "id": "303896",
-        "code": "GP-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
-        "continent": "NA",
-        "iso_country": "GP",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
-    }
+    "keywords": "LF97102"
 }

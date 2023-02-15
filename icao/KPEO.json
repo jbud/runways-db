@@ -62,49 +62,5 @@
             "he_heading_degT": "270",
             "he_displaced_threshold_ft": "384"
         }
-    ],
-    "freqs": [
-        {
-            "id": "69305",
-            "airport_ref": "20817",
-            "airport_ident": "KPEO",
-            "type": "A/D",
-            "description": "ELIMIRA APP/DEP",
-            "frequency_mhz": "124.3"
-        },
-        {
-            "id": "69306",
-            "airport_ref": "20817",
-            "airport_ident": "KPEO",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "121.175"
-        },
-        {
-            "id": "69307",
-            "airport_ref": "20817",
-            "airport_ident": "KPEO",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306110",
-        "code": "US-NY",
-        "local_code": "NY",
-        "name": "New York",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
-        "keywords": "Airports in New York"
-    }
+    ]
 }

@@ -40,23 +40,5 @@
             "he_heading_degT": "236.4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302677",
-        "code": "BG",
-        "name": "Bulgaria",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bulgaria",
-        "keywords": "Bulgarian airports"
-    },
-    "region": {
-        "id": "303126",
-        "code": "BG-01",
-        "local_code": "01",
-        "name": "Blagoevgrad Province",
-        "continent": "EU",
-        "iso_country": "BG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Blagoevgrad_Province",
-        "keywords": "Airports in Blagoevgrad Province"
-    }
+    ]
 }

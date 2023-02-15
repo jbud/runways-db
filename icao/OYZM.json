@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302671",
-        "code": "YE",
-        "name": "Yemen",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Yemen",
-        "keywords": "مطارات اليمن"
-    },
-    "region": {
-        "id": "306725",
-        "code": "YE-JA",
-        "local_code": "JA",
-        "name": "Al Jawf Governorate",
-        "continent": "AS",
-        "iso_country": "YE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Jawf_Governorate",
-        "keywords": "Airports in Al Jawf Governorate"
-    }
+    ]
 }

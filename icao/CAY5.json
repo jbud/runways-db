@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "311584",
-            "airport_ref": "311583",
-            "airport_ident": "CAY5",
-            "type": "ATF",
-            "description": "Sargeant Traffic, 5NM below 4000ASL",
-            "frequency_mhz": "123.2"
-        }
-    ],
-    "country": {
-        "id": "302730",
-        "code": "CA",
-        "name": "Canada",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
-        "keywords": "Canadian airports"
-    },
-    "region": {
-        "id": "303302",
-        "code": "CA-ON",
-        "local_code": "ON",
-        "name": "Ontario",
-        "continent": "NA",
-        "iso_country": "CA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
-        "keywords": "Airports in Ontario"
-    }
+    ]
 }

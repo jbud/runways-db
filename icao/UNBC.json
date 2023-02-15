@@ -16,23 +16,5 @@
     "local_code": "UNBC",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "УНБЦ, Аккем",
-    "country": {
-        "id": "302714",
-        "code": "RU",
-        "name": "Russia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
-        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
-    },
-    "region": {
-        "id": "305263",
-        "code": "RU-AL",
-        "local_code": "AL",
-        "name": "Altai Republic",
-        "continent": "EU",
-        "iso_country": "RU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Altai_Republic",
-        "keywords": "Altay"
-    }
+    "keywords": "УНБЦ, Аккем"
 }

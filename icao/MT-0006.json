@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302707",
-        "code": "MT",
-        "name": "Malta",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Malta",
-        "keywords": ""
-    },
-    "region": {
-        "id": "306859",
-        "code": "MT-62",
-        "local_code": "62",
-        "name": "Xewkija",
-        "continent": "EU",
-        "iso_country": "MT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Xewkija",
-        "keywords": "Airports in Xewkija"
-    }
+    ]
 }

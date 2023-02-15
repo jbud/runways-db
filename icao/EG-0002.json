@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Az Zaqaziq",
-    "country": {
-        "id": "302569",
-        "code": "EG",
-        "name": "Egypt",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Egypt",
-        "keywords": "مطارات مصر, Egyptian airports"
-    },
-    "region": {
-        "id": "303713",
-        "code": "EG-SHR",
-        "local_code": "SHR",
-        "name": "Sharqia Governorate",
-        "continent": "AF",
-        "iso_country": "EG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sharqia_Governorate",
-        "keywords": "Airports in Sharqia Governorate"
-    }
+    "keywords": "Az Zaqaziq"
 }

@@ -62,33 +62,5 @@
             "he_heading_degT": "356",
             "he_displaced_threshold_ft": "230"
         }
-    ],
-    "freqs": [
-        {
-            "id": "314471",
-            "airport_ref": "28877",
-            "airport_ident": "LFHA",
-            "type": "A/A",
-            "description": "obligatoire",
-            "frequency_mhz": "118.15"
-        }
-    ],
-    "country": {
-        "id": "302687",
-        "code": "FR",
-        "name": "France",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
-        "keywords": "Aéroports de France"
-    },
-    "region": {
-        "id": "306351",
-        "code": "FR-ARA",
-        "local_code": "ARA",
-        "name": "Auvergne-Rhône-Alpes",
-        "continent": "EU",
-        "iso_country": "FR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes",
-        "keywords": "Airports in Auvergne-Rhône-Alpes"
-    }
+    ]
 }

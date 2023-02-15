@@ -40,49 +40,5 @@
             "he_heading_degT": "241",
             "he_displaced_threshold_ft": "246"
         }
-    ],
-    "freqs": [
-        {
-            "id": "59869",
-            "airport_ref": "18498",
-            "airport_ident": "K1N7",
-            "type": "A/D",
-            "description": "NEW YORK APP/DEP",
-            "frequency_mhz": "127.6"
-        },
-        {
-            "id": "59870",
-            "airport_ref": "18498",
-            "airport_ident": "K1N7",
-            "type": "APP",
-            "description": "ALLENTOWN APP DEP",
-            "frequency_mhz": "119.65"
-        },
-        {
-            "id": "59871",
-            "airport_ref": "18498",
-            "airport_ident": "K1N7",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306107",
-        "code": "US-NJ",
-        "local_code": "NJ",
-        "name": "New Jersey",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
-        "keywords": "Airports in New Jersey"
-    }
+    ]
 }

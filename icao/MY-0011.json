@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302653",
-        "code": "MY",
-        "name": "Malaysia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Malaysia",
-        "keywords": "Lapangan Terbang Malaysia"
-    },
-    "region": {
-        "id": "304836",
-        "code": "MY-14",
-        "local_code": "14",
-        "name": "Kuala Lumpur (Federal Territory)",
-        "continent": "AS",
-        "iso_country": "MY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kuala_Lumpur",
-        "keywords": "Airports in Kuala Lumpur"
-    }
+    "keywords": ""
 }

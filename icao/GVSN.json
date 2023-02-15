@@ -40,47 +40,5 @@
             "he_heading_degT": "176",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302566",
-        "code": "CV",
-        "name": "Cape Verde",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cape_Verde",
-        "keywords": "Airports in Cape Verde"
-    },
-    "region": {
-        "id": "303522",
-        "code": "CV-B",
-        "local_code": "B",
-        "name": "Barlavento Islands",
-        "continent": "AF",
-        "iso_country": "CV",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Barlavento_Islands",
-        "keywords": "Ilhas de Barlavento"
-    },
-    "navaids": [
-        {
-            "id": "91486",
-            "filename": "Sao_Nicolau_NDB_CV",
-            "ident": "NCL",
-            "name": "Sao Nicolau",
-            "type": "NDB",
-            "frequency_khz": "357",
-            "latitude_deg": "16.562700271606445",
-            "longitude_deg": "-24.283199310302734",
-            "elevation_ft": "",
-            "iso_country": "CV",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-11.217",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "GVSN"
-        }
     ]
 }

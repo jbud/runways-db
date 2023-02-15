@@ -40,41 +40,5 @@
             "he_heading_degT": "271",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "54136",
-            "airport_ref": "4420",
-            "airport_ident": "LLMG",
-            "type": "ACC",
-            "description": "TEL AVIV CON",
-            "frequency_mhz": "124.3"
-        },
-        {
-            "id": "54137",
-            "airport_ref": "4420",
-            "airport_ident": "LLMG",
-            "type": "ACC",
-            "description": "TEL AVIV EAST",
-            "frequency_mhz": "132.05"
-        }
-    ],
-    "country": {
-        "id": "302633",
-        "code": "IL",
-        "name": "Israel",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Israel",
-        "keywords": "שדות התעופה של ישראל"
-    },
-    "region": {
-        "id": "304162",
-        "code": "IL-Z",
-        "local_code": "Z",
-        "name": "Northern District",
-        "continent": "AS",
-        "iso_country": "IL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_District_(Israel)",
-        "keywords": "Mehoz HaTzafon"
-    }
+    ]
 }

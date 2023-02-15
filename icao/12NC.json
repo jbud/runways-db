@@ -84,33 +84,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "71354",
-            "airport_ref": "7781",
-            "airport_ident": "12NC",
-            "type": "APP",
-            "description": "CHERRY POINT APP",
-            "frequency_mhz": "119.75"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306103",
-        "code": "US-NC",
-        "local_code": "NC",
-        "name": "North Carolina",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
-        "keywords": "Airports in North Carolina"
-    }
+    ]
 }

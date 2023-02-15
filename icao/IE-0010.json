@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Irish Light Aviation Society, Taghmon",
-    "country": {
-        "id": "302694",
-        "code": "IE",
-        "name": "Ireland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ireland",
-        "keywords": "Eire"
-    },
-    "region": {
-        "id": "304155",
-        "code": "IE-WX",
-        "local_code": "WX",
-        "name": "County Wexford",
-        "continent": "EU",
-        "iso_country": "IE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Wexford",
-        "keywords": "Airports in County Wexford"
-    }
+    "keywords": "Irish Light Aviation Society, Taghmon"
 }

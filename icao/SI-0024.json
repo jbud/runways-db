@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302716",
-        "code": "SI",
-        "name": "Slovenia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Slovenia",
-        "keywords": ""
-    },
-    "region": {
-        "id": "305548",
-        "code": "SI-142",
-        "local_code": "142",
-        "name": "Zagorje ob Savi",
-        "continent": "EU",
-        "iso_country": "SI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Zagorje_ob_Savi",
-        "keywords": "Airports in Zagorje ob Savi"
-    }
+    "keywords": ""
 }

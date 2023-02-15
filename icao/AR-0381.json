@@ -62,23 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302789",
-        "code": "AR",
-        "name": "Argentina",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
-        "keywords": "Aeropuertos de Argentina"
-    },
-    "region": {
-        "id": "302946",
-        "code": "AR-R",
-        "local_code": "R",
-        "name": "Río Negro Province",
-        "continent": "SA",
-        "iso_country": "AR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/R%C3%ADo_Negro_Province",
-        "keywords": ""
-    }
+    ]
 }

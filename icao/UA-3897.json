@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Lebedyn_(air_base)",
-    "keywords": "Lebedin Air Base, Аэродром Лебедин, UKHN",
-    "country": {
-        "id": "302719",
-        "code": "UA",
-        "name": "Ukraine",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ukraine",
-        "keywords": "Аеропорти України"
-    },
-    "region": {
-        "id": "306000",
-        "code": "UA-59",
-        "local_code": "59",
-        "name": "Sumy Oblast",
-        "continent": "EU",
-        "iso_country": "UA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sumy_Oblast",
-        "keywords": "Airports in Sumy Oblast"
-    }
+    "keywords": "Lebedin Air Base, Аэродром Лебедин, UKHN"
 }

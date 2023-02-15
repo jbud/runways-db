@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Прањани, Operation Halyard",
-    "country": {
-        "id": "302713",
-        "code": "RS",
-        "name": "Serbia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Serbia",
-        "keywords": "Serb"
-    },
-    "region": {
-        "id": "306607",
-        "code": "RS-17",
-        "local_code": "17",
-        "name": "Moravica District",
-        "continent": "EU",
-        "iso_country": "RS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Moravica_District",
-        "keywords": "Airports in Moravica District"
-    }
+    "keywords": "Прањани, Operation Halyard"
 }

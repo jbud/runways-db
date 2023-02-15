@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://aeroklubtrstenik.webs.com/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Trstenik_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302713",
-        "code": "RS",
-        "name": "Serbia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Serbia",
-        "keywords": "Serb"
-    },
-    "region": {
-        "id": "306609",
-        "code": "RS-19",
-        "local_code": "19",
-        "name": "Rasina District",
-        "continent": "EU",
-        "iso_country": "RS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Rasina_District",
-        "keywords": "Airports in Rasina District"
-    }
+    "keywords": ""
 }

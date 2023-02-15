@@ -40,33 +40,5 @@
             "he_heading_degT": "272",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "54844",
-            "airport_ref": "3210",
-            "airport_ident": "HKLK",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "125.9"
-        }
-    ],
-    "country": {
-        "id": "302579",
-        "code": "KE",
-        "name": "Kenya",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kenya",
-        "keywords": "Kenyan airports"
-    },
-    "region": {
-        "id": "304340",
-        "code": "KE-700",
-        "local_code": "700",
-        "name": "Rift Valley Province",
-        "continent": "AF",
-        "iso_country": "KE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Rift_Valley_Province",
-        "keywords": "Airports in Rift Valley Province"
-    }
+    ]
 }

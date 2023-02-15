@@ -62,57 +62,5 @@
             "he_heading_degT": "6",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "67991",
-            "airport_ref": "20550",
-            "airport_ident": "KMPR",
-            "type": "A/D",
-            "description": "WICHITA APP/DEP",
-            "frequency_mhz": "125.5"
-        },
-        {
-            "id": "67992",
-            "airport_ref": "20550",
-            "airport_ident": "KMPR",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.025"
-        },
-        {
-            "id": "67993",
-            "airport_ref": "20550",
-            "airport_ident": "KMPR",
-            "type": "RDO",
-            "description": "WICHITA RDO",
-            "frequency_mhz": "122.15"
-        },
-        {
-            "id": "67994",
-            "airport_ref": "20550",
-            "airport_ident": "KMPR",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306092",
-        "code": "US-KS",
-        "local_code": "KS",
-        "name": "Kansas",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
-        "keywords": "Airports in Kansas"
-    }
+    ]
 }

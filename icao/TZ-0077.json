@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302607",
-        "code": "TZ",
-        "name": "Tanzania",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tanzania",
-        "keywords": "Tanzanian airports"
-    },
-    "region": {
-        "id": "305976",
-        "code": "TZ-23",
-        "local_code": "23",
-        "name": "Singida Region",
-        "continent": "AF",
-        "iso_country": "TZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Singida_Region",
-        "keywords": "Airports in Singida Region"
-    }
+    "keywords": ""
 }

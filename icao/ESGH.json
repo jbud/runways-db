@@ -16,33 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "freqs": [
-        {
-            "id": "332892",
-            "airport_ref": "29325",
-            "airport_ident": "ESGH",
-            "type": "CTAF",
-            "description": "HERRLJUNGA RADIO",
-            "frequency_mhz": "123.65"
-        }
-    ],
-    "country": {
-        "id": "302715",
-        "code": "SE",
-        "name": "Sweden",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
-        "keywords": "Flygplatserna, Sverige"
-    },
-    "region": {
-        "id": "305424",
-        "code": "SE-Q",
-        "local_code": "Q",
-        "name": "Västra Götalands län",
-        "continent": "EU",
-        "iso_country": "SE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Västra_Götalands_län",
-        "keywords": "Västra Götaland County"
-    }
+    "keywords": ""
 }

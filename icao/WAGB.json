@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Haji_Muhammad_Sidik_Airport",
-    "keywords": "Trinsing",
-    "country": {
-        "id": "302632",
-        "code": "ID",
-        "name": "Indonesia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
-        "keywords": "Bandara di Indonesia"
-    },
-    "region": {
-        "id": "304112",
-        "code": "ID-KT",
-        "local_code": "KT",
-        "name": "Kalimantan Tengah (Central Kalimantan)",
-        "continent": "AS",
-        "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Kalimantan",
-        "keywords": "Kalimantan Tengah"
-    }
+    "keywords": "Trinsing"
 }

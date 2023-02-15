@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302704",
-        "code": "MD",
-        "name": "Moldova",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Moldova",
-        "keywords": "Airports in Moldova"
-    },
-    "region": {
-        "id": "306479",
-        "code": "MD-SV",
-        "local_code": "SV",
-        "name": "Ştefan-Vodă District",
-        "continent": "EU",
-        "iso_country": "MD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ştefan-Vodă_District",
-        "keywords": "Airports in Ştefan-Vodă District"
-    }
+    "keywords": ""
 }

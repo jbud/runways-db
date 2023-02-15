@@ -62,41 +62,5 @@
             "he_heading_degT": "257",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "53059",
-            "airport_ref": "2231",
-            "airport_ident": "EDFZ",
-            "type": "AFIS",
-            "description": "LANGEN INFO",
-            "frequency_mhz": "119.15"
-        },
-        {
-            "id": "53060",
-            "airport_ref": "2231",
-            "airport_ident": "EDFZ",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "122.93"
-        }
-    ],
-    "country": {
-        "id": "302681",
-        "code": "DE",
-        "name": "Germany",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
-        "keywords": "Flughäfen in Deutschland"
-    },
-    "region": {
-        "id": "303557",
-        "code": "DE-RP",
-        "local_code": "RP",
-        "name": "Rhineland-Palatinate",
-        "continent": "EU",
-        "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Rhineland-Palatinate",
-        "keywords": "Rheinland-Pfalz"
-    }
+    ]
 }

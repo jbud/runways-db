@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302700",
-        "code": "LT",
-        "name": "Lithuania",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lithuania",
-        "keywords": "Lithuanian airports"
-    },
-    "region": {
-        "id": "304495",
-        "code": "LT-KL",
-        "local_code": "KL",
-        "name": "Klaipėda County",
-        "continent": "EU",
-        "iso_country": "LT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Klaip%C4%97da_County",
-        "keywords": "Airports in Klaipėda County"
-    }
+    ]
 }

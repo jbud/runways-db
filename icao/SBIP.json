@@ -40,57 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "49749",
-            "airport_ref": "5918",
-            "airport_ident": "SBIP",
-            "type": "AFIS",
-            "description": "RDO",
-            "frequency_mhz": "130"
-        }
-    ],
-    "country": {
-        "id": "302791",
-        "code": "BR",
-        "name": "Brazil",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
-        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
-    },
-    "region": {
-        "id": "303209",
-        "code": "BR-MG",
-        "local_code": "MG",
-        "name": "Minas Gerais",
-        "continent": "SA",
-        "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
-        "keywords": "Airports in Minas Gerais"
-    },
-    "navaids": [
-        {
-            "id": "95795",
-            "filename": "Usiminas_NDB_BR",
-            "ident": "YPT",
-            "name": "Usiminas",
-            "type": "NDB",
-            "frequency_khz": "162",
-            "latitude_deg": "-19.46299934387207",
-            "longitude_deg": "-42.47949981689453",
-            "elevation_ft": "784",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-22.157",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SBIP"
-        }
     ]
 }

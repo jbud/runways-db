@@ -62,33 +62,5 @@
             "he_heading_degT": "310",
             "he_displaced_threshold_ft": "361"
         }
-    ],
-    "freqs": [
-        {
-            "id": "51708",
-            "airport_ref": "2549",
-            "airport_ident": "EKOD",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "119.525"
-        }
-    ],
-    "country": {
-        "id": "302682",
-        "code": "DK",
-        "name": "Denmark",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Denmark",
-        "keywords": "Lufthavnene i Danmark"
-    },
-    "region": {
-        "id": "306327",
-        "code": "DK-83",
-        "local_code": "83",
-        "name": "South Denmark",
-        "continent": "EU",
-        "iso_country": "DK",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Denmark",
-        "keywords": "Syddanmark"
-    }
+    ]
 }

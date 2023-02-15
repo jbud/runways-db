@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302600",
-        "code": "SN",
-        "name": "Senegal",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Senegal",
-        "keywords": "Aéroports du Sénégal, Senegalese airports"
-    },
-    "region": {
-        "id": "305615",
-        "code": "SN-TH",
-        "local_code": "TH",
-        "name": "Thiès Region",
-        "continent": "AF",
-        "iso_country": "SN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Thi%C3%A8s_Region",
-        "keywords": "Airports in Thiès Region"
-    }
+    ]
 }

@@ -40,49 +40,5 @@
             "he_heading_degT": "289",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "62487",
-            "airport_ref": "19869",
-            "airport_ident": "KFIG",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "119.275"
-        },
-        {
-            "id": "62488",
-            "airport_ref": "19869",
-            "airport_ident": "KFIG",
-            "type": "CNTR",
-            "description": "NEW YORK CNTR",
-            "frequency_mhz": "134.8"
-        },
-        {
-            "id": "62489",
-            "airport_ref": "19869",
-            "airport_ident": "KFIG",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.725"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306114",
-        "code": "US-PA",
-        "local_code": "PA",
-        "name": "Pennsylvania",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
-        "keywords": "Airports in Pennsylvania"
-    }
+    ]
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "302418",
-            "airport_ref": "29508",
-            "airport_ident": "LSPH",
-            "type": "AFIS",
-            "description": "Winterthur Info (ge)",
-            "frequency_mhz": "134.975"
-        }
-    ],
-    "country": {
-        "id": "302679",
-        "code": "CH",
-        "name": "Switzerland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
-        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
-    },
-    "region": {
-        "id": "303378",
-        "code": "CH-ZH",
-        "local_code": "ZH",
-        "name": "Canton of Zurich",
-        "continent": "EU",
-        "iso_country": "CH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Zurich",
-        "keywords": "Airports in Canton of Zurich"
-    }
+    ]
 }

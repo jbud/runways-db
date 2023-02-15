@@ -40,57 +40,5 @@
             "he_heading_degT": "224.5",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "53800",
-            "airport_ref": "26497",
-            "airport_ident": "VECO",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.3"
-        }
-    ],
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304198",
-        "code": "IN-WB",
-        "local_code": "WB",
-        "name": "West Bengal",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Bengal",
-        "keywords": "Airports in West Bengal"
-    },
-    "navaids": [
-        {
-            "id": "86931",
-            "filename": "Cooch_Behar_NDB_IN",
-            "ident": "CO",
-            "name": "Cooch Behar",
-            "type": "NDB",
-            "frequency_khz": "337",
-            "latitude_deg": "26.330400466918945",
-            "longitude_deg": "89.4823989868164",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.144",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VECO"
-        }
     ]
 }

@@ -62,33 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "335618",
-            "airport_ref": "29691",
-            "airport_ident": "LHBC",
-            "type": "AFIS",
-            "description": "Békéscsaba INFO",
-            "frequency_mhz": "123.26"
-        }
-    ],
-    "country": {
-        "id": "302693",
-        "code": "HU",
-        "name": "Hungary",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
-        "keywords": "Repülőterek Magyarország"
-    },
-    "region": {
-        "id": "304057",
-        "code": "HU-BE",
-        "local_code": "BE",
-        "name": "Békés County",
-        "continent": "EU",
-        "iso_country": "HU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Békés_County",
-        "keywords": "Békés megye"
-    }
+    ]
 }

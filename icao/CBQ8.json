@@ -40,33 +40,5 @@
             "he_heading_degT": "224",
             "he_displaced_threshold_ft": "1050"
         }
-    ],
-    "freqs": [
-        {
-            "id": "50966",
-            "airport_ref": "710",
-            "airport_ident": "CBQ8",
-            "type": "ATF",
-            "description": "ATF",
-            "frequency_mhz": "123.2"
-        }
-    ],
-    "country": {
-        "id": "302730",
-        "code": "CA",
-        "name": "Canada",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
-        "keywords": "Canadian airports"
-    },
-    "region": {
-        "id": "303295",
-        "code": "CA-BC",
-        "local_code": "BC",
-        "name": "British Columbia",
-        "continent": "NA",
-        "iso_country": "CA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
-        "keywords": "British Columbian airports"
-    }
+    ]
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302571",
-        "code": "ER",
-        "name": "Eritrea",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Eritrea",
-        "keywords": "Eritrean airports"
-    },
-    "region": {
-        "id": "303722",
-        "code": "ER-GB",
-        "local_code": "GB",
-        "name": "Gash-Barka Region",
-        "continent": "AF",
-        "iso_country": "ER",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Gash-Barka_Region",
-        "keywords": "ዞባ ጋሽ ባርካ, منطقة القاش وبركا"
-    }
+    "keywords": ""
 }

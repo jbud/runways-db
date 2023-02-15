@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Emba Air Base, Аэродром Карась,Аэродром Эмба",
-    "country": {
-        "id": "302645",
-        "code": "KZ",
-        "name": "Kazakhstan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kazakhstan",
-        "keywords": "Kazakh"
-    },
-    "region": {
-        "id": "304425",
-        "code": "KZ-AKT",
-        "local_code": "AKT",
-        "name": "Aktobe Region",
-        "continent": "AS",
-        "iso_country": "KZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Aktobe_Region",
-        "keywords": "Ақтөбе облысы"
-    }
+    "keywords": "Emba Air Base, Аэродром Карась,Аэродром Эмба"
 }

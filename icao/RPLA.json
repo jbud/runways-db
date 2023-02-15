@@ -40,23 +40,5 @@
             "he_heading_degT": "186.4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302656",
-        "code": "PH",
-        "name": "Philippines",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
-        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
-    },
-    "region": {
-        "id": "305101",
-        "code": "PH-MDR",
-        "local_code": "MDR",
-        "name": "Oriental Mindoro Province",
-        "continent": "AS",
-        "iso_country": "PH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Oriental_Mindoro",
-        "keywords": "Airports in Oriental Mindoro Province"
-    }
+    ]
 }

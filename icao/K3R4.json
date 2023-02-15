@@ -62,41 +62,5 @@
             "he_heading_degT": "301.1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "59974",
-            "airport_ref": "18732",
-            "airport_ident": "K3R4",
-            "type": "A/D",
-            "description": "POLK APP/DEP",
-            "frequency_mhz": "123.7"
-        },
-        {
-            "id": "59975",
-            "airport_ref": "18732",
-            "airport_ident": "K3R4",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306094",
-        "code": "US-LA",
-        "local_code": "LA",
-        "name": "Louisiana",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
-        "keywords": "Airports in Louisiana"
-    }
+    ]
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://www.msg-gerolzhofen.de",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302681",
-        "code": "DE",
-        "name": "Germany",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
-        "keywords": "Flughäfen in Deutschland"
-    },
-    "region": {
-        "id": "303562",
-        "code": "DE-TH",
-        "local_code": "TH",
-        "name": "Thuringia",
-        "continent": "EU",
-        "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Thuringia",
-        "keywords": "Thueringen, Freistaat Thüringen"
-    }
+    "keywords": ""
 }

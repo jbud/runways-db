@@ -40,41 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "73191",
-            "airport_ref": "38388",
-            "airport_ident": "YHOA",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.6"
-        },
-        {
-            "id": "73192",
-            "airport_ref": "38388",
-            "airport_ident": "YHOA",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "134.2"
-        }
-    ],
-    "country": {
-        "id": "302764",
-        "code": "AU",
-        "name": "Australia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
-        "keywords": "Australian airports"
-    },
-    "region": {
-        "id": "302970",
-        "code": "AU-NT",
-        "local_code": "NT",
-        "name": "Northern Territory",
-        "continent": "OC",
-        "iso_country": "AU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
-        "keywords": "Airports in Northern Territory"
-    }
+    ]
 }

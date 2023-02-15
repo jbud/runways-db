@@ -40,41 +40,5 @@
             "he_heading_degT": "262",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "58673",
-            "airport_ref": "5376",
-            "airport_ident": "PAIK",
-            "type": "CNTR",
-            "description": "ANCHORAGE CNTR",
-            "frequency_mhz": "119.2"
-        },
-        {
-            "id": "58674",
-            "airport_ref": "5376",
-            "airport_ident": "PAIK",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.7"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306076",
-        "code": "US-AK",
-        "local_code": "AK",
-        "name": "Alaska",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
-        "keywords": "Airports in Alaska"
-    }
+    ]
 }

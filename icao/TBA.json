@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "TBA, TBA",
-    "country": {
-        "id": "302778",
-        "code": "PG",
-        "name": "Papua New Guinea",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
-        "keywords": "Airports in Papua New Guinea"
-    },
-    "region": {
-        "id": "307236",
-        "code": "PG-JI",
-        "local_code": "JI",
-        "name": "Jiwaka Province",
-        "continent": "OC",
-        "iso_country": "PG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Jiwaka_Province",
-        "keywords": "Airports in Jiwaka Province"
-    }
+    "keywords": "TBA, TBA"
 }

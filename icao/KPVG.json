@@ -62,49 +62,5 @@
             "he_heading_degT": "272",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "61415",
-            "airport_ref": "20888",
-            "airport_ident": "KPVG",
-            "type": "A/D",
-            "description": "NORFOLK APP/DEP",
-            "frequency_mhz": "118.9"
-        },
-        {
-            "id": "61416",
-            "airport_ref": "20888",
-            "airport_ident": "KPVG",
-            "type": "AWOS",
-            "description": "AWOS 3PT",
-            "frequency_mhz": "118.375"
-        },
-        {
-            "id": "61417",
-            "airport_ref": "20888",
-            "airport_ident": "KPVG",
-            "type": "CTAF/UNICOM",
-            "description": "Hampton Roads Traffic/UNICOM",
-            "frequency_mhz": "122.72"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306122",
-        "code": "US-VA",
-        "local_code": "VA",
-        "name": "Virginia",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
-        "keywords": "Virginian airports"
-    }
+    ]
 }

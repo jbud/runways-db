@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302565",
-        "code": "CM",
-        "name": "Cameroon",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cameroon",
-        "keywords": "Cameroonian airports"
-    },
-    "region": {
-        "id": "303420",
-        "code": "CM-SW",
-        "local_code": "SW",
-        "name": "South-West Region",
-        "continent": "AF",
-        "iso_country": "CM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Southwest_Province",
-        "keywords": "Airports in South-West Region"
-    }
+    ]
 }

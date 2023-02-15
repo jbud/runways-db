@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://nl.wikipedia.org/wiki/Vliegveld_Keent",
-    "keywords": "B82, B82",
-    "country": {
-        "id": "302708",
-        "code": "NL",
-        "name": "Netherlands",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
-        "keywords": "Holland, Luchthavens van Nederland, Dutch airports"
-    },
-    "region": {
-        "id": "304938",
-        "code": "NL-NB",
-        "local_code": "NB",
-        "name": "Noord-Brabant",
-        "continent": "EU",
-        "iso_country": "NL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Noord-Brabant",
-        "keywords": "Airports in Noord-Brabant"
-    }
+    "keywords": "B82, B82"
 }

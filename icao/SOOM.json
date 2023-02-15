@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Saint-Laurent-du-Maroni_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302796",
-        "code": "GF",
-        "name": "French Guiana",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/French_Guiana",
-        "keywords": "French Guyana"
-    },
-    "region": {
-        "id": "306380",
-        "code": "GF-SL",
-        "local_code": "SL",
-        "name": "Saint-Laurent-du-Maroni",
-        "continent": "SA",
-        "iso_country": "GF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Saint-Laurent-du-Maroni",
-        "keywords": "Airports in Saint-Laurent-du-Maroni"
-    }
+    "keywords": ""
 }

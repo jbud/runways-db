@@ -40,33 +40,5 @@
             "he_heading_degT": "187",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "300904",
-            "airport_ref": "4029",
-            "airport_ident": "LERM",
-            "type": "RF",
-            "description": "Robledillo",
-            "frequency_mhz": "123.325"
-        }
-    ],
-    "country": {
-        "id": "302684",
-        "code": "ES",
-        "name": "Spain",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
-        "keywords": "Aeropuertos de España"
-    },
-    "region": {
-        "id": "303741",
-        "code": "ES-CM",
-        "local_code": "CM",
-        "name": "Castilla–La Mancha",
-        "continent": "EU",
-        "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Castilla%E2%80%93La_Mancha",
-        "keywords": "Airports in Castilla-La Mancha"
-    }
+    ]
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "BIGE, BIGE",
-    "country": {
-        "id": "302696",
-        "code": "IS",
-        "name": "Iceland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iceland",
-        "keywords": "Icelandic airports"
-    },
-    "region": {
-        "id": "304254",
-        "code": "IS-8",
-        "local_code": "8",
-        "name": "Southern Region",
-        "continent": "EU",
-        "iso_country": "IS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_Region_(Iceland)",
-        "keywords": "Suðurland"
-    }
+    "keywords": "BIGE, BIGE"
 }

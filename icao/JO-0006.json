@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302638",
-        "code": "JO",
-        "name": "Jordan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Jordan",
-        "keywords": "مطارات في الأردن"
-    },
-    "region": {
-        "id": "304277",
-        "code": "JO-AZ",
-        "local_code": "AZ",
-        "name": "Az Zarga Governorate",
-        "continent": "AS",
-        "iso_country": "JO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Az_Zarga_Governorate",
-        "keywords": "Airports in Az Zarga Governorate"
-    }
+    "keywords": ""
 }

@@ -40,49 +40,5 @@
             "he_heading_degT": "2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "68765",
-            "airport_ref": "21218",
-            "airport_ident": "KTQH",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.425"
-        },
-        {
-            "id": "68766",
-            "airport_ref": "21218",
-            "airport_ident": "KTQH",
-            "type": "CNTR",
-            "description": "MEMPHIS CNTR",
-            "frequency_mhz": "126.1"
-        },
-        {
-            "id": "68767",
-            "airport_ref": "21218",
-            "airport_ident": "KTQH",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306112",
-        "code": "US-OK",
-        "local_code": "OK",
-        "name": "Oklahoma",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
-        "keywords": "Airports in Oklahoma"
-    }
+    ]
 }

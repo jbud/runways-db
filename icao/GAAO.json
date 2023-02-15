@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302586",
-        "code": "ML",
-        "name": "Mali",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mali",
-        "keywords": "Aéroports du Mali, Malian airports"
-    },
-    "region": {
-        "id": "304662",
-        "code": "ML-7",
-        "local_code": "7",
-        "name": "Gao Region",
-        "continent": "AF",
-        "iso_country": "ML",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Gao_Region",
-        "keywords": "Airports in Gao Region"
-    }
+    "keywords": ""
 }

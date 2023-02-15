@@ -40,33 +40,5 @@
             "he_heading_degT": "187",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "56051",
-            "airport_ref": "6096",
-            "airport_ident": "SGST",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "130.4"
-        }
-    ],
-    "country": {
-        "id": "302799",
-        "code": "PY",
-        "name": "Paraguay",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraguay",
-        "keywords": "Aeropuertos de Paraguay"
-    },
-    "region": {
-        "id": "305193",
-        "code": "PY-13",
-        "local_code": "13",
-        "name": "Amambay Department",
-        "continent": "SA",
-        "iso_country": "PY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Amambay_Department",
-        "keywords": "Airports in Amambay Department"
-    }
+    ]
 }

@@ -40,49 +40,5 @@
             "he_heading_degT": "275",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "51595",
-            "airport_ref": "4813",
-            "airport_ident": "MRPV",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "51596",
-            "airport_ref": "4813",
-            "airport_ident": "MRPV",
-            "type": "RDO",
-            "description": "COCO RDO",
-            "frequency_mhz": "126.8"
-        },
-        {
-            "id": "51597",
-            "airport_ref": "4813",
-            "airport_ident": "MRPV",
-            "type": "TWR",
-            "description": "PAVAS TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
-    "country": {
-        "id": "302731",
-        "code": "CR",
-        "name": "Costa Rica",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Costa_Rica",
-        "keywords": "Aeropuertos de Costa Rica"
-    },
-    "region": {
-        "id": "303497",
-        "code": "CR-SJ",
-        "local_code": "SJ",
-        "name": "San José Province",
-        "continent": "NA",
-        "iso_country": "CR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/San_Jos%C3%A9_Province",
-        "keywords": "Airports in San Jose"
-    }
+    ]
 }

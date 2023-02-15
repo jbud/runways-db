@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/T%C4%93rvete",
-    "keywords": "",
-    "country": {
-        "id": "302702",
-        "code": "LV",
-        "name": "Latvia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Latvia",
-        "keywords": "Latvian airports"
-    },
-    "region": {
-        "id": "304519",
-        "code": "LV-041",
-        "local_code": "041",
-        "name": "Jelgava Municipality",
-        "continent": "EU",
-        "iso_country": "LV",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Jelgava_Municipality",
-        "keywords": "Airports in Jelgava Municipality"
-    }
+    "keywords": ""
 }

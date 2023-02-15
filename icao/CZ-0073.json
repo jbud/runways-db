@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "316521",
-            "airport_ref": "316520",
-            "airport_ident": "CZ-0073",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "125.825"
-        }
-    ],
-    "country": {
-        "id": "302680",
-        "code": "CZ",
-        "name": "Czech Republic",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
-        "keywords": "Letiště České republiky, Czechia"
-    },
-    "region": {
-        "id": "303533",
-        "code": "CZ-JM",
-        "local_code": "JM",
-        "name": "South Moravian Region",
-        "continent": "EU",
-        "iso_country": "CZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Moravian_Region",
-        "keywords": "Jihomoravský kraj"
-    }
+    ]
 }

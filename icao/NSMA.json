@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Maota_Airport",
-    "keywords": "Savaii Island",
-    "country": {
-        "id": "302788",
-        "code": "WS",
-        "name": "Samoa",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Samoa",
-        "keywords": "Samoan airports"
-    },
-    "region": {
-        "id": "306269",
-        "code": "WS-PA",
-        "local_code": "PA",
-        "name": "Palauli District",
-        "continent": "OC",
-        "iso_country": "WS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Palauli",
-        "keywords": "Airports in Palauli District"
-    }
+    "keywords": "Savaii Island"
 }

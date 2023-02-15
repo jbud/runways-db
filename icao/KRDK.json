@@ -84,49 +84,5 @@
             "he_heading_degT": "354.4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "63396",
-            "airport_ref": "20921",
-            "airport_ident": "KRDK",
-            "type": "A/D",
-            "description": "OMAHA APP/DEP",
-            "frequency_mhz": "124.5"
-        },
-        {
-            "id": "63397",
-            "airport_ref": "20921",
-            "airport_ident": "KRDK",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.775"
-        },
-        {
-            "id": "63398",
-            "airport_ref": "20921",
-            "airport_ident": "KRDK",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306088",
-        "code": "US-IA",
-        "local_code": "IA",
-        "name": "Iowa",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
-        "keywords": "Airports in Iowa"
-    }
+    ]
 }

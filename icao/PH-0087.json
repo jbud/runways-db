@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Apuao Grande",
-    "country": {
-        "id": "302656",
-        "code": "PH",
-        "name": "Philippines",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
-        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
-    },
-    "region": {
-        "id": "305074",
-        "code": "PH-CAN",
-        "local_code": "CAN",
-        "name": "Camarines Norte Province",
-        "continent": "AS",
-        "iso_country": "PH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Camarines_Norte_Province",
-        "keywords": "Airports in Camarines Norte Province"
-    }
+    "keywords": "Apuao Grande"
 }

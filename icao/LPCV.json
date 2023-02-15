@@ -40,33 +40,5 @@
             "he_heading_degT": "228",
             "he_displaced_threshold_ft": "197"
         }
-    ],
-    "freqs": [
-        {
-            "id": "56320",
-            "airport_ref": "4445",
-            "airport_ident": "LPCV",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "122"
-        }
-    ],
-    "country": {
-        "id": "302711",
-        "code": "PT",
-        "name": "Portugal",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Portugal",
-        "keywords": "Aeroportos de Portugal"
-    },
-    "region": {
-        "id": "305171",
-        "code": "PT-05",
-        "local_code": "05",
-        "name": "Castelo Branco District",
-        "continent": "EU",
-        "iso_country": "PT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Castelo_Branco_District",
-        "keywords": "Airports in Castelo Branco District"
-    }
+    ]
 }

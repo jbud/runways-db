@@ -40,57 +40,5 @@
             "he_heading_degT": "304",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "50446",
-            "airport_ref": "876",
-            "airport_ident": "CEM5",
-            "type": "ATF",
-            "description": "ATF",
-            "frequency_mhz": "123.2"
-        }
-    ],
-    "country": {
-        "id": "302730",
-        "code": "CA",
-        "name": "Canada",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
-        "keywords": "Canadian airports"
-    },
-    "region": {
-        "id": "303294",
-        "code": "CA-AB",
-        "local_code": "AB",
-        "name": "Alberta",
-        "continent": "NA",
-        "iso_country": "CA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
-        "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "85099",
-            "filename": "Swan_Hills_NDB_CA",
-            "ident": "4O",
-            "name": "Swan Hills",
-            "type": "NDB",
-            "frequency_khz": "251",
-            "latitude_deg": "54.67499923706055",
-            "longitude_deg": "-115.42400360107422",
-            "elevation_ft": "3473",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "18.062",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CEM5"
-        }
     ]
 }

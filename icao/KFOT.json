@@ -40,49 +40,5 @@
             "he_heading_degT": "307",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "65399",
-            "airport_ref": "19889",
-            "airport_ident": "KFOT",
-            "type": "CNTR",
-            "description": "SEATTLE CNTR",
-            "frequency_mhz": "124.85"
-        },
-        {
-            "id": "65400",
-            "airport_ref": "19889",
-            "airport_ident": "KFOT",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        },
-        {
-            "id": "65401",
-            "airport_ref": "19889",
-            "airport_ident": "KFOT",
-            "type": "RDO",
-            "description": "OAKLAND RDO",
-            "frequency_mhz": "122.3"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306080",
-        "code": "US-CA",
-        "local_code": "CA",
-        "name": "California",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
-        "keywords": "Californian airports"
-    }
+    ]
 }

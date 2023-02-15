@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "332966",
-            "airport_ref": "41917",
-            "airport_ident": "XPLO",
-            "type": "A/G",
-            "description": "Plockton Radio",
-            "frequency_mhz": "131.91"
-        }
-    ],
-    "country": {
-        "id": "302688",
-        "code": "GB",
-        "name": "United Kingdom",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
-        "keywords": "Great Britain"
-    },
-    "region": {
-        "id": "306377",
-        "code": "GB-SCT",
-        "local_code": "SCT",
-        "name": "Scotland",
-        "continent": "EU",
-        "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
-        "keywords": "keep"
-    }
+    ]
 }

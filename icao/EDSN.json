@@ -40,41 +40,5 @@
             "he_heading_degT": "271",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "52855",
-            "airport_ref": "2271",
-            "airport_ident": "EDSN",
-            "type": "AFIS",
-            "description": "ZURICH INFO",
-            "frequency_mhz": "124.7"
-        },
-        {
-            "id": "52856",
-            "airport_ref": "2271",
-            "airport_ident": "EDSN",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "130.5"
-        }
-    ],
-    "country": {
-        "id": "302681",
-        "code": "DE",
-        "name": "Germany",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
-        "keywords": "Flughäfen in Deutschland"
-    },
-    "region": {
-        "id": "303549",
-        "code": "DE-BW",
-        "local_code": "BW",
-        "name": "Baden-Württemberg",
-        "continent": "EU",
-        "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
-        "keywords": "Baden-Wuerttemberg"
-    }
+    ]
 }

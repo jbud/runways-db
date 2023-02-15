@@ -40,57 +40,5 @@
             "he_heading_degT": "270",
             "he_displaced_threshold_ft": "665"
         }
-    ],
-    "freqs": [
-        {
-            "id": "65495",
-            "airport_ref": "18613",
-            "airport_ident": "K2R0",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306101",
-        "code": "US-MS",
-        "local_code": "MS",
-        "name": "Mississippi",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
-        "keywords": "Airports in Mississippi"
-    },
-    "navaids": [
-        {
-            "id": "88305",
-            "filename": "Greene_County_VORTAC_US",
-            "ident": "GCV",
-            "name": "Greene County",
-            "type": "VORTAC",
-            "frequency_khz": "115700",
-            "latitude_deg": "31.097999572753906",
-            "longitude_deg": "-88.48609924316406",
-            "elevation_ft": "300",
-            "iso_country": "US",
-            "dme_frequency_khz": "115700",
-            "dme_channel": "104X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "5.004",
-            "magnetic_variation_deg": "-0.42",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "K2R0"
-        }
     ]
 }

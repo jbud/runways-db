@@ -40,33 +40,5 @@
             "he_heading_degT": "217",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "55731",
-            "airport_ref": "4971",
-            "airport_ident": "DN57",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "125"
-        }
-    ],
-    "country": {
-        "id": "302593",
-        "code": "NG",
-        "name": "Nigeria",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nigeria",
-        "keywords": ""
-    },
-    "region": {
-        "id": "304898",
-        "code": "NG-KT",
-        "local_code": "KT",
-        "name": "Katsina State",
-        "continent": "AF",
-        "iso_country": "NG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Katsina_State",
-        "keywords": "Airports in Katsina"
-    }
+    ]
 }

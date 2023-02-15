@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "316167",
-            "airport_ref": "316165",
-            "airport_ident": "LDZE",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302692",
-        "code": "HR",
-        "name": "Croatia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Croatia",
-        "keywords": "Croatian airports"
-    },
-    "region": {
-        "id": "304025",
-        "code": "HR-01",
-        "local_code": "01",
-        "name": "Zagreb County",
-        "continent": "EU",
-        "iso_country": "HR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Zagreb_County",
-        "keywords": "Airports in Zagreb County"
-    }
+    ]
 }

@@ -16,23 +16,5 @@
     "local_code": "RJKS",
     "home_link": "",
     "wikipedia_link": "https://ja.wikipedia.org/wiki/%E7%AC%A0%E5%B2%A1%E3%81%B5%E3%82%8C%E3%81%82%E3%81%84%E7%A9%BA%E6%B8%AF",
-    "keywords": "笠岡ふれあい空港, Kasaoka Agricultural Airfield, Kasaoka Community Airport, Kasaoka Farm Road Airport",
-    "country": {
-        "id": "302639",
-        "code": "JP",
-        "name": "Japan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
-        "keywords": "Nippon, 日本の空港"
-    },
-    "region": {
-        "id": "304318",
-        "code": "JP-33",
-        "local_code": "33",
-        "name": "Okayama Prefecture",
-        "continent": "AS",
-        "iso_country": "JP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Okayama",
-        "keywords": "Chugoku"
-    }
+    "keywords": "笠岡ふれあい空港, Kasaoka Agricultural Airfield, Kasaoka Community Airport, Kasaoka Farm Road Airport"
 }

@@ -40,41 +40,5 @@
             "he_heading_degT": "340",
             "he_displaced_threshold_ft": "853"
         }
-    ],
-    "freqs": [
-        {
-            "id": "53200",
-            "airport_ref": "2274",
-            "airport_ident": "EDTF",
-            "type": "AFIS",
-            "description": "LANGEN INFO",
-            "frequency_mhz": "128.95"
-        },
-        {
-            "id": "53201",
-            "airport_ref": "2274",
-            "airport_ident": "EDTF",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "118.25"
-        }
-    ],
-    "country": {
-        "id": "302681",
-        "code": "DE",
-        "name": "Germany",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
-        "keywords": "Flughäfen in Deutschland"
-    },
-    "region": {
-        "id": "303549",
-        "code": "DE-BW",
-        "local_code": "BW",
-        "name": "Baden-Württemberg",
-        "continent": "EU",
-        "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
-        "keywords": "Baden-Wuerttemberg"
-    }
+    ]
 }

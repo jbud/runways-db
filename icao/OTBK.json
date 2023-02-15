@@ -40,33 +40,5 @@
             "he_heading_degT": "320.1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "56371",
-            "airport_ref": "5310",
-            "airport_ident": "OTBK",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.45"
-        }
-    ],
-    "country": {
-        "id": "302659",
-        "code": "QA",
-        "name": "Qatar",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Qatar",
-        "keywords": "مطارات قطر"
-    },
-    "region": {
-        "id": "305211",
-        "code": "QA-KH",
-        "local_code": "KH",
-        "name": "Al Khor Municipality",
-        "continent": "AS",
-        "iso_country": "QA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Khor",
-        "keywords": "Al Khawr"
-    }
+    ]
 }

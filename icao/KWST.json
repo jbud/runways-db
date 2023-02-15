@@ -62,49 +62,5 @@
             "he_heading_degT": "310",
             "he_displaced_threshold_ft": "750"
         }
-    ],
-    "freqs": [
-        {
-            "id": "64333",
-            "airport_ref": "21382",
-            "airport_ident": "KWST",
-            "type": "A/D",
-            "description": "PROVIDENCE APP/DEP",
-            "frequency_mhz": "119.45"
-        },
-        {
-            "id": "64334",
-            "airport_ref": "21382",
-            "airport_ident": "KWST",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "132.375"
-        },
-        {
-            "id": "64335",
-            "airport_ref": "21382",
-            "airport_ident": "KWST",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306115",
-        "code": "US-RI",
-        "local_code": "RI",
-        "name": "Rhode Island",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Rhode_Island",
-        "keywords": "Airports in Rhode Island"
-    }
+    ]
 }

@@ -40,57 +40,5 @@
             "he_heading_degT": "238",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "51081",
-            "airport_ref": "2999",
-            "airport_ident": "FTTY",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "118.1"
-        }
-    ],
-    "country": {
-        "id": "302604",
-        "code": "TD",
-        "name": "Chad",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chad",
-        "keywords": "Airports in Chad"
-    },
-    "region": {
-        "id": "430633",
-        "code": "TD-BO",
-        "local_code": "BO",
-        "name": "Borkou",
-        "continent": "AF",
-        "iso_country": "TD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Borkou_(region_of_Chad)",
-        "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "88053",
-            "filename": "Faya_Largeau_NDB_TD",
-            "ident": "FLU",
-            "name": "Faya Largeau",
-            "type": "NDB",
-            "frequency_khz": "300",
-            "latitude_deg": "17.921100616455078",
-            "longitude_deg": "19.113000869750977",
-            "elevation_ft": "830",
-            "iso_country": "TD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.099",
-            "usageType": "HI",
-            "power": "MEDIUM",
-            "associated_airport": "FTTY"
-        }
     ]
 }

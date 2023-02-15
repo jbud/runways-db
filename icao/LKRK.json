@@ -62,57 +62,5 @@
             "he_heading_degT": "267",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "333267",
-            "airport_ref": "30318",
-            "airport_ident": "LKRK",
-            "type": "RADIO",
-            "description": "",
-            "frequency_mhz": "123.51"
-        }
-    ],
-    "country": {
-        "id": "302680",
-        "code": "CZ",
-        "name": "Czech Republic",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
-        "keywords": "Letiště České republiky, Czechia"
-    },
-    "region": {
-        "id": "303542",
-        "code": "CZ-ST",
-        "local_code": "ST",
-        "name": "Central Bohemian Region",
-        "continent": "EU",
-        "iso_country": "CZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Bohemian_Region",
-        "keywords": "Středočeský kraj"
-    },
-    "navaids": [
-        {
-            "id": "92961",
-            "filename": "Rakovnik_NDB_CZ",
-            "ident": "RAK",
-            "name": "Rakovnik",
-            "type": "NDB",
-            "frequency_khz": "386",
-            "latitude_deg": "50.09709930419922",
-            "longitude_deg": "13.690699577331543",
-            "elevation_ft": "",
-            "iso_country": "CZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.13",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LKRK"
-        }
     ]
 }

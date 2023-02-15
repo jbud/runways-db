@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://813.mnd.gov.tw/english/",
     "wikipedia_link": "https://zh.wikipedia.org/wiki/%E5%9C%8B%E8%BB%8D%E6%A1%83%E5%9C%92%E7%B8%BD%E9%86%AB%E9%99%A2",
-    "keywords": "Taoyuan Armed Forces General Hospital, 桃園武裝總醫院直升機停機坪",
-    "country": {
-        "id": "302668",
-        "code": "TW",
-        "name": "Taiwan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
-        "keywords": "Taiwanese airports"
-    },
-    "region": {
-        "id": "305947",
-        "code": "TW-TAO",
-        "local_code": "TAO",
-        "name": "Taoyuan County",
-        "continent": "AS",
-        "iso_country": "TW",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Taoyuan_County",
-        "keywords": "Airports in Taoyuan County"
-    }
+    "keywords": "Taoyuan Armed Forces General Hospital, 桃園武裝總醫院直升機停機坪"
 }

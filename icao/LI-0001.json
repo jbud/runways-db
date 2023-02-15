@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "https://www.landesspital.li/",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Liechtensteinisches_Landesspital",
-    "keywords": "",
-    "country": {
-        "id": "302699",
-        "code": "LI",
-        "name": "Liechtenstein",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Liechtenstein",
-        "keywords": "Airports in Liechtenstein"
-    },
-    "region": {
-        "id": "306797",
-        "code": "LI-11",
-        "local_code": "11",
-        "name": "Vaduz",
-        "continent": "EU",
-        "iso_country": "LI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Vaduz",
-        "keywords": "Airports in Vaduz"
-    }
+    "keywords": ""
 }

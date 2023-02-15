@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302691",
-        "code": "GR",
-        "name": "Greece",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
-        "keywords": "αεροδρόμια στην Ελλάδα"
-    },
-    "region": {
-        "id": "430184",
-        "code": "GR-E",
-        "local_code": "E",
-        "name": "Thessaly",
-        "continent": "EU",
-        "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Thessaly",
-        "keywords": "Θεσσαλία"
-    }
+    ]
 }

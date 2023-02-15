@@ -40,49 +40,5 @@
             "he_heading_degT": "191",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "430590",
-            "airport_ref": "4104",
-            "airport_ident": "LFGA",
-            "type": "ATIS",
-            "description": "",
-            "frequency_mhz": "126.135"
-        },
-        {
-            "id": "52258",
-            "airport_ref": "4104",
-            "airport_ident": "LFGA",
-            "type": "TWR",
-            "description": "Colmar Tour",
-            "frequency_mhz": "119"
-        },
-        {
-            "id": "430589",
-            "airport_ref": "4104",
-            "airport_ident": "LFGA",
-            "type": "TWR",
-            "description": "Colmar Sol",
-            "frequency_mhz": "121.88"
-        }
-    ],
-    "country": {
-        "id": "302687",
-        "code": "FR",
-        "name": "France",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
-        "keywords": "Aéroports de France"
-    },
-    "region": {
-        "id": "306353",
-        "code": "FR-GES",
-        "local_code": "GES",
-        "name": "Grand Est",
-        "continent": "EU",
-        "iso_country": "FR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Est",
-        "keywords": "Airports in Grand Est"
-    }
+    ]
 }

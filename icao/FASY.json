@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "309157",
-            "airport_ref": "30453",
-            "airport_ident": "FASY",
-            "type": "General",
-            "description": "Baragwanath Radio",
-            "frequency_mhz": "122.6"
-        }
-    ],
-    "country": {
-        "id": "302610",
-        "code": "ZA",
-        "name": "South Africa",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
-        "keywords": "South African airports"
-    },
-    "region": {
-        "id": "306297",
-        "code": "ZA-GT",
-        "local_code": "GT",
-        "name": "Gauteng",
-        "continent": "AF",
-        "iso_country": "ZA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Gauteng",
-        "keywords": "Airports in Gauteng"
-    }
+    ]
 }

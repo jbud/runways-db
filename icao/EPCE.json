@@ -40,33 +40,5 @@
             "he_heading_degT": "256",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "56207",
-            "airport_ref": "2605",
-            "airport_ident": "EPCE",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "128.5"
-        }
-    ],
-    "country": {
-        "id": "302710",
-        "code": "PL",
-        "name": "Poland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
-        "keywords": "Lotniska Polski"
-    },
-    "region": {
-        "id": "305154",
-        "code": "PL-PM",
-        "local_code": "PM",
-        "name": "Pomeranian Voivodeship",
-        "continent": "EU",
-        "iso_country": "PL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pomeranian_Voivodeship",
-        "keywords": "Pomorskie"
-    }
+    ]
 }

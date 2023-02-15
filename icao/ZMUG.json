@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Ulaangom_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302650",
-        "code": "MN",
-        "name": "Mongolia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mongolia",
-        "keywords": "Mongolian airports"
-    },
-    "region": {
-        "id": "304686",
-        "code": "MN-046",
-        "local_code": "046",
-        "name": "Uvs Province",
-        "continent": "AS",
-        "iso_country": "MN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Uvs_Province",
-        "keywords": "Airports in Uvs Province"
-    }
+    "keywords": ""
 }

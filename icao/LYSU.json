@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": "656"
         }
-    ],
-    "freqs": [
-        {
-            "id": "337368",
-            "airport_ref": "308323",
-            "airport_ident": "LYSU",
-            "type": "Subotica RADIO",
-            "description": "",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302713",
-        "code": "RS",
-        "name": "Serbia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Serbia",
-        "keywords": "Serb"
-    },
-    "region": {
-        "id": "306591",
-        "code": "RS-01",
-        "local_code": "01",
-        "name": "North Bačka District",
-        "continent": "EU",
-        "iso_country": "RS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Bačka_District",
-        "keywords": "Airports in North Bačka District"
-    }
+    ]
 }

@@ -62,41 +62,5 @@
             "he_heading_degT": "224",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "57480",
-            "airport_ref": "2652",
-            "airport_ident": "ESGP",
-            "type": "TCA",
-            "description": "GOTEBERG CON",
-            "frequency_mhz": "124.675"
-        },
-        {
-            "id": "57478",
-            "airport_ref": "2652",
-            "airport_ident": "ESGP",
-            "type": "TWR",
-            "description": "Säve Tower",
-            "frequency_mhz": "119.055"
-        }
-    ],
-    "country": {
-        "id": "302715",
-        "code": "SE",
-        "name": "Sweden",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
-        "keywords": "Flygplatserna, Sverige"
-    },
-    "region": {
-        "id": "305424",
-        "code": "SE-Q",
-        "local_code": "Q",
-        "name": "Västra Götalands län",
-        "continent": "EU",
-        "iso_country": "SE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Västra_Götalands_län",
-        "keywords": "Västra Götaland County"
-    }
+    ]
 }

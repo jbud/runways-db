@@ -40,33 +40,5 @@
             "he_heading_degT": "318.8",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "325240",
-            "airport_ref": "6419",
-            "airport_ident": "UK61",
-            "type": "Info",
-            "description": "Jagellon",
-            "frequency_mhz": "135.9"
-        }
-    ],
-    "country": {
-        "id": "302719",
-        "code": "UA",
-        "name": "Ukraine",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ukraine",
-        "keywords": "Аеропорти України"
-    },
-    "region": {
-        "id": "305995",
-        "code": "UA-46",
-        "local_code": "46",
-        "name": "Lviv Oblast",
-        "continent": "EU",
-        "iso_country": "UA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lviv_Oblast",
-        "keywords": "Airports in Lviv Oblast"
-    }
+    ]
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "292",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "57394",
-            "airport_ref": "2706",
-            "airport_ident": "ESSL",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.805"
-        }
-    ],
-    "country": {
-        "id": "302715",
-        "code": "SE",
-        "name": "Sweden",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
-        "keywords": "Flygplatserna, Sverige"
-    },
-    "region": {
-        "id": "305416",
-        "code": "SE-E",
-        "local_code": "E",
-        "name": "Östergötlands län",
-        "continent": "EU",
-        "iso_country": "SE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Östergötlands_län",
-        "keywords": "Östergötland County"
-    }
+    ]
 }

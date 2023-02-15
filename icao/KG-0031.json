@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302640",
-        "code": "KG",
-        "name": "Kyrgyzstan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kyrgyzstan",
-        "keywords": ""
-    },
-    "region": {
-        "id": "304346",
-        "code": "KG-J",
-        "local_code": "J",
-        "name": "Jalal-Abad Region",
-        "continent": "AS",
-        "iso_country": "KG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Jalal-Abad_Region",
-        "keywords": "Airports in Jalal-Abad Region"
-    }
+    "keywords": ""
 }

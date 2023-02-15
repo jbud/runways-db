@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Wuensdorf Airfield, Аэродром Вюнсдорф",
-    "country": {
-        "id": "302681",
-        "code": "DE",
-        "name": "Germany",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
-        "keywords": "Flughäfen in Deutschland"
-    },
-    "region": {
-        "id": "303547",
-        "code": "DE-BR",
-        "local_code": "BR",
-        "name": "Brandenburg",
-        "continent": "EU",
-        "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brandenburg",
-        "keywords": "Airports in Brandenburg"
-    }
+    "keywords": "Wuensdorf Airfield, Аэродром Вюнсдорф"
 }

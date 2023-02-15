@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://aversi.dk",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302682",
-        "code": "DK",
-        "name": "Denmark",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Denmark",
-        "keywords": "Lufthavnene i Danmark"
-    },
-    "region": {
-        "id": "306325",
-        "code": "DK-85",
-        "local_code": "85",
-        "name": "Zealand",
-        "continent": "EU",
-        "iso_country": "DK",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Zealand",
-        "keywords": "Sjælland"
-    }
+    "keywords": ""
 }

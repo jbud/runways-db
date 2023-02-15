@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302577",
-        "code": "GQ",
-        "name": "Equatorial Guinea",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Equatorial_Guinea",
-        "keywords": "Airports in Equatorial Guinea"
-    },
-    "region": {
-        "id": "303904",
-        "code": "GQ-LI",
-        "local_code": "LI",
-        "name": "Litoral Province",
-        "continent": "AF",
-        "iso_country": "GQ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Litoral_(Equatorial_Guinea)",
-        "keywords": "Airports in Litoral Province"
-    }
+    ]
 }

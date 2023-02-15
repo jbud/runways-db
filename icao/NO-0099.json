@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Oslo_Airport%2C_Fornebu",
-    "keywords": "ENFB, FBU",
-    "country": {
-        "id": "302709",
-        "code": "NO",
-        "name": "Norway",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
-        "keywords": "Flyplasser i Norge"
-    },
-    "region": {
-        "id": "349851",
-        "code": "NO-30",
-        "local_code": "30",
-        "name": "Viken",
-        "continent": "EU",
-        "iso_country": "NO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Viken_(county)",
-        "keywords": "Airports in Viken"
-    }
+    "keywords": "ENFB, FBU"
 }

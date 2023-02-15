@@ -40,57 +40,5 @@
             "he_heading_degT": "10",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "62885",
-            "airport_ref": "20937",
-            "airport_ident": "KRKR",
-            "type": "A/D",
-            "description": "RAZORBACK APP/DEP",
-            "frequency_mhz": "120.9"
-        },
-        {
-            "id": "62886",
-            "airport_ref": "20937",
-            "airport_ident": "KRKR",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "120.625"
-        },
-        {
-            "id": "62887",
-            "airport_ref": "20937",
-            "airport_ident": "KRKR",
-            "type": "RDO",
-            "description": "MC ALESTER RDO",
-            "frequency_mhz": "122.6"
-        },
-        {
-            "id": "62888",
-            "airport_ref": "20937",
-            "airport_ident": "KRKR",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306112",
-        "code": "US-OK",
-        "local_code": "OK",
-        "name": "Oklahoma",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
-        "keywords": "Airports in Oklahoma"
-    }
+    ]
 }

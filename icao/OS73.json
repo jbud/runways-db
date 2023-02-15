@@ -40,23 +40,5 @@
             "he_heading_degT": "221",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302662",
-        "code": "SY",
-        "name": "Syria",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Syria",
-        "keywords": "مطارات سوريا"
-    },
-    "region": {
-        "id": "305675",
-        "code": "SY-QU",
-        "local_code": "QU",
-        "name": "Quneitra Governorate",
-        "continent": "AS",
-        "iso_country": "SY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Quneitra_Governorate",
-        "keywords": "Al Qunaytirah"
-    }
+    ]
 }

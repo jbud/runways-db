@@ -16,23 +16,5 @@
     "local_code": "C30",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Mejit_Airport",
-    "keywords": "Q30",
-    "country": {
-        "id": "302770",
-        "code": "MH",
-        "name": "Marshall Islands",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Marshall_Islands",
-        "keywords": "Airports in Marshall Islands"
-    },
-    "region": {
-        "id": "304644",
-        "code": "MH-MEJ",
-        "local_code": "MEJ",
-        "name": "Mejit",
-        "continent": "OC",
-        "iso_country": "MH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mejit",
-        "keywords": "Airports in Mejit"
-    }
+    "keywords": "Q30"
 }

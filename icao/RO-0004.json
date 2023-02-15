@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "313620",
-            "airport_ref": "313619",
-            "airport_ident": "RO-0004",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "120.2"
-        }
-    ],
-    "country": {
-        "id": "302712",
-        "code": "RO",
-        "name": "Romania",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Romania",
-        "keywords": "Aeroporturi din România"
-    },
-    "region": {
-        "id": "305223",
-        "code": "RO-BH",
-        "local_code": "BH",
-        "name": "Bihor County",
-        "continent": "EU",
-        "iso_country": "RO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bihor_County",
-        "keywords": "Transylvania, Transylvanian Region"
-    }
+    ]
 }

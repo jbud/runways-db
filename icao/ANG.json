@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302780",
-        "code": "PW",
-        "name": "Palau",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Palau",
-        "keywords": "Palauan airports"
-    },
-    "region": {
-        "id": "306428",
-        "code": "PW-010",
-        "local_code": "010",
-        "name": "Angaur",
-        "continent": "OC",
-        "iso_country": "PW",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Angaur",
-        "keywords": "Airports in Angaur"
-    }
+    ]
 }

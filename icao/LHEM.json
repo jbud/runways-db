@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "331048",
-            "airport_ref": "43033",
-            "airport_ident": "LHEM",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "128.65"
-        }
-    ],
-    "country": {
-        "id": "302693",
-        "code": "HU",
-        "name": "Hungary",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
-        "keywords": "Repülőterek Magyarország"
-    },
-    "region": {
-        "id": "304072",
-        "code": "HU-KE",
-        "local_code": "KE",
-        "name": "Komárom-Esztergom County",
-        "continent": "EU",
-        "iso_country": "HU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Komárom-Esztergom_County",
-        "keywords": "Airports in Komárom-Esztergom County"
-    }
+    ]
 }

@@ -40,23 +40,5 @@
             "he_heading_degT": "271",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302797",
-        "code": "GY",
-        "name": "Guyana",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Guyana",
-        "keywords": "Guyanese airports"
-    },
-    "region": {
-        "id": "304003",
-        "code": "GY-UD",
-        "local_code": "UD",
-        "name": "Upper Demerara-Berbice",
-        "continent": "SA",
-        "iso_country": "GY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Upper_Demerara-Berbice",
-        "keywords": "Airports in Upper Demerara-Berbice"
-    }
+    ]
 }

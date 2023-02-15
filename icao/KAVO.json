@@ -62,41 +62,5 @@
             "he_heading_degT": "270",
             "he_displaced_threshold_ft": "500"
         }
-    ],
-    "freqs": [
-        {
-            "id": "66793",
-            "airport_ref": "19329",
-            "airport_ident": "KAVO",
-            "type": "CNTR",
-            "description": "MIAMI CNTR",
-            "frequency_mhz": "134.55"
-        },
-        {
-            "id": "66794",
-            "airport_ref": "19329",
-            "airport_ident": "KAVO",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306085",
-        "code": "US-FL",
-        "local_code": "FL",
-        "name": "Florida",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
-        "keywords": "Airports in Florida"
-    }
+    ]
 }

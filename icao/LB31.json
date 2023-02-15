@@ -40,23 +40,5 @@
             "he_heading_degT": "299.7",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302677",
-        "code": "BG",
-        "name": "Bulgaria",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bulgaria",
-        "keywords": "Bulgarian airports"
-    },
-    "region": {
-        "id": "303140",
-        "code": "BG-15",
-        "local_code": "15",
-        "name": "Pleven Province",
-        "continent": "EU",
-        "iso_country": "BG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pleven_Province",
-        "keywords": "Airports in Pleven Province"
-    }
+    ]
 }

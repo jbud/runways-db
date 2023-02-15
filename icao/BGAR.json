@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "JRK",
-    "country": {
-        "id": "302736",
-        "code": "GL",
-        "name": "Greenland",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Greenland",
-        "keywords": "Airports in Greenland"
-    },
-    "region": {
-        "id": "505044",
-        "code": "GL-SE",
-        "local_code": "SE",
-        "name": "Sermersooq Municipality",
-        "continent": "NA",
-        "iso_country": "GL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sermersooq",
-        "keywords": ""
-    }
+    "keywords": "JRK"
 }

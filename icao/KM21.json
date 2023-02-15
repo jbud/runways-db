@@ -40,49 +40,5 @@
             "he_heading_degT": "235.8",
             "he_displaced_threshold_ft": "400"
         }
-    ],
-    "freqs": [
-        {
-            "id": "64538",
-            "airport_ref": "20417",
-            "airport_ident": "KM21",
-            "type": "A/D",
-            "description": "EVANSVILLE APP/DEP",
-            "frequency_mhz": "126.4"
-        },
-        {
-            "id": "64539",
-            "airport_ref": "20417",
-            "airport_ident": "KM21",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "120.375"
-        },
-        {
-            "id": "64540",
-            "airport_ref": "20417",
-            "airport_ident": "KM21",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306093",
-        "code": "US-KY",
-        "local_code": "KY",
-        "name": "Kentucky",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
-        "keywords": "Airports in Kentucky"
-    }
+    ]
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Pelaneng_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302582",
-        "code": "LS",
-        "name": "Lesotho",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lesotho",
-        "keywords": "Airports in Lesotho"
-    },
-    "region": {
-        "id": "304485",
-        "code": "LS-C",
-        "local_code": "C",
-        "name": "Leribe District",
-        "continent": "AF",
-        "iso_country": "LS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Leribe_District",
-        "keywords": "Airports in Leribe District"
-    }
+    "keywords": ""
 }

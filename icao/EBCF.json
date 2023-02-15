@@ -62,33 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75275",
-            "airport_ref": "29771",
-            "airport_ident": "EBCF",
-            "type": "INFO",
-            "description": "",
-            "frequency_mhz": "123.2"
-        }
-    ],
-    "country": {
-        "id": "302676",
-        "code": "BE",
-        "name": "Belgium",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Belgium",
-        "keywords": "Aéroports de Belgique,Luchthavens van België"
-    },
-    "region": {
-        "id": "303079",
-        "code": "BE-WNA",
-        "local_code": "WNA",
-        "name": "Namur Province",
-        "continent": "EU",
-        "iso_country": "BE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Namur_Province",
-        "keywords": "Wallonia, Walloon Region"
-    }
+    ]
 }

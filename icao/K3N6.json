@@ -40,49 +40,5 @@
             "he_heading_degT": "224.2",
             "he_displaced_threshold_ft": "400"
         }
-    ],
-    "freqs": [
-        {
-            "id": "71584",
-            "airport_ref": "18723",
-            "airport_ident": "K3N6",
-            "type": "A/D",
-            "description": "MC QUIRE APP/DEP",
-            "frequency_mhz": "124.15"
-        },
-        {
-            "id": "71585",
-            "airport_ref": "18723",
-            "airport_ident": "K3N6",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.8"
-        },
-        {
-            "id": "71586",
-            "airport_ref": "18723",
-            "airport_ident": "K3N6",
-            "type": "FSS",
-            "description": "ROBINSVILLE RDO",
-            "frequency_mhz": "122.1"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306107",
-        "code": "US-NJ",
-        "local_code": "NJ",
-        "name": "New Jersey",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
-        "keywords": "Airports in New Jersey"
-    }
+    ]
 }

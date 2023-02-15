@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "301076",
-            "airport_ref": "29228",
-            "airport_ident": "EINC",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "122.55"
-        }
-    ],
-    "country": {
-        "id": "302694",
-        "code": "IE",
-        "name": "Ireland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ireland",
-        "keywords": "Eire"
-    },
-    "region": {
-        "id": "304154",
-        "code": "IE-WW",
-        "local_code": "WW",
-        "name": "County Wicklow",
-        "continent": "EU",
-        "iso_country": "IE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Wicklow",
-        "keywords": "Airports in County Wicklow"
-    }
+    ]
 }

@@ -62,57 +62,5 @@
             "he_heading_degT": "312.4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "49951",
-            "airport_ref": "1064",
-            "airport_ident": "CJE3",
-            "type": "UNIC",
-            "description": "ATF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302730",
-        "code": "CA",
-        "name": "Canada",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
-        "keywords": "Canadian airports"
-    },
-    "region": {
-        "id": "303305",
-        "code": "CA-SK",
-        "local_code": "SK",
-        "name": "Saskatchewan",
-        "continent": "NA",
-        "iso_country": "CA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
-        "keywords": "Airports in Saskatchewan"
-    },
-    "navaids": [
-        {
-            "id": "85081",
-            "filename": "Weyburn_NDB_CA",
-            "ident": "3N",
-            "name": "Weyburn",
-            "type": "NDB",
-            "frequency_khz": "298",
-            "latitude_deg": "49.6963996887207",
-            "longitude_deg": "-103.80400085449219",
-            "elevation_ft": "1963",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "9.496",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CJE3"
-        }
     ]
 }

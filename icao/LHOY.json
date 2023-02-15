@@ -40,23 +40,5 @@
             "he_heading_degT": "355",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302693",
-        "code": "HU",
-        "name": "Hungary",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
-        "keywords": "Repülőterek Magyarország"
-    },
-    "region": {
-        "id": "304091",
-        "code": "HU-TO",
-        "local_code": "TO",
-        "name": "Tolna County",
-        "continent": "EU",
-        "iso_country": "HU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tolna_County",
-        "keywords": "Airports in Tolna County"
-    }
+    ]
 }

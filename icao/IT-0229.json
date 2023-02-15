@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "317978",
-            "airport_ref": "317976",
-            "airport_ident": "IT-0229",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "130"
-        }
-    ],
-    "country": {
-        "id": "302697",
-        "code": "IT",
-        "name": "Italy",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
-        "keywords": "Aeroporti d'Italia"
-    },
-    "region": {
-        "id": "306371",
-        "code": "IT-75",
-        "local_code": "75",
-        "name": "Apulia",
-        "continent": "EU",
-        "iso_country": "IT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Apulia",
-        "keywords": "PU"
-    }
+    ]
 }

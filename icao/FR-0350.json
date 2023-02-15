@@ -16,23 +16,5 @@
     "local_code": "LF0651",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302687",
-        "code": "FR",
-        "name": "France",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
-        "keywords": "Aéroports de France"
-    },
-    "region": {
-        "id": "306333",
-        "code": "FR-PAC",
-        "local_code": "PAC",
-        "name": "Provence-Alpes-Côte-d'Azur",
-        "continent": "EU",
-        "iso_country": "FR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Provence-Alpes-C%C3%B4te_d%27Azur",
-        "keywords": "Airports in Provence-Alpes-Côte-d'Azur"
-    }
+    "keywords": ""
 }

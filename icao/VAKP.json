@@ -40,57 +40,5 @@
             "he_heading_degT": "250",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "53978",
-            "airport_ref": "26451",
-            "airport_ident": "VAKP",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "126.9"
-        }
-    ],
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304183",
-        "code": "IN-MM",
-        "local_code": "MM",
-        "name": "Maharashtra",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Maharashtra",
-        "keywords": "Airports in Maharashtra"
-    },
-    "navaids": [
-        {
-            "id": "89930",
-            "filename": "Kolhapur_NDB_IN",
-            "ident": "KP",
-            "name": "Kolhapur",
-            "type": "NDB",
-            "frequency_khz": "260",
-            "latitude_deg": "16.66469955444336",
-            "longitude_deg": "74.28240203857422",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.153",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VAKP"
-        }
     ]
 }

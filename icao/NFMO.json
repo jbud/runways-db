@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Moala_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302766",
-        "code": "FJ",
-        "name": "Fiji",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Fiji",
-        "keywords": "Fijan airports"
-    },
-    "region": {
-        "id": "303807",
-        "code": "FJ-E",
-        "local_code": "E",
-        "name": "Eastern Division",
-        "continent": "OC",
-        "iso_country": "FJ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Division,_Fiji",
-        "keywords": "Airports in Eastern"
-    }
+    "keywords": ""
 }

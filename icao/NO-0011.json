@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "312266",
-            "airport_ref": "44875",
-            "airport_ident": "NO-0011",
-            "type": "NLF",
-            "description": "General NLF Frequency",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302709",
-        "code": "NO",
-        "name": "Norway",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
-        "keywords": "Flyplasser i Norge"
-    },
-    "region": {
-        "id": "349856",
-        "code": "NO-50",
-        "local_code": "50",
-        "name": "Trøndelag",
-        "continent": "EU",
-        "iso_country": "NO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tr%C3%B8ndelag",
-        "keywords": "Airports in Trøndelag"
-    }
+    ]
 }

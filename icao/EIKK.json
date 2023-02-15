@@ -40,41 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "313600",
-            "airport_ref": "29224",
-            "airport_ident": "EIKK",
-            "type": "Radio",
-            "description": "",
-            "frequency_mhz": "122.9"
-        },
-        {
-            "id": "313601",
-            "airport_ref": "29224",
-            "airport_ident": "EIKK",
-            "type": "Radio",
-            "description": "Gliders",
-            "frequency_mhz": "130.4"
-        }
-    ],
-    "country": {
-        "id": "302694",
-        "code": "IE",
-        "name": "Ireland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ireland",
-        "keywords": "Eire"
-    },
-    "region": {
-        "id": "304137",
-        "code": "IE-KK",
-        "local_code": "KK",
-        "name": "County Kilkenny",
-        "continent": "EU",
-        "iso_country": "IE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kilkenny",
-        "keywords": "Airports in County Kilkenny"
-    }
+    ]
 }

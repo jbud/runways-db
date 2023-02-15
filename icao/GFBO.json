@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Bo_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302599",
-        "code": "SL",
-        "name": "Sierra Leone",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sierra_Leone",
-        "keywords": "Sierra Leonean airports"
-    },
-    "region": {
-        "id": "305602",
-        "code": "SL-S",
-        "local_code": "S",
-        "name": "Southern Province",
-        "continent": "AF",
-        "iso_country": "SL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_Province,_Sierra_Leone",
-        "keywords": "Airports in Southern Province"
-    }
+    "keywords": ""
 }

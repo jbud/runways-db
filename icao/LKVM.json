@@ -84,33 +84,5 @@
             "he_heading_degT": "315",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "333289",
-            "airport_ref": "30545",
-            "airport_ident": "LKVM",
-            "type": "RADIO",
-            "description": "",
-            "frequency_mhz": "130.605"
-        }
-    ],
-    "country": {
-        "id": "302680",
-        "code": "CZ",
-        "name": "Czech Republic",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
-        "keywords": "Letiště České republiky, Czechia"
-    },
-    "region": {
-        "id": "303539",
-        "code": "CZ-PA",
-        "local_code": "PA",
-        "name": "Pardubice Region",
-        "continent": "EU",
-        "iso_country": "CZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pardubice_Region",
-        "keywords": "Pardubický kraj"
-    }
+    ]
 }

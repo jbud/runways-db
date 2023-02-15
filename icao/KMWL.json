@@ -62,57 +62,5 @@
             "he_heading_degT": "0.6",
             "he_displaced_threshold_ft": "286"
         }
-    ],
-    "freqs": [
-        {
-            "id": "68559",
-            "airport_ref": "20583",
-            "airport_ident": "KMWL",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "135.075"
-        },
-        {
-            "id": "68560",
-            "airport_ref": "20583",
-            "airport_ident": "KMWL",
-            "type": "CNTR",
-            "description": "FORT WORTH CNTR",
-            "frequency_mhz": "127"
-        },
-        {
-            "id": "68561",
-            "airport_ref": "20583",
-            "airport_ident": "KMWL",
-            "type": "RDO",
-            "description": "FORT WORTH RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "68562",
-            "airport_ref": "20583",
-            "airport_ident": "KMWL",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.725"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306119",
-        "code": "US-TX",
-        "local_code": "TX",
-        "name": "Texas",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
-        "keywords": "Texan airports"
-    }
+    ]
 }

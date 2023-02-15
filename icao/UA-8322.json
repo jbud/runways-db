@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Horodnia_(air_base)",
-    "keywords": "Gorodnia Air Base, Gorodnya Air Base, Horodnya Air Base, Аэродром Городня",
-    "country": {
-        "id": "302719",
-        "code": "UA",
-        "name": "Ukraine",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ukraine",
-        "keywords": "Аеропорти України"
-    },
-    "region": {
-        "id": "306006",
-        "code": "UA-74",
-        "local_code": "74",
-        "name": "Chernihiv Oblast",
-        "continent": "EU",
-        "iso_country": "UA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chernihiv_Oblast",
-        "keywords": "Airports in Chernihiv Oblast, Черні́гівська о́бласть"
-    }
+    "keywords": "Gorodnia Air Base, Gorodnya Air Base, Horodnya Air Base, Аэродром Городня"
 }

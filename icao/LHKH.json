@@ -62,41 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "333057",
-            "airport_ref": "30029",
-            "airport_ident": "LHKH",
-            "type": "INFO",
-            "description": "Kiskun INFO",
-            "frequency_mhz": "118.85"
-        },
-        {
-            "id": "333059",
-            "airport_ref": "30029",
-            "airport_ident": "LHKH",
-            "type": "PPR-request",
-            "description": "google for \"Simon Károly Kiskunfélegyháza szvg\"",
-            "frequency_mhz": "0"
-        }
-    ],
-    "country": {
-        "id": "302693",
-        "code": "HU",
-        "name": "Hungary",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
-        "keywords": "Repülőterek Magyarország"
-    },
-    "region": {
-        "id": "304058",
-        "code": "HU-BK",
-        "local_code": "BK",
-        "name": "Bács-Kiskun County",
-        "continent": "EU",
-        "iso_country": "HU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bács-Kiskun_County",
-        "keywords": "Airports in Bács-Kiskun County"
-    }
+    ]
 }

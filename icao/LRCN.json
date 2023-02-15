@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "316321",
-            "airport_ref": "300163",
-            "airport_ident": "LRCN",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "128.3"
-        }
-    ],
-    "country": {
-        "id": "302712",
-        "code": "RO",
-        "name": "Romania",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Romania",
-        "keywords": "Aeroporturi din România"
-    },
-    "region": {
-        "id": "305241",
-        "code": "RO-IF",
-        "local_code": "IF",
-        "name": "Ilfov County",
-        "continent": "EU",
-        "iso_country": "RO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ilfov_County",
-        "keywords": "Southern Romania (Wallachia), Wallachian"
-    }
+    ]
 }

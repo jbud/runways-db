@@ -40,49 +40,5 @@
             "he_heading_degT": "262",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "70767",
-            "airport_ref": "20350",
-            "airport_ident": "KLKU",
-            "type": "A/D",
-            "description": "POTOMAC APP/DEP",
-            "frequency_mhz": "132.85"
-        },
-        {
-            "id": "70768",
-            "airport_ref": "20350",
-            "airport_ident": "KLKU",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.475"
-        },
-        {
-            "id": "70769",
-            "airport_ref": "20350",
-            "airport_ident": "KLKU",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.725"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306122",
-        "code": "US-VA",
-        "local_code": "VA",
-        "name": "Virginia",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
-        "keywords": "Virginian airports"
-    }
+    ]
 }

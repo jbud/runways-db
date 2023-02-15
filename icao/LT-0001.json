@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/R%C5%ABdininkai_training_ground",
-    "keywords": "",
-    "country": {
-        "id": "302700",
-        "code": "LT",
-        "name": "Lithuania",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lithuania",
-        "keywords": "Lithuanian airports"
-    },
-    "region": {
-        "id": "304504",
-        "code": "LT-VL",
-        "local_code": "VL",
-        "name": "Vilnius County",
-        "continent": "EU",
-        "iso_country": "LT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Vilnius_County",
-        "keywords": "Vilniaus"
-    }
+    "keywords": ""
 }

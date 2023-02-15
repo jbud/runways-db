@@ -84,49 +84,5 @@
             "he_heading_degT": "1.2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "65528",
-            "airport_ref": "19927",
-            "airport_ident": "KGBN",
-            "type": "A/D",
-            "description": "LUKE APP/DEP",
-            "frequency_mhz": "125.45"
-        },
-        {
-            "id": "65529",
-            "airport_ref": "19927",
-            "airport_ident": "KGBN",
-            "type": "MISC",
-            "description": "SNAKE EYE",
-            "frequency_mhz": "122.775"
-        },
-        {
-            "id": "65530",
-            "airport_ref": "19927",
-            "airport_ident": "KGBN",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "127.75"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306079",
-        "code": "US-AZ",
-        "local_code": "AZ",
-        "name": "Arizona",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
-        "keywords": "Airports in Arizona"
-    }
+    ]
 }

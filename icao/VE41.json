@@ -40,23 +40,5 @@
             "he_heading_degT": "292.8",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304168",
-        "code": "IN-BR",
-        "local_code": "BR",
-        "name": "Bihar",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bihar",
-        "keywords": "Airports in Bihar"
-    }
+    ]
 }

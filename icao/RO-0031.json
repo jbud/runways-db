@@ -40,23 +40,5 @@
             "he_heading_degT": "285",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302712",
-        "code": "RO",
-        "name": "Romania",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Romania",
-        "keywords": "Aeroporturi din România"
-    },
-    "region": {
-        "id": "305251",
-        "code": "RO-SJ",
-        "local_code": "SJ",
-        "name": "Sălaj County",
-        "continent": "EU",
-        "iso_country": "RO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sălaj_County",
-        "keywords": "Transylvania, Transylvanian Region"
-    }
+    ]
 }

@@ -40,41 +40,5 @@
             "he_heading_degT": "352.3",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "66892",
-            "airport_ref": "20828",
-            "airport_ident": "KPHH",
-            "type": "A/D",
-            "description": "MYRTLE BEACH APP/DEP",
-            "frequency_mhz": "127.4"
-        },
-        {
-            "id": "66893",
-            "airport_ref": "20828",
-            "airport_ident": "KPHH",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306116",
-        "code": "US-SC",
-        "local_code": "SC",
-        "name": "South Carolina",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Carolina",
-        "keywords": "Airports in South Carolina"
-    }
+    ]
 }

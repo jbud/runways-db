@@ -62,57 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "72657",
-            "airport_ref": "27494",
-            "airport_ident": "YCUT",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.6"
-        },
-        {
-            "id": "72658",
-            "airport_ref": "27494",
-            "airport_ident": "YCUT",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "115.5"
-        },
-        {
-            "id": "72659",
-            "airport_ref": "27494",
-            "airport_ident": "YCUT",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "119.6"
-        },
-        {
-            "id": "72660",
-            "airport_ref": "27494",
-            "airport_ident": "YCUT",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "124.8"
-        }
-    ],
-    "country": {
-        "id": "302764",
-        "code": "AU",
-        "name": "Australia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
-        "keywords": "Australian airports"
-    },
-    "region": {
-        "id": "302969",
-        "code": "AU-NSW",
-        "local_code": "NSW",
-        "name": "New South Wales",
-        "continent": "OC",
-        "iso_country": "AU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
-        "keywords": "Airports in New South Wales"
-    }
+    ]
 }

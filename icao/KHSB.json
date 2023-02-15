@@ -62,49 +62,5 @@
             "he_heading_degT": "321",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "67311",
-            "airport_ref": "20085",
-            "airport_ident": "KHSB",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "135.925"
-        },
-        {
-            "id": "67312",
-            "airport_ref": "20085",
-            "airport_ident": "KHSB",
-            "type": "CNTR",
-            "description": "KANSAS CITY CNTR",
-            "frequency_mhz": "125.3"
-        },
-        {
-            "id": "67313",
-            "airport_ref": "20085",
-            "airport_ident": "KHSB",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306090",
-        "code": "US-IL",
-        "local_code": "IL",
-        "name": "Illinois",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
-        "keywords": "Airports in Illinois"
-    }
+    ]
 }

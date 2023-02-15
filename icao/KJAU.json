@@ -40,49 +40,5 @@
             "he_heading_degT": "225.7",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "63166",
-            "airport_ref": "20204",
-            "airport_ident": "KJAU",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "124.975"
-        },
-        {
-            "id": "63167",
-            "airport_ref": "20204",
-            "airport_ident": "KJAU",
-            "type": "CNTR",
-            "description": "ATLANTA CNTR",
-            "frequency_mhz": "133.6"
-        },
-        {
-            "id": "63168",
-            "airport_ref": "20204",
-            "airport_ident": "KJAU",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306118",
-        "code": "US-TN",
-        "local_code": "TN",
-        "name": "Tennessee",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
-        "keywords": "Airports in Tennessee"
-    }
+    ]
 }

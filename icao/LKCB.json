@@ -62,33 +62,5 @@
             "he_heading_degT": "233",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "333137",
-            "airport_ref": "29778",
-            "airport_ident": "LKCB",
-            "type": "RADIO",
-            "description": "",
-            "frequency_mhz": "122.205"
-        }
-    ],
-    "country": {
-        "id": "302680",
-        "code": "CZ",
-        "name": "Czech Republic",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
-        "keywords": "Letiště České republiky, Czechia"
-    },
-    "region": {
-        "id": "303534",
-        "code": "CZ-KA",
-        "local_code": "KA",
-        "name": "Carlsbad Region",
-        "continent": "EU",
-        "iso_country": "CZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Karlovy_Vary_Region",
-        "keywords": "Karlovarský kraj, Karlovy Vary"
-    }
+    ]
 }

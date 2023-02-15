@@ -40,41 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75563",
-            "airport_ref": "35178",
-            "airport_ident": "RPVB",
-            "type": "approach",
-            "description": "",
-            "frequency_mhz": "121"
-        },
-        {
-            "id": "75562",
-            "airport_ref": "35178",
-            "airport_ident": "RPVB",
-            "type": "TOWER",
-            "description": "",
-            "frequency_mhz": "118.8"
-        }
-    ],
-    "country": {
-        "id": "302656",
-        "code": "PH",
-        "name": "Philippines",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
-        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
-    },
-    "region": {
-        "id": "305106",
-        "code": "PH-NEC",
-        "local_code": "NEC",
-        "name": "Negros Occidental Province",
-        "continent": "AS",
-        "iso_country": "PH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Negros_Occidental_Province",
-        "keywords": "Airports in Negros Occidental Province"
-    }
+    ]
 }

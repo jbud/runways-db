@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Myrhorod_Air_Base",
-    "keywords": "Mirgorod Air Base, Аэродром Миргород",
-    "country": {
-        "id": "302719",
-        "code": "UA",
-        "name": "Ukraine",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ukraine",
-        "keywords": "Аеропорти України"
-    },
-    "region": {
-        "id": "305998",
-        "code": "UA-53",
-        "local_code": "53",
-        "name": "Poltava Oblast",
-        "continent": "EU",
-        "iso_country": "UA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Poltava_Oblast",
-        "keywords": "Airports in Poltava Oblast"
-    }
+    "keywords": "Mirgorod Air Base, Аэродром Миргород"
 }

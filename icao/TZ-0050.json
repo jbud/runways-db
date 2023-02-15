@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Mwambezi",
-    "country": {
-        "id": "302607",
-        "code": "TZ",
-        "name": "Tanzania",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tanzania",
-        "keywords": "Tanzanian airports"
-    },
-    "region": {
-        "id": "305974",
-        "code": "TZ-21",
-        "local_code": "21",
-        "name": "Ruvuma Region",
-        "continent": "AF",
-        "iso_country": "TZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ruvuma_Region",
-        "keywords": "Airports in Ruvuma Region"
-    }
+    "keywords": "Mwambezi"
 }

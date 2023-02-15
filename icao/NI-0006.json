@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302748",
-        "code": "NI",
-        "name": "Nicaragua",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nicaragua",
-        "keywords": "Aeropuertos de Nicaragua"
-    },
-    "region": {
-        "id": "304929",
-        "code": "NI-RI",
-        "local_code": "RI",
-        "name": "Rivas Department",
-        "continent": "NA",
-        "iso_country": "NI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Rivas_Department",
-        "keywords": "Airports in Rivas"
-    }
+    "keywords": ""
 }

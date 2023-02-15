@@ -40,33 +40,5 @@
             "he_heading_degT": "275.7",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "50903",
-            "airport_ref": "1528",
-            "airport_ident": "CSK3",
-            "type": "RDO",
-            "description": "MF",
-            "frequency_mhz": "122.35"
-        }
-    ],
-    "country": {
-        "id": "302730",
-        "code": "CA",
-        "name": "Canada",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
-        "keywords": "Canadian airports"
-    },
-    "region": {
-        "id": "303304",
-        "code": "CA-QC",
-        "local_code": "QC",
-        "name": "Quebec",
-        "continent": "NA",
-        "iso_country": "CA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
-        "keywords": "Aéroports du Québec"
-    }
+    ]
 }

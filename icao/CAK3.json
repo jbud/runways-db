@@ -40,49 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75457",
-            "airport_ref": "627",
-            "airport_ident": "CAK3",
-            "type": "ATF",
-            "description": "Delta HeritageTraffic, 2nm below 1000ASL",
-            "frequency_mhz": "123.3"
-        },
-        {
-            "id": "311244",
-            "airport_ref": "627",
-            "airport_ident": "CAK3",
-            "type": "ATIS",
-            "description": "Boundary Bay, 1-877-517-2847",
-            "frequency_mhz": "125.5"
-        },
-        {
-            "id": "75458",
-            "airport_ref": "627",
-            "airport_ident": "CAK3",
-            "type": "TWR",
-            "description": "Boundary Bay Tower, above 1000ft",
-            "frequency_mhz": "118.1"
-        }
-    ],
-    "country": {
-        "id": "302730",
-        "code": "CA",
-        "name": "Canada",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
-        "keywords": "Canadian airports"
-    },
-    "region": {
-        "id": "303295",
-        "code": "CA-BC",
-        "local_code": "BC",
-        "name": "British Columbia",
-        "continent": "NA",
-        "iso_country": "CA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
-        "keywords": "British Columbian airports"
-    }
+    ]
 }

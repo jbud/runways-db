@@ -62,57 +62,5 @@
             "he_heading_degT": "5.6",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "62518",
-            "airport_ref": "21103",
-            "airport_ident": "KSPW",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "126.625"
-        },
-        {
-            "id": "62519",
-            "airport_ref": "21103",
-            "airport_ident": "KSPW",
-            "type": "CNTR",
-            "description": "MINNEAPOLIS CNTR",
-            "frequency_mhz": "127.75"
-        },
-        {
-            "id": "62520",
-            "airport_ref": "21103",
-            "airport_ident": "KSPW",
-            "type": "RDO",
-            "description": "FORT DODGE RDO",
-            "frequency_mhz": "122.15"
-        },
-        {
-            "id": "62521",
-            "airport_ref": "21103",
-            "airport_ident": "KSPW",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306088",
-        "code": "US-IA",
-        "local_code": "IA",
-        "name": "Iowa",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
-        "keywords": "Airports in Iowa"
-    }
+    ]
 }

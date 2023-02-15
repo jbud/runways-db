@@ -40,41 +40,5 @@
             "he_heading_degT": "271.7",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "299147",
-            "airport_ref": "4023",
-            "airport_ident": "LEMR",
-            "type": "RDO",
-            "description": "La Morgal Radio (A/A, ES)",
-            "frequency_mhz": "123.5"
-        },
-        {
-            "id": "299148",
-            "airport_ref": "4023",
-            "airport_ident": "LEMR",
-            "type": "TWR",
-            "description": "Asturias TWR",
-            "frequency_mhz": "118.15"
-        }
-    ],
-    "country": {
-        "id": "302684",
-        "code": "ES",
-        "name": "Spain",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
-        "keywords": "Aeropuertos de España"
-    },
-    "region": {
-        "id": "303766",
-        "code": "ES-AS",
-        "local_code": "AS",
-        "name": "Asturias",
-        "continent": "EU",
-        "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Asturias",
-        "keywords": "Airports in Asturias"
-    }
+    ]
 }

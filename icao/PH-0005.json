@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "337384",
-            "airport_ref": "337382",
-            "airport_ident": "PH-0005",
-            "type": "CTAF",
-            "description": "Tuy Traffic",
-            "frequency_mhz": "121.9"
-        }
-    ],
-    "country": {
-        "id": "302656",
-        "code": "PH",
-        "name": "Philippines",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
-        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
-    },
-    "region": {
-        "id": "305068",
-        "code": "PH-BTG",
-        "local_code": "BTG",
-        "name": "Batangas Province",
-        "continent": "AS",
-        "iso_country": "PH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Batangas_Province",
-        "keywords": "Airports in Batangas Province"
-    }
+    ]
 }

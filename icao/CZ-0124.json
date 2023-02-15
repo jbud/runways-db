@@ -16,23 +16,5 @@
     "local_code": "LKVSEN",
     "home_link": "http://www.lkvsen.websnadno.cz",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302680",
-        "code": "CZ",
-        "name": "Czech Republic",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
-        "keywords": "Letiště České republiky, Czechia"
-    },
-    "region": {
-        "id": "303536",
-        "code": "CZ-LI",
-        "local_code": "LI",
-        "name": "Liberec Region",
-        "continent": "EU",
-        "iso_country": "CZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Liberec_Region",
-        "keywords": "Liberecký kraj"
-    }
+    "keywords": ""
 }

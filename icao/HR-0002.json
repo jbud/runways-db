@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Korçula,ECA, LDSL",
-    "country": {
-        "id": "302692",
-        "code": "HR",
-        "name": "Croatia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Croatia",
-        "keywords": "Croatian airports"
-    },
-    "region": {
-        "id": "304043",
-        "code": "HR-19",
-        "local_code": "19",
-        "name": "Dubrovnik-Neretva County",
-        "continent": "EU",
-        "iso_country": "HR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Dubrovnik-Neretva_County",
-        "keywords": "Airports in Dubrovnik-Neretva County"
-    }
+    "keywords": "Korçula,ECA, LDSL"
 }

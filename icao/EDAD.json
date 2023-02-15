@@ -40,41 +40,5 @@
             "he_heading_degT": "271",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "53274",
-            "airport_ref": "2185",
-            "airport_ident": "EDAD",
-            "type": "AFIS",
-            "description": "BERLIN INFO",
-            "frequency_mhz": "125.8"
-        },
-        {
-            "id": "53275",
-            "airport_ref": "2185",
-            "airport_ident": "EDAD",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "118.175"
-        }
-    ],
-    "country": {
-        "id": "302681",
-        "code": "DE",
-        "name": "Germany",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
-        "keywords": "Flughäfen in Deutschland"
-    },
-    "region": {
-        "id": "303561",
-        "code": "DE-ST",
-        "local_code": "ST",
-        "name": "Saxony-Anhalt",
-        "continent": "EU",
-        "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Saxony-Anhalt",
-        "keywords": "Sachsen-Anhalt"
-    }
+    ]
 }

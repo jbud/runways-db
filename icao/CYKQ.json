@@ -40,47 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302730",
-        "code": "CA",
-        "name": "Canada",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
-        "keywords": "Canadian airports"
-    },
-    "region": {
-        "id": "303304",
-        "code": "CA-QC",
-        "local_code": "QC",
-        "name": "Quebec",
-        "continent": "NA",
-        "iso_country": "CA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
-        "keywords": "Aéroports du Québec"
-    },
-    "navaids": [
-        {
-            "id": "95725",
-            "filename": "Waskaganish_NDB_CA",
-            "ident": "YKQ",
-            "name": "Waskaganish",
-            "type": "NDB",
-            "frequency_khz": "351",
-            "latitude_deg": "51.48699951171875",
-            "longitude_deg": "-78.74479675292969",
-            "elevation_ft": "79",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-14.377",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYKQ"
-        }
     ]
 }

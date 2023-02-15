@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "313614",
-            "airport_ref": "313613",
-            "airport_ident": "RO-0003",
-            "type": "INFO",
-            "description": "",
-            "frequency_mhz": "123.45"
-        }
-    ],
-    "country": {
-        "id": "302712",
-        "code": "RO",
-        "name": "Romania",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Romania",
-        "keywords": "Aeroporturi din România"
-    },
-    "region": {
-        "id": "305253",
-        "code": "RO-SV",
-        "local_code": "SV",
-        "name": "Suceava County",
-        "continent": "EU",
-        "iso_country": "RO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Suceava_County",
-        "keywords": "Moldavia, Moldavian"
-    }
+    ]
 }

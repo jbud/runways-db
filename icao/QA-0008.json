@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302659",
-        "code": "QA",
-        "name": "Qatar",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Qatar",
-        "keywords": "مطارات قطر"
-    },
-    "region": {
-        "id": "305207",
-        "code": "QA-DA",
-        "local_code": "DA",
-        "name": "Ad-Dawhah Municipality",
-        "continent": "AS",
-        "iso_country": "QA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ad-Dawhah_(municipality)",
-        "keywords": "Airports in Ad-Dawhah Municipality"
-    }
+    "keywords": ""
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Kang Lim CSP",
-    "country": {
-        "id": "302643",
-        "code": "KR",
-        "name": "South Korea",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Korea",
-        "keywords": "한국의 공항"
-    },
-    "region": {
-        "id": "304401",
-        "code": "KR-26",
-        "local_code": "26",
-        "name": "Busan Gwang'yeogsi",
-        "continent": "AS",
-        "iso_country": "KR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Busan_Gwang'yeogsi",
-        "keywords": "Airports in Busan Gwang'yeogsi"
-    }
+    "keywords": "Kang Lim CSP"
 }

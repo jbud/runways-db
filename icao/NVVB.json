@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302786",
-        "code": "VU",
-        "name": "Vanuatu",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Vanuatu",
-        "keywords": "Airports in Vanuatu"
-    },
-    "region": {
-        "id": "306259",
-        "code": "VU-TAE",
-        "local_code": "TAE",
-        "name": "Tafea",
-        "continent": "OC",
-        "iso_country": "VU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tafea",
-        "keywords": "Airports in Tafea"
-    }
+    ]
 }

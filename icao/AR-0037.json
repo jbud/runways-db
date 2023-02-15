@@ -16,23 +16,5 @@
     "local_code": "ALU",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302789",
-        "code": "AR",
-        "name": "Argentina",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
-        "keywords": "Aeropuertos de Argentina"
-    },
-    "region": {
-        "id": "302945",
-        "code": "AR-Q",
-        "local_code": "Q",
-        "name": "Neuquén Province",
-        "continent": "SA",
-        "iso_country": "AR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Neuqu%C3%A9n_Province",
-        "keywords": ""
-    }
+    "keywords": ""
 }

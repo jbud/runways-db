@@ -62,33 +62,5 @@
             "he_heading_degT": "273",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "330324",
-            "airport_ref": "29702",
-            "airport_ident": "EPBA",
-            "type": "Radio",
-            "description": "Bielsko Radio",
-            "frequency_mhz": "122.2"
-        }
-    ],
-    "country": {
-        "id": "302710",
-        "code": "PL",
-        "name": "Poland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
-        "keywords": "Lotniska Polski"
-    },
-    "region": {
-        "id": "305156",
-        "code": "PL-SL",
-        "local_code": "SL",
-        "name": "Silesian Voivodeship",
-        "continent": "EU",
-        "iso_country": "PL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Silesian_Voivodship",
-        "keywords": "Śląskie, Silesia"
-    }
+    ]
 }

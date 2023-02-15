@@ -40,57 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": "985"
         }
-    ],
-    "freqs": [
-        {
-            "id": "322388",
-            "airport_ref": "322383",
-            "airport_ident": "TVSA",
-            "type": "APP",
-            "description": "Argyle Approach",
-            "frequency_mhz": "120.8"
-        },
-        {
-            "id": "322385",
-            "airport_ref": "322383",
-            "airport_ident": "TVSA",
-            "type": "ATIS",
-            "description": "",
-            "frequency_mhz": "132.55"
-        },
-        {
-            "id": "322386",
-            "airport_ref": "322383",
-            "airport_ident": "TVSA",
-            "type": "GND",
-            "description": "Argyle Ground",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "322387",
-            "airport_ref": "322383",
-            "airport_ident": "TVSA",
-            "type": "TWR",
-            "description": "Argyle Tower",
-            "frequency_mhz": "118.8"
-        }
-    ],
-    "country": {
-        "id": "302756",
-        "code": "VC",
-        "name": "Saint Vincent and the Grenadines",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
-        "keywords": "Airports in Saint Vincent and the Grenadines"
-    },
-    "region": {
-        "id": "306721",
-        "code": "VC-04",
-        "local_code": "04",
-        "name": "Saint George",
-        "continent": "NA",
-        "iso_country": "VC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_George",
-        "keywords": "Airports in Saint George"
-    }
+    ]
 }

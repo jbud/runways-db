@@ -62,57 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "73515",
-            "airport_ref": "27706",
-            "airport_ident": "YLAO",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "124.3"
-        },
-        {
-            "id": "73516",
-            "airport_ref": "27706",
-            "airport_ident": "YLAO",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "116.5"
-        },
-        {
-            "id": "73518",
-            "airport_ref": "27706",
-            "airport_ident": "YLAO",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "122.4"
-        },
-        {
-            "id": "73517",
-            "airport_ref": "27706",
-            "airport_ident": "YLAO",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "125.3"
-        }
-    ],
-    "country": {
-        "id": "302764",
-        "code": "AU",
-        "name": "Australia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
-        "keywords": "Australian airports"
-    },
-    "region": {
-        "id": "302972",
-        "code": "AU-SA",
-        "local_code": "SA",
-        "name": "South Australia",
-        "continent": "OC",
-        "iso_country": "AU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
-        "keywords": "South Australian airports"
-    }
+    ]
 }

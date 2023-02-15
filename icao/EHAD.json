@@ -16,33 +16,5 @@
     "local_code": "",
     "home_link": "https://www.ehal.nl/",
     "wikipedia_link": "https://nl.wikipedia.org/wiki/Ameland_Airport_Ballum",
-    "keywords": "",
-    "freqs": [
-        {
-            "id": "506407",
-            "airport_ref": "340490",
-            "airport_ident": "EHAD",
-            "type": "Radio",
-            "description": "",
-            "frequency_mhz": "118.355"
-        }
-    ],
-    "country": {
-        "id": "302708",
-        "code": "NL",
-        "name": "Netherlands",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
-        "keywords": "Holland, Luchthavens van Nederland, Dutch airports"
-    },
-    "region": {
-        "id": "304934",
-        "code": "NL-FR",
-        "local_code": "FR",
-        "name": "Friesland",
-        "continent": "EU",
-        "iso_country": "NL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Friesland",
-        "keywords": "Airports in Friesland"
-    }
+    "keywords": ""
 }

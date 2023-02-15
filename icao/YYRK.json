@@ -40,49 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75134",
-            "airport_ref": "38678",
-            "airport_ident": "YYRK",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "120.7"
-        },
-        {
-            "id": "75135",
-            "airport_ref": "38678",
-            "airport_ident": "YYRK",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "119.6"
-        },
-        {
-            "id": "75136",
-            "airport_ref": "38678",
-            "airport_ident": "YYRK",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "122.4"
-        }
-    ],
-    "country": {
-        "id": "302764",
-        "code": "AU",
-        "name": "Australia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
-        "keywords": "Australian airports"
-    },
-    "region": {
-        "id": "302976",
-        "code": "AU-WA",
-        "local_code": "WA",
-        "name": "Western Australia",
-        "continent": "OC",
-        "iso_country": "AU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
-        "keywords": "Western Australian airports"
-    }
+    ]
 }

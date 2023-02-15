@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Բերդ, Berrdagyugh, Berrdgyugh, T’avuzghala, T’auzk’end, T’ovuz, T’ous, Taua Kale, T’auzkala, Taya-Kala, Tovuzkala, Bert, T’ous Gale, Volorut, Shlorut, Ghalak’yand, T’uzukala",
-    "country": {
-        "id": "302620",
-        "code": "AM",
-        "name": "Armenia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Armenia",
-        "keywords": ""
-    },
-    "region": {
-        "id": "302908",
-        "code": "AM-TV",
-        "local_code": "TV",
-        "name": "Tavush Province",
-        "continent": "AS",
-        "iso_country": "AM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tavush_Province",
-        "keywords": "Tavus, Տավուշ"
-    }
+    "keywords": "Բերդ, Berrdagyugh, Berrdgyugh, T’avuzghala, T’auzk’end, T’ovuz, T’ous, Taua Kale, T’auzkala, Taya-Kala, Tovuzkala, Bert, T’ous Gale, Volorut, Shlorut, Ghalak’yand, T’uzukala"
 }

@@ -62,33 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75226",
-            "airport_ref": "30174",
-            "airport_ident": "LJMS",
-            "type": "AFIS",
-            "description": "",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302716",
-        "code": "SI",
-        "name": "Slovenia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Slovenia",
-        "keywords": ""
-    },
-    "region": {
-        "id": "305517",
-        "code": "SI-080",
-        "local_code": "080",
-        "name": "Murska Sobota",
-        "continent": "EU",
-        "iso_country": "SI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Murska_Sobota",
-        "keywords": "Airports in Murska Sobota"
-    }
+    ]
 }

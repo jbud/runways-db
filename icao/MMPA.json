@@ -40,57 +40,5 @@
             "he_heading_degT": "269.1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "55505",
-            "airport_ref": "4737",
-            "airport_ident": "MMPA",
-            "type": "AFIS",
-            "description": "POZA RICA INFO",
-            "frequency_mhz": "118.9"
-        }
-    ],
-    "country": {
-        "id": "302747",
-        "code": "MX",
-        "name": "Mexico",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
-        "keywords": "Aeropuertos de México, Mexican airports"
-    },
-    "region": {
-        "id": "304820",
-        "code": "MX-VER",
-        "local_code": "VER",
-        "name": "Veracruz",
-        "continent": "NA",
-        "iso_country": "MX",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Veracruz",
-        "keywords": "Airports in Veracruz"
-    },
-    "navaids": [
-        {
-            "id": "92285",
-            "filename": "Poza_Rica_VOR-DME_MX",
-            "ident": "PAZ",
-            "name": "Poza Rica",
-            "type": "VOR-DME",
-            "frequency_khz": "115500",
-            "latitude_deg": "20.60059928894043",
-            "longitude_deg": "-97.4551010131836",
-            "elevation_ft": "497",
-            "iso_country": "MX",
-            "dme_frequency_khz": "115500",
-            "dme_channel": "102X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "7.004",
-            "magnetic_variation_deg": "5.168",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMPA"
-        }
     ]
 }

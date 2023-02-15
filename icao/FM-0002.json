@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302767",
-        "code": "FM",
-        "name": "Micronesia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia",
-        "keywords": "Micronesian airports"
-    },
-    "region": {
-        "id": "303815",
-        "code": "FM-TRK",
-        "local_code": "TRK",
-        "name": "Chuuk State",
-        "continent": "OC",
-        "iso_country": "FM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chuuk_State",
-        "keywords": "Airports in Chuuk State"
-    }
+    "keywords": ""
 }

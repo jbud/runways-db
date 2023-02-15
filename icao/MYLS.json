@@ -40,57 +40,5 @@
             "he_heading_degT": "303",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "49382",
-            "airport_ref": "4949",
-            "airport_ident": "MYLS",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302728",
-        "code": "BS",
-        "name": "Bahamas",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bahamas",
-        "keywords": "Bahaman airports"
-    },
-    "region": {
-        "id": "303239",
-        "code": "BS-LI",
-        "local_code": "LI",
-        "name": "Long Island",
-        "continent": "NA",
-        "iso_country": "BS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Long_Island",
-        "keywords": "Airports in Long Island"
-    },
-    "navaids": [
-        {
-            "id": "96057",
-            "filename": "Stella_Maris_NDB_BS",
-            "ident": "ZLS",
-            "name": "Stella Maris",
-            "type": "NDB",
-            "frequency_khz": "526",
-            "latitude_deg": "23.58060073852539",
-            "longitude_deg": "-75.26390075683594",
-            "elevation_ft": "10",
-            "iso_country": "BS",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-8.167",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "MYLS"
-        }
     ]
 }

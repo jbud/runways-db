@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Fly Friends",
-    "country": {
-        "id": "302712",
-        "code": "RO",
-        "name": "Romania",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Romania",
-        "keywords": "Aeroporturi din România"
-    },
-    "region": {
-        "id": "305238",
-        "code": "RO-GR",
-        "local_code": "GR",
-        "name": "Giurgiu County",
-        "continent": "EU",
-        "iso_country": "RO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Giurgiu_County",
-        "keywords": "Southern Romania (Wallachia), Wallachian"
-    }
+    "keywords": "Fly Friends"
 }

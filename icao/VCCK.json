@@ -40,57 +40,5 @@
             "he_heading_degT": "249.7",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "51087",
-            "airport_ref": "26469",
-            "airport_ident": "VCCK",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
-    "country": {
-        "id": "302648",
-        "code": "LK",
-        "name": "Sri Lanka",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sri_Lanka",
-        "keywords": "Sri Lankan airports"
-    },
-    "region": {
-        "id": "306758",
-        "code": "LK-3",
-        "local_code": "3",
-        "name": "Southern Province",
-        "continent": "AS",
-        "iso_country": "LK",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_Province,_Sri_Lanka",
-        "keywords": "Dakunu Palata"
-    },
-    "navaids": [
-        {
-            "id": "89751",
-            "filename": "Koggala_NDB_LK",
-            "ident": "KG",
-            "name": "Koggala",
-            "type": "NDB",
-            "frequency_khz": "395",
-            "latitude_deg": "5.994999885559082",
-            "longitude_deg": "80.32330322265625",
-            "elevation_ft": "",
-            "iso_country": "LK",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.527",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "VCCK"
-        }
     ]
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302602",
-        "code": "ST",
-        "name": "São Tomé and Principe",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/São_Tomé_and_Principe",
-        "keywords": "Airports in São Tomé and Principe"
-    },
-    "region": {
-        "id": "305648",
-        "code": "ST-P",
-        "local_code": "P",
-        "name": "Autonomous Region of Principe",
-        "continent": "AF",
-        "iso_country": "ST",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Autonomous_Region_of_Pr%C3%ADncipe",
-        "keywords": "Airports in Autonomous Region of Principe"
-    }
+    "keywords": ""
 }

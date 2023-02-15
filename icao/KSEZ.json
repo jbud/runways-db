@@ -40,57 +40,5 @@
             "he_heading_degT": "225.8",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "61711",
-            "airport_ref": "21055",
-            "airport_ident": "KSEZ",
-            "type": "A/D",
-            "description": "ALBUQUERQUE CNTR",
-            "frequency_mhz": "124.5"
-        },
-        {
-            "id": "61712",
-            "airport_ref": "21055",
-            "airport_ident": "KSEZ",
-            "type": "AWOS",
-            "description": "AWOS 2",
-            "frequency_mhz": "118.525"
-        },
-        {
-            "id": "61713",
-            "airport_ref": "21055",
-            "airport_ident": "KSEZ",
-            "type": "RDO",
-            "description": "PRESCOTT RDO",
-            "frequency_mhz": "122.3"
-        },
-        {
-            "id": "61714",
-            "airport_ref": "21055",
-            "airport_ident": "KSEZ",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306079",
-        "code": "US-AZ",
-        "local_code": "AZ",
-        "name": "Arizona",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
-        "keywords": "Airports in Arizona"
-    }
+    ]
 }

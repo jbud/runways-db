@@ -62,33 +62,5 @@
             "he_heading_degT": "360",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "57935",
-            "airport_ref": "4546",
-            "airport_ident": "LTBX",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "132"
-        }
-    ],
-    "country": {
-        "id": "302667",
-        "code": "TR",
-        "name": "Turkey",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
-        "keywords": "Türkiye havaalanları"
-    },
-    "region": {
-        "id": "305869",
-        "code": "TR-34",
-        "local_code": "34",
-        "name": "İstanbul Province",
-        "continent": "AS",
-        "iso_country": "TR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/İstanbul_Province",
-        "keywords": "Airports in İstanbul Province"
-    }
+    ]
 }

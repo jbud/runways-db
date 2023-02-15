@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302606",
-        "code": "TN",
-        "name": "Tunisia",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tunisia",
-        "keywords": "مطارات تونس"
-    },
-    "region": {
-        "id": "305827",
-        "code": "TN-61",
-        "local_code": "61",
-        "name": "Sfax Governorate",
-        "continent": "AF",
-        "iso_country": "TN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sfax_Governorate",
-        "keywords": "Airports in Sfax Governorate"
-    }
+    "keywords": ""
 }

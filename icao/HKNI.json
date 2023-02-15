@@ -16,47 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302579",
-        "code": "KE",
-        "name": "Kenya",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kenya",
-        "keywords": "Kenyan airports"
-    },
-    "region": {
-        "id": "304335",
-        "code": "KE-200",
-        "local_code": "200",
-        "name": "Central Province",
-        "continent": "AF",
-        "iso_country": "KE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Province_(Kenya)",
-        "keywords": "Kati"
-    },
-    "navaids": [
-        {
-            "id": "91791",
-            "filename": "Nyeri_NDB_KE",
-            "ident": "NY",
-            "name": "Nyeri",
-            "type": "NDB",
-            "frequency_khz": "388",
-            "latitude_deg": "-0.38600000739097595",
-            "longitude_deg": "37.00080108642578",
-            "elevation_ft": "",
-            "iso_country": "KE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.157",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "HKNI"
-        }
-    ]
+    "keywords": ""
 }

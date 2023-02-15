@@ -40,57 +40,5 @@
             "he_heading_degT": "248.3",
             "he_displaced_threshold_ft": "440"
         }
-    ],
-    "freqs": [
-        {
-            "id": "53962",
-            "airport_ref": "26517",
-            "airport_ident": "VEPT",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304168",
-        "code": "IN-BR",
-        "local_code": "BR",
-        "name": "Bihar",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bihar",
-        "keywords": "Airports in Bihar"
-    },
-    "navaids": [
-        {
-            "id": "92648",
-            "filename": "Patna_VOR-DME_IN",
-            "ident": "PPT",
-            "name": "Patna",
-            "type": "VOR-DME",
-            "frequency_khz": "112100",
-            "latitude_deg": "25.59040069580078",
-            "longitude_deg": "85.08989715576172",
-            "elevation_ft": "167",
-            "iso_country": "IN",
-            "dme_frequency_khz": "112100",
-            "dme_channel": "058X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.089",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VEPT"
-        }
     ]
 }

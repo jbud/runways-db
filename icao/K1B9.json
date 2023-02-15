@@ -62,49 +62,5 @@
             "he_heading_degT": "303",
             "he_displaced_threshold_ft": "236"
         }
-    ],
-    "freqs": [
-        {
-            "id": "63125",
-            "airport_ref": "18454",
-            "airport_ident": "K1B9",
-            "type": "A/D",
-            "description": "BOSTON APP/DEP",
-            "frequency_mhz": "124.1"
-        },
-        {
-            "id": "63126",
-            "airport_ref": "18454",
-            "airport_ident": "K1B9",
-            "type": "RDO",
-            "description": "BRIDGEPORT RDO",
-            "frequency_mhz": "121.725"
-        },
-        {
-            "id": "63127",
-            "airport_ref": "18454",
-            "airport_ident": "K1B9",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306095",
-        "code": "US-MA",
-        "local_code": "MA",
-        "name": "Massachusetts",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Massachusetts",
-        "keywords": "Airports in Massachusetts"
-    }
+    ]
 }

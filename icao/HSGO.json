@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Gogrial_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302597",
-        "code": "SD",
-        "name": "Sudan",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sudan",
-        "keywords": "مطارات السودان"
-    },
-    "region": {
-        "id": "305384",
-        "code": "SD-01",
-        "local_code": "01",
-        "name": "Northern State",
-        "continent": "AF",
-        "iso_country": "SD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_state,_Sudan",
-        "keywords": "Airports in Northern State"
-    }
+    "keywords": ""
 }

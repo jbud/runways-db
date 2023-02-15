@@ -62,49 +62,5 @@
             "he_heading_degT": "229",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "57025",
-            "airport_ref": "2838",
-            "airport_ident": "FASK",
-            "type": "APP",
-            "description": "WATERKLOOF APP",
-            "frequency_mhz": "134.4"
-        },
-        {
-            "id": "57026",
-            "airport_ref": "2838",
-            "airport_ident": "FASK",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.75"
-        },
-        {
-            "id": "57027",
-            "airport_ref": "2838",
-            "airport_ident": "FASK",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "123.2"
-        }
-    ],
-    "country": {
-        "id": "302610",
-        "code": "ZA",
-        "name": "South Africa",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
-        "keywords": "South African airports"
-    },
-    "region": {
-        "id": "306297",
-        "code": "ZA-GT",
-        "local_code": "GT",
-        "name": "Gauteng",
-        "continent": "AF",
-        "iso_country": "ZA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Gauteng",
-        "keywords": "Airports in Gauteng"
-    }
+    ]
 }

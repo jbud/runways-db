@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "FWDZ, FWDZ",
-    "country": {
-        "id": "302589",
-        "code": "MW",
-        "name": "Malawi",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Malawi",
-        "keywords": "Airports in Malawi"
-    },
-    "region": {
-        "id": "304767",
-        "code": "MW-DE",
-        "local_code": "DE",
-        "name": "Dedza District",
-        "continent": "AF",
-        "iso_country": "MW",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Dedza_District",
-        "keywords": "Airports in Dedza District"
-    }
+    "keywords": "FWDZ, FWDZ"
 }

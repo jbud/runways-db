@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302622",
-        "code": "BD",
-        "name": "Bangladesh",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bangladesh",
-        "keywords": "Bangladeshi airports"
-    },
-    "region": {
-        "id": "306742",
-        "code": "BD-3",
-        "local_code": "3",
-        "name": "Dhaka Division",
-        "continent": "AS",
-        "iso_country": "BD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Dhaka_Division",
-        "keywords": "Dhaka bibhag"
-    }
+    "keywords": ""
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "248.9",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "56647",
-            "airport_ref": "5751",
-            "airport_ident": "UELL",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
-    "country": {
-        "id": "302714",
-        "code": "RU",
-        "name": "Russia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
-        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
-    },
-    "region": {
-        "id": "305320",
-        "code": "RU-SA",
-        "local_code": "SA",
-        "name": "Sakha (Yakutia) Republic",
-        "continent": "EU",
-        "iso_country": "RU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sakha_(Yakutia)_Republic",
-        "keywords": "Airports in Sakha (Yakutia) Republic"
-    }
+    ]
 }

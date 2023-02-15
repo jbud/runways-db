@@ -40,49 +40,5 @@
             "he_heading_degT": "255.5",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "60856",
-            "airport_ref": "20122",
-            "airport_ident": "KI17",
-            "type": "A/D",
-            "description": "DAYTON APP/DEP",
-            "frequency_mhz": "134.45"
-        },
-        {
-            "id": "60857",
-            "airport_ref": "20122",
-            "airport_ident": "KI17",
-            "type": "RDO",
-            "description": "DAYTON RDO",
-            "frequency_mhz": "117.5"
-        },
-        {
-            "id": "60858",
-            "airport_ref": "20122",
-            "airport_ident": "KI17",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306111",
-        "code": "US-OH",
-        "local_code": "OH",
-        "name": "Ohio",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
-        "keywords": "Airports in Ohio"
-    }
+    ]
 }

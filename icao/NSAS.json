@@ -40,23 +40,5 @@
             "he_heading_degT": "278",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302763",
-        "code": "AS",
-        "name": "American Samoa",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/American_Samoa",
-        "keywords": "Samoan airports"
-    },
-    "region": {
-        "id": "349783",
-        "code": "AS-MA",
-        "local_code": "MA",
-        "name": "Manuʻa District",
-        "continent": "OC",
-        "iso_country": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Manu%CA%BBa_District",
-        "keywords": "Airports in Manuʻa District"
-    }
+    ]
 }

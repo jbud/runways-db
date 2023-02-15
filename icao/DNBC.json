@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "323058",
-            "airport_ref": "323056",
-            "airport_ident": "DNBC",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "124.5"
-        }
-    ],
-    "country": {
-        "id": "302593",
-        "code": "NG",
-        "name": "Nigeria",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nigeria",
-        "keywords": ""
-    },
-    "region": {
-        "id": "304880",
-        "code": "NG-BA",
-        "local_code": "BA",
-        "name": "Bauchi State",
-        "continent": "AF",
-        "iso_country": "NG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bauchi_State",
-        "keywords": "Airports in Bauchi"
-    }
+    ]
 }

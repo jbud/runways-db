@@ -40,57 +40,5 @@
             "he_heading_degT": "266.9",
             "he_displaced_threshold_ft": "1200"
         }
-    ],
-    "freqs": [
-        {
-            "id": "60272",
-            "airport_ref": "19665",
-            "airport_ident": "KDUH",
-            "type": "A/D",
-            "description": "APP/DEP",
-            "frequency_mhz": "134.35"
-        },
-        {
-            "id": "60273",
-            "airport_ref": "19665",
-            "airport_ident": "KDUH",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.175"
-        },
-        {
-            "id": "60274",
-            "airport_ref": "19665",
-            "airport_ident": "KDUH",
-            "type": "RDO",
-            "description": "CLEVELAND RDO",
-            "frequency_mhz": "113.1"
-        },
-        {
-            "id": "60275",
-            "airport_ref": "19665",
-            "airport_ident": "KDUH",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.7"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306098",
-        "code": "US-MI",
-        "local_code": "MI",
-        "name": "Michigan",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
-        "keywords": "Airports in Michigan"
-    }
+    ]
 }

@@ -40,23 +40,5 @@
             "he_heading_degT": "359.4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302621",
-        "code": "AZ",
-        "name": "Azerbaijan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Azerbaijan",
-        "keywords": "Azerbaijani airports"
-    },
-    "region": {
-        "id": "302986",
-        "code": "AZ-BA",
-        "local_code": "BA",
-        "name": "Baku (city)",
-        "continent": "AS",
-        "iso_country": "AZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Baku",
-        "keywords": "Airports in Baku (city)"
-    }
+    ]
 }

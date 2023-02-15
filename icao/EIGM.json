@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Gormanston_Aerodrome",
-    "keywords": "EIGM, EIGM",
-    "country": {
-        "id": "302694",
-        "code": "IE",
-        "name": "Ireland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ireland",
-        "keywords": "Eire"
-    },
-    "region": {
-        "id": "304144",
-        "code": "IE-MH",
-        "local_code": "MH",
-        "name": "County Meath",
-        "continent": "EU",
-        "iso_country": "IE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Meath",
-        "keywords": "Airports in County Meath"
-    }
+    "keywords": "EIGM, EIGM"
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302622",
-        "code": "BD",
-        "name": "Bangladesh",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bangladesh",
-        "keywords": "Bangladeshi airports"
-    },
-    "region": {
-        "id": "306743",
-        "code": "BD-1",
-        "local_code": "1",
-        "name": "Barisal Division",
-        "continent": "AS",
-        "iso_country": "BD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Barisal_Division",
-        "keywords": "Barisal bibhag"
-    }
+    "keywords": ""
 }

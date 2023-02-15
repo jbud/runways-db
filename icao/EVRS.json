@@ -40,33 +40,5 @@
             "he_heading_degT": "328.2",
             "he_displaced_threshold_ft": "1178"
         }
-    ],
-    "freqs": [
-        {
-            "id": "299838",
-            "airport_ref": "31030",
-            "airport_ident": "EVRS",
-            "type": "CTAF",
-            "description": "Spilve traffic",
-            "frequency_mhz": "123.95"
-        }
-    ],
-    "country": {
-        "id": "302702",
-        "code": "LV",
-        "name": "Latvia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Latvia",
-        "keywords": "Latvian airports"
-    },
-    "region": {
-        "id": "304533",
-        "code": "LV-RIX",
-        "local_code": "RIX",
-        "name": "Rīga (city)",
-        "continent": "EU",
-        "iso_country": "LV",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Riga",
-        "keywords": "Airports in Rīga (city)"
-    }
+    ]
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75351",
-            "airport_ref": "44881",
-            "airport_ident": "NO-0017",
-            "type": "UNIC",
-            "description": "Gravvold Traffic",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302709",
-        "code": "NO",
-        "name": "Norway",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
-        "keywords": "Flyplasser i Norge"
-    },
-    "region": {
-        "id": "304958",
-        "code": "NO-15",
-        "local_code": "15",
-        "name": "Møre og Romsdal",
-        "continent": "EU",
-        "iso_country": "NO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Møre_og_Romsdal",
-        "keywords": "Airports in Møre og Romsdal"
-    }
+    ]
 }

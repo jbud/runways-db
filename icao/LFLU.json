@@ -84,33 +84,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "52534",
-            "airport_ref": "4144",
-            "airport_ident": "LFLU",
-            "type": "TWR",
-            "description": "VALENCE TWR",
-            "frequency_mhz": "120.1"
-        }
-    ],
-    "country": {
-        "id": "302687",
-        "code": "FR",
-        "name": "France",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
-        "keywords": "Aéroports de France"
-    },
-    "region": {
-        "id": "306351",
-        "code": "FR-ARA",
-        "local_code": "ARA",
-        "name": "Auvergne-Rhône-Alpes",
-        "continent": "EU",
-        "iso_country": "FR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes",
-        "keywords": "Airports in Auvergne-Rhône-Alpes"
-    }
+    ]
 }

@@ -40,57 +40,5 @@
             "he_heading_degT": "276",
             "he_displaced_threshold_ft": "459"
         }
-    ],
-    "freqs": [
-        {
-            "id": "52272",
-            "airport_ref": "4171",
-            "airport_ident": "LFOD",
-            "type": "AFIS",
-            "description": "SAUMUR INFO",
-            "frequency_mhz": "120.6"
-        }
-    ],
-    "country": {
-        "id": "302687",
-        "code": "FR",
-        "name": "France",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
-        "keywords": "Aéroports de France"
-    },
-    "region": {
-        "id": "306336",
-        "code": "FR-PDL",
-        "local_code": "PDL",
-        "name": "Pays-de-la-Loire",
-        "continent": "EU",
-        "iso_country": "FR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pays-de-la-Loire",
-        "keywords": "Airports in Pays-de-la-Loire"
-    },
-    "navaids": [
-        {
-            "id": "93905",
-            "filename": "Saumur_NDB_FR",
-            "ident": "SR",
-            "name": "Saumur",
-            "type": "NDB",
-            "frequency_khz": "372",
-            "latitude_deg": "47.259498596191406",
-            "longitude_deg": "-0.1143610030412674",
-            "elevation_ft": "",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.433",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "LFOD"
-        }
     ]
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75551",
-            "airport_ref": "31817",
-            "airport_ident": "LHGD",
-            "type": "AFIS",
-            "description": "",
-            "frequency_mhz": "118.65"
-        }
-    ],
-    "country": {
-        "id": "302693",
-        "code": "HU",
-        "name": "Hungary",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
-        "keywords": "Repülőterek Magyarország"
-    },
-    "region": {
-        "id": "304079",
-        "code": "HU-PE",
-        "local_code": "PE",
-        "name": "Pest County",
-        "continent": "EU",
-        "iso_country": "HU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pest_County",
-        "keywords": "Airports in Pest County"
-    }
+    ]
 }

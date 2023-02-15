@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Nordborg/Pøl",
-    "country": {
-        "id": "302682",
-        "code": "DK",
-        "name": "Denmark",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Denmark",
-        "keywords": "Lufthavnene i Danmark"
-    },
-    "region": {
-        "id": "306327",
-        "code": "DK-83",
-        "local_code": "83",
-        "name": "South Denmark",
-        "continent": "EU",
-        "iso_country": "DK",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Denmark",
-        "keywords": "Syddanmark"
-    }
+    "keywords": "Nordborg/Pøl"
 }

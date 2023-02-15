@@ -40,41 +40,5 @@
             "he_heading_degT": "196",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "66304",
-            "airport_ref": "18316",
-            "airport_ident": "K04G",
-            "type": "A/D",
-            "description": "YOUNGSTOWN APP/DEP",
-            "frequency_mhz": "133.95"
-        },
-        {
-            "id": "66305",
-            "airport_ref": "18316",
-            "airport_ident": "K04G",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306111",
-        "code": "US-OH",
-        "local_code": "OH",
-        "name": "Ohio",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
-        "keywords": "Airports in Ohio"
-    }
+    ]
 }

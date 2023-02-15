@@ -84,57 +84,5 @@
             "he_heading_degT": "10.5",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "59002",
-            "airport_ref": "20936",
-            "airport_ident": "KRKP",
-            "type": "A/D",
-            "description": "CORPUS APP/DEP",
-            "frequency_mhz": "120.9"
-        },
-        {
-            "id": "59003",
-            "airport_ref": "20936",
-            "airport_ident": "KRKP",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "119.275"
-        },
-        {
-            "id": "59004",
-            "airport_ref": "20936",
-            "airport_ident": "KRKP",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "59005",
-            "airport_ref": "20936",
-            "airport_ident": "KRKP",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123.05"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306119",
-        "code": "US-TX",
-        "local_code": "TX",
-        "name": "Texas",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
-        "keywords": "Texan airports"
-    }
+    ]
 }

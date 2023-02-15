@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Orange_Walk_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302729",
-        "code": "BZ",
-        "name": "Belize",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Belize",
-        "keywords": "Belizean airports"
-    },
-    "region": {
-        "id": "303290",
-        "code": "BZ-OW",
-        "local_code": "OW",
-        "name": "Orange Walk District",
-        "continent": "NA",
-        "iso_country": "BZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Orange_Walk_District",
-        "keywords": "Airports in Orange Walk District"
-    }
+    "keywords": ""
 }

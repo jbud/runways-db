@@ -40,57 +40,5 @@
             "he_heading_degT": "307",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "55859",
-            "airport_ref": "2588",
-            "airport_ident": "ENNO",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "118.8"
-        }
-    ],
-    "country": {
-        "id": "302709",
-        "code": "NO",
-        "name": "Norway",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
-        "keywords": "Flyplasser i Norge"
-    },
-    "region": {
-        "id": "349853",
-        "code": "NO-38",
-        "local_code": "38",
-        "name": "Vestfold og Telemark",
-        "continent": "EU",
-        "iso_country": "NO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Vestfold_og_Telemark",
-        "keywords": "Airports in Vestfold og Telemark"
-    },
-    "navaids": [
-        {
-            "id": "91739",
-            "filename": "Notodden_NDB_NO",
-            "ident": "NTD",
-            "name": "Notodden",
-            "type": "NDB",
-            "frequency_khz": "400",
-            "latitude_deg": "59.587100982666016",
-            "longitude_deg": "9.144209861755371",
-            "elevation_ft": "65",
-            "iso_country": "NO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.318",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ENNO"
-        }
     ]
 }

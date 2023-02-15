@@ -40,57 +40,5 @@
             "he_heading_degT": "337",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "49573",
-            "airport_ref": "45646",
-            "airport_ident": "SBJD",
-            "type": "A/G",
-            "description": "RDO",
-            "frequency_mhz": "127.225"
-        },
-        {
-            "id": "350211",
-            "airport_ref": "45646",
-            "airport_ident": "SBJD",
-            "type": "APP",
-            "description": "",
-            "frequency_mhz": "129.5"
-        },
-        {
-            "id": "350213",
-            "airport_ref": "45646",
-            "airport_ident": "SBJD",
-            "type": "GND",
-            "description": "",
-            "frequency_mhz": "121.65"
-        },
-        {
-            "id": "350212",
-            "airport_ref": "45646",
-            "airport_ident": "SBJD",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "118.75"
-        }
-    ],
-    "country": {
-        "id": "302791",
-        "code": "BR",
-        "name": "Brazil",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
-        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
-    },
-    "region": {
-        "id": "303224",
-        "code": "BR-SP",
-        "local_code": "SP",
-        "name": "São Paulo",
-        "continent": "SA",
-        "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)",
-        "keywords": "Airports in São Paulo"
-    }
+    ]
 }

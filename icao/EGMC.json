@@ -40,57 +40,5 @@
             "he_heading_degT": "234",
             "he_displaced_threshold_ft": "479"
         }
-    ],
-    "freqs": [
-        {
-            "id": "58263",
-            "airport_ref": "2435",
-            "airport_ident": "EGMC",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "130.775"
-        },
-        {
-            "id": "58264",
-            "airport_ref": "2435",
-            "airport_ident": "EGMC",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "58265",
-            "airport_ref": "2435",
-            "airport_ident": "EGMC",
-            "type": "RDR",
-            "description": "RDR",
-            "frequency_mhz": "130.775"
-        },
-        {
-            "id": "58266",
-            "airport_ref": "2435",
-            "airport_ident": "EGMC",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "127.725"
-        }
-    ],
-    "country": {
-        "id": "302688",
-        "code": "GB",
-        "name": "United Kingdom",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
-        "keywords": "Great Britain"
-    },
-    "region": {
-        "id": "306374",
-        "code": "GB-ENG",
-        "local_code": "ENG",
-        "name": "England",
-        "continent": "EU",
-        "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
-        "keywords": "English airports"
-    }
+    ]
 }

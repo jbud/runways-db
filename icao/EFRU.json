@@ -40,41 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "310808",
-            "airport_ref": "27268",
-            "airport_ident": "EFRU",
-            "type": "ACC",
-            "description": "Tampere radar",
-            "frequency_mhz": "124.2"
-        },
-        {
-            "id": "310807",
-            "airport_ref": "27268",
-            "airport_ident": "EFRU",
-            "type": "RDO",
-            "description": "Ranua traffic",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302685",
-        "code": "FI",
-        "name": "Finland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
-        "keywords": "Lentokentät, Suomen"
-    },
-    "region": {
-        "id": "303802",
-        "code": "FI-10",
-        "local_code": "10",
-        "name": "Lapland Region",
-        "continent": "EU",
-        "iso_country": "FI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lapland_(Finland)",
-        "keywords": "Lapin lääni, Lapplands län, Lappland"
-    }
+    ]
 }

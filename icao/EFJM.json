@@ -62,41 +62,5 @@
             "he_heading_degT": "333.7",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "310733",
-            "airport_ref": "27254",
-            "airport_ident": "EFJM",
-            "type": "ACC Sector",
-            "description": "Tampere radar",
-            "frequency_mhz": "127.1"
-        },
-        {
-            "id": "310732",
-            "airport_ref": "27254",
-            "airport_ident": "EFJM",
-            "type": "RDO",
-            "description": "Jämijärvi traffic",
-            "frequency_mhz": "123.65"
-        }
-    ],
-    "country": {
-        "id": "302685",
-        "code": "FI",
-        "name": "Finland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
-        "keywords": "Lentokentät, Suomen"
-    },
-    "region": {
-        "id": "336518",
-        "code": "FI-17",
-        "local_code": "17",
-        "name": "Satakunta Region",
-        "continent": "EU",
-        "iso_country": "FI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Satakunta",
-        "keywords": "Airports in Satakunta Region"
-    }
+    ]
 }

@@ -40,23 +40,5 @@
             "he_heading_degT": "316",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302687",
-        "code": "FR",
-        "name": "France",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
-        "keywords": "Aéroports de France"
-    },
-    "region": {
-        "id": "306352",
-        "code": "FR-NAQ",
-        "local_code": "NAQ",
-        "name": "Nouvelle-Aquitaine",
-        "continent": "EU",
-        "iso_country": "FR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nouvelle-Aquitaine",
-        "keywords": "Limousin, Poitou-Charentes"
-    }
+    ]
 }

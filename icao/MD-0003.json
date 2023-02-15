@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Horești",
-    "country": {
-        "id": "302704",
-        "code": "MD",
-        "name": "Moldova",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Moldova",
-        "keywords": "Airports in Moldova"
-    },
-    "region": {
-        "id": "306468",
-        "code": "MD-IL",
-        "local_code": "IL",
-        "name": "Ialoveni District",
-        "continent": "EU",
-        "iso_country": "MD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ialoveni_District",
-        "keywords": "Airports in Ialoveni District"
-    }
+    "keywords": "Horești"
 }

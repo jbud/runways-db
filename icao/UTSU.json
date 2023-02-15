@@ -40,23 +40,5 @@
             "he_heading_degT": "271",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302669",
-        "code": "UZ",
-        "name": "Uzbekistan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Uzbekistan",
-        "keywords": "Uzbek"
-    },
-    "region": {
-        "id": "306154",
-        "code": "UZ-NW",
-        "local_code": "NW",
-        "name": "Navoiy Region",
-        "continent": "AS",
-        "iso_country": "UZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Navoiy_Region",
-        "keywords": "Airports in Navoiy Region"
-    }
+    ]
 }

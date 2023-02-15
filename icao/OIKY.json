@@ -40,57 +40,5 @@
             "he_heading_degT": "312",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "53999",
-            "airport_ref": "5179",
-            "airport_ident": "OIKY",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "123.25"
-        }
-    ],
-    "country": {
-        "id": "302637",
-        "code": "IR",
-        "name": "Iran",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
-        "keywords": "فرودگاه های ایران"
-    },
-    "region": {
-        "id": "304232",
-        "code": "IR-08",
-        "local_code": "08",
-        "name": "Kerman Province",
-        "continent": "AS",
-        "iso_country": "IR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kerman_Province",
-        "keywords": "Airports in Kerman Province"
-    },
-    "navaids": [
-        {
-            "id": "93923",
-            "filename": "Sirjan_VOR-DME_IR",
-            "ident": "SRJ",
-            "name": "Sirjan",
-            "type": "VOR-DME",
-            "frequency_khz": "114600",
-            "latitude_deg": "29.556800842285156",
-            "longitude_deg": "55.65999984741211",
-            "elevation_ft": "5831",
-            "iso_country": "IR",
-            "dme_frequency_khz": "114600",
-            "dme_channel": "093X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.001",
-            "magnetic_variation_deg": "2.171",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OIKY"
-        }
     ]
 }

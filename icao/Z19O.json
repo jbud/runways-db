@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302647",
-        "code": "LB",
-        "name": "Lebanon",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lebanon",
-        "keywords": "المطارات في لبنان"
-    },
-    "region": {
-        "id": "304459",
-        "code": "LB-AS",
-        "local_code": "AS",
-        "name": "North Governorate",
-        "continent": "AS",
-        "iso_country": "LB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Governorate",
-        "keywords": "Ash-Shamal"
-    }
+    ]
 }

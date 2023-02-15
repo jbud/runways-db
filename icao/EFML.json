@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "349446",
-            "airport_ref": "310896",
-            "airport_ident": "EFML",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "120.65"
-        }
-    ],
-    "country": {
-        "id": "302685",
-        "code": "FI",
-        "name": "Finland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
-        "keywords": "Lentokentät, Suomen"
-    },
-    "region": {
-        "id": "336515",
-        "code": "FI-14",
-        "local_code": "14",
-        "name": "North Ostrobothnia Region",
-        "continent": "EU",
-        "iso_country": "FI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Ostrobothnia",
-        "keywords": "Airports in North Ostrobothnia Region"
-    }
+    ]
 }

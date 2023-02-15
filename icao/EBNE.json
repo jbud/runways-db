@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "EBNE, EBNE",
-    "country": {
-        "id": "302676",
-        "code": "BE",
-        "name": "Belgium",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Belgium",
-        "keywords": "Aéroports de Belgique,Luchthavens van België"
-    },
-    "region": {
-        "id": "303072",
-        "code": "BE-VLI",
-        "local_code": "VLI",
-        "name": "Limburg Province",
-        "continent": "EU",
-        "iso_country": "BE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Limburg_(Belgium)",
-        "keywords": "Flanders, Flemish Region, Vlaams Gewest, Vlaanderen"
-    }
+    "keywords": "EBNE, EBNE"
 }

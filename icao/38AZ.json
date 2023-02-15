@@ -40,41 +40,5 @@
             "he_heading_degT": "228.5",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "71572",
-            "airport_ref": "10265",
-            "airport_ident": "38AZ",
-            "type": "AWOS",
-            "description": "AWOS 2",
-            "frequency_mhz": "119.225"
-        },
-        {
-            "id": "71573",
-            "airport_ref": "10265",
-            "airport_ident": "38AZ",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306079",
-        "code": "US-AZ",
-        "local_code": "AZ",
-        "name": "Arizona",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
-        "keywords": "Airports in Arizona"
-    }
+    ]
 }

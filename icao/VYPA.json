@@ -40,57 +40,5 @@
             "he_heading_degT": "211",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "49534",
-            "airport_ref": "26735",
-            "airport_ident": "VYPA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
-    "country": {
-        "id": "302649",
-        "code": "MM",
-        "name": "Myanmar",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Burma",
-        "keywords": "Myanmar"
-    },
-    "region": {
-        "id": "304675",
-        "code": "MM-13",
-        "local_code": "13",
-        "name": "Kayin State",
-        "continent": "AS",
-        "iso_country": "MM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kayin_State",
-        "keywords": "Airports in Kayin State"
-    },
-    "navaids": [
-        {
-            "id": "92227",
-            "filename": "Hpa_An_NDB_MM",
-            "ident": "PA",
-            "name": "Hpa An",
-            "type": "NDB",
-            "frequency_khz": "365",
-            "latitude_deg": "16.89299964904785",
-            "longitude_deg": "97.67469787597656",
-            "elevation_ft": "",
-            "iso_country": "MM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.436",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VYPA"
-        }
     ]
 }

@@ -40,49 +40,5 @@
             "he_heading_degT": "308",
             "he_displaced_threshold_ft": "250"
         }
-    ],
-    "freqs": [
-        {
-            "id": "69288",
-            "airport_ref": "19051",
-            "airport_ident": "K7B2",
-            "type": "A/D",
-            "description": "BRADLEY APP/DEP",
-            "frequency_mhz": "125.35"
-        },
-        {
-            "id": "69289",
-            "airport_ref": "19051",
-            "airport_ident": "K7B2",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "133.6"
-        },
-        {
-            "id": "69290",
-            "airport_ref": "19051",
-            "airport_ident": "K7B2",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.7"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306095",
-        "code": "US-MA",
-        "local_code": "MA",
-        "name": "Massachusetts",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Massachusetts",
-        "keywords": "Airports in Massachusetts"
-    }
+    ]
 }

@@ -40,49 +40,5 @@
             "he_heading_degT": "298",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "317893",
-            "airport_ref": "28544",
-            "airport_ident": "EDQC",
-            "type": "INFO",
-            "description": "COBURG INFO",
-            "frequency_mhz": "128.675"
-        },
-        {
-            "id": "317895",
-            "airport_ref": "28544",
-            "airport_ident": "EDQC",
-            "type": "INFORMATION",
-            "description": "MUNICH INFORMATION",
-            "frequency_mhz": "125.8"
-        },
-        {
-            "id": "317894",
-            "airport_ref": "28544",
-            "airport_ident": "EDQC",
-            "type": "RADAR",
-            "description": "NUERNBERG RADAR",
-            "frequency_mhz": "129.525"
-        }
-    ],
-    "country": {
-        "id": "302681",
-        "code": "DE",
-        "name": "Germany",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
-        "keywords": "Flughäfen in Deutschland"
-    },
-    "region": {
-        "id": "303550",
-        "code": "DE-BY",
-        "local_code": "BY",
-        "name": "Bavaria",
-        "continent": "EU",
-        "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
-        "keywords": "Bayern"
-    }
+    ]
 }

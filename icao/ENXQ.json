@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "ENXQ, ENXQ",
-    "country": {
-        "id": "302709",
-        "code": "NO",
-        "name": "Norway",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
-        "keywords": "Flyplasser i Norge"
-    },
-    "region": {
-        "id": "349859",
-        "code": "NO-XX",
-        "local_code": "XX",
-        "name": "*Offshore Oil Platforms",
-        "continent": "EU",
-        "iso_country": "NO",
-        "wikipedia_link": "",
-        "keywords": "Airports in *Offshore Oil Platforms"
-    }
+    "keywords": "ENXQ, ENXQ"
 }

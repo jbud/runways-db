@@ -62,49 +62,5 @@
             "he_heading_degT": "360",
             "he_displaced_threshold_ft": "840"
         }
-    ],
-    "freqs": [
-        {
-            "id": "67979",
-            "airport_ref": "19488",
-            "airport_ident": "KCGC",
-            "type": "A/D",
-            "description": "JACKSONVILLE APP/DEP",
-            "frequency_mhz": "118.6"
-        },
-        {
-            "id": "67980",
-            "airport_ref": "19488",
-            "airport_ident": "KCGC",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.325"
-        },
-        {
-            "id": "67981",
-            "airport_ref": "19488",
-            "airport_ident": "KCGC",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.725"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306085",
-        "code": "US-FL",
-        "local_code": "FL",
-        "name": "Florida",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
-        "keywords": "Airports in Florida"
-    }
+    ]
 }

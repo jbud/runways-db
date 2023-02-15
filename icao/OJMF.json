@@ -40,23 +40,5 @@
             "he_heading_degT": "310.4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302638",
-        "code": "JO",
-        "name": "Jordan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Jordan",
-        "keywords": "مطارات في الأردن"
-    },
-    "region": {
-        "id": "304282",
-        "code": "JO-MA",
-        "local_code": "MA",
-        "name": "Al Mafraq Governorate",
-        "continent": "AS",
-        "iso_country": "JO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Mafraq_Governorate",
-        "keywords": "Airports in Al Mafraq Governorate"
-    }
+    ]
 }

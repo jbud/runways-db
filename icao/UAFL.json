@@ -40,33 +40,5 @@
             "he_heading_degT": "253.8",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "54850",
-            "airport_ref": "6425",
-            "airport_ident": "UAFL",
-            "type": "TWR",
-            "description": "YSYKKUL TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
-    "country": {
-        "id": "302640",
-        "code": "KG",
-        "name": "Kyrgyzstan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kyrgyzstan",
-        "keywords": ""
-    },
-    "region": {
-        "id": "304351",
-        "code": "KG-Y",
-        "local_code": "Y",
-        "name": "Issyk Kul Region",
-        "continent": "AS",
-        "iso_country": "KG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Issyk_Kul_Region",
-        "keywords": "Ysyk-Kol"
-    }
+    ]
 }

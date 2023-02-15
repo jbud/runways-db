@@ -40,57 +40,5 @@
             "he_heading_degT": "231",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "58715",
-            "airport_ref": "5403",
-            "airport_ident": "PARY",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "119.925"
-        },
-        {
-            "id": "58716",
-            "airport_ref": "5403",
-            "airport_ident": "PARY",
-            "type": "CNTR",
-            "description": "ANCHORAGE CNTR",
-            "frequency_mhz": "127"
-        },
-        {
-            "id": "58717",
-            "airport_ref": "5403",
-            "airport_ident": "PARY",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.8"
-        },
-        {
-            "id": "58718",
-            "airport_ref": "5403",
-            "airport_ident": "PARY",
-            "type": "FSS",
-            "description": "FAIRBANKS RDO",
-            "frequency_mhz": "122.2"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306076",
-        "code": "US-AK",
-        "local_code": "AK",
-        "name": "Alaska",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
-        "keywords": "Airports in Alaska"
-    }
+    ]
 }

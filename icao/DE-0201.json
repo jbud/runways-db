@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "315402",
-            "airport_ref": "315401",
-            "airport_ident": "DE-0201",
-            "type": "TWR",
-            "description": "Nörvenich Tower",
-            "frequency_mhz": "122.1"
-        }
-    ],
-    "country": {
-        "id": "302681",
-        "code": "DE",
-        "name": "Germany",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
-        "keywords": "Flughäfen in Deutschland"
-    },
-    "region": {
-        "id": "303556",
-        "code": "DE-NW",
-        "local_code": "NW",
-        "name": "North Rhine-Westphalia",
-        "continent": "EU",
-        "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Rhine-Westphalia",
-        "keywords": "Nordrhein-Westfalen"
-    }
+    ]
 }

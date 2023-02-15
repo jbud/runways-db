@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Dabou_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302564",
-        "code": "CI",
-        "name": "Côte d'Ivoire",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Côte_d'Ivoire",
-        "keywords": "Ivory Coast"
-    },
-    "region": {
-        "id": "303379",
-        "code": "CI-LG",
-        "local_code": "LG",
-        "name": "Lagunes DIstrict",
-        "continent": "AF",
-        "iso_country": "CI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lagunes_District",
-        "keywords": "Airports in Lagunes DIstrict"
-    }
+    "keywords": ""
 }

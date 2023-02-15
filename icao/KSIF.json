@@ -40,49 +40,5 @@
             "he_heading_degT": "304.6",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "70004",
-            "airport_ref": "21069",
-            "airport_ident": "KSIF",
-            "type": "A/D",
-            "description": "GREENSBORO APP/DEP",
-            "frequency_mhz": "26.922"
-        },
-        {
-            "id": "70005",
-            "airport_ref": "21069",
-            "airport_ident": "KSIF",
-            "type": "AWOS",
-            "description": "AWOS3",
-            "frequency_mhz": "119.775"
-        },
-        {
-            "id": "70006",
-            "airport_ref": "21069",
-            "airport_ident": "KSIF",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306103",
-        "code": "US-NC",
-        "local_code": "NC",
-        "name": "North Carolina",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
-        "keywords": "Airports in North Carolina"
-    }
+    ]
 }

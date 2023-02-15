@@ -40,57 +40,5 @@
             "he_heading_degT": "331",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "55493",
-            "airport_ref": "4735",
-            "airport_ident": "MMNL",
-            "type": "APP",
-            "description": "NUEVO LAREDO APP/TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
-    "country": {
-        "id": "302747",
-        "code": "MX",
-        "name": "Mexico",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
-        "keywords": "Aeropuertos de México, Mexican airports"
-    },
-    "region": {
-        "id": "304817",
-        "code": "MX-TAM",
-        "local_code": "TAM",
-        "name": "Tamaulipas",
-        "continent": "NA",
-        "iso_country": "MX",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tamaulipas",
-        "keywords": "Airports in Tamaulipas"
-    },
-    "navaids": [
-        {
-            "id": "91623",
-            "filename": "Nuevo_Laredo_VOR-DME_MX",
-            "ident": "NLD",
-            "name": "Nuevo Laredo",
-            "type": "VOR-DME",
-            "frequency_khz": "112600",
-            "latitude_deg": "27.43939971923828",
-            "longitude_deg": "-99.5645980834961",
-            "elevation_ft": "484",
-            "iso_country": "MX",
-            "dme_frequency_khz": "112600",
-            "dme_channel": "073X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "9.01",
-            "magnetic_variation_deg": "6.089",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMNL"
-        }
     ]
 }

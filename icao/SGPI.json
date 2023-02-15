@@ -40,23 +40,5 @@
             "he_heading_degT": "185",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302799",
-        "code": "PY",
-        "name": "Paraguay",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraguay",
-        "keywords": "Aeropuertos de Paraguay"
-    },
-    "region": {
-        "id": "305192",
-        "code": "PY-12",
-        "local_code": "12",
-        "name": "Ñeembucú Department",
-        "continent": "SA",
-        "iso_country": "PY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/%C3%91eembuc%C3%BA_Department",
-        "keywords": "Airports in Ñeembucú Department"
-    }
+    ]
 }

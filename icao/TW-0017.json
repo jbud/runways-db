@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Maritime Patrol Directorate General, Tanshui, 海上巡邏總司令",
-    "country": {
-        "id": "302668",
-        "code": "TW",
-        "name": "Taiwan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
-        "keywords": "Taiwanese airports"
-    },
-    "region": {
-        "id": "305949",
-        "code": "TW-TPQ",
-        "local_code": "TPQ",
-        "name": "Taipei County",
-        "continent": "AS",
-        "iso_country": "TW",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Taipei_County",
-        "keywords": "Airports in Taipei County"
-    }
+    "keywords": "Maritime Patrol Directorate General, Tanshui, 海上巡邏總司令"
 }

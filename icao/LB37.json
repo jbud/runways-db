@@ -40,23 +40,5 @@
             "he_heading_degT": "203.2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302677",
-        "code": "BG",
-        "name": "Bulgaria",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bulgaria",
-        "keywords": "Bulgarian airports"
-    },
-    "region": {
-        "id": "303135",
-        "code": "BG-10",
-        "local_code": "10",
-        "name": "Kyustendil Province",
-        "continent": "EU",
-        "iso_country": "BG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kyustendil_Province",
-        "keywords": "Kjstendil"
-    }
+    ]
 }

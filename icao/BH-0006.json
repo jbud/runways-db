@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302623",
-        "code": "BH",
-        "name": "Bahrain",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bahrain",
-        "keywords": "مطارات البحرين"
-    },
-    "region": {
-        "id": "306731",
-        "code": "BH-16",
-        "local_code": "16",
-        "name": "Central Governorate",
-        "continent": "AS",
-        "iso_country": "BH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Governorate",
-        "keywords": "Airports in Central Governorate"
-    }
+    "keywords": ""
 }

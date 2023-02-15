@@ -40,33 +40,5 @@
             "he_heading_degT": "184",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "316093",
-            "airport_ref": "301051",
-            "airport_ident": "IN-0074",
-            "type": "VHF",
-            "description": "VEBL",
-            "frequency_mhz": "131.5"
-        }
-    ],
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304188",
-        "code": "IN-OR",
-        "local_code": "OR",
-        "name": "Odisha",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Orissa",
-        "keywords": "Orissa"
-    }
+    ]
 }

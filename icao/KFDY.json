@@ -62,57 +62,5 @@
             "he_heading_degT": "0.3",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "61503",
-            "airport_ref": "19857",
-            "airport_ident": "KFDY",
-            "type": "A/D",
-            "description": "TOLEDO APP/DEP",
-            "frequency_mhz": "120.8"
-        },
-        {
-            "id": "61504",
-            "airport_ref": "19857",
-            "airport_ident": "KFDY",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "124.425"
-        },
-        {
-            "id": "61505",
-            "airport_ref": "19857",
-            "airport_ident": "KFDY",
-            "type": "RDO",
-            "description": "CLEVELAND RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "61506",
-            "airport_ref": "19857",
-            "airport_ident": "KFDY",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.725"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306111",
-        "code": "US-OH",
-        "local_code": "OH",
-        "name": "Ohio",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
-        "keywords": "Airports in Ohio"
-    }
+    ]
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "299482",
-            "airport_ref": "38833",
-            "airport_ident": "AR-0158",
-            "type": "Non controlled",
-            "description": "Some aircrafts without radio operate here.",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302789",
-        "code": "AR",
-        "name": "Argentina",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
-        "keywords": "Aeropuertos de Argentina"
-    },
-    "region": {
-        "id": "302933",
-        "code": "AR-B",
-        "local_code": "B",
-        "name": "Buenos Aires Province",
-        "continent": "SA",
-        "iso_country": "AR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
-        "keywords": "Airports in Buenos Aires Province"
-    }
+    ]
 }

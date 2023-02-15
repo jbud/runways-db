@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Banji%C4%8Dki_Vis_Military_Base",
-    "keywords": "",
-    "country": {
-        "id": "302713",
-        "code": "RS",
-        "name": "Serbia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Serbia",
-        "keywords": "Serb"
-    },
-    "region": {
-        "id": "306590",
-        "code": "RS-00",
-        "local_code": "00",
-        "name": "Beograd (city)",
-        "continent": "EU",
-        "iso_country": "RS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Beograd_(city)",
-        "keywords": "Airports in Beograd (city)"
-    }
+    "keywords": ""
 }

@@ -62,49 +62,5 @@
             "he_heading_degT": "290.2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "68784",
-            "airport_ref": "19769",
-            "airport_ident": "KERY",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "108.2"
-        },
-        {
-            "id": "68785",
-            "airport_ref": "19769",
-            "airport_ident": "KERY",
-            "type": "RDO",
-            "description": "GREEN BAY RDO",
-            "frequency_mhz": "122.4"
-        },
-        {
-            "id": "68786",
-            "airport_ref": "19769",
-            "airport_ident": "KERY",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306098",
-        "code": "US-MI",
-        "local_code": "MI",
-        "name": "Michigan",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
-        "keywords": "Airports in Michigan"
-    }
+    ]
 }

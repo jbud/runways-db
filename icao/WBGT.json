@@ -40,41 +40,5 @@
             "he_heading_degT": "228.5",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "55545",
-            "airport_ref": "26820",
-            "airport_ident": "WBGT",
-            "type": "FSS",
-            "description": "RDO",
-            "frequency_mhz": "682.5"
-        },
-        {
-            "id": "55546",
-            "airport_ref": "26820",
-            "airport_ident": "WBGT",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.2"
-        }
-    ],
-    "country": {
-        "id": "302653",
-        "code": "MY",
-        "name": "Malaysia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Malaysia",
-        "keywords": "Lapangan Terbang Malaysia"
-    },
-    "region": {
-        "id": "304835",
-        "code": "MY-13",
-        "local_code": "13",
-        "name": "Sarawak",
-        "continent": "AS",
-        "iso_country": "MY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sarawak",
-        "keywords": "Airports in Sarawak"
-    }
+    ]
 }

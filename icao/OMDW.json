@@ -62,57 +62,5 @@
             "he_heading_degT": "301",
             "he_displaced_threshold_ft": "492"
         }
-    ],
-    "freqs": [
-        {
-            "id": "339028",
-            "airport_ref": "300320",
-            "airport_ident": "OMDW",
-            "type": "ATC backup",
-            "description": "",
-            "frequency_mhz": "118.725"
-        },
-        {
-            "id": "300752",
-            "airport_ref": "300320",
-            "airport_ident": "OMDW",
-            "type": "ATIS",
-            "description": "",
-            "frequency_mhz": "126.47"
-        },
-        {
-            "id": "300753",
-            "airport_ref": "300320",
-            "airport_ident": "OMDW",
-            "type": "Ground",
-            "description": "Al Maktoum Ground",
-            "frequency_mhz": "118.375"
-        },
-        {
-            "id": "300754",
-            "airport_ref": "300320",
-            "airport_ident": "OMDW",
-            "type": "Tower",
-            "description": "Al Maktoum Tower",
-            "frequency_mhz": "118.625"
-        }
-    ],
-    "country": {
-        "id": "302618",
-        "code": "AE",
-        "name": "United Arab Emirates",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
-        "keywords": "UAE,مطارات في الإمارات العربية المتحدة"
-    },
-    "region": {
-        "id": "302821",
-        "code": "AE-DU",
-        "local_code": "DU",
-        "name": "Dubai Emirate",
-        "continent": "AS",
-        "iso_country": "AE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Dubai",
-        "keywords": "Dubayy"
-    }
+    ]
 }

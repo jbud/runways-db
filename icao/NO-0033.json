@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "308254",
-            "airport_ref": "308253",
-            "airport_ident": "NO-0033",
-            "type": "123.5",
-            "description": "Lillehammer Mjøsisen",
-            "frequency_mhz": "0"
-        }
-    ],
-    "country": {
-        "id": "302709",
-        "code": "NO",
-        "name": "Norway",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
-        "keywords": "Flyplasser i Norge"
-    },
-    "region": {
-        "id": "349852",
-        "code": "NO-34",
-        "local_code": "34",
-        "name": "Innlandet",
-        "continent": "EU",
-        "iso_country": "NO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Innlandet",
-        "keywords": "Airports in Innlandet"
-    }
+    ]
 }

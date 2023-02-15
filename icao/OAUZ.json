@@ -40,33 +40,5 @@
             "he_heading_degT": "293",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "48251",
-            "airport_ref": "5078",
-            "airport_ident": "OAUZ",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "130.35"
-        }
-    ],
-    "country": {
-        "id": "302619",
-        "code": "AF",
-        "name": "Afghanistan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Afghanistan",
-        "keywords": ""
-    },
-    "region": {
-        "id": "302842",
-        "code": "AF-KDZ",
-        "local_code": "KDZ",
-        "name": "Kunduz Province",
-        "continent": "AS",
-        "iso_country": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kunduz_Province",
-        "keywords": "Airports in Kunduz Province"
-    }
+    ]
 }

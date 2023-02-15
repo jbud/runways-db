@@ -106,33 +106,5 @@
             "he_heading_degT": "326.9",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "54133",
-            "airport_ref": "4422",
-            "airport_ident": "LLNV",
-            "type": "APP",
-            "description": "TEL AVIV APP",
-            "frequency_mhz": "120.9"
-        }
-    ],
-    "country": {
-        "id": "302633",
-        "code": "IL",
-        "name": "Israel",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Israel",
-        "keywords": "שדות התעופה של ישראל"
-    },
-    "region": {
-        "id": "304156",
-        "code": "IL-D",
-        "local_code": "D",
-        "name": "Southern District",
-        "continent": "AS",
-        "iso_country": "IL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_District_(Israel)",
-        "keywords": "Mehoz HaDarom"
-    }
+    ]
 }

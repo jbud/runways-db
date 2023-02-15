@@ -40,57 +40,5 @@
             "he_heading_degT": "360",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "65774",
-            "airport_ref": "19663",
-            "airport_ident": "KDUC",
-            "type": "A/D",
-            "description": "FORT SILL APP/DEP",
-            "frequency_mhz": "118.6"
-        },
-        {
-            "id": "65775",
-            "airport_ref": "19663",
-            "airport_ident": "KDUC",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.075"
-        },
-        {
-            "id": "65776",
-            "airport_ref": "19663",
-            "airport_ident": "KDUC",
-            "type": "CLD",
-            "description": "FORT SILL CLNC DEL",
-            "frequency_mhz": "118.4"
-        },
-        {
-            "id": "65777",
-            "airport_ref": "19663",
-            "airport_ident": "KDUC",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306112",
-        "code": "US-OK",
-        "local_code": "OK",
-        "name": "Oklahoma",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
-        "keywords": "Airports in Oklahoma"
-    }
+    ]
 }

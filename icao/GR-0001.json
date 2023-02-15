@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "300299",
-            "airport_ref": "42451",
-            "airport_ident": "GR-0001",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "119.7"
-        }
-    ],
-    "country": {
-        "id": "302691",
-        "code": "GR",
-        "name": "Greece",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
-        "keywords": "αεροδρόμια στην Ελλάδα"
-    },
-    "region": {
-        "id": "430179",
-        "code": "GR-B",
-        "local_code": "B",
-        "name": "Central Macedonia",
-        "continent": "EU",
-        "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Macedonia",
-        "keywords": "Κεντρική Μακεδονία"
-    }
+    ]
 }

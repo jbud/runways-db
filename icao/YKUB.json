@@ -40,41 +40,5 @@
             "he_heading_degT": "292.7",
             "he_displaced_threshold_ft": "134"
         }
-    ],
-    "freqs": [
-        {
-            "id": "48507",
-            "airport_ref": "27029",
-            "airport_ident": "YKUB",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.5"
-        },
-        {
-            "id": "48508",
-            "airport_ref": "27029",
-            "airport_ident": "YKUB",
-            "type": "FSS",
-            "description": "BRISBANE CNTR",
-            "frequency_mhz": "120.3"
-        }
-    ],
-    "country": {
-        "id": "302764",
-        "code": "AU",
-        "name": "Australia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
-        "keywords": "Australian airports"
-    },
-    "region": {
-        "id": "302971",
-        "code": "AU-QLD",
-        "local_code": "QLD",
-        "name": "Queensland",
-        "continent": "OC",
-        "iso_country": "AU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
-        "keywords": "Airports in Queensland"
-    }
+    ]
 }

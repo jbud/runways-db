@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Pribytki",
-    "keywords": "",
-    "country": {
-        "id": "302678",
-        "code": "BY",
-        "name": "Belarus",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Belarus",
-        "keywords": "Belarussian, Беларусь"
-    },
-    "region": {
-        "id": "303281",
-        "code": "BY-HO",
-        "local_code": "HO",
-        "name": "Gomel Region",
-        "continent": "EU",
-        "iso_country": "BY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Gomel_Region",
-        "keywords": "Го́мельская во́бласць, Homyel, Homiel Voblast"
-    }
+    "keywords": ""
 }

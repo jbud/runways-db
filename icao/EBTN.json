@@ -62,33 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "329146",
-            "airport_ref": "29899",
-            "airport_ident": "EBTN",
-            "type": "RADIO",
-            "description": "Goetsenhoven radio",
-            "frequency_mhz": "125.375"
-        }
-    ],
-    "country": {
-        "id": "302676",
-        "code": "BE",
-        "name": "Belgium",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Belgium",
-        "keywords": "Aéroports de Belgique,Luchthavens van België"
-    },
-    "region": {
-        "id": "303071",
-        "code": "BE-VBR",
-        "local_code": "VBR",
-        "name": "Flemish Brabant Province",
-        "continent": "EU",
-        "iso_country": "BE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Flemish_Brabant",
-        "keywords": "Vlaams-Brabant, Flanders, Flemish Region, Vlaams Gewest, Vlaanderen"
-    }
+    ]
 }

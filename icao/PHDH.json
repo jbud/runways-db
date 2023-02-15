@@ -40,49 +40,5 @@
             "he_heading_degT": "271",
             "he_displaced_threshold_ft": "1995"
         }
-    ],
-    "freqs": [
-        {
-            "id": "63500",
-            "airport_ref": "5442",
-            "airport_ident": "PHDH",
-            "type": "MISC",
-            "description": "MIL AIR TO AIR",
-            "frequency_mhz": "23.33"
-        },
-        {
-            "id": "63501",
-            "airport_ref": "5442",
-            "airport_ident": "PHDH",
-            "type": "RDO",
-            "description": "HONOLULU RDO",
-            "frequency_mhz": "122.6"
-        },
-        {
-            "id": "63502",
-            "airport_ref": "5442",
-            "airport_ident": "PHDH",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306087",
-        "code": "US-HI",
-        "local_code": "HI",
-        "name": "Hawaii",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hawaii",
-        "keywords": "Airports in Hawaii"
-    }
+    ]
 }

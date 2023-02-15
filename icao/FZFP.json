@@ -40,57 +40,5 @@
             "he_heading_degT": "230.1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "51150",
-            "airport_ref": "3049",
-            "airport_ident": "FZFP",
-            "type": "A/G",
-            "description": "A/G VOICE RDO",
-            "frequency_mhz": "118.1"
-        }
-    ],
-    "country": {
-        "id": "302561",
-        "code": "CD",
-        "name": "Democratic Republic of the Congo",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
-        "keywords": "DRC"
-    },
-    "region": {
-        "id": "505649",
-        "code": "CD-NU",
-        "local_code": "NU",
-        "name": "Nord-Ubangi Province",
-        "continent": "AF",
-        "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nord-Ubangi",
-        "keywords": "Airports in Nord-Ubangi Province"
-    },
-    "navaids": [
-        {
-            "id": "89923",
-            "filename": "Kotakoli_NDB_CD",
-            "ident": "KOT",
-            "name": "Kotakoli",
-            "type": "NDB",
-            "frequency_khz": "340",
-            "latitude_deg": "4.168859958648682",
-            "longitude_deg": "21.75079917907715",
-            "elevation_ft": "",
-            "iso_country": "CD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.073",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "FZFP"
-        }
     ]
 }

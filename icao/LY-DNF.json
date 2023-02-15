@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Martuba_Airbase",
-    "keywords": "Martuba Airfield, Martubah Airport",
-    "country": {
-        "id": "302583",
-        "code": "LY",
-        "name": "Libya",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Libya",
-        "keywords": "مطارات في ليبيا"
-    },
-    "region": {
-        "id": "304544",
-        "code": "LY-DR",
-        "local_code": "DR",
-        "name": "Darnah District",
-        "continent": "AF",
-        "iso_country": "LY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Darnah_District",
-        "keywords": "Airports in Darnah District"
-    }
+    "keywords": "Martuba Airfield, Martubah Airport"
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "317683",
-            "airport_ref": "317682",
-            "airport_ident": "LZRU",
-            "type": "Info",
-            "description": "Prevadzka",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302717",
-        "code": "SK",
-        "name": "Slovakia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Slovakia",
-        "keywords": "letisko Slovenska"
-    },
-    "region": {
-        "id": "305599",
-        "code": "SK-ZI",
-        "local_code": "ZI",
-        "name": "Žilina Region",
-        "continent": "EU",
-        "iso_country": "SK",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Žilina_Region",
-        "keywords": "Žilinský kraj"
-    }
+    ]
 }

@@ -40,57 +40,5 @@
             "he_heading_degT": "328",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "66815",
-            "airport_ref": "19643",
-            "airport_ident": "KDMW",
-            "type": "A/D",
-            "description": "POTOMAC APP/DEP",
-            "frequency_mhz": "126.75"
-        },
-        {
-            "id": "66816",
-            "airport_ref": "19643",
-            "airport_ident": "KDMW",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "121.25"
-        },
-        {
-            "id": "66817",
-            "airport_ref": "19643",
-            "airport_ident": "KDMW",
-            "type": "RDO",
-            "description": "LEESBURG RDO",
-            "frequency_mhz": "117.9"
-        },
-        {
-            "id": "66818",
-            "airport_ref": "19643",
-            "airport_ident": "KDMW",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.7"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306096",
-        "code": "US-MD",
-        "local_code": "MD",
-        "name": "Maryland",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Maryland",
-        "keywords": "Airports in Maryland"
-    }
+    ]
 }

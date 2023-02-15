@@ -16,23 +16,5 @@
     "local_code": "MOCAM",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302697",
-        "code": "IT",
-        "name": "Italy",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
-        "keywords": "Aeroporti d'Italia"
-    },
-    "region": {
-        "id": "306367",
-        "code": "IT-45",
-        "local_code": "45",
-        "name": "Emilia-Romagna",
-        "continent": "EU",
-        "iso_country": "IT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Emilia-Romagna",
-        "keywords": "ER"
-    }
+    "keywords": ""
 }

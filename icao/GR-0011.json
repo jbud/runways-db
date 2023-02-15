@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302691",
-        "code": "GR",
-        "name": "Greece",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
-        "keywords": "αεροδρόμια στην Ελλάδα"
-    },
-    "region": {
-        "id": "430180",
-        "code": "GR-M",
-        "local_code": "M",
-        "name": "Crete",
-        "continent": "EU",
-        "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Crete#Administration",
-        "keywords": "Κρήτη"
-    }
+    "keywords": ""
 }

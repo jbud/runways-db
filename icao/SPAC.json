@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302798",
-        "code": "PE",
-        "name": "Peru",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
-        "keywords": "Aeropuertos de Perú"
-    },
-    "region": {
-        "id": "305007",
-        "code": "PE-AMA",
-        "local_code": "AMA",
-        "name": "Amazonas Region",
-        "continent": "SA",
-        "iso_country": "PE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Amazonas_Region",
-        "keywords": "Airports in Amazonas Region"
-    }
+    ]
 }

@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302645",
-        "code": "KZ",
-        "name": "Kazakhstan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kazakhstan",
-        "keywords": "Kazakh"
-    },
-    "region": {
-        "id": "306378",
-        "code": "KZ-BAY",
-        "local_code": "BAY",
-        "name": "Baikonur City",
-        "continent": "AS",
-        "iso_country": "KZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Baikonur",
-        "keywords": "Байқоңыр қаласы"
-    }
+    ]
 }

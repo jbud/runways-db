@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302770",
-        "code": "MH",
-        "name": "Marshall Islands",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Marshall_Islands",
-        "keywords": "Airports in Marshall Islands"
-    },
-    "region": {
-        "id": "304654",
-        "code": "MH-WTN",
-        "local_code": "WTN",
-        "name": "Wotho",
-        "continent": "OC",
-        "iso_country": "MH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Wotho",
-        "keywords": "Airports in Wotho"
-    }
+    "keywords": ""
 }

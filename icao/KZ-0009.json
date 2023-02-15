@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302645",
-        "code": "KZ",
-        "name": "Kazakhstan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kazakhstan",
-        "keywords": "Kazakh"
-    },
-    "region": {
-        "id": "304429",
-        "code": "KZ-ATY",
-        "local_code": "ATY",
-        "name": "Atyrau Region",
-        "continent": "AS",
-        "iso_country": "KZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Atyrau_Region",
-        "keywords": "Атырау облысы"
-    }
+    "keywords": ""
 }

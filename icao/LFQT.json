@@ -40,57 +40,5 @@
             "he_heading_degT": "217",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "52565",
-            "airport_ref": "4203",
-            "airport_ident": "LFQT",
-            "type": "APP",
-            "description": "LILLE APP",
-            "frequency_mhz": "120.275"
-        },
-        {
-            "id": "52566",
-            "airport_ref": "4203",
-            "airport_ident": "LFQT",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.9"
-        },
-        {
-            "id": "52567",
-            "airport_ref": "4203",
-            "airport_ident": "LFQT",
-            "type": "GND",
-            "description": "MERVILLE GND",
-            "frequency_mhz": "121.675"
-        },
-        {
-            "id": "52568",
-            "airport_ref": "4203",
-            "airport_ident": "LFQT",
-            "type": "TWR",
-            "description": "MERVILLE TWR",
-            "frequency_mhz": "119.075"
-        }
-    ],
-    "country": {
-        "id": "302687",
-        "code": "FR",
-        "name": "France",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
-        "keywords": "Aéroports de France"
-    },
-    "region": {
-        "id": "306337",
-        "code": "FR-HDF",
-        "local_code": "HDF",
-        "name": "Hauts-de-France",
-        "continent": "EU",
-        "iso_country": "FR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hauts-de-France",
-        "keywords": "Airports in Hauts-de-France"
-    }
+    ]
 }

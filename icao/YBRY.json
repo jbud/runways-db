@@ -40,41 +40,5 @@
             "he_heading_degT": "283",
             "he_displaced_threshold_ft": "197"
         }
-    ],
-    "freqs": [
-        {
-            "id": "48517",
-            "airport_ref": "26930",
-            "airport_ident": "YBRY",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "48518",
-            "airport_ref": "26930",
-            "airport_ident": "YBRY",
-            "type": "FSS",
-            "description": "MELBOURNE CNTR",
-            "frequency_mhz": "123.4"
-        }
-    ],
-    "country": {
-        "id": "302764",
-        "code": "AU",
-        "name": "Australia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
-        "keywords": "Australian airports"
-    },
-    "region": {
-        "id": "302976",
-        "code": "AU-WA",
-        "local_code": "WA",
-        "name": "Western Australia",
-        "continent": "OC",
-        "iso_country": "AU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
-        "keywords": "Western Australian airports"
-    }
+    ]
 }

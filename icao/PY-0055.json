@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://www.ejercito.mil.py/index.php/educacion/academil-oficiales",
     "wikipedia_link": "https://es.wikipedia.org/wiki/Academia_Militar_Mariscal_Francisco_Solano_López",
-    "keywords": "",
-    "country": {
-        "id": "302799",
-        "code": "PY",
-        "name": "Paraguay",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraguay",
-        "keywords": "Aeropuertos de Paraguay"
-    },
-    "region": {
-        "id": "305191",
-        "code": "PY-11",
-        "local_code": "11",
-        "name": "Central Department",
-        "continent": "SA",
-        "iso_country": "PY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Department",
-        "keywords": "Airports in Central Department"
-    }
+    "keywords": ""
 }

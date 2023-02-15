@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302673",
-        "code": "AL",
-        "name": "Albania",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Albania",
-        "keywords": "Albanian airports"
-    },
-    "region": {
-        "id": "302877",
-        "code": "AL-06",
-        "local_code": "06",
-        "name": "Korçë County",
-        "continent": "EU",
-        "iso_country": "AL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Korçë_County",
-        "keywords": "Airports in Korçë County"
-    }
+    "keywords": ""
 }

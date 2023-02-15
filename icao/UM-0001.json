@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302785",
-        "code": "UM",
-        "name": "United States Minor Outlying Islands",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands",
-        "keywords": "Airports in United States Minor Outlying Islands"
-    },
-    "region": {
-        "id": "306067",
-        "code": "UM-71",
-        "local_code": "71",
-        "name": "Midway Islands",
-        "continent": "OC",
-        "iso_country": "UM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Midway_Islands",
-        "keywords": "Airports in Midway Islands"
-    }
+    "keywords": ""
 }

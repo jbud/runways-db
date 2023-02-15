@@ -40,49 +40,5 @@
             "he_heading_degT": "231",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "57296",
-            "airport_ref": "4034",
-            "airport_ident": "LESB",
-            "type": "APP",
-            "description": "PALMA APP",
-            "frequency_mhz": "119.4"
-        },
-        {
-            "id": "57298",
-            "airport_ref": "4034",
-            "airport_ident": "LESB",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "123.5"
-        },
-        {
-            "id": "57297",
-            "airport_ref": "4034",
-            "airport_ident": "LESB",
-            "type": "OPS",
-            "description": "PALMA OPS",
-            "frequency_mhz": "130.25"
-        }
-    ],
-    "country": {
-        "id": "302684",
-        "code": "ES",
-        "name": "Spain",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
-        "keywords": "Aeropuertos de España"
-    },
-    "region": {
-        "id": "303755",
-        "code": "ES-IB",
-        "local_code": "IB",
-        "name": "Islas Baleares",
-        "continent": "EU",
-        "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Balearic_Islands",
-        "keywords": "Airports in Baleares, Balearic Islands"
-    }
+    ]
 }

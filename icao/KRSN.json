@@ -40,57 +40,5 @@
             "he_heading_degT": "360",
             "he_displaced_threshold_ft": "200"
         }
-    ],
-    "freqs": [
-        {
-            "id": "64357",
-            "airport_ref": "20963",
-            "airport_ident": "KRSN",
-            "type": "A/D",
-            "description": "MONROE APP/DEP",
-            "frequency_mhz": "126.9"
-        },
-        {
-            "id": "64358",
-            "airport_ref": "20963",
-            "airport_ident": "KRSN",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.525"
-        },
-        {
-            "id": "64359",
-            "airport_ref": "20963",
-            "airport_ident": "KRSN",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "118.8"
-        },
-        {
-            "id": "64360",
-            "airport_ref": "20963",
-            "airport_ident": "KRSN",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.7"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306094",
-        "code": "US-LA",
-        "local_code": "LA",
-        "name": "Louisiana",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
-        "keywords": "Airports in Louisiana"
-    }
+    ]
 }

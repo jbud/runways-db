@@ -40,33 +40,5 @@
             "he_heading_degT": "230.2",
             "he_displaced_threshold_ft": "190"
         }
-    ],
-    "freqs": [
-        {
-            "id": "51556",
-            "airport_ref": "6114",
-            "airport_ident": "SKCV",
-            "type": "TWR",
-            "description": "BASE COVENAS TWR",
-            "frequency_mhz": "126.2"
-        }
-    ],
-    "country": {
-        "id": "302793",
-        "code": "CO",
-        "name": "Colombia",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
-        "keywords": "Aeropuertos de Colombia"
-    },
-    "region": {
-        "id": "303485",
-        "code": "CO-SUC",
-        "local_code": "SUC",
-        "name": "Sucre Department",
-        "continent": "SA",
-        "iso_country": "CO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sucre_Department",
-        "keywords": "Airports in Sucre Department"
-    }
+    ]
 }

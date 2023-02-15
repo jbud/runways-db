@@ -16,23 +16,5 @@
     "local_code": "PTR",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Aerofumigaciones Troncón",
-    "country": {
-        "id": "302747",
-        "code": "MX",
-        "name": "Mexico",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
-        "keywords": "Aeropuertos de México, Mexican airports"
-    },
-    "region": {
-        "id": "304791",
-        "code": "MX-BCN",
-        "local_code": "BCN",
-        "name": "Baja California",
-        "continent": "NA",
-        "iso_country": "MX",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Baja_California",
-        "keywords": "Airports in Baja California"
-    }
+    "keywords": "Aerofumigaciones Troncón"
 }

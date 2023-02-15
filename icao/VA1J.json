@@ -40,33 +40,5 @@
             "he_heading_degT": "352",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "299088",
-            "airport_ref": "3290",
-            "airport_ident": "VA1J",
-            "type": "TWR",
-            "description": "Dhana Tower",
-            "frequency_mhz": "122.6"
-        }
-    ],
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304185",
-        "code": "IN-MP",
-        "local_code": "MP",
-        "name": "Madhya Pradesh",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Madhya_Pradesh",
-        "keywords": "Airports in Madhya Pradesh"
-    }
+    ]
 }

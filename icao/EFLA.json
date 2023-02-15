@@ -84,49 +84,5 @@
             "he_heading_degT": "5",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "310790",
-            "airport_ref": "2327",
-            "airport_ident": "EFLA",
-            "type": "ACC",
-            "description": "Tampere radar",
-            "frequency_mhz": "132.325"
-        },
-        {
-            "id": "52083",
-            "airport_ref": "2327",
-            "airport_ident": "EFLA",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "122.425"
-        },
-        {
-            "id": "52084",
-            "airport_ref": "2327",
-            "airport_ident": "EFLA",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "123.4"
-        }
-    ],
-    "country": {
-        "id": "302685",
-        "code": "FI",
-        "name": "Finland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
-        "keywords": "Lentokentät, Suomen"
-    },
-    "region": {
-        "id": "336517",
-        "code": "FI-16",
-        "local_code": "16",
-        "name": "Päijät-Häme Region",
-        "continent": "EU",
-        "iso_country": "FI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/P%C3%A4ij%C3%A4t-H%C3%A4me",
-        "keywords": "Airports in Päijät-Häme Region"
-    }
+    ]
 }

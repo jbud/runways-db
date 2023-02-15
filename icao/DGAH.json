@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "354176",
-            "airport_ref": "354173",
-            "airport_ident": "DGAH",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "118.4"
-        }
-    ],
-    "country": {
-        "id": "302574",
-        "code": "GH",
-        "name": "Ghana",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ghana",
-        "keywords": "Ghanan airports"
-    },
-    "region": {
-        "id": "303847",
-        "code": "GH-TV",
-        "local_code": "TV",
-        "name": "Volta Region",
-        "continent": "AF",
-        "iso_country": "GH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Volta_Region",
-        "keywords": "Airports in Volta Region"
-    }
+    ]
 }

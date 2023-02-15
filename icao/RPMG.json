@@ -40,57 +40,5 @@
             "he_heading_degT": "197.8",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "56506",
-            "airport_ref": "5700",
-            "airport_ident": "RPMG",
-            "type": "FSS",
-            "description": "RDO",
-            "frequency_mhz": "122.1"
-        }
-    ],
-    "country": {
-        "id": "302656",
-        "code": "PH",
-        "name": "Philippines",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
-        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
-    },
-    "region": {
-        "id": "305131",
-        "code": "PH-ZAN",
-        "local_code": "ZAN",
-        "name": "Zamboanga del Norte Province",
-        "continent": "AS",
-        "iso_country": "PH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Zamboanga_del_Norte_Province",
-        "keywords": "Airports in Zamboanga del Norte Province"
-    },
-    "navaids": [
-        {
-            "id": "87373",
-            "filename": "Dipolog_NDB_PH",
-            "ident": "DI",
-            "name": "Dipolog",
-            "type": "NDB",
-            "frequency_khz": "389",
-            "latitude_deg": "8.600560188293457",
-            "longitude_deg": "123.34300231933594",
-            "elevation_ft": "12",
-            "iso_country": "PH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.096",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "RPMG"
-        }
     ]
 }

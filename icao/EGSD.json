@@ -62,49 +62,5 @@
             "he_heading_degT": "355",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "71935",
-            "airport_ref": "29181",
-            "airport_ident": "EGSD",
-            "type": "A/G",
-            "description": "Gt.Yarmouth North Denes A/G",
-            "frequency_mhz": "123.4"
-        },
-        {
-            "id": "71937",
-            "airport_ref": "29181",
-            "airport_ident": "EGSD",
-            "type": "RAD/APP",
-            "description": "Gt.Yarmouth North Denes RAD/APP",
-            "frequency_mhz": "123.4"
-        },
-        {
-            "id": "71936",
-            "airport_ref": "29181",
-            "airport_ident": "EGSD",
-            "type": "TWR",
-            "description": "Gt.Yarmouth North Denes TWR",
-            "frequency_mhz": "123.4"
-        }
-    ],
-    "country": {
-        "id": "302688",
-        "code": "GB",
-        "name": "United Kingdom",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
-        "keywords": "Great Britain"
-    },
-    "region": {
-        "id": "306374",
-        "code": "GB-ENG",
-        "local_code": "ENG",
-        "name": "England",
-        "continent": "EU",
-        "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
-        "keywords": "English airports"
-    }
+    ]
 }

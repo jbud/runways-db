@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302753",
-        "code": "TC",
-        "name": "Turks and Caicos Islands",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands",
-        "keywords": "Airports in Turks and Caicos Islands"
-    },
-    "region": {
-        "id": "306709",
-        "code": "TC-WC",
-        "local_code": "WC",
-        "name": "West Caicos",
-        "continent": "NA",
-        "iso_country": "TC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Caicos_",
-        "keywords": "Airports in West Caicos"
-    }
+    "keywords": ""
 }

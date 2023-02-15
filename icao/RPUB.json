@@ -40,47 +40,5 @@
             "he_heading_degT": "268.4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302656",
-        "code": "PH",
-        "name": "Philippines",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
-        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
-    },
-    "region": {
-        "id": "305065",
-        "code": "PH-BEN",
-        "local_code": "BEN",
-        "name": "Benguet Province",
-        "continent": "AS",
-        "iso_country": "PH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Benguet_Province",
-        "keywords": "Airports in Benguet Province"
-    },
-    "navaids": [
-        {
-            "id": "85973",
-            "filename": "Baguio_NDB_PH",
-            "ident": "BG",
-            "name": "Baguio",
-            "type": "NDB",
-            "frequency_khz": "272",
-            "latitude_deg": "16.374399185180664",
-            "longitude_deg": "120.61699676513672",
-            "elevation_ft": "4242",
-            "iso_country": "PH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.404",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "RPUB"
-        }
     ]
 }

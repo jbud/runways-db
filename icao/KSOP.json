@@ -62,57 +62,5 @@
             "he_heading_degT": "317.7",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "69207",
-            "airport_ref": "21096",
-            "airport_ident": "KSOP",
-            "type": "A/D",
-            "description": "FAYETTEVILLE APP/DEP",
-            "frequency_mhz": "127.8"
-        },
-        {
-            "id": "69208",
-            "airport_ref": "21096",
-            "airport_ident": "KSOP",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "127.575"
-        },
-        {
-            "id": "69209",
-            "airport_ref": "21096",
-            "airport_ident": "KSOP",
-            "type": "CLD",
-            "description": "FAYETTEVILLE CLNCDEL",
-            "frequency_mhz": "127"
-        },
-        {
-            "id": "69210",
-            "airport_ref": "21096",
-            "airport_ident": "KSOP",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123.05"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306103",
-        "code": "US-NC",
-        "local_code": "NC",
-        "name": "North Carolina",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
-        "keywords": "Airports in North Carolina"
-    }
+    ]
 }

@@ -62,33 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "311277",
-            "airport_ref": "27282",
-            "airport_ident": "FAFK",
-            "type": "Unmanned",
-            "description": "Fisantekraal Traffic",
-            "frequency_mhz": "131.1"
-        }
-    ],
-    "country": {
-        "id": "302610",
-        "code": "ZA",
-        "name": "South Africa",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
-        "keywords": "South African airports"
-    },
-    "region": {
-        "id": "306304",
-        "code": "ZA-WC",
-        "local_code": "WC",
-        "name": "Western Cape",
-        "continent": "AF",
-        "iso_country": "ZA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Cape",
-        "keywords": "Airports in Western Cape"
-    }
+    ]
 }

@@ -40,47 +40,5 @@
             "he_heading_degT": "325.2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302637",
-        "code": "IR",
-        "name": "Iran",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
-        "keywords": "فرودگاه های ایران"
-    },
-    "region": {
-        "id": "306736",
-        "code": "IR-09",
-        "local_code": "09",
-        "name": "Razavi Khorasan Province",
-        "continent": "AS",
-        "iso_country": "IR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Razavi_Khorasan_Province",
-        "keywords": "Airports in Razavi Khorasan Province"
-    },
-    "navaids": [
-        {
-            "id": "93932",
-            "filename": "Sarakhs_NDB_IR",
-            "ident": "SRS",
-            "name": "Sarakhs",
-            "type": "NDB",
-            "frequency_khz": "334",
-            "latitude_deg": "36.495399475097656",
-            "longitude_deg": "61.074100494384766",
-            "elevation_ft": "945",
-            "iso_country": "IR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.429",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "OIMC"
-        }
     ]
 }

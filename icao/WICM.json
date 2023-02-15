@@ -40,33 +40,5 @@
             "he_heading_degT": "327.7",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "53730",
-            "airport_ref": "26826",
-            "airport_ident": "WICM",
-            "type": "TWR",
-            "description": "TASIK TWR",
-            "frequency_mhz": "122.6"
-        }
-    ],
-    "country": {
-        "id": "302632",
-        "code": "ID",
-        "name": "Indonesia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
-        "keywords": "Bandara di Indonesia"
-    },
-    "region": {
-        "id": "304105",
-        "code": "ID-JB",
-        "local_code": "JB",
-        "name": "Jawa Barat (West Java)",
-        "continent": "AS",
-        "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Java",
-        "keywords": "Airports in Jawa Barat"
-    }
+    ]
 }

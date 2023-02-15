@@ -40,41 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "347183",
-            "airport_ref": "30852",
-            "airport_ident": "TGPZ",
-            "type": "APP ARGYLE TVSA",
-            "description": "",
-            "frequency_mhz": "120.8"
-        },
-        {
-            "id": "347182",
-            "airport_ref": "30852",
-            "airport_ident": "TGPZ",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "118.6"
-        }
-    ],
-    "country": {
-        "id": "302735",
-        "code": "GD",
-        "name": "Grenada",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Grenada",
-        "keywords": "Grenadian airports"
-    },
-    "region": {
-        "id": "303836",
-        "code": "GD-PA",
-        "local_code": "PA",
-        "name": "Saint Patrick",
-        "continent": "NA",
-        "iso_country": "GD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Patrick",
-        "keywords": "Airports in Saint Patrick"
-    }
+    ]
 }

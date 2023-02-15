@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Aranuka_Airport",
-    "keywords": "Tarawa",
-    "country": {
-        "id": "302769",
-        "code": "KI",
-        "name": "Kiribati",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kiribati",
-        "keywords": "Airports in Kiribati"
-    },
-    "region": {
-        "id": "304377",
-        "code": "KI-G",
-        "local_code": "G",
-        "name": "Gilbert Islands",
-        "continent": "OC",
-        "iso_country": "KI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Gilbert_Islands",
-        "keywords": "Airports in Gilbert Islands"
-    }
+    "keywords": "Tarawa"
 }

@@ -40,23 +40,5 @@
             "he_heading_degT": "225",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302655",
-        "code": "OM",
-        "name": "Oman",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Oman",
-        "keywords": "مطارات عمان"
-    },
-    "region": {
-        "id": "304994",
-        "code": "OM-WU",
-        "local_code": "WU",
-        "name": "Al Wusta Governorate",
-        "continent": "AS",
-        "iso_country": "OM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Wusta_Governorate",
-        "keywords": "Airports in Al Wusta Governorate"
-    }
+    ]
 }

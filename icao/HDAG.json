@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Assa-Gueyla_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302567",
-        "code": "DJ",
-        "name": "Djibouti",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Djibouti",
-        "keywords": "Djiboutian airports"
-    },
-    "region": {
-        "id": "303568",
-        "code": "DJ-TA",
-        "local_code": "TA",
-        "name": "Tadjoura Region",
-        "continent": "AF",
-        "iso_country": "DJ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tadjoura_Region",
-        "keywords": "Airports in Tadjoura Region"
-    }
+    "keywords": ""
 }

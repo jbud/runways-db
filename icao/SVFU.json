@@ -40,23 +40,5 @@
             "he_heading_degT": "254",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302802",
-        "code": "VE",
-        "name": "Venezuela",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
-        "keywords": "Aeropuertos de Venezuela"
-    },
-    "region": {
-        "id": "306182",
-        "code": "VE-S",
-        "local_code": "S",
-        "name": "Táchira State",
-        "continent": "SA",
-        "iso_country": "VE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/T%C3%A1chira",
-        "keywords": "Airports in Táchira State"
-    }
+    ]
 }

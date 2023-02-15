@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302748",
-        "code": "NI",
-        "name": "Nicaragua",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nicaragua",
-        "keywords": "Aeropuertos de Nicaragua"
-    },
-    "region": {
-        "id": "304923",
-        "code": "NI-LE",
-        "local_code": "LE",
-        "name": "León Department",
-        "continent": "NA",
-        "iso_country": "NI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/León_Department",
-        "keywords": "Airports in Leon"
-    }
+    "keywords": ""
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302798",
-        "code": "PE",
-        "name": "Peru",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
-        "keywords": "Aeropuertos de Perú"
-    },
-    "region": {
-        "id": "305029",
-        "code": "PE-TAC",
-        "local_code": "TAC",
-        "name": "Tacna Region",
-        "continent": "SA",
-        "iso_country": "PE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tacna_Region",
-        "keywords": "Airports in Tacna Region"
-    }
+    "keywords": ""
 }

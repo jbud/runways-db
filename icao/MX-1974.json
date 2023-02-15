@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Valparaiso Cattle Ranch, Valparaiso Ranch",
-    "country": {
-        "id": "302747",
-        "code": "MX",
-        "name": "Mexico",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
-        "keywords": "Aeropuertos de México, Mexican airports"
-    },
-    "region": {
-        "id": "304822",
-        "code": "MX-ZAC",
-        "local_code": "ZAC",
-        "name": "Zacatecas",
-        "continent": "NA",
-        "iso_country": "MX",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Zacatecas",
-        "keywords": "Airports in Zacatecas"
-    }
+    "keywords": "Valparaiso Cattle Ranch, Valparaiso Ranch"
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://www.harbourflights.com",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302694",
-        "code": "IE",
-        "name": "Ireland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ireland",
-        "keywords": "Eire"
-    },
-    "region": {
-        "id": "304130",
-        "code": "IE-CE",
-        "local_code": "CE",
-        "name": "County Clare",
-        "continent": "EU",
-        "iso_country": "IE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Clare",
-        "keywords": "Airports in County Clare"
-    }
+    "keywords": ""
 }

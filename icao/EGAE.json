@@ -62,49 +62,5 @@
             "he_heading_degT": "253",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "58424",
-            "airport_ref": "2388",
-            "airport_ident": "EGAE",
-            "type": "APP",
-            "description": "Eglinton Approach",
-            "frequency_mhz": "123.625"
-        },
-        {
-            "id": "334169",
-            "airport_ref": "2388",
-            "airport_ident": "EGAE",
-            "type": "ATIS",
-            "description": "Eglinton Information",
-            "frequency_mhz": "119.38"
-        },
-        {
-            "id": "58425",
-            "airport_ref": "2388",
-            "airport_ident": "EGAE",
-            "type": "TWR",
-            "description": "Eglinton Tower",
-            "frequency_mhz": "134.155"
-        }
-    ],
-    "country": {
-        "id": "302688",
-        "code": "GB",
-        "name": "United Kingdom",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
-        "keywords": "Great Britain"
-    },
-    "region": {
-        "id": "306375",
-        "code": "GB-NIR",
-        "local_code": "NIR",
-        "name": "Northern Ireland",
-        "continent": "EU",
-        "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Ireland",
-        "keywords": "keep"
-    }
+    ]
 }

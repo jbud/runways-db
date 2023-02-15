@@ -40,41 +40,5 @@
             "he_heading_degT": "256",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "61963",
-            "airport_ref": "5458",
-            "airport_ident": "PHUP",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        },
-        {
-            "id": "61964",
-            "airport_ref": "5458",
-            "airport_ident": "PHUP",
-            "type": "RCO",
-            "description": "HONOLULU RDO",
-            "frequency_mhz": "112.3"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306087",
-        "code": "US-HI",
-        "local_code": "HI",
-        "name": "Hawaii",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hawaii",
-        "keywords": "Airports in Hawaii"
-    }
+    ]
 }

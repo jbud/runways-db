@@ -62,41 +62,5 @@
             "he_heading_degT": "243.4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "51406",
-            "airport_ref": "6170",
-            "airport_ident": "SKUA",
-            "type": "RDR",
-            "description": "TERECAY RADAR",
-            "frequency_mhz": "131"
-        },
-        {
-            "id": "51407",
-            "airport_ref": "6170",
-            "airport_ident": "SKUA",
-            "type": "TWR",
-            "description": "RODRIGUEZ  TWR",
-            "frequency_mhz": "126.2"
-        }
-    ],
-    "country": {
-        "id": "302793",
-        "code": "CO",
-        "name": "Colombia",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
-        "keywords": "Aeropuertos de Colombia"
-    },
-    "region": {
-        "id": "303490",
-        "code": "CO-VID",
-        "local_code": "VID",
-        "name": "Vichada Department",
-        "continent": "SA",
-        "iso_country": "CO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Vichada_Department",
-        "keywords": "Airports in Vichada Department"
-    }
+    ]
 }

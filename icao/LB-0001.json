@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302647",
-        "code": "LB",
-        "name": "Lebanon",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lebanon",
-        "keywords": "المطارات في لبنان"
-    },
-    "region": {
-        "id": "304460",
-        "code": "LB-BA",
-        "local_code": "BA",
-        "name": "Beirut Governorate",
-        "continent": "AS",
-        "iso_country": "LB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Beirut_Governorate",
-        "keywords": "Airports in Beirut Governorate"
-    }
+    "keywords": ""
 }

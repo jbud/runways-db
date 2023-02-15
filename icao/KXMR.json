@@ -40,57 +40,5 @@
             "he_heading_degT": "308",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "68497",
-            "airport_ref": "3956",
-            "airport_ident": "KXMR",
-            "type": "A/D",
-            "description": "ORLANDO APP/DEP",
-            "frequency_mhz": "134.95"
-        },
-        {
-            "id": "68498",
-            "airport_ref": "3956",
-            "airport_ident": "KXMR",
-            "type": "PMSV",
-            "description": "PMSV METRO",
-            "frequency_mhz": "344.6"
-        },
-        {
-            "id": "68499",
-            "airport_ref": "3956",
-            "airport_ident": "KXMR",
-            "type": "TWR",
-            "description": "CAPE TWR",
-            "frequency_mhz": "118.625"
-        },
-        {
-            "id": "75310",
-            "airport_ref": "3956",
-            "airport_ident": "KXMR",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "239.05"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306085",
-        "code": "US-FL",
-        "local_code": "FL",
-        "name": "Florida",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
-        "keywords": "Airports in Florida"
-    }
+    ]
 }

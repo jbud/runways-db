@@ -40,41 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "505317",
-            "airport_ref": "32595",
-            "airport_ident": "VTBT",
-            "type": "Approach",
-            "description": "UTapao Approach",
-            "frequency_mhz": "119.7"
-        },
-        {
-            "id": "354714",
-            "airport_ref": "32595",
-            "airport_ident": "VTBT",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "122.3"
-        }
-    ],
-    "country": {
-        "id": "302663",
-        "code": "TH",
-        "name": "Thailand",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Thailand",
-        "keywords": "Siam, Siamese"
-    },
-    "region": {
-        "id": "305717",
-        "code": "TH-20",
-        "local_code": "20",
-        "name": "Chonburi Province",
-        "continent": "AS",
-        "iso_country": "TH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chonburi_province",
-        "keywords": "Airports in Chonburi Province"
-    }
+    ]
 }

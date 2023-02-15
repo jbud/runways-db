@@ -62,33 +62,5 @@
             "he_heading_degT": "10.4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "69801",
-            "airport_ref": "18996",
-            "airport_ident": "K6K3",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306105",
-        "code": "US-NE",
-        "local_code": "NE",
-        "name": "Nebraska",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
-        "keywords": "Airports in Nebraska"
-    }
+    ]
 }

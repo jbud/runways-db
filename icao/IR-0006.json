@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "باند قدیمی فرودگاه اندیمشک",
-    "country": {
-        "id": "302637",
-        "code": "IR",
-        "name": "Iran",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
-        "keywords": "فرودگاه های ایران"
-    },
-    "region": {
-        "id": "304227",
-        "code": "IR-06",
-        "local_code": "06",
-        "name": "Khuzestan Province",
-        "continent": "AS",
-        "iso_country": "IR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Khuzestan_Province",
-        "keywords": "Airports in Khuzestan Province"
-    }
+    "keywords": "باند قدیمی فرودگاه اندیمشک"
 }

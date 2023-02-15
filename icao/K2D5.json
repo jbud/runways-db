@@ -62,41 +62,5 @@
             "he_heading_degT": "330.4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "67227",
-            "airport_ref": "18574",
-            "airport_ident": "K2D5",
-            "type": "CNTR",
-            "description": "MINNEAPOLIS CNTR",
-            "frequency_mhz": "124.2"
-        },
-        {
-            "id": "67228",
-            "airport_ref": "18574",
-            "airport_ident": "K2D5",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306104",
-        "code": "US-ND",
-        "local_code": "ND",
-        "name": "North Dakota",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Dakota",
-        "keywords": "Airports in North Dakota"
-    }
+    ]
 }

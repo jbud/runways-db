@@ -40,57 +40,5 @@
             "he_heading_degT": "234.2",
             "he_displaced_threshold_ft": "328"
         }
-    ],
-    "freqs": [
-        {
-            "id": "57601",
-            "airport_ref": "4489",
-            "airport_ident": "LSGC",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.125"
-        }
-    ],
-    "country": {
-        "id": "302679",
-        "code": "CH",
-        "name": "Switzerland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
-        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
-    },
-    "region": {
-        "id": "303364",
-        "code": "CH-NE",
-        "local_code": "NE",
-        "name": "Canton of Neuchâtel",
-        "continent": "EU",
-        "iso_country": "CH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Neuchâtel",
-        "keywords": "Airports in Canton of Neuchâtel"
-    },
-    "navaids": [
-        {
-            "id": "90501",
-            "filename": "Les_Eplatures_NDB_CH",
-            "ident": "LPS",
-            "name": "Les Eplatures",
-            "type": "NDB",
-            "frequency_khz": "403",
-            "latitude_deg": "47.08369827270508",
-            "longitude_deg": "6.793889999389648",
-            "elevation_ft": "",
-            "iso_country": "CH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.237",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LSGC"
-        }
     ]
 }

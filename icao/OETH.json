@@ -40,23 +40,5 @@
             "he_heading_degT": "351",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302660",
-        "code": "SA",
-        "name": "Saudi Arabia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
-        "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
-    },
-    "region": {
-        "id": "305360",
-        "code": "SA-01",
-        "local_code": "01",
-        "name": "Riyadh Region",
-        "continent": "AS",
-        "iso_country": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Riyadh_Region",
-        "keywords": "Riyad"
-    }
+    ]
 }

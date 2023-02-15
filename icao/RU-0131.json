@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "ЬРВТ, Troitskoe Air Base, Аэродром Троицкое, XRWT",
-    "country": {
-        "id": "302714",
-        "code": "RU",
-        "name": "Russia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
-        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
-    },
-    "region": {
-        "id": "305292",
-        "code": "RU-KL",
-        "local_code": "KL",
-        "name": "Republic of Kalmykia",
-        "continent": "EU",
-        "iso_country": "RU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Republic_of_Kalmykia",
-        "keywords": "Airports in Republic of Kalmykia"
-    }
+    "keywords": "ЬРВТ, Troitskoe Air Base, Аэродром Троицкое, XRWT"
 }

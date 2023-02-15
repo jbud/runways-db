@@ -40,47 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302786",
-        "code": "VU",
-        "name": "Vanuatu",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Vanuatu",
-        "keywords": "Airports in Vanuatu"
-    },
-    "region": {
-        "id": "306260",
-        "code": "VU-TOB",
-        "local_code": "TOB",
-        "name": "Torba",
-        "continent": "OC",
-        "iso_country": "VU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Torba",
-        "keywords": "Airports in Torba"
-    },
-    "navaids": [
-        {
-            "id": "90434",
-            "filename": "Lo-Linua_NDB_VU",
-            "ident": "LN",
-            "name": "Lo-Linua",
-            "type": "NDB",
-            "frequency_khz": "334",
-            "latitude_deg": "-13.324999809265137",
-            "longitude_deg": "166.625",
-            "elevation_ft": "",
-            "iso_country": "VU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "10.29",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "NVSD"
-        }
     ]
 }

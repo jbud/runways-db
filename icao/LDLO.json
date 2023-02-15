@@ -40,47 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302692",
-        "code": "HR",
-        "name": "Croatia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Croatia",
-        "keywords": "Croatian airports"
-    },
-    "region": {
-        "id": "304032",
-        "code": "HR-08",
-        "local_code": "08",
-        "name": "Primorje-Gorski Kotar County",
-        "continent": "EU",
-        "iso_country": "HR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Primorje-Gorski_Kotar_County",
-        "keywords": "Airports in Primorje-Gorski Kotar County"
-    },
-    "navaids": [
-        {
-            "id": "90483",
-            "filename": "Losinj_NDB_HR",
-            "ident": "LOS",
-            "name": "Losinj",
-            "type": "NDB",
-            "frequency_khz": "429",
-            "latitude_deg": "44.527099609375",
-            "longitude_deg": "14.472800254821777",
-            "elevation_ft": "239",
-            "iso_country": "HR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.144",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LDLO"
-        }
     ]
 }

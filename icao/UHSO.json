@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Zonalnoye_Airport",
-    "keywords": "Zonalnoe Airport, Аэропорт Зональное",
-    "country": {
-        "id": "302714",
-        "code": "RU",
-        "name": "Russia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
-        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
-    },
-    "region": {
-        "id": "305321",
-        "code": "RU-SAK",
-        "local_code": "SAK",
-        "name": "Sakhalin Oblast",
-        "continent": "EU",
-        "iso_country": "RU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sakhalin_Oblast",
-        "keywords": "Airports in Sakhalin Oblast"
-    }
+    "keywords": "Zonalnoe Airport, Аэропорт Зональное"
 }

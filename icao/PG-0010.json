@@ -40,23 +40,5 @@
             "he_heading_degT": "316",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302778",
-        "code": "PG",
-        "name": "Papua New Guinea",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
-        "keywords": "Airports in Papua New Guinea"
-    },
-    "region": {
-        "id": "305050",
-        "code": "PG-SHM",
-        "local_code": "SHM",
-        "name": "Southern Highlands Province",
-        "continent": "OC",
-        "iso_country": "PG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_Highlands_Province",
-        "keywords": "Airports in Southern Highlands Province"
-    }
+    ]
 }

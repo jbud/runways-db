@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "313587",
-            "airport_ref": "29213",
-            "airport_ident": "EIAB",
-            "type": "Radio",
-            "description": "",
-            "frequency_mhz": "122.6"
-        }
-    ],
-    "country": {
-        "id": "302694",
-        "code": "IE",
-        "name": "Ireland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ireland",
-        "keywords": "Eire"
-    },
-    "region": {
-        "id": "304139",
-        "code": "IE-LD",
-        "local_code": "LD",
-        "name": "County Longford",
-        "continent": "EU",
-        "iso_country": "IE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Longford",
-        "keywords": "Airports in County Longford"
-    }
+    ]
 }

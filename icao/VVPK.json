@@ -40,57 +40,5 @@
             "he_heading_degT": "271",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "71759",
-            "airport_ref": "26704",
-            "airport_ident": "VVPK",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
-    "country": {
-        "id": "302670",
-        "code": "VN",
-        "name": "Vietnam",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Vietnam",
-        "keywords": "Các sân bay của Việt Nam"
-    },
-    "region": {
-        "id": "351367",
-        "code": "VN-CH",
-        "local_code": "CH",
-        "name": "Central Highlands Region",
-        "continent": "AS",
-        "iso_country": "VN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Highlands_(Vietnam)",
-        "keywords": "Airports in Central Highlands Region"
-    },
-    "navaids": [
-        {
-            "id": "92484",
-            "filename": "Pleiku_NDB_VN",
-            "ident": "PK",
-            "name": "Pleiku",
-            "type": "NDB",
-            "frequency_khz": "282",
-            "latitude_deg": "14.006699562072754",
-            "longitude_deg": "108.00900268554688",
-            "elevation_ft": "",
-            "iso_country": "VN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.339",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VVPK"
-        }
     ]
 }

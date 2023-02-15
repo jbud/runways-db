@@ -40,47 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306111",
-        "code": "US-OH",
-        "local_code": "OH",
-        "name": "Ohio",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
-        "keywords": "Airports in Ohio"
-    },
-    "navaids": [
-        {
-            "id": "87097",
-            "filename": "Newcomerstown_VOR-DME_US",
-            "ident": "CTW",
-            "name": "Newcomerstown",
-            "type": "VOR-DME",
-            "frequency_khz": "111800",
-            "latitude_deg": "40.22919845581055",
-            "longitude_deg": "-81.47650146484375",
-            "elevation_ft": "1180",
-            "iso_country": "US",
-            "dme_frequency_khz": "111800",
-            "dme_channel": "055X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-7.001",
-            "magnetic_variation_deg": "-7.48",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "9OI8"
-        }
     ]
 }

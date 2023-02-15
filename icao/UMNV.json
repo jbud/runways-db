@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302678",
-        "code": "BY",
-        "name": "Belarus",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Belarus",
-        "keywords": "Belarussian, Беларусь"
-    },
-    "region": {
-        "id": "303280",
-        "code": "BY-BR",
-        "local_code": "BR",
-        "name": "Brest Region",
-        "continent": "EU",
-        "iso_country": "BY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brest_Region",
-        "keywords": "Brèsckaja voblasc'"
-    }
+    ]
 }

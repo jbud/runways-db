@@ -40,23 +40,5 @@
             "he_heading_degT": "292",
             "he_displaced_threshold_ft": "263"
         }
-    ],
-    "country": {
-        "id": "302687",
-        "code": "FR",
-        "name": "France",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
-        "keywords": "Aéroports de France"
-    },
-    "region": {
-        "id": "306348",
-        "code": "FR-BRE",
-        "local_code": "BRE",
-        "name": "Brittany",
-        "continent": "EU",
-        "iso_country": "FR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brittany",
-        "keywords": "Bretagne"
-    }
+    ]
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "EVNA, EVNA",
-    "country": {
-        "id": "302702",
-        "code": "LV",
-        "name": "Latvia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Latvia",
-        "keywords": "Latvian airports"
-    },
-    "region": {
-        "id": "304530",
-        "code": "LV-077",
-        "local_code": "077",
-        "name": "Rēzekne Municipality",
-        "continent": "EU",
-        "iso_country": "LV",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Rezekne_Municipality",
-        "keywords": "Airports in Rēzekne Municipality"
-    }
+    "keywords": "EVNA, EVNA"
 }

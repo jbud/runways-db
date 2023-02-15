@@ -84,49 +84,5 @@
             "he_heading_degT": "313.3",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "52694",
-            "airport_ref": "2424",
-            "airport_ident": "EGJA",
-            "type": "APP",
-            "description": "GUERNSEY APP",
-            "frequency_mhz": "128.65"
-        },
-        {
-            "id": "52695",
-            "airport_ref": "2424",
-            "airport_ident": "EGJA",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "130.5"
-        },
-        {
-            "id": "52696",
-            "airport_ref": "2424",
-            "airport_ident": "EGJA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "125.35"
-        }
-    ],
-    "country": {
-        "id": "302689",
-        "code": "GG",
-        "name": "Guernsey",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Guernsey",
-        "keywords": "Airports in Guernsey"
-    },
-    "region": {
-        "id": "303840",
-        "code": "GG-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
-        "continent": "EU",
-        "iso_country": "GG",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
-    }
+    ]
 }

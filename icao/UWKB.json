@@ -40,41 +40,5 @@
             "he_heading_degT": "192",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75426",
-            "airport_ref": "35174",
-            "airport_ident": "UWKB",
-            "type": "APP",
-            "description": "Bugulma Approach / russian only",
-            "frequency_mhz": "122.3"
-        },
-        {
-            "id": "75425",
-            "airport_ref": "35174",
-            "airport_ident": "UWKB",
-            "type": "TWR",
-            "description": "Bugulma TWR / russian only",
-            "frequency_mhz": "118"
-        }
-    ],
-    "country": {
-        "id": "302714",
-        "code": "RU",
-        "name": "Russia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
-        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
-    },
-    "region": {
-        "id": "305329",
-        "code": "RU-TA",
-        "local_code": "TA",
-        "name": "Republic of Tatarstan",
-        "continent": "EU",
-        "iso_country": "RU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Republic_of_Tatarstan",
-        "keywords": "Airports in Republic of Tatarstan"
-    }
+    ]
 }

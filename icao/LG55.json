@@ -40,23 +40,5 @@
             "he_heading_degT": "332",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302691",
-        "code": "GR",
-        "name": "Greece",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
-        "keywords": "αεροδρόμια στην Ελλάδα"
-    },
-    "region": {
-        "id": "430182",
-        "code": "GR-J",
-        "local_code": "J",
-        "name": "Peloponnese",
-        "continent": "EU",
-        "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Peloponnese_(region)",
-        "keywords": "Περιφέρεια Πελοποννήσου"
-    }
+    ]
 }

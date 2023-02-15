@@ -40,49 +40,5 @@
             "he_heading_degT": "307",
             "he_displaced_threshold_ft": "237"
         }
-    ],
-    "freqs": [
-        {
-            "id": "69010",
-            "airport_ref": "19845",
-            "airport_ident": "KFBL",
-            "type": "A/D",
-            "description": "MINNEAPOLIS APP/DEP",
-            "frequency_mhz": "125"
-        },
-        {
-            "id": "69011",
-            "airport_ref": "19845",
-            "airport_ident": "KFBL",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "111.2"
-        },
-        {
-            "id": "69012",
-            "airport_ref": "19845",
-            "airport_ident": "KFBL",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306099",
-        "code": "US-MN",
-        "local_code": "MN",
-        "name": "Minnesota",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
-        "keywords": "Airports in Minnesota"
-    }
+    ]
 }

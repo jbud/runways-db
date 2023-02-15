@@ -62,33 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "317880",
-            "airport_ref": "317878",
-            "airport_ident": "CZ-0104",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "125.825"
-        }
-    ],
-    "country": {
-        "id": "302680",
-        "code": "CZ",
-        "name": "Czech Republic",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
-        "keywords": "Letiště České republiky, Czechia"
-    },
-    "region": {
-        "id": "303540",
-        "code": "CZ-PL",
-        "local_code": "PL",
-        "name": "Plzeň Region",
-        "continent": "EU",
-        "iso_country": "CZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Plzeň_Region",
-        "keywords": "Plzeňský kraj"
-    }
+    ]
 }

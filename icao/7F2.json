@@ -40,47 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306117",
-        "code": "US-SD",
-        "local_code": "SD",
-        "name": "South Dakota",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Dakota",
-        "keywords": "Airports in South Dakota"
-    },
-    "navaids": [
-        {
-            "id": "87508",
-            "filename": "Dupree_VORTAC_US",
-            "ident": "DPR",
-            "name": "Dupree",
-            "type": "VORTAC",
-            "frequency_khz": "116800",
-            "latitude_deg": "45.07809829711914",
-            "longitude_deg": "-101.71499633789062",
-            "elevation_ft": "2530",
-            "iso_country": "US",
-            "dme_frequency_khz": "116800",
-            "dme_channel": "115X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "10.012",
-            "magnetic_variation_deg": "8.019",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "7F2"
-        }
     ]
 }

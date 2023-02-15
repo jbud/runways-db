@@ -84,49 +84,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "332634",
-            "airport_ref": "30236",
-            "airport_ident": "EYVP",
-            "type": "Paluknys radio",
-            "description": "Paluknys Radio",
-            "frequency_mhz": "119.1"
-        },
-        {
-            "id": "350224",
-            "airport_ref": "30236",
-            "airport_ident": "EYVP",
-            "type": "Vilnius ATIS",
-            "description": "",
-            "frequency_mhz": "125.805"
-        },
-        {
-            "id": "350223",
-            "airport_ref": "30236",
-            "airport_ident": "EYVP",
-            "type": "Vilnius Info",
-            "description": "Vilnius Informacija / Vilnius FIS",
-            "frequency_mhz": "123.85"
-        }
-    ],
-    "country": {
-        "id": "302700",
-        "code": "LT",
-        "name": "Lithuania",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lithuania",
-        "keywords": "Lithuanian airports"
-    },
-    "region": {
-        "id": "304504",
-        "code": "LT-VL",
-        "local_code": "VL",
-        "name": "Vilnius County",
-        "continent": "EU",
-        "iso_country": "LT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Vilnius_County",
-        "keywords": "Vilniaus"
-    }
+    ]
 }

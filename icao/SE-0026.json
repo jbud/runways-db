@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://gliding.se",
     "wikipedia_link": "",
-    "keywords": "Linköpings Segelflygklubb",
-    "country": {
-        "id": "302715",
-        "code": "SE",
-        "name": "Sweden",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
-        "keywords": "Flygplatserna, Sverige"
-    },
-    "region": {
-        "id": "305416",
-        "code": "SE-E",
-        "local_code": "E",
-        "name": "Östergötlands län",
-        "continent": "EU",
-        "iso_country": "SE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Östergötlands_län",
-        "keywords": "Östergötland County"
-    }
+    "keywords": "Linköpings Segelflygklubb"
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Semera_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302572",
-        "code": "ET",
-        "name": "Ethiopia",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ethiopia",
-        "keywords": "Ethiopian airports"
-    },
-    "region": {
-        "id": "303788",
-        "code": "ET-AF",
-        "local_code": "AF",
-        "name": "Afar Region",
-        "continent": "AF",
-        "iso_country": "ET",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Afar_Region",
-        "keywords": "Airports in Afar Region"
-    }
+    "keywords": ""
 }

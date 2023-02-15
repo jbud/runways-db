@@ -40,47 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302736",
-        "code": "GL",
-        "name": "Greenland",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Greenland",
-        "keywords": "Airports in Greenland"
-    },
-    "region": {
-        "id": "505044",
-        "code": "GL-SE",
-        "local_code": "SE",
-        "name": "Sermersooq Municipality",
-        "continent": "NA",
-        "iso_country": "GL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sermersooq",
-        "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "87244",
-            "filename": "Kulusuk_NDB_GL",
-            "ident": "DA",
-            "name": "Kulusuk",
-            "type": "NDB",
-            "frequency_khz": "377",
-            "latitude_deg": "65.57060241699219",
-            "longitude_deg": "-37.20690155029297",
-            "elevation_ft": "",
-            "iso_country": "GL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-26.313",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "BGKK"
-        }
     ]
 }

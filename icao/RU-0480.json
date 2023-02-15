@@ -16,23 +16,5 @@
     "local_code": "ZE28",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302714",
-        "code": "RU",
-        "name": "Russia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
-        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
-    },
-    "region": {
-        "id": "305308",
-        "code": "RU-NGR",
-        "local_code": "NGR",
-        "name": "Novgorod Oblast",
-        "continent": "EU",
-        "iso_country": "RU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Novgorod_Oblast",
-        "keywords": "Airports in Novgorod Oblast"
-    }
+    "keywords": ""
 }

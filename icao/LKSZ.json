@@ -62,33 +62,5 @@
             "he_heading_degT": "325",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "333271",
-            "airport_ref": "30398",
-            "airport_ident": "LKSZ",
-            "type": "RADIO",
-            "description": "",
-            "frequency_mhz": "119.64"
-        }
-    ],
-    "country": {
-        "id": "302680",
-        "code": "CZ",
-        "name": "Czech Republic",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
-        "keywords": "Letiště České republiky, Czechia"
-    },
-    "region": {
-        "id": "303542",
-        "code": "CZ-ST",
-        "local_code": "ST",
-        "name": "Central Bohemian Region",
-        "continent": "EU",
-        "iso_country": "CZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Bohemian_Region",
-        "keywords": "Středočeský kraj"
-    }
+    ]
 }

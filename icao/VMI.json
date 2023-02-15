@@ -40,23 +40,5 @@
             "he_heading_degT": "338.8",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302799",
-        "code": "PY",
-        "name": "Paraguay",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraguay",
-        "keywords": "Aeropuertos de Paraguay"
-    },
-    "region": {
-        "id": "305189",
-        "code": "PY-1",
-        "local_code": "1",
-        "name": "Concepción Department",
-        "continent": "SA",
-        "iso_country": "PY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Concepci%C3%B3n_Department_%28Paraguay%29",
-        "keywords": "Airports in Concepción Department"
-    }
+    ]
 }

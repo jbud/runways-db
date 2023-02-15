@@ -40,23 +40,5 @@
             "he_heading_degT": "260",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302664",
-        "code": "TJ",
-        "name": "Tajikistan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tajikistan",
-        "keywords": "Tajik"
-    },
-    "region": {
-        "id": "305787",
-        "code": "TJ-SU",
-        "local_code": "SU",
-        "name": "Sughd Region",
-        "continent": "AS",
-        "iso_country": "TJ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sughd_Region",
-        "keywords": "Sogdiana"
-    }
+    ]
 }

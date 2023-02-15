@@ -62,57 +62,5 @@
             "he_heading_degT": "318.9",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "64036",
-            "airport_ref": "20243",
-            "airport_ident": "KK20",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.025"
-        },
-        {
-            "id": "64037",
-            "airport_ref": "20243",
-            "airport_ident": "KK20",
-            "type": "CNTR",
-            "description": "INDIANAPOLIS CNTR",
-            "frequency_mhz": "126.575"
-        },
-        {
-            "id": "64038",
-            "airport_ref": "20243",
-            "airport_ident": "KK20",
-            "type": "FSS",
-            "description": "HAZARD RDO",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "64039",
-            "airport_ref": "20243",
-            "airport_ident": "KK20",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.7"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306093",
-        "code": "US-KY",
-        "local_code": "KY",
-        "name": "Kentucky",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
-        "keywords": "Airports in Kentucky"
-    }
+    ]
 }

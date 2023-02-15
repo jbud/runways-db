@@ -40,41 +40,5 @@
             "he_heading_degT": "186.4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "51552",
-            "airport_ref": "6142",
-            "airport_ident": "SKOC",
-            "type": "RDO",
-            "description": "OCANA RDO",
-            "frequency_mhz": "348.8"
-        },
-        {
-            "id": "51553",
-            "airport_ref": "6142",
-            "airport_ident": "SKOC",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.4"
-        }
-    ],
-    "country": {
-        "id": "302793",
-        "code": "CO",
-        "name": "Colombia",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
-        "keywords": "Aeropuertos de Colombia"
-    },
-    "region": {
-        "id": "303479",
-        "code": "CO-NSA",
-        "local_code": "NSA",
-        "name": "Norte de Santander Department",
-        "continent": "SA",
-        "iso_country": "CO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Norte_de_Santander_Department",
-        "keywords": "Airports in Norte de Santander Department"
-    }
+    ]
 }

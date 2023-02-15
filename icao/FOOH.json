@@ -40,33 +40,5 @@
             "he_heading_degT": "315",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "52658",
-            "airport_ref": "2964",
-            "airport_ident": "FOOH",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "122.5"
-        }
-    ],
-    "country": {
-        "id": "302573",
-        "code": "GA",
-        "name": "Gabon",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Gabon",
-        "keywords": "Gabonese airports"
-    },
-    "region": {
-        "id": "303827",
-        "code": "GA-8",
-        "local_code": "8",
-        "name": "Ogooué-Maritime Province",
-        "continent": "AF",
-        "iso_country": "GA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ogoou%C3%A9-Maritime_Province",
-        "keywords": "Airports in Ogooué-Maritime Province"
-    }
+    ]
 }

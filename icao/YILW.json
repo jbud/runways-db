@@ -40,41 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "73252",
-            "airport_ref": "28472",
-            "airport_ident": "YILW",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "123.9"
-        },
-        {
-            "id": "73253",
-            "airport_ref": "28472",
-            "airport_ident": "YILW",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "128.85"
-        }
-    ],
-    "country": {
-        "id": "302764",
-        "code": "AU",
-        "name": "Australia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
-        "keywords": "Australian airports"
-    },
-    "region": {
-        "id": "302971",
-        "code": "AU-QLD",
-        "local_code": "QLD",
-        "name": "Queensland",
-        "continent": "OC",
-        "iso_country": "AU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
-        "keywords": "Airports in Queensland"
-    }
+    ]
 }

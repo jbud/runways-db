@@ -62,57 +62,5 @@
             "he_heading_degT": "317",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "50065",
-            "airport_ref": "1997",
-            "airport_ident": "CYZR",
-            "type": "ATF",
-            "description": "ATF",
-            "frequency_mhz": "123"
-        },
-        {
-            "id": "50063",
-            "airport_ref": "1997",
-            "airport_ident": "CYZR",
-            "type": "AWOS",
-            "description": "AWOS",
-            "frequency_mhz": "118.375"
-        },
-        {
-            "id": "50064",
-            "airport_ref": "1997",
-            "airport_ident": "CYZR",
-            "type": "CNTR",
-            "description": "TORONTO CNTR",
-            "frequency_mhz": "134.375"
-        },
-        {
-            "id": "50066",
-            "airport_ref": "1997",
-            "airport_ident": "CYZR",
-            "type": "RDO",
-            "description": "LONDON RDO",
-            "frequency_mhz": "126.7"
-        }
-    ],
-    "country": {
-        "id": "302730",
-        "code": "CA",
-        "name": "Canada",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
-        "keywords": "Canadian airports"
-    },
-    "region": {
-        "id": "303302",
-        "code": "CA-ON",
-        "local_code": "ON",
-        "name": "Ontario",
-        "continent": "NA",
-        "iso_country": "CA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
-        "keywords": "Airports in Ontario"
-    }
+    ]
 }

@@ -62,33 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "316564",
-            "airport_ref": "43748",
-            "airport_ident": "EBBY",
-            "type": "Info",
-            "description": "Genappe Radio",
-            "frequency_mhz": "132"
-        }
-    ],
-    "country": {
-        "id": "302676",
-        "code": "BE",
-        "name": "Belgium",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Belgium",
-        "keywords": "Aéroports de Belgique,Luchthavens van België"
-    },
-    "region": {
-        "id": "303075",
-        "code": "BE-WBR",
-        "local_code": "WBR",
-        "name": "Walloon Brabant Province",
-        "continent": "EU",
-        "iso_country": "BE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Walloon_Brabant",
-        "keywords": "Wallonia, Walloon Region"
-    }
+    ]
 }

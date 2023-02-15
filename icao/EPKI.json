@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "312403",
-            "airport_ref": "312402",
-            "airport_ident": "EPKI",
-            "type": "info",
-            "description": "",
-            "frequency_mhz": "119.4"
-        }
-    ],
-    "country": {
-        "id": "302710",
-        "code": "PL",
-        "name": "Poland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
-        "keywords": "Lotniska Polski"
-    },
-    "region": {
-        "id": "305158",
-        "code": "PL-WN",
-        "local_code": "WN",
-        "name": "Warmian-Masurian Voivodeship",
-        "continent": "EU",
-        "iso_country": "PL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Warmian-Masurian_Voivodeship",
-        "keywords": "Warmińsko-Mazurskie"
-    }
+    ]
 }

@@ -40,57 +40,5 @@
             "he_heading_degT": "205.5",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "65339",
-            "airport_ref": "19786",
-            "airport_ident": "KEYE",
-            "type": "A/D",
-            "description": "INDIANAPOLIS APP/DEP",
-            "frequency_mhz": "119.05"
-        },
-        {
-            "id": "65340",
-            "airport_ref": "19786",
-            "airport_ident": "KEYE",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "121.575"
-        },
-        {
-            "id": "65341",
-            "airport_ref": "19786",
-            "airport_ident": "KEYE",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "128.6"
-        },
-        {
-            "id": "65342",
-            "airport_ref": "19786",
-            "airport_ident": "KEYE",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306091",
-        "code": "US-IN",
-        "local_code": "IN",
-        "name": "Indiana",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
-        "keywords": "Airports in Indiana"
-    }
+    ]
 }

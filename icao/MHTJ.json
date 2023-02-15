@@ -40,47 +40,5 @@
             "he_heading_degT": "241.2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302739",
-        "code": "HN",
-        "name": "Honduras",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Honduras",
-        "keywords": "Aeropuertos de Honduras"
-    },
-    "region": {
-        "id": "304008",
-        "code": "HN-CL",
-        "local_code": "CL",
-        "name": "Colón Department",
-        "continent": "NA",
-        "iso_country": "HN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Col%C3%B3n_Department_(Honduras)",
-        "keywords": "Airports in Colón Department"
-    },
-    "navaids": [
-        {
-            "id": "87087",
-            "filename": "Punta_Castilla_NDB_HN",
-            "ident": "CTL",
-            "name": "Punta Castilla",
-            "type": "NDB",
-            "frequency_khz": "289",
-            "latitude_deg": "16.007200241088867",
-            "longitude_deg": "-85.9738998413086",
-            "elevation_ft": "",
-            "iso_country": "HN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.068",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "MHTJ"
-        }
     ]
 }

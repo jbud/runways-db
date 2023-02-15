@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "318139",
-            "airport_ref": "318138",
-            "airport_ident": "LHUH",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "135.7"
-        }
-    ],
-    "country": {
-        "id": "302693",
-        "code": "HU",
-        "name": "Hungary",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
-        "keywords": "Repülőterek Magyarország"
-    },
-    "region": {
-        "id": "304065",
-        "code": "HU-FE",
-        "local_code": "FE",
-        "name": "Fejér County",
-        "continent": "EU",
-        "iso_country": "HU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Fejér_County",
-        "keywords": "Airports in Fejér County"
-    }
+    ]
 }

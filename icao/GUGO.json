@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302576",
-        "code": "GN",
-        "name": "Guinea",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Guinea",
-        "keywords": "Aéroports de la Guinée"
-    },
-    "region": {
-        "id": "316859",
-        "code": "GN-F",
-        "local_code": "F",
-        "name": "Faranah Region",
-        "continent": "AF",
-        "iso_country": "GN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Faranah_Region",
-        "keywords": "Airports in Faranah Region"
-    }
+    ]
 }

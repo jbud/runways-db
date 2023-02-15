@@ -62,49 +62,5 @@
             "he_heading_degT": "317.3",
             "he_displaced_threshold_ft": "375"
         }
-    ],
-    "freqs": [
-        {
-            "id": "48302",
-            "airport_ref": "6442",
-            "airport_ident": "UBBN",
-            "type": "A/D",
-            "description": "APP",
-            "frequency_mhz": "127.9"
-        },
-        {
-            "id": "48303",
-            "airport_ref": "6442",
-            "airport_ident": "UBBN",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.5"
-        },
-        {
-            "id": "48304",
-            "airport_ref": "6442",
-            "airport_ident": "UBBN",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.2"
-        }
-    ],
-    "country": {
-        "id": "302621",
-        "code": "AZ",
-        "name": "Azerbaijan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Azerbaijan",
-        "keywords": "Azerbaijani airports"
-    },
-    "region": {
-        "id": "303014",
-        "code": "AZ-NX",
-        "local_code": "NX",
-        "name": "Nakhchivan Autonomous Republic",
-        "continent": "AS",
-        "iso_country": "AZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nakhchivan_Autonomous_Republic",
-        "keywords": "Airports in Nakhchivan Autonomous Republic"
-    }
+    ]
 }

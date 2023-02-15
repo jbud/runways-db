@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Cape_Eleuthera_Airport",
-    "keywords": "CEL, MYEC, MYZ2",
-    "country": {
-        "id": "302728",
-        "code": "BS",
-        "name": "Bahamas",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bahamas",
-        "keywords": "Bahaman airports"
-    },
-    "region": {
-        "id": "303245",
-        "code": "BS-SE",
-        "local_code": "SE",
-        "name": "South Eleuthera",
-        "continent": "NA",
-        "iso_country": "BS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Eleuthera",
-        "keywords": "Airports in South Eleuthera"
-    }
+    "keywords": "CEL, MYEC, MYZ2"
 }

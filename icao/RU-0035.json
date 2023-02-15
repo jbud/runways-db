@@ -40,49 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "308520",
-            "airport_ref": "42924",
-            "airport_ident": "RU-0035",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.2"
-        },
-        {
-            "id": "308521",
-            "airport_ref": "42924",
-            "airport_ident": "RU-0035",
-            "type": "RADAR",
-            "description": "Ermitazh Radar",
-            "frequency_mhz": "120.2"
-        },
-        {
-            "id": "308522",
-            "airport_ref": "42924",
-            "airport_ident": "RU-0035",
-            "type": "Tower",
-            "description": "Ermitazh TWR",
-            "frequency_mhz": "120.2"
-        }
-    ],
-    "country": {
-        "id": "302714",
-        "code": "RU",
-        "name": "Russia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
-        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
-    },
-    "region": {
-        "id": "305272",
-        "code": "RU-CE",
-        "local_code": "CE",
-        "name": "Chechen Republic",
-        "continent": "EU",
-        "iso_country": "RU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chechen_Republic",
-        "keywords": "Chechnya"
-    }
+    ]
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://cl.pwszchelm.pl/",
     "wikipedia_link": "https://pl.wikipedia.org/wiki/Lotnisko_Che%C5%82m-Depu%C5%82tycze_Kr%C3%B3lewskie",
-    "keywords": "Chełm Depłutycze",
-    "country": {
-        "id": "302710",
-        "code": "PL",
-        "name": "Poland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
-        "keywords": "Lotniska Polski"
-    },
-    "region": {
-        "id": "305148",
-        "code": "PL-LU",
-        "local_code": "LU",
-        "name": "Lublin Voivodeship",
-        "continent": "EU",
-        "iso_country": "PL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lublin_Voivodeship",
-        "keywords": "Lubelskie"
-    }
+    "keywords": "Chełm Depłutycze"
 }

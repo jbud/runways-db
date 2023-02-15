@@ -40,33 +40,5 @@
             "he_heading_degT": "277",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "67910",
-            "airport_ref": "20668",
-            "airport_ident": "KNY2",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306110",
-        "code": "US-NY",
-        "local_code": "NY",
-        "name": "New York",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
-        "keywords": "Airports in New York"
-    }
+    ]
 }

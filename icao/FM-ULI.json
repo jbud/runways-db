@@ -16,23 +16,5 @@
     "local_code": "TT02",
     "home_link": "http://www.ict.fm/civilaviation/ulithi.html",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Ulithi_Airport",
-    "keywords": "Ulithi Airport, TT02",
-    "country": {
-        "id": "302767",
-        "code": "FM",
-        "name": "Micronesia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia",
-        "keywords": "Micronesian airports"
-    },
-    "region": {
-        "id": "303817",
-        "code": "FM-YAP",
-        "local_code": "YAP",
-        "name": "Yap State",
-        "continent": "OC",
-        "iso_country": "FM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Yap_State",
-        "keywords": "Airports in Yap State"
-    }
+    "keywords": "Ulithi Airport, TT02"
 }

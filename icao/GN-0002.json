@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302576",
-        "code": "GN",
-        "name": "Guinea",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Guinea",
-        "keywords": "Aéroports de la Guinée"
-    },
-    "region": {
-        "id": "306775",
-        "code": "GN-C",
-        "local_code": "C",
-        "name": "Conakry Special Zone",
-        "continent": "AF",
-        "iso_country": "GN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Conakry_Special_Zone",
-        "keywords": "Airports in Conakry Special Zone"
-    }
+    "keywords": ""
 }

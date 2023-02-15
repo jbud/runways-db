@@ -62,57 +62,5 @@
             "he_heading_degT": "268",
             "he_displaced_threshold_ft": "397"
         }
-    ],
-    "freqs": [
-        {
-            "id": "58262",
-            "airport_ref": "2393",
-            "airport_ident": "EGBN",
-            "type": "A/G",
-            "description": "A/G VOICE RDO",
-            "frequency_mhz": "134.875"
-        }
-    ],
-    "country": {
-        "id": "302688",
-        "code": "GB",
-        "name": "United Kingdom",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
-        "keywords": "Great Britain"
-    },
-    "region": {
-        "id": "306374",
-        "code": "GB-ENG",
-        "local_code": "ENG",
-        "name": "England",
-        "continent": "EU",
-        "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
-        "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "91667",
-            "filename": "Nottingham_NDB_GB",
-            "ident": "NOT",
-            "name": "Nottingham",
-            "type": "NDB",
-            "frequency_khz": "430",
-            "latitude_deg": "52.92169952392578",
-            "longitude_deg": "-1.0793299674987793",
-            "elevation_ft": "",
-            "iso_country": "GB",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.525",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EGBN"
-        }
     ]
 }

@@ -62,33 +62,5 @@
             "he_heading_degT": "263",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "55334",
-            "airport_ref": "3106",
-            "airport_ident": "GMFM",
-            "type": "ARTC",
-            "description": "CASABLANCA APP",
-            "frequency_mhz": "124.5"
-        }
-    ],
-    "country": {
-        "id": "302584",
-        "code": "MA",
-        "name": "Morocco",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Morocco",
-        "keywords": "مطارات المغرب"
-    },
-    "region": {
-        "id": "304596",
-        "code": "MA-MEK",
-        "local_code": "MEK",
-        "name": "Meknsès Province",
-        "continent": "AF",
-        "iso_country": "MA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Meknsès_Province",
-        "keywords": "Airports in Meknsès Province"
-    }
+    ]
 }

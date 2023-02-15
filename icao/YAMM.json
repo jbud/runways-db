@@ -40,57 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "72087",
-            "airport_ref": "38229",
-            "airport_ident": "YAMM",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "120.5"
-        },
-        {
-            "id": "72089",
-            "airport_ref": "38229",
-            "airport_ident": "YAMM",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "115.9"
-        },
-        {
-            "id": "72090",
-            "airport_ref": "38229",
-            "airport_ident": "YAMM",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "119.8"
-        },
-        {
-            "id": "72088",
-            "airport_ref": "38229",
-            "airport_ident": "YAMM",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "121.85"
-        }
-    ],
-    "country": {
-        "id": "302764",
-        "code": "AU",
-        "name": "Australia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
-        "keywords": "Australian airports"
-    },
-    "region": {
-        "id": "302970",
-        "code": "AU-NT",
-        "local_code": "NT",
-        "name": "Northern Territory",
-        "continent": "OC",
-        "iso_country": "AU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
-        "keywords": "Airports in Northern Territory"
-    }
+    ]
 }

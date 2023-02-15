@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Ouanda_Djall%C3%A9_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302562",
-        "code": "CF",
-        "name": "Central African Republic",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_African_Republic",
-        "keywords": "Airports in Central African Republic"
-    },
-    "region": {
-        "id": "303339",
-        "code": "CF-VR",
-        "local_code": "VR",
-        "name": "Vakaga",
-        "continent": "AF",
-        "iso_country": "CF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Vakaga",
-        "keywords": "Airports in Vakaga"
-    }
+    "keywords": ""
 }

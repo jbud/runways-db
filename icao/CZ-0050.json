@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "315752",
-            "airport_ref": "315495",
-            "airport_ident": "CZ-0050",
-            "type": "info",
-            "description": "Pěnčín Radio",
-            "frequency_mhz": "125.825"
-        }
-    ],
-    "country": {
-        "id": "302680",
-        "code": "CZ",
-        "name": "Czech Republic",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
-        "keywords": "Letiště České republiky, Czechia"
-    },
-    "region": {
-        "id": "303538",
-        "code": "CZ-OL",
-        "local_code": "OL",
-        "name": "Olomouc Region",
-        "continent": "EU",
-        "iso_country": "CZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Olomouc_Region",
-        "keywords": "Olomoucký kraj, Moravia"
-    }
+    ]
 }

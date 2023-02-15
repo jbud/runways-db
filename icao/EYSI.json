@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "322776",
-            "airport_ref": "30415",
-            "airport_ident": "EYSI",
-            "type": "Silute",
-            "description": "Silute",
-            "frequency_mhz": "122"
-        }
-    ],
-    "country": {
-        "id": "302700",
-        "code": "LT",
-        "name": "Lithuania",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lithuania",
-        "keywords": "Lithuanian airports"
-    },
-    "region": {
-        "id": "304495",
-        "code": "LT-KL",
-        "local_code": "KL",
-        "name": "Klaipėda County",
-        "continent": "EU",
-        "iso_country": "LT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Klaip%C4%97da_County",
-        "keywords": "Airports in Klaipėda County"
-    }
+    ]
 }

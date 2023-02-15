@@ -40,49 +40,5 @@
             "he_heading_degT": "358.1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "57397",
-            "airport_ref": "2709",
-            "airport_ident": "ESSU",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "126.855"
-        },
-        {
-            "id": "57398",
-            "airport_ref": "2709",
-            "airport_ident": "ESSU",
-            "type": "APP",
-            "description": "CON",
-            "frequency_mhz": "136.2"
-        },
-        {
-            "id": "57399",
-            "airport_ref": "2709",
-            "airport_ident": "ESSU",
-            "type": "INFO",
-            "description": "MIL INFO",
-            "frequency_mhz": "126.855"
-        }
-    ],
-    "country": {
-        "id": "302715",
-        "code": "SE",
-        "name": "Sweden",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
-        "keywords": "Flygplatserna, Sverige"
-    },
-    "region": {
-        "id": "305415",
-        "code": "SE-D",
-        "local_code": "D",
-        "name": "Södermanlands län",
-        "continent": "EU",
-        "iso_country": "SE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Södermanlands_län",
-        "keywords": "Södermanland County"
-    }
+    ]
 }

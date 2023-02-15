@@ -40,57 +40,5 @@
             "he_heading_degT": "273",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "56479",
-            "airport_ref": "5735",
-            "airport_ident": "RPVD",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "129.7"
-        }
-    ],
-    "country": {
-        "id": "302656",
-        "code": "PH",
-        "name": "Philippines",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
-        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
-    },
-    "region": {
-        "id": "305107",
-        "code": "PH-NER",
-        "local_code": "NER",
-        "name": "Negros Oriental Province",
-        "continent": "AS",
-        "iso_country": "PH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Negros_Oriental_Province",
-        "keywords": "Airports in Negros Oriental Province"
-    },
-    "navaids": [
-        {
-            "id": "87347",
-            "filename": "Dumaguete_VOR_PH",
-            "ident": "DG",
-            "name": "Dumaguete",
-            "type": "VOR",
-            "frequency_khz": "114100",
-            "latitude_deg": "9.333660125732422",
-            "longitude_deg": "123.30599975585938",
-            "elevation_ft": "15",
-            "iso_country": "PH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.18",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RPVD"
-        }
     ]
 }

@@ -16,23 +16,5 @@
     "local_code": "RK5N",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302643",
-        "code": "KR",
-        "name": "South Korea",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Korea",
-        "keywords": "한국의 공항"
-    },
-    "region": {
-        "id": "304404",
-        "code": "KR-29",
-        "local_code": "29",
-        "name": "Gwangju Gwang'yeogsi",
-        "continent": "AS",
-        "iso_country": "KR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Gwangju_Gwang'yeogsi",
-        "keywords": "Airports in Gwangju Gwang'yeogsi"
-    }
+    "keywords": ""
 }

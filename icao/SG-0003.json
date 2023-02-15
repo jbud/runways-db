@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "https://www.youtube.com/watch?v=CBMD4QTSyqM",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302661",
-        "code": "SG",
-        "name": "Singapore",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Singapore",
-        "keywords": "Singaporean airports"
-    },
-    "region": {
-        "id": "306652",
-        "code": "SG-03",
-        "local_code": "03",
-        "name": "North West",
-        "continent": "AS",
-        "iso_country": "SG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_West",
-        "keywords": "Airports in North West"
-    }
+    "keywords": ""
 }

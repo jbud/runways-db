@@ -40,41 +40,5 @@
             "he_heading_degT": "356.9",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "48428",
-            "airport_ref": "5779",
-            "airport_ident": "SADO",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "124.5"
-        },
-        {
-            "id": "48429",
-            "airport_ref": "5779",
-            "airport_ident": "SADO",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "123.8"
-        }
-    ],
-    "country": {
-        "id": "302789",
-        "code": "AR",
-        "name": "Argentina",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
-        "keywords": "Aeropuertos de Argentina"
-    },
-    "region": {
-        "id": "302933",
-        "code": "AR-B",
-        "local_code": "B",
-        "name": "Buenos Aires Province",
-        "continent": "SA",
-        "iso_country": "AR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
-        "keywords": "Airports in Buenos Aires Province"
-    }
+    ]
 }

@@ -62,33 +62,5 @@
             "he_heading_degT": "331",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "59790",
-            "airport_ref": "23322",
-            "airport_ident": "NV11",
-            "type": "APP",
-            "description": "DREAMLAND APP",
-            "frequency_mhz": "118.7"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306109",
-        "code": "US-NV",
-        "local_code": "NV",
-        "name": "Nevada",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nevada",
-        "keywords": "Airports in Nevada"
-    }
+    ]
 }

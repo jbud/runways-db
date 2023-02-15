@@ -40,57 +40,5 @@
             "he_heading_degT": "354.1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "49527",
-            "airport_ref": "26737",
-            "airport_ident": "VYPT",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
-    "country": {
-        "id": "302649",
-        "code": "MM",
-        "name": "Myanmar",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Burma",
-        "keywords": "Myanmar"
-    },
-    "region": {
-        "id": "304673",
-        "code": "MM-11",
-        "local_code": "11",
-        "name": "Kachin State",
-        "continent": "AS",
-        "iso_country": "MM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kachin_State",
-        "keywords": "Airports in Kachin State"
-    },
-    "navaids": [
-        {
-            "id": "92748",
-            "filename": "Putao_NDB_MM",
-            "ident": "PT",
-            "name": "Putao",
-            "type": "NDB",
-            "frequency_khz": "340",
-            "latitude_deg": "27.320600509643555",
-            "longitude_deg": "97.43779754638672",
-            "elevation_ft": "",
-            "iso_country": "MM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.438",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VYPT"
-        }
     ]
 }

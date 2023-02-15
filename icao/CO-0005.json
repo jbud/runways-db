@@ -16,23 +16,5 @@
     "local_code": "1BA",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302793",
-        "code": "CO",
-        "name": "Colombia",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
-        "keywords": "Aeropuertos de Colombia"
-    },
-    "region": {
-        "id": "303468",
-        "code": "CO-CHO",
-        "local_code": "CHO",
-        "name": "Chocó Department",
-        "continent": "SA",
-        "iso_country": "CO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chocó_Department",
-        "keywords": "Airports in Chocó Department"
-    }
+    "keywords": ""
 }

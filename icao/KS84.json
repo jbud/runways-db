@@ -40,49 +40,5 @@
             "he_heading_degT": "270",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "67295",
-            "airport_ref": "21024",
-            "airport_ident": "KS84",
-            "type": "CNTR",
-            "description": "SEATTLE",
-            "frequency_mhz": "123.95"
-        },
-        {
-            "id": "67296",
-            "airport_ref": "21024",
-            "airport_ident": "KS84",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        },
-        {
-            "id": "67297",
-            "airport_ref": "21024",
-            "airport_ident": "KS84",
-            "type": "RCO",
-            "description": "CASCADE RCO",
-            "frequency_mhz": "122.35"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306089",
-        "code": "US-ID",
-        "local_code": "ID",
-        "name": "Idaho",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho",
-        "keywords": "Airports in Idaho"
-    }
+    ]
 }

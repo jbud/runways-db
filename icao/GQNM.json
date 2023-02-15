@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Dahara_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302587",
-        "code": "MR",
-        "name": "Mauritania",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mauritania",
-        "keywords": "مطارات موريتانيا"
-    },
-    "region": {
-        "id": "304707",
-        "code": "MR-01",
-        "local_code": "01",
-        "name": "Hodh ech Chargui Region",
-        "continent": "AF",
-        "iso_country": "MR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hodh_ech_Chargui_Region",
-        "keywords": "Airports in Hodh ech Chargui Region"
-    }
+    "keywords": ""
 }

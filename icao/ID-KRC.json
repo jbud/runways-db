@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Depati_Parbo_Airport",
-    "keywords": "Kerinci",
-    "country": {
-        "id": "302632",
-        "code": "ID",
-        "name": "Indonesia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
-        "keywords": "Bandara di Indonesia"
-    },
-    "region": {
-        "id": "304104",
-        "code": "ID-JA",
-        "local_code": "JA",
-        "name": "Jambi",
-        "continent": "AS",
-        "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Jambi",
-        "keywords": "Airports in Jambi"
-    }
+    "keywords": "Kerinci"
 }

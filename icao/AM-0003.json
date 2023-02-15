@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Oktember, Հոկտեմբեր, Sardarapat",
-    "country": {
-        "id": "302620",
-        "code": "AM",
-        "name": "Armenia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Armenia",
-        "keywords": ""
-    },
-    "region": {
-        "id": "302901",
-        "code": "AM-AV",
-        "local_code": "AV",
-        "name": "Armavir Province",
-        "continent": "AS",
-        "iso_country": "AM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Armavir_Province",
-        "keywords": "Արմավիր"
-    }
+    "keywords": "Oktember, Հոկտեմբեր, Sardarapat"
 }

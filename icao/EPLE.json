@@ -40,33 +40,5 @@
             "he_heading_degT": "260",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "56205",
-            "airport_ref": "2614",
-            "airport_ident": "EPLE",
-            "type": "INFO",
-            "description": "AERO",
-            "frequency_mhz": "125.55"
-        }
-    ],
-    "country": {
-        "id": "302710",
-        "code": "PL",
-        "name": "Poland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
-        "keywords": "Lotniska Polski"
-    },
-    "region": {
-        "id": "305144",
-        "code": "PL-DS",
-        "local_code": "DS",
-        "name": "Lower Silesian Voivodeship",
-        "continent": "EU",
-        "iso_country": "PL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Silesian_Voivodeship",
-        "keywords": "Dolnośląskie"
-    }
+    ]
 }

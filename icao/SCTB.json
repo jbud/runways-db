@@ -40,41 +40,5 @@
             "he_heading_degT": "192.8",
             "he_displaced_threshold_ft": "552"
         }
-    ],
-    "freqs": [
-        {
-            "id": "51295",
-            "airport_ref": "6041",
-            "airport_ident": "SCTB",
-            "type": "GND",
-            "description": "Tobalaba GND",
-            "frequency_mhz": "120.5"
-        },
-        {
-            "id": "51296",
-            "airport_ref": "6041",
-            "airport_ident": "SCTB",
-            "type": "TWR",
-            "description": "TOBALABA TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
-    "country": {
-        "id": "302792",
-        "code": "CL",
-        "name": "Chile",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
-        "keywords": "Aeropuertos de Chile"
-    },
-    "region": {
-        "id": "303407",
-        "code": "CL-RM",
-        "local_code": "RM",
-        "name": "Santiago Metropolitan Region",
-        "continent": "SA",
-        "iso_country": "CL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Santiago_Metropolitan_Region",
-        "keywords": "Airports in Santiago Metropolitan Region"
-    }
+    ]
 }

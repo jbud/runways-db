@@ -40,57 +40,5 @@
             "he_heading_degT": "327.5",
             "he_displaced_threshold_ft": "1480"
         }
-    ],
-    "freqs": [
-        {
-            "id": "53980",
-            "airport_ref": "26557",
-            "airport_ident": "VIGG",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.3"
-        }
-    ],
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304175",
-        "code": "IN-HP",
-        "local_code": "HP",
-        "name": "Himachal Pradesh",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
-        "keywords": "Airports in Himachal Pradesh"
-    },
-    "navaids": [
-        {
-            "id": "89883",
-            "filename": "Kangra_NDB_IN",
-            "ident": "KN",
-            "name": "Kangra",
-            "type": "NDB",
-            "frequency_khz": "237",
-            "latitude_deg": "32.169898986816406",
-            "longitude_deg": "76.26370239257812",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.289",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VIGG"
-        }
     ]
 }

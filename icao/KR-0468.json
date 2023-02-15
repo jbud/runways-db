@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Centro Palace Apartments Heliports",
-    "country": {
-        "id": "302643",
-        "code": "KR",
-        "name": "South Korea",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Korea",
-        "keywords": "한국의 공항"
-    },
-    "region": {
-        "id": "304402",
-        "code": "KR-27",
-        "local_code": "27",
-        "name": "Daegu Gwang'yeogsi",
-        "continent": "AS",
-        "iso_country": "KR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Daegu_Gwang'yeogsi",
-        "keywords": "Airports in Daegu Gwang'yeogsi"
-    }
+    "keywords": "Centro Palace Apartments Heliports"
 }

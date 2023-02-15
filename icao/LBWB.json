@@ -40,23 +40,5 @@
             "he_heading_degT": "338.5",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302677",
-        "code": "BG",
-        "name": "Bulgaria",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bulgaria",
-        "keywords": "Bulgarian airports"
-    },
-    "region": {
-        "id": "303133",
-        "code": "BG-08",
-        "local_code": "08",
-        "name": "Dobric Province",
-        "continent": "EU",
-        "iso_country": "BG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Dobric_Province",
-        "keywords": "Airports in Dobric Province"
-    }
+    ]
 }

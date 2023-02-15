@@ -40,49 +40,5 @@
             "he_heading_degT": "212",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "68513",
-            "airport_ref": "20176",
-            "airport_ident": "KIMS",
-            "type": "A/D",
-            "description": "LOUISVILLE APP/DEP",
-            "frequency_mhz": "123.675"
-        },
-        {
-            "id": "68514",
-            "airport_ref": "20176",
-            "airport_ident": "KIMS",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.175"
-        },
-        {
-            "id": "68515",
-            "airport_ref": "20176",
-            "airport_ident": "KIMS",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306091",
-        "code": "US-IN",
-        "local_code": "IN",
-        "name": "Indiana",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
-        "keywords": "Airports in Indiana"
-    }
+    ]
 }

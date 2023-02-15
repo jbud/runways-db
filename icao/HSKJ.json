@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kago_Kaju_Airport",
-    "keywords": "HSKJ, Kago Kaju",
-    "country": {
-        "id": "302614",
-        "code": "SS",
-        "name": "South Sudan",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Sudan",
-        "keywords": "South Sudanese airports"
-    },
-    "region": {
-        "id": "305400",
-        "code": "SS-17",
-        "local_code": "17",
-        "name": "Central Equatoria State",
-        "continent": "AF",
-        "iso_country": "SS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Equatoria",
-        "keywords": "Airports in Central Equatoria State"
-    }
+    "keywords": "HSKJ, Kago Kaju"
 }

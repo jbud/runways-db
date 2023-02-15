@@ -40,57 +40,5 @@
             "he_heading_degT": "230",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "53804",
-            "airport_ref": "26449",
-            "airport_ident": "VAKE",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.3"
-        }
-    ],
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304174",
-        "code": "IN-GJ",
-        "local_code": "GJ",
-        "name": "Gujarat",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Gujarat",
-        "keywords": "Airports in Gujarat"
-    },
-    "navaids": [
-        {
-            "id": "89702",
-            "filename": "Kandla_NDB_IN",
-            "ident": "KD",
-            "name": "Kandla",
-            "type": "NDB",
-            "frequency_khz": "335",
-            "latitude_deg": "23.111600875854492",
-            "longitude_deg": "70.10749816894531",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.035",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VAKE"
-        }
     ]
 }

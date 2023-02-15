@@ -62,33 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "324361",
-            "airport_ref": "30377",
-            "airport_ident": "SADS",
-            "type": "COM",
-            "description": "San Justo Traffic",
-            "frequency_mhz": "118.1"
-        }
-    ],
-    "country": {
-        "id": "302789",
-        "code": "AR",
-        "name": "Argentina",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
-        "keywords": "Aeropuertos de Argentina"
-    },
-    "region": {
-        "id": "302933",
-        "code": "AR-B",
-        "local_code": "B",
-        "name": "Buenos Aires Province",
-        "continent": "SA",
-        "iso_country": "AR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
-        "keywords": "Airports in Buenos Aires Province"
-    }
+    ]
 }

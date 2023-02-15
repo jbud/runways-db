@@ -40,33 +40,5 @@
             "he_heading_degT": "329",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "309769",
-            "airport_ref": "26572",
-            "airport_ident": "VIPL",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "122.5"
-        }
-    ],
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304189",
-        "code": "IN-PB",
-        "local_code": "PB",
-        "name": "Punjab",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Punjab",
-        "keywords": "Airports in Punjab"
-    }
+    ]
 }

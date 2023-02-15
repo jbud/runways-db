@@ -40,23 +40,5 @@
             "he_heading_degT": "240",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302789",
-        "code": "AR",
-        "name": "Argentina",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
-        "keywords": "Aeropuertos de Argentina"
-    },
-    "region": {
-        "id": "302941",
-        "code": "AR-L",
-        "local_code": "L",
-        "name": "La Pampa Province",
-        "continent": "SA",
-        "iso_country": "AR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/La_Pampa_Province",
-        "keywords": "Airports in La Pampa Province"
-    }
+    ]
 }

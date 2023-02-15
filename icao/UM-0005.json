@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kingman_Reef",
-    "keywords": "",
-    "country": {
-        "id": "302785",
-        "code": "UM",
-        "name": "United States Minor Outlying Islands",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands",
-        "keywords": "Airports in United States Minor Outlying Islands"
-    },
-    "region": {
-        "id": "306073",
-        "code": "UM-89",
-        "local_code": "89",
-        "name": "Kingman Reef",
-        "continent": "OC",
-        "iso_country": "UM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kingman_Reef",
-        "keywords": "Airports in Kingman Reef"
-    }
+    "keywords": ""
 }

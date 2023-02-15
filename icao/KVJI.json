@@ -40,57 +40,5 @@
             "he_heading_degT": "236",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "70570",
-            "airport_ref": "21326",
-            "airport_ident": "KVJI",
-            "type": "A/D",
-            "description": "TRI CITY APP/DEP",
-            "frequency_mhz": "128.67"
-        },
-        {
-            "id": "70571",
-            "airport_ref": "21326",
-            "airport_ident": "KVJI",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "128.125"
-        },
-        {
-            "id": "70572",
-            "airport_ref": "21326",
-            "airport_ident": "KVJI",
-            "type": "FSS",
-            "description": "NASHVILLE RDO",
-            "frequency_mhz": "114.6"
-        },
-        {
-            "id": "70573",
-            "airport_ref": "21326",
-            "airport_ident": "KVJI",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306122",
-        "code": "US-VA",
-        "local_code": "VA",
-        "name": "Virginia",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
-        "keywords": "Virginian airports"
-    }
+    ]
 }

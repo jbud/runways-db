@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302617",
-        "code": "TF",
-        "name": "French Southern and Antarctic Lands",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/French_Southern_and_Antarctic_Lands",
-        "keywords": "Airports in French Southern and Antarctic Lands"
-    },
-    "region": {
-        "id": "305702",
-        "code": "TF-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
-        "continent": "AF",
-        "iso_country": "TF",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
-    }
+    ]
 }

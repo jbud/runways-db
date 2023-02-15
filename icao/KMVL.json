@@ -40,49 +40,5 @@
             "he_heading_degT": "178.3",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "68894",
-            "airport_ref": "20575",
-            "airport_ident": "KMVL",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "135.625"
-        },
-        {
-            "id": "68895",
-            "airport_ref": "20575",
-            "airport_ident": "KMVL",
-            "type": "CNTR",
-            "description": "BOSTON CNTR",
-            "frequency_mhz": "135.7"
-        },
-        {
-            "id": "68896",
-            "airport_ref": "20575",
-            "airport_ident": "KMVL",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306123",
-        "code": "US-VT",
-        "local_code": "VT",
-        "name": "Vermont",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Vermont",
-        "keywords": "Airports in Vermont"
-    }
+    ]
 }

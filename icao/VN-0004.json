@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Y%C3%AAn_B%C3%A1i_Air_Base",
-    "keywords": "Sân bay Quân sự Yên Bái",
-    "country": {
-        "id": "302670",
-        "code": "VN",
-        "name": "Vietnam",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Vietnam",
-        "keywords": "Các sân bay của Việt Nam"
-    },
-    "region": {
-        "id": "351361",
-        "code": "VN-NW",
-        "local_code": "NW",
-        "name": "Northwest Region",
-        "continent": "AS",
-        "iso_country": "VN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Northwest_(Vietnam)",
-        "keywords": "Airports in Northwest Region"
-    }
+    "keywords": "Sân bay Quân sự Yên Bái"
 }

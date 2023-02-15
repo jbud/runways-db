@@ -40,33 +40,5 @@
             "he_heading_degT": "275",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "302433",
-            "airport_ref": "29495",
-            "airport_ident": "LSGE",
-            "type": "AFIS",
-            "description": "",
-            "frequency_mhz": "120.63"
-        }
-    ],
-    "country": {
-        "id": "302679",
-        "code": "CH",
-        "name": "Switzerland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
-        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
-    },
-    "region": {
-        "id": "303358",
-        "code": "CH-FR",
-        "local_code": "FR",
-        "name": "Canton of Fribourg",
-        "continent": "EU",
-        "iso_country": "CH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Fribourg",
-        "keywords": "Airports in Canton of Fribourg"
-    }
+    ]
 }

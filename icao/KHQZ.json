@@ -40,49 +40,5 @@
             "he_heading_degT": "1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "62951",
-            "airport_ref": "20078",
-            "airport_ident": "KHQZ",
-            "type": "A/D",
-            "description": "REGIONAL APP/DEP",
-            "frequency_mhz": "125.2"
-        },
-        {
-            "id": "62952",
-            "airport_ref": "20078",
-            "airport_ident": "KHQZ",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.175"
-        },
-        {
-            "id": "62953",
-            "airport_ref": "20078",
-            "airport_ident": "KHQZ",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123.05"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306119",
-        "code": "US-TX",
-        "local_code": "TX",
-        "name": "Texas",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
-        "keywords": "Texan airports"
-    }
+    ]
 }

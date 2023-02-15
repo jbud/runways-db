@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302718",
-        "code": "SM",
-        "name": "San Marino",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/San_Marino",
-        "keywords": "Airports in San Marino"
-    },
-    "region": {
-        "id": "306882",
-        "code": "SM-03",
-        "local_code": "03",
-        "name": "Domagnano",
-        "continent": "EU",
-        "iso_country": "SM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Domagnano",
-        "keywords": "Airports in Domagnano"
-    }
+    ]
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75273",
-            "airport_ref": "29052",
-            "airport_ident": "EBTX",
-            "type": "INFO",
-            "description": "Verviers-Theux Radio",
-            "frequency_mhz": "119"
-        }
-    ],
-    "country": {
-        "id": "302676",
-        "code": "BE",
-        "name": "Belgium",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Belgium",
-        "keywords": "Aéroports de Belgique,Luchthavens van België"
-    },
-    "region": {
-        "id": "303077",
-        "code": "BE-WLG",
-        "local_code": "WLG",
-        "name": "Liège Province",
-        "continent": "EU",
-        "iso_country": "BE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Li%C3%A8ge_Province",
-        "keywords": "Wallonia, Walloon Region"
-    }
+    ]
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "353",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "58557",
-            "airport_ref": "6417",
-            "airport_ident": "UK59",
-            "type": "TWR",
-            "description": "ROGACH START",
-            "frequency_mhz": "124"
-        }
-    ],
-    "country": {
-        "id": "302719",
-        "code": "UA",
-        "name": "Ukraine",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ukraine",
-        "keywords": "Аеропорти України"
-    },
-    "region": {
-        "id": "306002",
-        "code": "UA-63",
-        "local_code": "63",
-        "name": "Kharkiv Oblast",
-        "continent": "EU",
-        "iso_country": "UA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kharkiv_Oblast",
-        "keywords": "Airports in Kharkiv Oblast"
-    }
+    ]
 }

@@ -40,49 +40,5 @@
             "he_heading_degT": "284",
             "he_displaced_threshold_ft": "323"
         }
-    ],
-    "freqs": [
-        {
-            "id": "328033",
-            "airport_ref": "40554",
-            "airport_ident": "TT-TT01",
-            "type": "CTAF",
-            "description": "Charlie Tango",
-            "frequency_mhz": "129.9"
-        },
-        {
-            "id": "328044",
-            "airport_ref": "40554",
-            "airport_ident": "TT-TT01",
-            "type": "Flight Planning",
-            "description": "Piarco Tower Ops",
-            "frequency_mhz": "0"
-        },
-        {
-            "id": "328043",
-            "airport_ref": "40554",
-            "airport_ident": "TT-TT01",
-            "type": "Piarco Apch",
-            "description": "Piarco Approach",
-            "frequency_mhz": "119"
-        }
-    ],
-    "country": {
-        "id": "302754",
-        "code": "TT",
-        "name": "Trinidad and Tobago",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago",
-        "keywords": "Airports in Trinidad and Tobago"
-    },
-    "region": {
-        "id": "305920",
-        "code": "TT-CTT",
-        "local_code": "CTT",
-        "name": "Couva-Tabaquite-Talparo",
-        "continent": "NA",
-        "iso_country": "TT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Couva-Tabaquite-Talparo",
-        "keywords": "Airports in Couva-Tabaquite-Talparo"
-    }
+    ]
 }

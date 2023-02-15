@@ -84,57 +84,5 @@
             "he_heading_degT": "359.2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "68467",
-            "airport_ref": "19858",
-            "airport_ident": "KFEP",
-            "type": "A/D",
-            "description": "ROCKFORD APP/DEP",
-            "frequency_mhz": "126"
-        },
-        {
-            "id": "68468",
-            "airport_ref": "19858",
-            "airport_ident": "KFEP",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.025"
-        },
-        {
-            "id": "68469",
-            "airport_ref": "19858",
-            "airport_ident": "KFEP",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.85"
-        },
-        {
-            "id": "68470",
-            "airport_ref": "19858",
-            "airport_ident": "KFEP",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306090",
-        "code": "US-IL",
-        "local_code": "IL",
-        "name": "Illinois",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
-        "keywords": "Airports in Illinois"
-    }
+    ]
 }

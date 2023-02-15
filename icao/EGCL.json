@@ -62,57 +62,5 @@
             "he_heading_degT": "363",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "71930",
-            "airport_ref": "29117",
-            "airport_ident": "EGCL",
-            "type": "A/G",
-            "description": "Fenland Radio",
-            "frequency_mhz": "122.93"
-        }
-    ],
-    "country": {
-        "id": "302688",
-        "code": "GB",
-        "name": "United Kingdom",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
-        "keywords": "Great Britain"
-    },
-    "region": {
-        "id": "306374",
-        "code": "GB-ENG",
-        "local_code": "ENG",
-        "name": "England",
-        "continent": "EU",
-        "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
-        "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "88081",
-            "filename": "Fenland_NDB_GB",
-            "ident": "FNL",
-            "name": "Fenland",
-            "type": "NDB",
-            "frequency_khz": "401",
-            "latitude_deg": "52.741600036621094",
-            "longitude_deg": "-0.027941999956965446",
-            "elevation_ft": "",
-            "iso_country": "GB",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.261",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EGCL"
-        }
     ]
 }

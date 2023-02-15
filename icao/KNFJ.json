@@ -84,49 +84,5 @@
             "he_heading_degT": "360",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "58762",
-            "airport_ref": "20638",
-            "airport_ident": "KNFJ",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "28.2"
-        },
-        {
-            "id": "58763",
-            "airport_ref": "20638",
-            "airport_ident": "KNFJ",
-            "type": "DEP",
-            "description": "PENSACOLA DEP",
-            "frequency_mhz": "37.2"
-        },
-        {
-            "id": "58764",
-            "airport_ref": "20638",
-            "airport_ident": "KNFJ",
-            "type": "TWR",
-            "description": "RDO/TWR",
-            "frequency_mhz": "121.4"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306085",
-        "code": "US-FL",
-        "local_code": "FL",
-        "name": "Florida",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
-        "keywords": "Airports in Florida"
-    }
+    ]
 }

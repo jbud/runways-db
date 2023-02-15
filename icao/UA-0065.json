@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Вертолётная площадка Респект Холл",
-    "country": {
-        "id": "302719",
-        "code": "UA",
-        "name": "Ukraine",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ukraine",
-        "keywords": "Аеропорти України"
-    },
-    "region": {
-        "id": "305994",
-        "code": "UA-43",
-        "local_code": "43",
-        "name": "Crimea (Autonomous Republic)",
-        "continent": "EU",
-        "iso_country": "UA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Autonomous_Republic_of_Crimea",
-        "keywords": "Автономна Республіка Крим"
-    }
+    "keywords": "Вертолётная площадка Респект Холл"
 }

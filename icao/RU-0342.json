@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Yuzhny Airfield, ВПП Южная, ВПП Южный",
-    "country": {
-        "id": "302714",
-        "code": "RU",
-        "name": "Russia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
-        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
-    },
-    "region": {
-        "id": "305310",
-        "code": "RU-NVS",
-        "local_code": "NVS",
-        "name": "Novosibirsk Oblast",
-        "continent": "EU",
-        "iso_country": "RU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Novosibirsk_Oblast",
-        "keywords": "Airports in Novosibirsk Oblast"
-    }
+    "keywords": "Yuzhny Airfield, ВПП Южная, ВПП Южный"
 }

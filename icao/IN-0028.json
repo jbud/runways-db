@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Lunglei,helipad",
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304186",
-        "code": "IN-MZ",
-        "local_code": "MZ",
-        "name": "Mizoram",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mizoram",
-        "keywords": "Airports in Mizoram"
-    }
+    "keywords": "Lunglei,helipad"
 }

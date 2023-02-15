@@ -40,49 +40,5 @@
             "he_heading_degT": "279",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "313264",
-            "airport_ref": "313262",
-            "airport_ident": "SBSG",
-            "type": "ATIS",
-            "description": "",
-            "frequency_mhz": "127.6"
-        },
-        {
-            "id": "313266",
-            "airport_ref": "313262",
-            "airport_ident": "SBSG",
-            "type": "ILS",
-            "description": "",
-            "frequency_mhz": "109.7"
-        },
-        {
-            "id": "313265",
-            "airport_ref": "313262",
-            "airport_ident": "SBSG",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "118.2"
-        }
-    ],
-    "country": {
-        "id": "302791",
-        "code": "BR",
-        "name": "Brazil",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
-        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
-    },
-    "region": {
-        "id": "303218",
-        "code": "BR-RN",
-        "local_code": "RN",
-        "name": "Rio Grande do Norte",
-        "continent": "SA",
-        "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_Grande_do_Norte",
-        "keywords": "Airports in Rio Grande do Norte"
-    }
+    ]
 }

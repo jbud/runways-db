@@ -40,33 +40,5 @@
             "he_heading_degT": "347",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "55712",
-            "airport_ref": "2112",
-            "airport_ident": "DNIM",
-            "type": "TWR",
-            "description": "OWERRI TWR",
-            "frequency_mhz": "118.4"
-        }
-    ],
-    "country": {
-        "id": "302593",
-        "code": "NG",
-        "name": "Nigeria",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nigeria",
-        "keywords": ""
-    },
-    "region": {
-        "id": "304892",
-        "code": "NG-IM",
-        "local_code": "IM",
-        "name": "Imo State",
-        "continent": "AF",
-        "iso_country": "NG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Imo_State",
-        "keywords": "Airports in Imo"
-    }
+    ]
 }

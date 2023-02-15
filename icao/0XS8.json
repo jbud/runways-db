@@ -40,47 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306119",
-        "code": "US-TX",
-        "local_code": "TX",
-        "name": "Texas",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
-        "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "86999",
-            "filename": "Chaparrosa_Ranch_NDB_US",
-            "ident": "CPZ",
-            "name": "Chaparrosa Ranch",
-            "type": "NDB",
-            "frequency_khz": "385",
-            "latitude_deg": "28.90999984741211",
-            "longitude_deg": "-100.00599670410156",
-            "elevation_ft": "700",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.233",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "0XS8"
-        }
     ]
 }

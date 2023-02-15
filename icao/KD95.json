@@ -62,49 +62,5 @@
             "he_heading_degT": "360",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "68627",
-            "airport_ref": "19613",
-            "airport_ident": "KD95",
-            "type": "A/D",
-            "description": "FLINT APP/DEP",
-            "frequency_mhz": "118.8"
-        },
-        {
-            "id": "68628",
-            "airport_ref": "19613",
-            "airport_ident": "KD95",
-            "type": "RDO",
-            "description": "LANSING RDO",
-            "frequency_mhz": "122.3"
-        },
-        {
-            "id": "68629",
-            "airport_ref": "19613",
-            "airport_ident": "KD95",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306098",
-        "code": "US-MI",
-        "local_code": "MI",
-        "name": "Michigan",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
-        "keywords": "Airports in Michigan"
-    }
+    ]
 }

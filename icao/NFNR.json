@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302766",
-        "code": "FJ",
-        "name": "Fiji",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Fiji",
-        "keywords": "Fijan airports"
-    },
-    "region": {
-        "id": "303809",
-        "code": "FJ-R",
-        "local_code": "R",
-        "name": "Rotuma (dependency)",
-        "continent": "OC",
-        "iso_country": "FJ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Rotuma",
-        "keywords": "Airports in Rotuma"
-    }
+    ]
 }

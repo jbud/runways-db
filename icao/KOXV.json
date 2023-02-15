@@ -40,49 +40,5 @@
             "he_heading_degT": "336",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "67682",
-            "airport_ref": "20786",
-            "airport_ident": "KOXV",
-            "type": "A/D",
-            "description": "DES MOINES APP/DEP",
-            "frequency_mhz": "123.9"
-        },
-        {
-            "id": "67683",
-            "airport_ref": "20786",
-            "airport_ident": "KOXV",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.775"
-        },
-        {
-            "id": "67684",
-            "airport_ref": "20786",
-            "airport_ident": "KOXV",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306088",
-        "code": "US-IA",
-        "local_code": "IA",
-        "name": "Iowa",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
-        "keywords": "Airports in Iowa"
-    }
+    ]
 }

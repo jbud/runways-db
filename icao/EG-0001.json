@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302569",
-        "code": "EG",
-        "name": "Egypt",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Egypt",
-        "keywords": "مطارات مصر, Egyptian airports"
-    },
-    "region": {
-        "id": "303695",
-        "code": "EG-BH",
-        "local_code": "BH",
-        "name": "Beheira Governorate",
-        "continent": "AF",
-        "iso_country": "EG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Beheira_Governorate",
-        "keywords": "Airports in Beheira Governorate"
-    }
+    "keywords": ""
 }

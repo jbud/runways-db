@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "71932",
-            "airport_ref": "29172",
-            "airport_ident": "EGPJ",
-            "type": "A/G",
-            "description": "Fife Radio",
-            "frequency_mhz": "130.455"
-        }
-    ],
-    "country": {
-        "id": "302688",
-        "code": "GB",
-        "name": "United Kingdom",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
-        "keywords": "Great Britain"
-    },
-    "region": {
-        "id": "306377",
-        "code": "GB-SCT",
-        "local_code": "SCT",
-        "name": "Scotland",
-        "continent": "EU",
-        "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
-        "keywords": "keep"
-    }
+    ]
 }

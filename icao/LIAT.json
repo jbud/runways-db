@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "316450",
-            "airport_ref": "316448",
-            "airport_ident": "LIAT",
-            "type": "RDO",
-            "description": "Valdera Radio",
-            "frequency_mhz": "119"
-        }
-    ],
-    "country": {
-        "id": "302697",
-        "code": "IT",
-        "name": "Italy",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
-        "keywords": "Aeroporti d'Italia"
-    },
-    "region": {
-        "id": "306357",
-        "code": "IT-52",
-        "local_code": "52",
-        "name": "Tuscany",
-        "continent": "EU",
-        "iso_country": "IT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tuscany",
-        "keywords": "TC"
-    }
+    ]
 }

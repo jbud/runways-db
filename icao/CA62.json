@@ -40,41 +40,5 @@
             "he_heading_degT": "292.8",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "58972",
-            "airport_ref": "16593",
-            "airport_ident": "CA62",
-            "type": "AAS",
-            "description": "ROBERTS ADVSY SVC",
-            "frequency_mhz": "41.5"
-        },
-        {
-            "id": "58973",
-            "airport_ref": "16593",
-            "airport_ident": "CA62",
-            "type": "MISC",
-            "description": "RANGE CON/MEDEVAC",
-            "frequency_mhz": "38.9"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306080",
-        "code": "US-CA",
-        "local_code": "CA",
-        "name": "California",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
-        "keywords": "Californian airports"
-    }
+    ]
 }

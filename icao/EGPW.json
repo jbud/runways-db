@@ -16,41 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "freqs": [
-        {
-            "id": "71994",
-            "airport_ref": "29176",
-            "airport_ident": "EGPW",
-            "type": "A/G",
-            "description": "Unst A/G",
-            "frequency_mhz": "130.35"
-        },
-        {
-            "id": "71995",
-            "airport_ref": "29176",
-            "airport_ident": "EGPW",
-            "type": "AFIS",
-            "description": "Unst AFIS",
-            "frequency_mhz": "130.35"
-        }
-    ],
-    "country": {
-        "id": "302688",
-        "code": "GB",
-        "name": "United Kingdom",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
-        "keywords": "Great Britain"
-    },
-    "region": {
-        "id": "306377",
-        "code": "GB-SCT",
-        "local_code": "SCT",
-        "name": "Scotland",
-        "continent": "EU",
-        "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
-        "keywords": "keep"
-    }
+    "keywords": ""
 }

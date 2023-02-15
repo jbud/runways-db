@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75359",
-            "airport_ref": "29330",
-            "airport_ident": "ESGV",
-            "type": "RDO",
-            "description": "Varberg Traffic",
-            "frequency_mhz": "123.15"
-        }
-    ],
-    "country": {
-        "id": "302715",
-        "code": "SE",
-        "name": "Sweden",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
-        "keywords": "Flygplatserna, Sverige"
-    },
-    "region": {
-        "id": "305423",
-        "code": "SE-N",
-        "local_code": "N",
-        "name": "Hallands län",
-        "continent": "EU",
-        "iso_country": "SE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hallands_län",
-        "keywords": "Halland County"
-    }
+    ]
 }

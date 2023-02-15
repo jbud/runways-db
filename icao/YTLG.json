@@ -40,49 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "74703",
-            "airport_ref": "30471",
-            "airport_ident": "YTLG",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "124.1"
-        },
-        {
-            "id": "74704",
-            "airport_ref": "30471",
-            "airport_ident": "YTLG",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "116"
-        },
-        {
-            "id": "74705",
-            "airport_ref": "30471",
-            "airport_ident": "YTLG",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "127.1"
-        }
-    ],
-    "country": {
-        "id": "302764",
-        "code": "AU",
-        "name": "Australia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
-        "keywords": "Australian airports"
-    },
-    "region": {
-        "id": "302969",
-        "code": "AU-NSW",
-        "local_code": "NSW",
-        "name": "New South Wales",
-        "continent": "OC",
-        "iso_country": "AU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
-        "keywords": "Airports in New South Wales"
-    }
+    ]
 }

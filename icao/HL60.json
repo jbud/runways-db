@@ -40,23 +40,5 @@
             "he_heading_degT": "332",
             "he_displaced_threshold_ft": "170"
         }
-    ],
-    "country": {
-        "id": "302583",
-        "code": "LY",
-        "name": "Libya",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Libya",
-        "keywords": "مطارات في ليبيا"
-    },
-    "region": {
-        "id": "304552",
-        "code": "LY-MJ",
-        "local_code": "MJ",
-        "name": "Al Marj District",
-        "continent": "AF",
-        "iso_country": "LY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Marj_District",
-        "keywords": "Airports in Al Marj District"
-    }
+    ]
 }

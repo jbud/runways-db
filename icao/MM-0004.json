@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302649",
-        "code": "MM",
-        "name": "Myanmar",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Burma",
-        "keywords": "Myanmar"
-    },
-    "region": {
-        "id": "304672",
-        "code": "MM-07",
-        "local_code": "07",
-        "name": "Ayeyarwady Region",
-        "continent": "AS",
-        "iso_country": "MM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ayeyarwady_Region",
-        "keywords": "Airports in Ayeyarwady Division"
-    }
+    "keywords": ""
 }

@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302661",
-        "code": "SG",
-        "name": "Singapore",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Singapore",
-        "keywords": "Singaporean airports"
-    },
-    "region": {
-        "id": "306654",
-        "code": "SG-05",
-        "local_code": "05",
-        "name": "South West",
-        "continent": "AS",
-        "iso_country": "SG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_West",
-        "keywords": "Airports in South West"
-    }
+    ]
 }

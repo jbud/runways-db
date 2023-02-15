@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "M'lang Rural, North Cotabato Rural",
-    "country": {
-        "id": "302656",
-        "code": "PH",
-        "name": "Philippines",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
-        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
-    },
-    "region": {
-        "id": "305105",
-        "code": "PH-NCO",
-        "local_code": "NCO",
-        "name": "Cotabato Province",
-        "continent": "AS",
-        "iso_country": "PH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cotabato",
-        "keywords": "Airports in Cotabato Province"
-    }
+    "keywords": "M'lang Rural, North Cotabato Rural"
 }

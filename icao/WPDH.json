@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302665",
-        "code": "TL",
-        "name": "Timor-Leste",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Timor-Leste",
-        "keywords": "East Timor"
-    },
-    "region": {
-        "id": "305795",
-        "code": "TL-DI",
-        "local_code": "DI",
-        "name": "Dili",
-        "continent": "AS",
-        "iso_country": "TL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Dili",
-        "keywords": "Airports in Dili"
-    }
+    "keywords": ""
 }

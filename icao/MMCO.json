@@ -40,47 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302747",
-        "code": "MX",
-        "name": "Mexico",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
-        "keywords": "Aeropuertos de México, Mexican airports"
-    },
-    "region": {
-        "id": "304795",
-        "code": "MX-CHP",
-        "local_code": "CHP",
-        "name": "Chiapas",
-        "continent": "NA",
-        "iso_country": "MX",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chiapas",
-        "keywords": "Airports in Chiapas"
-    },
-    "navaids": [
-        {
-            "id": "86887",
-            "filename": "Comitan_VOR-DME_MX",
-            "ident": "CMT",
-            "name": "Comitan",
-            "type": "VOR-DME",
-            "frequency_khz": "114700",
-            "latitude_deg": "16.1781005859375",
-            "longitude_deg": "-92.05750274658203",
-            "elevation_ft": "5164",
-            "iso_country": "MX",
-            "dme_frequency_khz": "114700",
-            "dme_channel": "094X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.096",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "MMCO"
-        }
     ]
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Msembe_Airstrip",
-    "keywords": "",
-    "country": {
-        "id": "302607",
-        "code": "TZ",
-        "name": "Tanzania",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tanzania",
-        "keywords": "Tanzanian airports"
-    },
-    "region": {
-        "id": "305957",
-        "code": "TZ-04",
-        "local_code": "04",
-        "name": "Iringa Region",
-        "continent": "AF",
-        "iso_country": "TZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iringa_Region",
-        "keywords": "Airports in Iringa Region"
-    }
+    "keywords": ""
 }

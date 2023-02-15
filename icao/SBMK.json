@@ -40,57 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "49676",
-            "airport_ref": "5939",
-            "airport_ident": "SBMK",
-            "type": "AFIS",
-            "description": "RDO",
-            "frequency_mhz": "131.7"
-        }
-    ],
-    "country": {
-        "id": "302791",
-        "code": "BR",
-        "name": "Brazil",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
-        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
-    },
-    "region": {
-        "id": "303209",
-        "code": "BR-MG",
-        "local_code": "MG",
-        "name": "Minas Gerais",
-        "continent": "SA",
-        "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
-        "keywords": "Airports in Minas Gerais"
-    },
-    "navaids": [
-        {
-            "id": "90797",
-            "filename": "Montes_Claros_NDB_BR",
-            "ident": "MCL",
-            "name": "Montes Claros",
-            "type": "NDB",
-            "frequency_khz": "310",
-            "latitude_deg": "-16.703500747680664",
-            "longitude_deg": "-43.81919860839844",
-            "elevation_ft": "2191",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-21.557",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBMK"
-        }
     ]
 }

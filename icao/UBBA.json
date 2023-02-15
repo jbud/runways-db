@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Akstafa_Airport",
-    "keywords": "Aghstafa Airport, Agstafa Airport, UB17",
-    "country": {
-        "id": "302621",
-        "code": "AZ",
-        "name": "Azerbaijan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Azerbaijan",
-        "keywords": "Azerbaijani airports"
-    },
-    "region": {
-        "id": "302980",
-        "code": "AZ-AGA",
-        "local_code": "AGA",
-        "name": "Agstafa District",
-        "continent": "AS",
-        "iso_country": "AZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Agstafa_District",
-        "keywords": "Airports in Agstafa District"
-    }
+    "keywords": "Aghstafa Airport, Agstafa Airport, UB17"
 }

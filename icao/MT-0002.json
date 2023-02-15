@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Maintenance_Base_Safi",
-    "keywords": "",
-    "country": {
-        "id": "302707",
-        "code": "MT",
-        "name": "Malta",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Malta",
-        "keywords": ""
-    },
-    "region": {
-        "id": "306822",
-        "code": "MT-25",
-        "local_code": "25",
-        "name": "Luqa",
-        "continent": "EU",
-        "iso_country": "MT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Luqa",
-        "keywords": "Il-Kunsill Lokali ta' Ħal Luqa"
-    }
+    "keywords": ""
 }

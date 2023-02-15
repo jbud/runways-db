@@ -40,41 +40,5 @@
             "he_heading_degT": "360",
             "he_displaced_threshold_ft": "320"
         }
-    ],
-    "freqs": [
-        {
-            "id": "69746",
-            "airport_ref": "18702",
-            "airport_ident": "K3HO",
-            "type": "RDO",
-            "description": "TERRE HAUTE RDO",
-            "frequency_mhz": "123.65"
-        },
-        {
-            "id": "69747",
-            "airport_ref": "18702",
-            "airport_ident": "K3HO",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306091",
-        "code": "US-IN",
-        "local_code": "IN",
-        "name": "Indiana",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
-        "keywords": "Airports in Indiana"
-    }
+    ]
 }

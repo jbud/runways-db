@@ -40,33 +40,5 @@
             "he_heading_degT": "209",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "56105",
-            "airport_ref": "6230",
-            "airport_ident": "SPOL",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "126"
-        }
-    ],
-    "country": {
-        "id": "302798",
-        "code": "PE",
-        "name": "Peru",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
-        "keywords": "Aeropuertos de Perú"
-    },
-    "region": {
-        "id": "305021",
-        "code": "PE-LIM",
-        "local_code": "LIM",
-        "name": "Lima Region",
-        "continent": "SA",
-        "iso_country": "PE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lima_Region",
-        "keywords": "Airports in Lima Region"
-    }
+    ]
 }

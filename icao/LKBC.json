@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Bechyn%C4%9B",
-    "keywords": "LKBC, LKBC",
-    "country": {
-        "id": "302680",
-        "code": "CZ",
-        "name": "Czech Republic",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
-        "keywords": "Letiště České republiky, Czechia"
-    },
-    "region": {
-        "id": "303532",
-        "code": "CZ-JC",
-        "local_code": "JC",
-        "name": "South Bohemian Region",
-        "continent": "EU",
-        "iso_country": "CZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Bohemian_Region",
-        "keywords": "Jihočeský kraj, South Bohemia"
-    }
+    "keywords": "LKBC, LKBC"
 }

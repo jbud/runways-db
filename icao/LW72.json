@@ -40,23 +40,5 @@
             "he_heading_degT": "323.6",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302706",
-        "code": "MK",
-        "name": "North Macedonia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Macedonia",
-        "keywords": "Macedonian airports"
-    },
-    "region": {
-        "id": "317092",
-        "code": "MK-001",
-        "local_code": "001",
-        "name": "Vardar Statistical Region",
-        "continent": "EU",
-        "iso_country": "MK",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Vardar_Statistical_Region",
-        "keywords": "Airports in Vardar Statistical Region"
-    }
+    ]
 }

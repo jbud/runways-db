@@ -106,41 +106,5 @@
             "he_heading_degT": "355",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "65618",
-            "airport_ref": "20625",
-            "airport_ident": "KN82",
-            "type": "CNTR",
-            "description": "NEW YORK CNTR",
-            "frequency_mhz": "132.75"
-        },
-        {
-            "id": "65619",
-            "airport_ref": "20625",
-            "airport_ident": "KN82",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306110",
-        "code": "US-NY",
-        "local_code": "NY",
-        "name": "New York",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
-        "keywords": "Airports in New York"
-    }
+    ]
 }

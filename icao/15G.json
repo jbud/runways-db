@@ -40,47 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": "50"
         }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306111",
-        "code": "US-OH",
-        "local_code": "OH",
-        "name": "Ohio",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
-        "keywords": "Airports in Ohio"
-    },
-    "navaids": [
-        {
-            "id": "86373",
-            "filename": "Briggs_VOR-DME_US",
-            "ident": "BSV",
-            "name": "Briggs",
-            "type": "VOR-DME",
-            "frequency_khz": "112400",
-            "latitude_deg": "40.740699768066406",
-            "longitude_deg": "-81.43209838867188",
-            "elevation_ft": "1230",
-            "iso_country": "US",
-            "dme_frequency_khz": "112400",
-            "dme_channel": "071X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.012",
-            "magnetic_variation_deg": "-7.587",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "15G"
-        }
     ]
 }

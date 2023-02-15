@@ -40,33 +40,5 @@
             "he_heading_degT": "242",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "63674",
-            "airport_ref": "20438",
-            "airport_ident": "KM50",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306113",
-        "code": "US-OR",
-        "local_code": "OR",
-        "name": "Oregon",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Oregon",
-        "keywords": "Airports in Oregon"
-    }
+    ]
 }

@@ -40,57 +40,5 @@
             "he_heading_degT": "189",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "65114",
-            "airport_ref": "20405",
-            "airport_ident": "KM04",
-            "type": "APP",
-            "description": "MEMPHIS APP",
-            "frequency_mhz": "120.07"
-        },
-        {
-            "id": "65115",
-            "airport_ref": "20405",
-            "airport_ident": "KM04",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.575"
-        },
-        {
-            "id": "65116",
-            "airport_ref": "20405",
-            "airport_ident": "KM04",
-            "type": "DEP",
-            "description": "MEMPHIS DEP",
-            "frequency_mhz": "124.15"
-        },
-        {
-            "id": "65117",
-            "airport_ref": "20405",
-            "airport_ident": "KM04",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306118",
-        "code": "US-TN",
-        "local_code": "TN",
-        "name": "Tennessee",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
-        "keywords": "Airports in Tennessee"
-    }
+    ]
 }

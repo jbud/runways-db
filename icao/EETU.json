@@ -40,57 +40,5 @@
             "he_heading_degT": "268",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "51960",
-            "airport_ref": "2302",
-            "airport_ident": "EETU",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "133.9"
-        }
-    ],
-    "country": {
-        "id": "302683",
-        "code": "EE",
-        "name": "Estonia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Estonia",
-        "keywords": "Estonian airports"
-    },
-    "region": {
-        "id": "303686",
-        "code": "EE-7B",
-        "local_code": "7B",
-        "name": "Tartu County",
-        "continent": "EU",
-        "iso_country": "EE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tartu_County",
-        "keywords": "Airports in Tartu County"
-    },
-    "navaids": [
-        {
-            "id": "94897",
-            "filename": "Tartu_NDB_EE",
-            "ident": "UM",
-            "name": "Tartu",
-            "type": "NDB",
-            "frequency_khz": "397",
-            "latitude_deg": "58.30860137939453",
-            "longitude_deg": "26.768400192260742",
-            "elevation_ft": "",
-            "iso_country": "EE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.172",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "EETU"
-        }
     ]
 }

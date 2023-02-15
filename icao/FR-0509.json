@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Héliport Centre Hospitalier Site Saint-Nicolas",
-    "country": {
-        "id": "302687",
-        "code": "FR",
-        "name": "France",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
-        "keywords": "Aéroports de France"
-    },
-    "region": {
-        "id": "306353",
-        "code": "FR-GES",
-        "local_code": "GES",
-        "name": "Grand Est",
-        "continent": "EU",
-        "iso_country": "FR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Est",
-        "keywords": "Airports in Grand Est"
-    }
+    "keywords": "Héliport Centre Hospitalier Site Saint-Nicolas"
 }

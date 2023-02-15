@@ -40,49 +40,5 @@
             "he_heading_degT": "222",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "58670",
-            "airport_ref": "5417",
-            "airport_ident": "PANU",
-            "type": "ARTC",
-            "description": "ANCHORAGE CNTR",
-            "frequency_mhz": "127"
-        },
-        {
-            "id": "58671",
-            "airport_ref": "5417",
-            "airport_ident": "PANU",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        },
-        {
-            "id": "58672",
-            "airport_ref": "5417",
-            "airport_ident": "PANU",
-            "type": "FSS",
-            "description": "FAIRBANKS RDO",
-            "frequency_mhz": "122.2"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306076",
-        "code": "US-AK",
-        "local_code": "AK",
-        "name": "Alaska",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
-        "keywords": "Airports in Alaska"
-    }
+    ]
 }

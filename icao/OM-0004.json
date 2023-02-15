@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Rustaq_Airport",
-    "keywords": "Musanaa, Wadi al Maawil, Al Muladdah, OORQ, Rustaq Airport",
-    "country": {
-        "id": "302655",
-        "code": "OM",
-        "name": "Oman",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Oman",
-        "keywords": "مطارات عمان"
-    },
-    "region": {
-        "id": "304987",
-        "code": "OM-BA",
-        "local_code": "BA",
-        "name": "Al Batinah Governorate",
-        "continent": "AS",
-        "iso_country": "OM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Batinah_Governorate",
-        "keywords": "Airports in Al Batinah Governorate"
-    }
+    "keywords": "Musanaa, Wadi al Maawil, Al Muladdah, OORQ, Rustaq Airport"
 }

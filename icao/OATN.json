@@ -40,23 +40,5 @@
             "he_heading_degT": "302",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302619",
-        "code": "AF",
-        "name": "Afghanistan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Afghanistan",
-        "keywords": ""
-    },
-    "region": {
-        "id": "302850",
-        "code": "AF-ORU",
-        "local_code": "ORU",
-        "name": "Orūzgān Province",
-        "continent": "AS",
-        "iso_country": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Or%C5%ABzg%C4%81n_Province",
-        "keywords": "airports"
-    }
+    ]
 }

@@ -40,23 +40,5 @@
             "he_heading_degT": "318",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302621",
-        "code": "AZ",
-        "name": "Azerbaijan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Azerbaijan",
-        "keywords": "Azerbaijani airports"
-    },
-    "region": {
-        "id": "302988",
-        "code": "AZ-BAL",
-        "local_code": "BAL",
-        "name": "Balakan District",
-        "continent": "AS",
-        "iso_country": "AZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Balakan_District",
-        "keywords": "Airports in Balakan District"
-    }
+    ]
 }

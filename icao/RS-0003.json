@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "301367",
-            "airport_ref": "301357",
-            "airport_ident": "RS-0003",
-            "type": "ground",
-            "description": "",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302713",
-        "code": "RS",
-        "name": "Serbia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Serbia",
-        "keywords": "Serb"
-    },
-    "region": {
-        "id": "306590",
-        "code": "RS-00",
-        "local_code": "00",
-        "name": "Beograd (city)",
-        "continent": "EU",
-        "iso_country": "RS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Beograd_(city)",
-        "keywords": "Airports in Beograd (city)"
-    }
+    ]
 }

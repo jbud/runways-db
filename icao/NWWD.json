@@ -40,57 +40,5 @@
             "he_heading_degT": "279.9",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "55658",
-            "airport_ref": "5013",
-            "airport_ident": "NWWD",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "122.5"
-        }
-    ],
-    "country": {
-        "id": "302772",
-        "code": "NC",
-        "name": "New Caledonia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Caledonia",
-        "keywords": "Airports in New Caledonia"
-    },
-    "region": {
-        "id": "304865",
-        "code": "NC-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
-        "continent": "OC",
-        "iso_country": "NC",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "89715",
-            "filename": "Kone_NDB_NC",
-            "ident": "KQ",
-            "name": "Kone",
-            "type": "NDB",
-            "frequency_khz": "305",
-            "latitude_deg": "-21.10486",
-            "longitude_deg": "164.87225",
-            "elevation_ft": "",
-            "iso_country": "NC",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "12",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "NWWD"
-        }
     ]
 }

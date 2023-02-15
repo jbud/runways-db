@@ -40,41 +40,5 @@
             "he_heading_degT": "284",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "315259",
-            "airport_ref": "44865",
-            "airport_ident": "URRT",
-            "type": "APP",
-            "description": "ISTRA",
-            "frequency_mhz": "124"
-        },
-        {
-            "id": "315260",
-            "airport_ref": "44865",
-            "airport_ident": "URRT",
-            "type": "APP",
-            "description": "GRANIT",
-            "frequency_mhz": "130.2"
-        }
-    ],
-    "country": {
-        "id": "302714",
-        "code": "RU",
-        "name": "Russia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
-        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
-    },
-    "region": {
-        "id": "305318",
-        "code": "RU-ROS",
-        "local_code": "ROS",
-        "name": "Rostov Oblast",
-        "continent": "EU",
-        "iso_country": "RU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Rostov_Oblast",
-        "keywords": "Airports in Rostov Oblast"
-    }
+    ]
 }

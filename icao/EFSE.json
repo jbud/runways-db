@@ -62,33 +62,5 @@
             "he_heading_degT": "312.9",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "52072",
-            "airport_ref": "2344",
-            "airport_ident": "EFSE",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "123.2"
-        }
-    ],
-    "country": {
-        "id": "302685",
-        "code": "FI",
-        "name": "Finland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
-        "keywords": "Lentokentät, Suomen"
-    },
-    "region": {
-        "id": "336510",
-        "code": "FI-09",
-        "local_code": "09",
-        "name": "Kymenlaakso Region",
-        "continent": "EU",
-        "iso_country": "FI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kymenlaakso",
-        "keywords": "Airports in Kymenlaakso Region"
-    }
+    ]
 }

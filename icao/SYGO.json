@@ -40,33 +40,5 @@
             "he_heading_degT": "249",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "331267",
-            "airport_ref": "41513",
-            "airport_ident": "SYGO",
-            "type": "Twr",
-            "description": "Ogle Tower",
-            "frequency_mhz": "118.55"
-        }
-    ],
-    "country": {
-        "id": "302797",
-        "code": "GY",
-        "name": "Guyana",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Guyana",
-        "keywords": "Guyanese airports"
-    },
-    "region": {
-        "id": "303996",
-        "code": "GY-DE",
-        "local_code": "DE",
-        "name": "Demerara-Mahaica",
-        "continent": "SA",
-        "iso_country": "GY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Demerara-Mahaica",
-        "keywords": "Airports in Demerara-Mahaica"
-    }
+    ]
 }

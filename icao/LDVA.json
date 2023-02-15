@@ -40,47 +40,5 @@
             "he_heading_degT": "340.3",
             "he_displaced_threshold_ft": "853"
         }
-    ],
-    "country": {
-        "id": "302692",
-        "code": "HR",
-        "name": "Croatia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Croatia",
-        "keywords": "Croatian airports"
-    },
-    "region": {
-        "id": "304029",
-        "code": "HR-05",
-        "local_code": "05",
-        "name": "Varaždin County",
-        "continent": "EU",
-        "iso_country": "HR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Varaždin_County",
-        "keywords": "Airports in Varaždin County"
-    },
-    "navaids": [
-        {
-            "id": "95045",
-            "filename": "Varazdin_NDB_HR",
-            "ident": "VAR",
-            "name": "Varazdin",
-            "type": "NDB",
-            "frequency_khz": "344",
-            "latitude_deg": "46.31169891357422",
-            "longitude_deg": "16.380800247192383",
-            "elevation_ft": "",
-            "iso_country": "HR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.428",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "LDVA"
-        }
     ]
 }

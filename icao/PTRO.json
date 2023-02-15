@@ -40,57 +40,5 @@
             "he_heading_degT": "271",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "56367",
-            "airport_ref": "5501",
-            "airport_ident": "PTRO",
-            "type": "FSS",
-            "description": "KOROR RDO",
-            "frequency_mhz": "123.6"
-        }
-    ],
-    "country": {
-        "id": "302780",
-        "code": "PW",
-        "name": "Palau",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Palau",
-        "keywords": "Palauan airports"
-    },
-    "region": {
-        "id": "306429",
-        "code": "PW-004",
-        "local_code": "004",
-        "name": "Airai",
-        "continent": "OC",
-        "iso_country": "PW",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Airai",
-        "keywords": "Airports in Airai"
-    },
-    "navaids": [
-        {
-            "id": "93201",
-            "filename": "Koror_NDB-DME_PW",
-            "ident": "ROR",
-            "name": "Koror",
-            "type": "NDB-DME",
-            "frequency_khz": "371",
-            "latitude_deg": "7.368770122528076",
-            "longitude_deg": "134.5500030517578",
-            "elevation_ft": "182",
-            "iso_country": "PW",
-            "dme_frequency_khz": "115700",
-            "dme_channel": "104X",
-            "dme_latitude_deg": "7.36876",
-            "dme_longitude_deg": "134.55",
-            "dme_elevation_ft": "191",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.029",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "PTRO"
-        }
     ]
 }

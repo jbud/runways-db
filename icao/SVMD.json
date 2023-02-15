@@ -40,41 +40,5 @@
             "he_heading_degT": "239",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "71668",
-            "airport_ref": "6298",
-            "airport_ident": "SVMD",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "71669",
-            "airport_ref": "6298",
-            "airport_ident": "SVMD",
-            "type": "TWR",
-            "description": "MERIDA TWR",
-            "frequency_mhz": "118.05"
-        }
-    ],
-    "country": {
-        "id": "302802",
-        "code": "VE",
-        "name": "Venezuela",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
-        "keywords": "Aeropuertos de Venezuela"
-    },
-    "region": {
-        "id": "306176",
-        "code": "VE-L",
-        "local_code": "L",
-        "name": "Mérida State",
-        "continent": "SA",
-        "iso_country": "VE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/M%C3%A9rida_(state)",
-        "keywords": "Airports in Mérida State"
-    }
+    ]
 }

@@ -40,41 +40,5 @@
             "he_heading_degT": "268.8",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "310826",
-            "airport_ref": "27273",
-            "airport_ident": "EFTO",
-            "type": "ACC",
-            "description": "Tampere radar",
-            "frequency_mhz": "132.675"
-        },
-        {
-            "id": "310825",
-            "airport_ref": "27273",
-            "airport_ident": "EFTO",
-            "type": "RDO",
-            "description": "Torbacka traffic",
-            "frequency_mhz": "123.6"
-        }
-    ],
-    "country": {
-        "id": "302685",
-        "code": "FI",
-        "name": "Finland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
-        "keywords": "Lentokentät, Suomen"
-    },
-    "region": {
-        "id": "336519",
-        "code": "FI-18",
-        "local_code": "18",
-        "name": "Uusimaa Region",
-        "continent": "EU",
-        "iso_country": "FI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Uusimaa",
-        "keywords": "Airports in Uusimaa Region"
-    }
+    ]
 }

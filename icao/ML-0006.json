@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302586",
-        "code": "ML",
-        "name": "Mali",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mali",
-        "keywords": "Aéroports du Mali, Malian airports"
-    },
-    "region": {
-        "id": "304663",
-        "code": "ML-8",
-        "local_code": "8",
-        "name": "Kidal Region",
-        "continent": "AF",
-        "iso_country": "ML",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kidal_Region",
-        "keywords": "Airports in Kidal Region"
-    }
+    "keywords": ""
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Mandritsara_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302585",
-        "code": "MG",
-        "name": "Madagascar",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Madagascar",
-        "keywords": "Airports in Madagascar"
-    },
-    "region": {
-        "id": "304626",
-        "code": "MG-M",
-        "local_code": "M",
-        "name": "Mahajanga",
-        "continent": "AF",
-        "iso_country": "MG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mahajanga",
-        "keywords": "Airports in Mahajanga"
-    }
+    "keywords": ""
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Marof",
-    "country": {
-        "id": "302716",
-        "code": "SI",
-        "name": "Slovenia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Slovenia",
-        "keywords": ""
-    },
-    "region": {
-        "id": "305450",
-        "code": "SI-013",
-        "local_code": "013",
-        "name": "Cerknica",
-        "continent": "EU",
-        "iso_country": "SI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cerknica",
-        "keywords": "Airports in Cerknica"
-    }
+    "keywords": "Marof"
 }

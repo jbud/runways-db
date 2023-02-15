@@ -40,57 +40,5 @@
             "he_heading_degT": "284.9",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "54073",
-            "airport_ref": "5187",
-            "airport_ident": "OINE",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "121.9"
-        }
-    ],
-    "country": {
-        "id": "302637",
-        "code": "IR",
-        "name": "Iran",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
-        "keywords": "فرودگاه های ایران"
-    },
-    "region": {
-        "id": "304244",
-        "code": "IR-27",
-        "local_code": "27",
-        "name": "Golestan Province",
-        "continent": "AS",
-        "iso_country": "IR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Golestan_Province",
-        "keywords": "Airports in Golestan Province"
-    },
-    "navaids": [
-        {
-            "id": "89846",
-            "filename": "Kalaleh_NDB_IR",
-            "ident": "KLH",
-            "name": "Kalaleh",
-            "type": "NDB",
-            "frequency_khz": "325",
-            "latitude_deg": "37.388301849365234",
-            "longitude_deg": "55.45669937133789",
-            "elevation_ft": "500",
-            "iso_country": "IR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.191",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OINE"
-        }
     ]
 }

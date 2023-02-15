@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://www.jdfmil.org/overview/bases/bases_home5.php",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302741",
-        "code": "JM",
-        "name": "Jamaica",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Jamaica",
-        "keywords": "Jamaican airports"
-    },
-    "region": {
-        "id": "304263",
-        "code": "JM-06",
-        "local_code": "06",
-        "name": "Saint Ann Parish",
-        "continent": "NA",
-        "iso_country": "JM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Ann_Parish",
-        "keywords": "Airports in Saint Ann"
-    }
+    "keywords": ""
 }

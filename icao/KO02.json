@@ -40,41 +40,5 @@
             "he_heading_degT": "270",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "65451",
-            "airport_ref": "20671",
-            "airport_ident": "KO02",
-            "type": "A/D",
-            "description": "RENO APP/DEP",
-            "frequency_mhz": "126.3"
-        },
-        {
-            "id": "65452",
-            "airport_ref": "20671",
-            "airport_ident": "KO02",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306080",
-        "code": "US-CA",
-        "local_code": "CA",
-        "name": "California",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
-        "keywords": "Californian airports"
-    }
+    ]
 }

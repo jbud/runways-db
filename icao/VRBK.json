@@ -16,23 +16,5 @@
     "local_code": "HDK",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kulhudhuffushi_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302652",
-        "code": "MV",
-        "name": "Maldives",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Maldives",
-        "keywords": "Airports in Maldives"
-    },
-    "region": {
-        "id": "304753",
-        "code": "MV-23",
-        "local_code": "23",
-        "name": "Haa Dhaalu Atoll",
-        "continent": "AS",
-        "iso_country": "MV",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Haa_Dhaalu_Atoll",
-        "keywords": "Airports in Haa Dhaalu Atoll"
-    }
+    "keywords": ""
 }

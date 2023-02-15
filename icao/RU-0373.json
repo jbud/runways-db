@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://www.rostvertolplc.ru/",
     "wikipedia_link": "",
-    "keywords": "Rostov-on-Don Severny Heliport, Rostov-on-Don North Heliport, Вертодром Ростов-на-Дону Северный, ЬРРЙ",
-    "country": {
-        "id": "302714",
-        "code": "RU",
-        "name": "Russia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
-        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
-    },
-    "region": {
-        "id": "305318",
-        "code": "RU-ROS",
-        "local_code": "ROS",
-        "name": "Rostov Oblast",
-        "continent": "EU",
-        "iso_country": "RU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Rostov_Oblast",
-        "keywords": "Airports in Rostov Oblast"
-    }
+    "keywords": "Rostov-on-Don Severny Heliport, Rostov-on-Don North Heliport, Вертодром Ростов-на-Дону Северный, ЬРРЙ"
 }

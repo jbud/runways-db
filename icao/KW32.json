@@ -40,49 +40,5 @@
             "he_heading_degT": "221",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "67766",
-            "airport_ref": "21351",
-            "airport_ident": "KW32",
-            "type": "A/D",
-            "description": "POTOMAC APP/DEP",
-            "frequency_mhz": "124.7"
-        },
-        {
-            "id": "67767",
-            "airport_ref": "21351",
-            "airport_ident": "KW32",
-            "type": "ATIS",
-            "description": "ANDREWS",
-            "frequency_mhz": "113.1"
-        },
-        {
-            "id": "67768",
-            "airport_ref": "21351",
-            "airport_ident": "KW32",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306096",
-        "code": "US-MD",
-        "local_code": "MD",
-        "name": "Maryland",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Maryland",
-        "keywords": "Airports in Maryland"
-    }
+    ]
 }

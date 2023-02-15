@@ -40,33 +40,5 @@
             "he_heading_degT": "212.8",
             "he_displaced_threshold_ft": "1650"
         }
-    ],
-    "freqs": [
-        {
-            "id": "48316",
-            "airport_ref": "6445",
-            "airport_ident": "UDYE",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.4"
-        }
-    ],
-    "country": {
-        "id": "302620",
-        "code": "AM",
-        "name": "Armenia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Armenia",
-        "keywords": ""
-    },
-    "region": {
-        "id": "302902",
-        "code": "AM-ER",
-        "local_code": "ER",
-        "name": "Yerevan (capital district)",
-        "continent": "AS",
-        "iso_country": "AM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Yerevan",
-        "keywords": "Erevan"
-    }
+    ]
 }

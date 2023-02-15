@@ -40,49 +40,5 @@
             "he_heading_degT": "359.9",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "66577",
-            "airport_ref": "20730",
-            "airport_ident": "KOJA",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.575"
-        },
-        {
-            "id": "66578",
-            "airport_ref": "20730",
-            "airport_ident": "KOJA",
-            "type": "CNTR",
-            "description": "FORT WORTH CNTR",
-            "frequency_mhz": "128.4"
-        },
-        {
-            "id": "66579",
-            "airport_ref": "20730",
-            "airport_ident": "KOJA",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306112",
-        "code": "US-OK",
-        "local_code": "OK",
-        "name": "Oklahoma",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
-        "keywords": "Airports in Oklahoma"
-    }
+    ]
 }

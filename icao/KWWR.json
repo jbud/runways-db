@@ -84,49 +84,5 @@
             "he_heading_degT": "0.5",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "59846",
-            "airport_ref": "21386",
-            "airport_ident": "KWWR",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.425"
-        },
-        {
-            "id": "59847",
-            "airport_ref": "21386",
-            "airport_ident": "KWWR",
-            "type": "CNTR",
-            "description": "KANSAS CITY CNTR",
-            "frequency_mhz": "126.95"
-        },
-        {
-            "id": "59848",
-            "airport_ref": "21386",
-            "airport_ident": "KWWR",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306112",
-        "code": "US-OK",
-        "local_code": "OK",
-        "name": "Oklahoma",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
-        "keywords": "Airports in Oklahoma"
-    }
+    ]
 }

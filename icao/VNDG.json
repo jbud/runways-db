@@ -40,47 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302654",
-        "code": "NP",
-        "name": "Nepal",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nepal",
-        "keywords": "नेपाल विमानस्थलको"
-    },
-    "region": {
-        "id": "430333",
-        "code": "NP-P5",
-        "local_code": "P5",
-        "name": "Lumbini Province",
-        "continent": "AS",
-        "iso_country": "NP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lumbini_Province",
-        "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "87456",
-            "filename": "Dang_NDB_NP",
-            "ident": "DNG",
-            "name": "Dang",
-            "type": "NDB",
-            "frequency_khz": "363",
-            "latitude_deg": "28.1117000579834",
-            "longitude_deg": "82.29170227050781",
-            "elevation_ft": "2077",
-            "iso_country": "NP",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.2",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "VNDG"
-        }
     ]
 }

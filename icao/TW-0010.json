@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Far Eastern Memorial Hospital Heliport, 遠東紀念醫院直升機場",
-    "country": {
-        "id": "302668",
-        "code": "TW",
-        "name": "Taiwan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
-        "keywords": "Taiwanese airports"
-    },
-    "region": {
-        "id": "306748",
-        "code": "TW-TPE",
-        "local_code": "TPE",
-        "name": "Taipei (municipality)",
-        "continent": "AS",
-        "iso_country": "TW",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Taipei",
-        "keywords": "Airports in Taipei (municipality)"
-    }
+    "keywords": "Far Eastern Memorial Hospital Heliport, 遠東紀念醫院直升機場"
 }

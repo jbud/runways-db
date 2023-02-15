@@ -40,47 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302561",
-        "code": "CD",
-        "name": "Democratic Republic of the Congo",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
-        "keywords": "DRC"
-    },
-    "region": {
-        "id": "505648",
-        "code": "CD-MO",
-        "local_code": "MO",
-        "name": "Mongala Province",
-        "continent": "AF",
-        "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mongala",
-        "keywords": "Airports in Mongala Province"
-    },
-    "navaids": [
-        {
-            "id": "85833",
-            "filename": "Bumba_NDB_CD",
-            "ident": "BBA",
-            "name": "Bumba",
-            "type": "NDB",
-            "frequency_khz": "285",
-            "latitude_deg": "2.1916699409484863",
-            "longitude_deg": "22.549999237060547",
-            "elevation_ft": "1184",
-            "iso_country": "CD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.014",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FZFU"
-        }
     ]
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75417",
-            "airport_ref": "46501",
-            "airport_ident": "GB-0008",
-            "type": "safetycom",
-            "description": "causeway radio",
-            "frequency_mhz": "135.475"
-        }
-    ],
-    "country": {
-        "id": "302688",
-        "code": "GB",
-        "name": "United Kingdom",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
-        "keywords": "Great Britain"
-    },
-    "region": {
-        "id": "306375",
-        "code": "GB-NIR",
-        "local_code": "NIR",
-        "name": "Northern Ireland",
-        "continent": "EU",
-        "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Ireland",
-        "keywords": "keep"
-    }
+    ]
 }

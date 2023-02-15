@@ -40,49 +40,5 @@
             "he_heading_degT": "196",
             "he_displaced_threshold_ft": "984"
         }
-    ],
-    "freqs": [
-        {
-            "id": "51450",
-            "airport_ref": "6132",
-            "airport_ident": "SKMD",
-            "type": "APP",
-            "description": "MEDELLIN APP",
-            "frequency_mhz": "121.1"
-        },
-        {
-            "id": "51451",
-            "airport_ref": "6132",
-            "airport_ident": "SKMD",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "51452",
-            "airport_ref": "6132",
-            "airport_ident": "SKMD",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.9"
-        }
-    ],
-    "country": {
-        "id": "302793",
-        "code": "CO",
-        "name": "Colombia",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
-        "keywords": "Aeropuertos de Colombia"
-    },
-    "region": {
-        "id": "303458",
-        "code": "CO-ANT",
-        "local_code": "ANT",
-        "name": "Antioquía Department",
-        "continent": "SA",
-        "iso_country": "CO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Antioquía_Department",
-        "keywords": "Airports in Antioquía Department"
-    }
+    ]
 }

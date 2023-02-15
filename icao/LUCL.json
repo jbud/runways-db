@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302704",
-        "code": "MD",
-        "name": "Moldova",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Moldova",
-        "keywords": "Airports in Moldova"
-    },
-    "region": {
-        "id": "353956",
-        "code": "MD-GA",
-        "local_code": "GA",
-        "name": "Gagauzia (autonomous territorial unit)",
-        "continent": "EU",
-        "iso_country": "MD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Gagauzia",
-        "keywords": "Airports in Gagauzia (autonomous territorial unit)"
-    }
+    ]
 }

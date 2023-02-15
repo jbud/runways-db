@@ -40,41 +40,5 @@
             "he_heading_degT": "275",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "49168",
-            "airport_ref": "27018",
-            "airport_ident": "YJAB",
-            "type": "CTAF",
-            "description": "KAKADU AREA CTAF",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "49169",
-            "airport_ref": "27018",
-            "airport_ident": "YJAB",
-            "type": "FSS",
-            "description": "BRISBANE CNTR",
-            "frequency_mhz": "124.1"
-        }
-    ],
-    "country": {
-        "id": "302764",
-        "code": "AU",
-        "name": "Australia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
-        "keywords": "Australian airports"
-    },
-    "region": {
-        "id": "302970",
-        "code": "AU-NT",
-        "local_code": "NT",
-        "name": "Northern Territory",
-        "continent": "OC",
-        "iso_country": "AU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
-        "keywords": "Airports in Northern Territory"
-    }
+    ]
 }

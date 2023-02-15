@@ -40,33 +40,5 @@
             "he_heading_degT": "226",
             "he_displaced_threshold_ft": "197"
         }
-    ],
-    "freqs": [
-        {
-            "id": "52055",
-            "airport_ref": "2331",
-            "airport_ident": "EFME",
-            "type": "CTAF",
-            "description": "RDO",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302685",
-        "code": "FI",
-        "name": "Finland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
-        "keywords": "Lentokentät, Suomen"
-    },
-    "region": {
-        "id": "336504",
-        "code": "FI-03",
-        "local_code": "03",
-        "name": "South Ostrobothnia Region",
-        "continent": "EU",
-        "iso_country": "FI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Ostrobothnia",
-        "keywords": "Airports in South Ostrobothnia Region"
-    }
+    ]
 }

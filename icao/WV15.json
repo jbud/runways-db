@@ -40,47 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306126",
-        "code": "US-WV",
-        "local_code": "WV",
-        "name": "West Virginia",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Virginia",
-        "keywords": "Airports in West Virginia"
-    },
-    "navaids": [
-        {
-            "id": "88582",
-            "filename": "Grantsville_VOR-DME_US",
-            "ident": "GRV",
-            "name": "Grantsville",
-            "type": "VOR-DME",
-            "frequency_khz": "112300",
-            "latitude_deg": "39.6349983215332",
-            "longitude_deg": "-79.05049896240234",
-            "elevation_ft": "2640",
-            "iso_country": "US",
-            "dme_frequency_khz": "112300",
-            "dme_channel": "070X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-6.001",
-            "magnetic_variation_deg": "-9.283",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "WV15"
-        }
     ]
 }

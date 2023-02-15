@@ -40,49 +40,5 @@
             "he_heading_degT": "274",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "72004",
-            "airport_ref": "29142",
-            "airport_ident": "EGHG",
-            "type": "A/G",
-            "description": "Yeovil Westland A/G",
-            "frequency_mhz": "125.4"
-        },
-        {
-            "id": "72006",
-            "airport_ref": "29142",
-            "airport_ident": "EGHG",
-            "type": "RAD/APP",
-            "description": "Yeovil Westland RAD/APP",
-            "frequency_mhz": "130.8"
-        },
-        {
-            "id": "72005",
-            "airport_ref": "29142",
-            "airport_ident": "EGHG",
-            "type": "TWR",
-            "description": "Yeovil Westland TWR",
-            "frequency_mhz": "125.4"
-        }
-    ],
-    "country": {
-        "id": "302688",
-        "code": "GB",
-        "name": "United Kingdom",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
-        "keywords": "Great Britain"
-    },
-    "region": {
-        "id": "306374",
-        "code": "GB-ENG",
-        "local_code": "ENG",
-        "name": "England",
-        "continent": "EU",
-        "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
-        "keywords": "English airports"
-    }
+    ]
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302672",
-        "code": "AD",
-        "name": "Andorra",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Andorra",
-        "keywords": "Andorran airports"
-    },
-    "region": {
-        "id": "302813",
-        "code": "AD-04",
-        "local_code": "04",
-        "name": "La Massana Parish",
-        "continent": "EU",
-        "iso_country": "AD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/La_Massana",
-        "keywords": "Airports in La Massana Parish"
-    }
+    "keywords": ""
 }

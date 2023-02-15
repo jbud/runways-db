@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://www.hawks-nest.com/airport/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Hawks_Nest_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302728",
-        "code": "BS",
-        "name": "Bahamas",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bahamas",
-        "keywords": "Bahaman airports"
-    },
-    "region": {
-        "id": "303229",
-        "code": "BS-CI",
-        "local_code": "CI",
-        "name": "Cat Island",
-        "continent": "NA",
-        "iso_country": "BS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cat_Island",
-        "keywords": "Airports in Cat Island"
-    }
+    "keywords": ""
 }

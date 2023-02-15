@@ -40,41 +40,5 @@
             "he_heading_degT": "215.8",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "55001",
-            "airport_ref": "5650",
-            "airport_ident": "QJP",
-            "type": "ACP",
-            "description": "BRICKWALL",
-            "frequency_mhz": "120.5"
-        },
-        {
-            "id": "55002",
-            "airport_ref": "5650",
-            "airport_ident": "QJP",
-            "type": "TWR",
-            "description": "PO CHEON",
-            "frequency_mhz": "36.1"
-        }
-    ],
-    "country": {
-        "id": "302643",
-        "code": "KR",
-        "name": "South Korea",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Korea",
-        "keywords": "한국의 공항"
-    },
-    "region": {
-        "id": "304407",
-        "code": "KR-41",
-        "local_code": "41",
-        "name": "Gyeonggido",
-        "continent": "AS",
-        "iso_country": "KR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Gyeonggido",
-        "keywords": "Airports in Gyeonggido"
-    }
+    ]
 }

@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": "1135"
         }
-    ],
-    "country": {
-        "id": "302674",
-        "code": "AT",
-        "name": "Austria",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
-        "keywords": "Flughäfen in Österreich"
-    },
-    "region": {
-        "id": "302963",
-        "code": "AT-7",
-        "local_code": "7",
-        "name": "Tyrol",
-        "continent": "EU",
-        "iso_country": "AT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tyrol",
-        "keywords": "Tirol"
-    }
+    ]
 }

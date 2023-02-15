@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "331172",
-            "airport_ref": "517",
-            "airport_ident": "SSZW",
-            "type": "AFIS",
-            "description": "",
-            "frequency_mhz": "128.1"
-        }
-    ],
-    "country": {
-        "id": "302791",
-        "code": "BR",
-        "name": "Brazil",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
-        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
-    },
-    "region": {
-        "id": "303216",
-        "code": "BR-PR",
-        "local_code": "PR",
-        "name": "Paraná",
-        "continent": "SA",
-        "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Paran%C3%A1_(state)",
-        "keywords": "Airports in Paraná"
-    }
+    ]
 }

@@ -40,57 +40,5 @@
             "he_heading_degT": "282",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "51138",
-            "airport_ref": "3048",
-            "airport_ident": "FZFK",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
-    "country": {
-        "id": "302561",
-        "code": "CD",
-        "name": "Democratic Republic of the Congo",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
-        "keywords": "DRC"
-    },
-    "region": {
-        "id": "505651",
-        "code": "CD-SU",
-        "local_code": "SU",
-        "name": "Sud-Ubangi Province",
-        "continent": "AF",
-        "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sud-Ubangi",
-        "keywords": "Airports in Sud-Ubangi Province"
-    },
-    "navaids": [
-        {
-            "id": "88339",
-            "filename": "Gemena_NDB_CD",
-            "ident": "GEM",
-            "name": "Gemena",
-            "type": "NDB",
-            "frequency_khz": "270",
-            "latitude_deg": "3.230410099029541",
-            "longitude_deg": "19.766300201416016",
-            "elevation_ft": "1421",
-            "iso_country": "CD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.245",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FZFK"
-        }
     ]
 }

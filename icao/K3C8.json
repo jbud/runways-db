@@ -62,33 +62,5 @@
             "he_heading_degT": "311",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "65239",
-            "airport_ref": "18678",
-            "airport_ident": "K3C8",
-            "type": "A/D",
-            "description": "NEW YORK APP/DEP",
-            "frequency_mhz": "34.375"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306110",
-        "code": "US-NY",
-        "local_code": "NY",
-        "name": "New York",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
-        "keywords": "Airports in New York"
-    }
+    ]
 }

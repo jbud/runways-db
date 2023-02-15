@@ -40,49 +40,5 @@
             "he_heading_degT": "316",
             "he_displaced_threshold_ft": "435"
         }
-    ],
-    "freqs": [
-        {
-            "id": "66007",
-            "airport_ref": "19282",
-            "airport_ident": "KANJ",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "118.375"
-        },
-        {
-            "id": "66008",
-            "airport_ref": "19282",
-            "airport_ident": "KANJ",
-            "type": "CNTR",
-            "description": "TORONTO CNTR",
-            "frequency_mhz": "132.65"
-        },
-        {
-            "id": "66009",
-            "airport_ref": "19282",
-            "airport_ident": "KANJ",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.7"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306098",
-        "code": "US-MI",
-        "local_code": "MI",
-        "name": "Michigan",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
-        "keywords": "Airports in Michigan"
-    }
+    ]
 }

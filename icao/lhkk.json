@@ -40,41 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "300363",
-            "airport_ref": "46653",
-            "airport_ident": "lhkk",
-            "type": "Unicom",
-            "description": "Lacháza INFO",
-            "frequency_mhz": "124.025"
-        },
-        {
-            "id": "300364",
-            "airport_ref": "46653",
-            "airport_ident": "lhkk",
-            "type": "Unicom",
-            "description": "Lacháza INFO",
-            "frequency_mhz": "124.025"
-        }
-    ],
-    "country": {
-        "id": "302693",
-        "code": "HU",
-        "name": "Hungary",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
-        "keywords": "Repülőterek Magyarország"
-    },
-    "region": {
-        "id": "304079",
-        "code": "HU-PE",
-        "local_code": "PE",
-        "name": "Pest County",
-        "continent": "EU",
-        "iso_country": "HU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pest_County",
-        "keywords": "Airports in Pest County"
-    }
+    ]
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "254",
             "he_displaced_threshold_ft": "395"
         }
-    ],
-    "freqs": [
-        {
-            "id": "52060",
-            "airport_ref": "2308",
-            "airport_ident": "EFHM",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "123.15"
-        }
-    ],
-    "country": {
-        "id": "302685",
-        "code": "FI",
-        "name": "Finland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
-        "keywords": "Lentokentät, Suomen"
-    },
-    "region": {
-        "id": "336512",
-        "code": "FI-11",
-        "local_code": "11",
-        "name": "Pirkanmaa Region",
-        "continent": "EU",
-        "iso_country": "FI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pirkanmaa",
-        "keywords": "Airports in Pirkanmaa Region"
-    }
+    ]
 }

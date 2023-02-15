@@ -40,57 +40,5 @@
             "he_heading_degT": "2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "68054",
-            "airport_ref": "20352",
-            "airport_ident": "KLLJ",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "119.275"
-        },
-        {
-            "id": "68055",
-            "airport_ref": "20352",
-            "airport_ident": "KLLJ",
-            "type": "CNTR",
-            "description": "SALT LAKE CITY CNTR",
-            "frequency_mhz": "128.05"
-        },
-        {
-            "id": "68056",
-            "airport_ref": "20352",
-            "airport_ident": "KLLJ",
-            "type": "RDO",
-            "description": "BOISE RDO",
-            "frequency_mhz": "122.6"
-        },
-        {
-            "id": "68057",
-            "airport_ref": "20352",
-            "airport_ident": "KLLJ",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306089",
-        "code": "US-ID",
-        "local_code": "ID",
-        "name": "Idaho",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho",
-        "keywords": "Airports in Idaho"
-    }
+    ]
 }

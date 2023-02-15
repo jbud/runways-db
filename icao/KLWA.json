@@ -62,57 +62,5 @@
             "he_heading_degT": "224",
             "he_displaced_threshold_ft": "500"
         }
-    ],
-    "freqs": [
-        {
-            "id": "64297",
-            "airport_ref": "20389",
-            "airport_ident": "KLWA",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.025"
-        },
-        {
-            "id": "64298",
-            "airport_ref": "20389",
-            "airport_ident": "KLWA",
-            "type": "CNTR",
-            "description": "CHICAGO CNTR",
-            "frequency_mhz": "128.5"
-        },
-        {
-            "id": "64299",
-            "airport_ref": "20389",
-            "airport_ident": "KLWA",
-            "type": "RDO",
-            "description": "LANSING RDO",
-            "frequency_mhz": "112.1"
-        },
-        {
-            "id": "64300",
-            "airport_ref": "20389",
-            "airport_ident": "KLWA",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306098",
-        "code": "US-MI",
-        "local_code": "MI",
-        "name": "Michigan",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
-        "keywords": "Airports in Michigan"
-    }
+    ]
 }

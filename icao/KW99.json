@@ -40,49 +40,5 @@
             "he_heading_degT": "302",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "69131",
-            "airport_ref": "21367",
-            "airport_ident": "KW99",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "124.475"
-        },
-        {
-            "id": "69132",
-            "airport_ref": "21367",
-            "airport_ident": "KW99",
-            "type": "CNTR",
-            "description": "WASHINGTON CNTR",
-            "frequency_mhz": "133.65"
-        },
-        {
-            "id": "69133",
-            "airport_ref": "21367",
-            "airport_ident": "KW99",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306126",
-        "code": "US-WV",
-        "local_code": "WV",
-        "name": "West Virginia",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Virginia",
-        "keywords": "Airports in West Virginia"
-    }
+    ]
 }

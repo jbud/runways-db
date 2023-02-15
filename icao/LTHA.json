@@ -16,23 +16,5 @@
     "local_code": "GBS",
     "home_link": "",
     "wikipedia_link": "https://tr.wikipedia.org/wiki/Ufuk_Dani%C5%9Fmend_Polis_Heliportu",
-    "keywords": "",
-    "country": {
-        "id": "302667",
-        "code": "TR",
-        "name": "Turkey",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
-        "keywords": "Türkiye havaalanları"
-    },
-    "region": {
-        "id": "305841",
-        "code": "TR-06",
-        "local_code": "06",
-        "name": "Ankara Province",
-        "continent": "AS",
-        "iso_country": "TR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ankara_Province",
-        "keywords": "Airports in Ankara Province"
-    }
+    "keywords": ""
 }

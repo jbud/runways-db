@@ -16,23 +16,5 @@
     "local_code": "N18",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302770",
-        "code": "MH",
-        "name": "Marshall Islands",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Marshall_Islands",
-        "keywords": "Airports in Marshall Islands"
-    },
-    "region": {
-        "id": "304632",
-        "code": "MH-ARN",
-        "local_code": "ARN",
-        "name": "Arno",
-        "continent": "OC",
-        "iso_country": "MH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Arno",
-        "keywords": "Airports in Arno"
-    }
+    "keywords": ""
 }

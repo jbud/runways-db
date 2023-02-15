@@ -62,41 +62,5 @@
             "he_heading_degT": "0.4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "66754",
-            "airport_ref": "20040",
-            "airport_ident": "KHEE",
-            "type": "CNTR",
-            "description": "MEMPHIS CNTR",
-            "frequency_mhz": "135.3"
-        },
-        {
-            "id": "66755",
-            "airport_ref": "20040",
-            "airport_ident": "KHEE",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306078",
-        "code": "US-AR",
-        "local_code": "AR",
-        "name": "Arkansas",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
-        "keywords": "Airports in Arkansas"
-    }
+    ]
 }

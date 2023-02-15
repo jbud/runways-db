@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75264",
-            "airport_ref": "45229",
-            "airport_ident": "AMC",
-            "type": "CTAF",
-            "description": "Tower not yet operational",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302747",
-        "code": "MX",
-        "name": "Mexico",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
-        "keywords": "Aeropuertos de México, Mexican airports"
-    },
-    "region": {
-        "id": "304815",
-        "code": "MX-SON",
-        "local_code": "SON",
-        "name": "Sonora",
-        "continent": "NA",
-        "iso_country": "MX",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sonora",
-        "keywords": "Airports in Sonora"
-    }
+    ]
 }

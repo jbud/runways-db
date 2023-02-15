@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://sassiin.fi/",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302685",
-        "code": "FI",
-        "name": "Finland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
-        "keywords": "Lentokentät, Suomen"
-    },
-    "region": {
-        "id": "336512",
-        "code": "FI-11",
-        "local_code": "11",
-        "name": "Pirkanmaa Region",
-        "continent": "EU",
-        "iso_country": "FI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pirkanmaa",
-        "keywords": "Airports in Pirkanmaa Region"
-    }
+    "keywords": ""
 }

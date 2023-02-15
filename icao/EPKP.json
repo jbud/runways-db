@@ -84,33 +84,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "301509",
-            "airport_ref": "30272",
-            "airport_ident": "EPKP",
-            "type": "-",
-            "description": "Pobiednik Radio",
-            "frequency_mhz": "122.4"
-        }
-    ],
-    "country": {
-        "id": "302710",
-        "code": "PL",
-        "name": "Poland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
-        "keywords": "Lotniska Polski"
-    },
-    "region": {
-        "id": "305149",
-        "code": "PL-MA",
-        "local_code": "MA",
-        "name": "Lesser Poland Voivodeship",
-        "continent": "EU",
-        "iso_country": "PL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lesser_Poland_Voivodeship",
-        "keywords": "Małopolskie"
-    }
+    ]
 }

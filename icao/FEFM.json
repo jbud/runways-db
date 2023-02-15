@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Bambari_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302562",
-        "code": "CF",
-        "name": "Central African Republic",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_African_Republic",
-        "keywords": "Airports in Central African Republic"
-    },
-    "region": {
-        "id": "303338",
-        "code": "CF-UK",
-        "local_code": "UK",
-        "name": "Ouaka",
-        "continent": "AF",
-        "iso_country": "CF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ouaka",
-        "keywords": "Airports in Ouaka"
-    }
+    "keywords": ""
 }

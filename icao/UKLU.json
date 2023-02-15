@@ -40,41 +40,5 @@
             "he_heading_degT": "283",
             "he_displaced_threshold_ft": "1765"
         }
-    ],
-    "freqs": [
-        {
-            "id": "58579",
-            "airport_ref": "6485",
-            "airport_ident": "UKLU",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "58580",
-            "airport_ref": "6485",
-            "airport_ident": "UKLU",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "134.5"
-        }
-    ],
-    "country": {
-        "id": "302719",
-        "code": "UA",
-        "name": "Ukraine",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ukraine",
-        "keywords": "Аеропорти України"
-    },
-    "region": {
-        "id": "305987",
-        "code": "UA-21",
-        "local_code": "21",
-        "name": "Zakarpattia Oblast",
-        "continent": "EU",
-        "iso_country": "UA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Zakarpattia_Oblast",
-        "keywords": "Airports in Zakarpattia Oblast"
-    }
+    ]
 }

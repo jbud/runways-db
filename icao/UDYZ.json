@@ -40,57 +40,5 @@
             "he_heading_degT": "270",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "48318",
-            "airport_ref": "6446",
-            "airport_ident": "UDYZ",
-            "type": "APP",
-            "description": "YEREVAN APP",
-            "frequency_mhz": "126"
-        },
-        {
-            "id": "48319",
-            "airport_ref": "6446",
-            "airport_ident": "UDYZ",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "119.5"
-        },
-        {
-            "id": "48320",
-            "airport_ref": "6446",
-            "airport_ident": "UDYZ",
-            "type": "GND",
-            "description": "YEREVAN GND",
-            "frequency_mhz": "119"
-        },
-        {
-            "id": "48321",
-            "airport_ref": "6446",
-            "airport_ident": "UDYZ",
-            "type": "TWR",
-            "description": "YEREVAN TWR",
-            "frequency_mhz": "128"
-        }
-    ],
-    "country": {
-        "id": "302620",
-        "code": "AM",
-        "name": "Armenia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Armenia",
-        "keywords": ""
-    },
-    "region": {
-        "id": "302902",
-        "code": "AM-ER",
-        "local_code": "ER",
-        "name": "Yerevan (capital district)",
-        "continent": "AS",
-        "iso_country": "AM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Yerevan",
-        "keywords": "Erevan"
-    }
+    ]
 }

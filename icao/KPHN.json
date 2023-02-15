@@ -62,49 +62,5 @@
             "he_heading_degT": "274.7",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "62803",
-            "airport_ref": "20830",
-            "airport_ident": "KPHN",
-            "type": "A/D",
-            "description": "SELFRIDGE APP/DEP",
-            "frequency_mhz": "119.6"
-        },
-        {
-            "id": "62804",
-            "airport_ref": "20830",
-            "airport_ident": "KPHN",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.375"
-        },
-        {
-            "id": "62805",
-            "airport_ref": "20830",
-            "airport_ident": "KPHN",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123.05"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306098",
-        "code": "US-MI",
-        "local_code": "MI",
-        "name": "Michigan",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
-        "keywords": "Airports in Michigan"
-    }
+    ]
 }

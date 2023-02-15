@@ -40,23 +40,5 @@
             "he_heading_degT": "281",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302642",
-        "code": "KP",
-        "name": "North Korea",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Korea",
-        "keywords": "North Korean airports"
-    },
-    "region": {
-        "id": "304388",
-        "code": "KP-08",
-        "local_code": "08",
-        "name": "South Hamgyong Province",
-        "continent": "AS",
-        "iso_country": "KP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Hamgyong_Province",
-        "keywords": "Airports in South Hamgyong Province"
-    }
+    ]
 }

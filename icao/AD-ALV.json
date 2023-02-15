@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "http://pl.wikipedia.org/wiki/Heliport_Andorra_la_Vella",
-    "keywords": "",
-    "country": {
-        "id": "302672",
-        "code": "AD",
-        "name": "Andorra",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Andorra",
-        "keywords": "Andorran airports"
-    },
-    "region": {
-        "id": "302817",
-        "code": "AD-08",
-        "local_code": "08",
-        "name": "Escaldes-Engordany Parish",
-        "continent": "EU",
-        "iso_country": "AD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Escaldes-Engordany",
-        "keywords": "Airports in Escaldes-Engordany Parish"
-    }
+    "keywords": ""
 }

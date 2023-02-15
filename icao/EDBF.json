@@ -40,33 +40,5 @@
             "he_heading_degT": "284",
             "he_displaced_threshold_ft": "410"
         }
-    ],
-    "freqs": [
-        {
-            "id": "333665",
-            "airport_ref": "28561",
-            "airport_ident": "EDBF",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "133.94"
-        }
-    ],
-    "country": {
-        "id": "302681",
-        "code": "DE",
-        "name": "Germany",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
-        "keywords": "Flughäfen in Deutschland"
-    },
-    "region": {
-        "id": "303547",
-        "code": "DE-BR",
-        "local_code": "BR",
-        "name": "Brandenburg",
-        "continent": "EU",
-        "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brandenburg",
-        "keywords": "Airports in Brandenburg"
-    }
+    ]
 }

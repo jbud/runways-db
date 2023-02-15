@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302778",
-        "code": "PG",
-        "name": "Papua New Guinea",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
-        "keywords": "Airports in Papua New Guinea"
-    },
-    "region": {
-        "id": "305047",
-        "code": "PG-NPP",
-        "local_code": "NPP",
-        "name": "Northern Province",
-        "continent": "OC",
-        "iso_country": "PG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Province_(Papua_New_Guinea)",
-        "keywords": "Airports in Northern Province"
-    }
+    ]
 }

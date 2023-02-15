@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302692",
-        "code": "HR",
-        "name": "Croatia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Croatia",
-        "keywords": "Croatian airports"
-    },
-    "region": {
-        "id": "304032",
-        "code": "HR-08",
-        "local_code": "08",
-        "name": "Primorje-Gorski Kotar County",
-        "continent": "EU",
-        "iso_country": "HR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Primorje-Gorski_Kotar_County",
-        "keywords": "Airports in Primorje-Gorski Kotar County"
-    }
+    ]
 }

@@ -62,49 +62,5 @@
             "he_heading_degT": "344.9",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "67341",
-            "airport_ref": "18681",
-            "airport_ident": "K3CU",
-            "type": "CNTR",
-            "description": "MINNEAPOLIS CNTR",
-            "frequency_mhz": "126.45"
-        },
-        {
-            "id": "67342",
-            "airport_ref": "18681",
-            "airport_ident": "K3CU",
-            "type": "RDO",
-            "description": "GREEN BAY RDO",
-            "frequency_mhz": "113.4"
-        },
-        {
-            "id": "67343",
-            "airport_ref": "18681",
-            "airport_ident": "K3CU",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306125",
-        "code": "US-WI",
-        "local_code": "WI",
-        "name": "Wisconsin",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
-        "keywords": "Airports in Wisconsin"
-    }
+    ]
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Caou Island",
-    "country": {
-        "id": "302797",
-        "code": "GY",
-        "name": "Guyana",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Guyana",
-        "keywords": "Guyanese airports"
-    },
-    "region": {
-        "id": "303995",
-        "code": "GY-CU",
-        "local_code": "CU",
-        "name": "Cuyuni-Mazaruni",
-        "continent": "SA",
-        "iso_country": "GY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cuyuni-Mazaruni",
-        "keywords": "Airports in Cuyuni-Mazaruni"
-    }
+    "keywords": "Caou Island"
 }

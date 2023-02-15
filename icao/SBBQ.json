@@ -40,57 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "49559",
-            "airport_ref": "5871",
-            "airport_ident": "SBBQ",
-            "type": "AFIS",
-            "description": "RDO",
-            "frequency_mhz": "125.9"
-        }
-    ],
-    "country": {
-        "id": "302791",
-        "code": "BR",
-        "name": "Brazil",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
-        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
-    },
-    "region": {
-        "id": "303209",
-        "code": "BR-MG",
-        "local_code": "MG",
-        "name": "Minas Gerais",
-        "continent": "SA",
-        "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
-        "keywords": "Airports in Minas Gerais"
-    },
-    "navaids": [
-        {
-            "id": "85837",
-            "filename": "Barbacena_NDB_BR",
-            "ident": "BBC",
-            "name": "Barbacena",
-            "type": "NDB",
-            "frequency_khz": "285",
-            "latitude_deg": "-21.267000198364258",
-            "longitude_deg": "-43.764198303222656",
-            "elevation_ft": "3657",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-21.355",
-            "usageType": "HI",
-            "power": "MEDIUM",
-            "associated_airport": "SBBQ"
-        }
     ]
 }

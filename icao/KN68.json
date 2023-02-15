@@ -40,49 +40,5 @@
             "he_heading_degT": "228",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "70484",
-            "airport_ref": "20617",
-            "airport_ident": "KN68",
-            "type": "A/D",
-            "description": "HARRISBURG APP/DEP",
-            "frequency_mhz": "124.1"
-        },
-        {
-            "id": "70485",
-            "airport_ref": "20617",
-            "airport_ident": "KN68",
-            "type": "RDO",
-            "description": "ALTOONA RDO",
-            "frequency_mhz": "115"
-        },
-        {
-            "id": "70486",
-            "airport_ref": "20617",
-            "airport_ident": "KN68",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306114",
-        "code": "US-PA",
-        "local_code": "PA",
-        "name": "Pennsylvania",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
-        "keywords": "Airports in Pennsylvania"
-    }
+    ]
 }

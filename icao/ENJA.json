@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "301117",
-            "airport_ref": "301115",
-            "airport_ident": "ENJA",
-            "type": "AFIS",
-            "description": "Jan Mayen Information",
-            "frequency_mhz": "118.1"
-        }
-    ],
-    "country": {
-        "id": "302709",
-        "code": "NO",
-        "name": "Norway",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
-        "keywords": "Flyplasser i Norge"
-    },
-    "region": {
-        "id": "304965",
-        "code": "NO-22",
-        "local_code": "22",
-        "name": "Jan Mayen",
-        "continent": "EU",
-        "iso_country": "NO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Jan_Mayen",
-        "keywords": "Airports in Jan Mayen"
-    }
+    ]
 }

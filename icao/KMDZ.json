@@ -62,49 +62,5 @@
             "he_heading_degT": "336",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "70681",
-            "airport_ref": "20490",
-            "airport_ident": "KMDZ",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.025"
-        },
-        {
-            "id": "70682",
-            "airport_ref": "20490",
-            "airport_ident": "KMDZ",
-            "type": "CNTR",
-            "description": "MINNEAPOLIS CNTR",
-            "frequency_mhz": "124.4"
-        },
-        {
-            "id": "70683",
-            "airport_ref": "20490",
-            "airport_ident": "KMDZ",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306125",
-        "code": "US-WI",
-        "local_code": "WI",
-        "name": "Wisconsin",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
-        "keywords": "Airports in Wisconsin"
-    }
+    ]
 }

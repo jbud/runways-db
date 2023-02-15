@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "312408",
-            "airport_ref": "310723",
-            "airport_ident": "SI-0011",
-            "type": "AFIS",
-            "description": "SENTVID",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302716",
-        "code": "SI",
-        "name": "Slovenia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Slovenia",
-        "keywords": ""
-    },
-    "region": {
-        "id": "305476",
-        "code": "SI-039",
-        "local_code": "039",
-        "name": "Ivancna Gorica",
-        "continent": "EU",
-        "iso_country": "SI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ivancna_Gorica",
-        "keywords": "Airports in Ivancna Gorica"
-    }
+    ]
 }

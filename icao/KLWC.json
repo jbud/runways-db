@@ -62,57 +62,5 @@
             "he_heading_degT": "333",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "66646",
-            "airport_ref": "20391",
-            "airport_ident": "KLWC",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "121.225"
-        },
-        {
-            "id": "66647",
-            "airport_ref": "20391",
-            "airport_ident": "KLWC",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.825"
-        },
-        {
-            "id": "66648",
-            "airport_ref": "20391",
-            "airport_ident": "KLWC",
-            "type": "CNTR",
-            "description": "KANSAS CITY CNTR",
-            "frequency_mhz": "123.8"
-        },
-        {
-            "id": "66649",
-            "airport_ref": "20391",
-            "airport_ident": "KLWC",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306092",
-        "code": "US-KS",
-        "local_code": "KS",
-        "name": "Kansas",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
-        "keywords": "Airports in Kansas"
-    }
+    ]
 }

@@ -62,41 +62,5 @@
             "he_heading_degT": "267",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "52995",
-            "airport_ref": "2262",
-            "airport_ident": "EDQE",
-            "type": "A/G",
-            "description": "FEUERSTEIN INFO",
-            "frequency_mhz": "130.78"
-        },
-        {
-            "id": "52996",
-            "airport_ref": "2262",
-            "airport_ident": "EDQE",
-            "type": "AFIS",
-            "description": "LANGEN INFORMATION",
-            "frequency_mhz": "125.8"
-        }
-    ],
-    "country": {
-        "id": "302681",
-        "code": "DE",
-        "name": "Germany",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
-        "keywords": "Flughäfen in Deutschland"
-    },
-    "region": {
-        "id": "303550",
-        "code": "DE-BY",
-        "local_code": "BY",
-        "name": "Bavaria",
-        "continent": "EU",
-        "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
-        "keywords": "Bayern"
-    }
+    ]
 }

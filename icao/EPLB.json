@@ -40,33 +40,5 @@
             "he_heading_degT": "252",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "309485",
-            "airport_ref": "309484",
-            "airport_ident": "EPLB",
-            "type": "TWR",
-            "description": "Lublin TWR",
-            "frequency_mhz": "136.42"
-        }
-    ],
-    "country": {
-        "id": "302710",
-        "code": "PL",
-        "name": "Poland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
-        "keywords": "Lotniska Polski"
-    },
-    "region": {
-        "id": "305148",
-        "code": "PL-LU",
-        "local_code": "LU",
-        "name": "Lublin Voivodeship",
-        "continent": "EU",
-        "iso_country": "PL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lublin_Voivodeship",
-        "keywords": "Lubelskie"
-    }
+    ]
 }

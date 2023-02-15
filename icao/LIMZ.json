@@ -40,57 +40,5 @@
             "he_heading_degT": "212",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "54159",
-            "airport_ref": "4350",
-            "airport_ident": "LIMZ",
-            "type": "AFIS",
-            "description": "CUNEO INFO",
-            "frequency_mhz": "119.55"
-        }
-    ],
-    "country": {
-        "id": "302697",
-        "code": "IT",
-        "name": "Italy",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
-        "keywords": "Aeroporti d'Italia"
-    },
-    "region": {
-        "id": "306360",
-        "code": "IT-21",
-        "local_code": "21",
-        "name": "Piedmont",
-        "continent": "EU",
-        "iso_country": "IT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Piedmont",
-        "keywords": "PM"
-    },
-    "navaids": [
-        {
-            "id": "90285",
-            "filename": "Levaldigi_NDB_IT",
-            "ident": "LEV",
-            "name": "Levaldigi",
-            "type": "NDB",
-            "frequency_khz": "371",
-            "latitude_deg": "44.5442008972168",
-            "longitude_deg": "7.615389823913574",
-            "elevation_ft": "",
-            "iso_country": "IT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.42",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LIMZ"
-        }
     ]
 }

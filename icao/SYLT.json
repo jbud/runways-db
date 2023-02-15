@@ -40,23 +40,5 @@
             "he_heading_degT": "237.3",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302797",
-        "code": "GY",
-        "name": "Guyana",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Guyana",
-        "keywords": "Guyanese airports"
-    },
-    "region": {
-        "id": "304004",
-        "code": "GY-UT",
-        "local_code": "UT",
-        "name": "Upper Takutu-Upper Essequibo",
-        "continent": "SA",
-        "iso_country": "GY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Upper_Takutu-Upper_Essequibo",
-        "keywords": "Airports in Upper Takutu-Upper Essequibo"
-    }
+    ]
 }

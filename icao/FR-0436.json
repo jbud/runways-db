@@ -16,23 +16,5 @@
     "local_code": "LF2753",
     "home_link": "http://www.calhn.free.fr",
     "wikipedia_link": "",
-    "keywords": "Base ULM de Val de Reuil",
-    "country": {
-        "id": "302687",
-        "code": "FR",
-        "name": "France",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
-        "keywords": "Aéroports de France"
-    },
-    "region": {
-        "id": "306343",
-        "code": "FR-NOR",
-        "local_code": "NOR",
-        "name": "Normandy",
-        "continent": "EU",
-        "iso_country": "FR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Normandy",
-        "keywords": "Haute-Normandie"
-    }
+    "keywords": "Base ULM de Val de Reuil"
 }

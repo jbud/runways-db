@@ -84,57 +84,5 @@
             "he_heading_degT": "315.3",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "59439",
-            "airport_ref": "20558",
-            "airport_ident": "KMRF",
-            "type": "A/D",
-            "description": "ALBUQUERQUE CNTR",
-            "frequency_mhz": "135.875"
-        },
-        {
-            "id": "59440",
-            "airport_ref": "20558",
-            "airport_ident": "KMRF",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "134.025"
-        },
-        {
-            "id": "59441",
-            "airport_ref": "20558",
-            "airport_ident": "KMRF",
-            "type": "FSS",
-            "description": "SAN ANGELO RDO",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "59442",
-            "airport_ref": "20558",
-            "airport_ident": "KMRF",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306119",
-        "code": "US-TX",
-        "local_code": "TX",
-        "name": "Texas",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
-        "keywords": "Texan airports"
-    }
+    ]
 }

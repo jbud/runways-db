@@ -40,57 +40,5 @@
             "he_heading_degT": "5.3",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "51312",
-            "airport_ref": "6022",
-            "airport_ident": "SCGE",
-            "type": "INFO",
-            "description": "LOS ANGELES INFO",
-            "frequency_mhz": "126.7"
-        }
-    ],
-    "country": {
-        "id": "302792",
-        "code": "CL",
-        "name": "Chile",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
-        "keywords": "Aeropuertos de Chile"
-    },
-    "region": {
-        "id": "303401",
-        "code": "CL-BI",
-        "local_code": "BI",
-        "name": "Bío-Bío Region",
-        "continent": "SA",
-        "iso_country": "CL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bío-Bío_Region",
-        "keywords": "Airports in Bío-Bío Region"
-    },
-    "navaids": [
-        {
-            "id": "90715",
-            "filename": "Los_Angeles_VOR_CL",
-            "ident": "MAD",
-            "name": "Los Angeles",
-            "type": "VOR",
-            "frequency_khz": "112900",
-            "latitude_deg": "-37.406700134277344",
-            "longitude_deg": "-72.42469787597656",
-            "elevation_ft": "374",
-            "iso_country": "CL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.058",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SCGE"
-        }
     ]
 }

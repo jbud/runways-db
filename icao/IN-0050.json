@@ -40,23 +40,5 @@
             "he_heading_degT": "296",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304191",
-        "code": "IN-RJ",
-        "local_code": "RJ",
-        "name": "Rajasthan",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Rajasthan",
-        "keywords": "Airports in Rajasthan"
-    }
+    ]
 }

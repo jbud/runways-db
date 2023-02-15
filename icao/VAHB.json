@@ -40,57 +40,5 @@
             "he_heading_degT": "262.8",
             "he_displaced_threshold_ft": "175"
         }
-    ],
-    "freqs": [
-        {
-            "id": "53790",
-            "airport_ref": "26445",
-            "airport_ident": "VAHB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.2"
-        }
-    ],
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304179",
-        "code": "IN-KA",
-        "local_code": "KA",
-        "name": "Karnataka",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Karnataka",
-        "keywords": "Airports in Karnataka"
-    },
-    "navaids": [
-        {
-            "id": "88732",
-            "filename": "Hubli_NDB_IN",
-            "ident": "HB",
-            "name": "Hubli",
-            "type": "NDB",
-            "frequency_khz": "402",
-            "latitude_deg": "15.358400344848633",
-            "longitude_deg": "75.08350372314453",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.282",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VAHB"
-        }
     ]
 }

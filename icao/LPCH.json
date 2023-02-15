@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "314012",
-            "airport_ref": "29486",
-            "airport_ident": "LPCH",
-            "type": "AFIS",
-            "description": "",
-            "frequency_mhz": "122.7"
-        }
-    ],
-    "country": {
-        "id": "302711",
-        "code": "PT",
-        "name": "Portugal",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Portugal",
-        "keywords": "Aeroportos de Portugal"
-    },
-    "region": {
-        "id": "305183",
-        "code": "PT-17",
-        "local_code": "17",
-        "name": "Vila Real District",
-        "continent": "EU",
-        "iso_country": "PT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Vila_Real_District",
-        "keywords": "Airports in Vila Real District"
-    }
+    ]
 }

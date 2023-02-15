@@ -40,57 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "72482",
-            "airport_ref": "38281",
-            "airport_ident": "YCES",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "119.6"
-        },
-        {
-            "id": "72485",
-            "airport_ref": "38281",
-            "airport_ident": "YCES",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "120.3"
-        },
-        {
-            "id": "72484",
-            "airport_ref": "38281",
-            "airport_ident": "YCES",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "122.3"
-        },
-        {
-            "id": "72483",
-            "airport_ref": "38281",
-            "airport_ident": "YCES",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "125.7"
-        }
-    ],
-    "country": {
-        "id": "302764",
-        "code": "AU",
-        "name": "Australia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
-        "keywords": "Australian airports"
-    },
-    "region": {
-        "id": "302975",
-        "code": "AU-VIC",
-        "local_code": "VIC",
-        "name": "Victoria",
-        "continent": "OC",
-        "iso_country": "AU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
-        "keywords": "Victorian airports"
-    }
+    ]
 }

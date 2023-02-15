@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Skikda_Airport",
-    "keywords": "DABP, SKI, Philippeville Airfield",
-    "country": {
-        "id": "302568",
-        "code": "DZ",
-        "name": "Algeria",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Algeria",
-        "keywords": "مطارات الجزائر"
-    },
-    "region": {
-        "id": "303623",
-        "code": "DZ-21",
-        "local_code": "21",
-        "name": "Skikda Province",
-        "continent": "AF",
-        "iso_country": "DZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Skikda_Province",
-        "keywords": "Airports in Skikda Province"
-    }
+    "keywords": "DABP, SKI, Philippeville Airfield"
 }

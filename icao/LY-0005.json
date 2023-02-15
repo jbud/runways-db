@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302583",
-        "code": "LY",
-        "name": "Libya",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Libya",
-        "keywords": "مطارات في ليبيا"
-    },
-    "region": {
-        "id": "304557",
-        "code": "LY-SH",
-        "local_code": "SH",
-        "name": "Wadi Al Shatii District",
-        "continent": "AF",
-        "iso_country": "LY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Wadi_Al_Shatii_District",
-        "keywords": "Ash Shāţi'"
-    }
+    ]
 }

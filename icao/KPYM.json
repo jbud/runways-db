@@ -62,57 +62,5 @@
             "he_heading_degT": "310",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "67135",
-            "airport_ref": "20900",
-            "airport_ident": "KPYM",
-            "type": "A/D",
-            "description": "CAPE APP/DEP",
-            "frequency_mhz": "118.2"
-        },
-        {
-            "id": "67136",
-            "airport_ref": "20900",
-            "airport_ident": "KPYM",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "135.625"
-        },
-        {
-            "id": "67137",
-            "airport_ref": "20900",
-            "airport_ident": "KPYM",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "127.75"
-        },
-        {
-            "id": "67138",
-            "airport_ref": "20900",
-            "airport_ident": "KPYM",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306095",
-        "code": "US-MA",
-        "local_code": "MA",
-        "name": "Massachusetts",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Massachusetts",
-        "keywords": "Airports in Massachusetts"
-    }
+    ]
 }

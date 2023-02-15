@@ -40,49 +40,5 @@
             "he_heading_degT": "213.6",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "70533",
-            "airport_ref": "20463",
-            "airport_ident": "KM91",
-            "type": "A/D",
-            "description": "NASHVILLE APP/DEP",
-            "frequency_mhz": "119.35"
-        },
-        {
-            "id": "70534",
-            "airport_ref": "20463",
-            "airport_ident": "KM91",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "120.675"
-        },
-        {
-            "id": "70535",
-            "airport_ref": "20463",
-            "airport_ident": "KM91",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306118",
-        "code": "US-TN",
-        "local_code": "TN",
-        "name": "Tennessee",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
-        "keywords": "Airports in Tennessee"
-    }
+    ]
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "EH0024",
-    "country": {
-        "id": "302708",
-        "code": "NL",
-        "name": "Netherlands",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
-        "keywords": "Holland, Luchthavens van Nederland, Dutch airports"
-    },
-    "region": {
-        "id": "304942",
-        "code": "NL-UT",
-        "local_code": "UT",
-        "name": "Utrecht",
-        "continent": "EU",
-        "iso_country": "NL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Utrecht",
-        "keywords": "Airports in Utrecht"
-    }
+    "keywords": "EH0024"
 }

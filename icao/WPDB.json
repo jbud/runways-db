@@ -40,33 +40,5 @@
             "he_heading_degT": "347.4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "57813",
-            "airport_ref": "26880",
-            "airport_ident": "WPDB",
-            "type": "CTAF",
-            "description": "TIMOR COMMON LOW",
-            "frequency_mhz": "127.1"
-        }
-    ],
-    "country": {
-        "id": "302665",
-        "code": "TL",
-        "name": "Timor-Leste",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Timor-Leste",
-        "keywords": "East Timor"
-    },
-    "region": {
-        "id": "305794",
-        "code": "TL-CO",
-        "local_code": "CO",
-        "name": "Cova Lima",
-        "continent": "AS",
-        "iso_country": "TL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cova_Lima",
-        "keywords": "Airports in Cova Lima"
-    }
+    ]
 }

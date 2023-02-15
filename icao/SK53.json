@@ -40,23 +40,5 @@
             "he_heading_degT": "245",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302793",
-        "code": "CO",
-        "name": "Colombia",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
-        "keywords": "Aeropuertos de Colombia"
-    },
-    "region": {
-        "id": "303477",
-        "code": "CO-MET",
-        "local_code": "MET",
-        "name": "Meta Department",
-        "continent": "SA",
-        "iso_country": "CO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Meta_Department",
-        "keywords": "Airports in Meta Department"
-    }
+    ]
 }

@@ -40,49 +40,5 @@
             "he_heading_degT": "269",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "68816",
-            "airport_ref": "20839",
-            "airport_ident": "KPLD",
-            "type": "A/D",
-            "description": "FORT WAYNE APP/DEP",
-            "frequency_mhz": "127.2"
-        },
-        {
-            "id": "68817",
-            "airport_ref": "20839",
-            "airport_ident": "KPLD",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "126.675"
-        },
-        {
-            "id": "68818",
-            "airport_ref": "20839",
-            "airport_ident": "KPLD",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306091",
-        "code": "US-IN",
-        "local_code": "IN",
-        "name": "Indiana",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
-        "keywords": "Airports in Indiana"
-    }
+    ]
 }

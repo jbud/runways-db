@@ -62,41 +62,5 @@
             "he_heading_degT": "269.9",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "56173",
-            "airport_ref": "5263",
-            "airport_ident": "OPMR",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "32.42"
-        },
-        {
-            "id": "56174",
-            "airport_ref": "5263",
-            "airport_ident": "OPMR",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "26.79"
-        }
-    ],
-    "country": {
-        "id": "302657",
-        "code": "PK",
-        "name": "Pakistan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pakistan",
-        "keywords": "پاکستان کے ہوائی اڈوں"
-    },
-    "region": {
-        "id": "305141",
-        "code": "PK-SD",
-        "local_code": "SD",
-        "name": "Sindh",
-        "continent": "AS",
-        "iso_country": "PK",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sindh",
-        "keywords": "Sind"
-    }
+    ]
 }

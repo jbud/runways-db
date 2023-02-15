@@ -40,23 +40,5 @@
             "he_heading_degT": "336.5",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302752",
-        "code": "SV",
-        "name": "El Salvador",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/El_Salvador",
-        "keywords": "Salvadorian, Salvadorean"
-    },
-    "region": {
-        "id": "305664",
-        "code": "SV-UN",
-        "local_code": "UN",
-        "name": "La Unión Department",
-        "continent": "NA",
-        "iso_country": "SV",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/La_Uni%C3%B3n_Department",
-        "keywords": "Airports in La Unión"
-    }
+    ]
 }

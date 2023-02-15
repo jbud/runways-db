@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "316565",
-            "airport_ref": "29058",
-            "airport_ident": "EBZU",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "123.425"
-        }
-    ],
-    "country": {
-        "id": "302676",
-        "code": "BE",
-        "name": "Belgium",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Belgium",
-        "keywords": "Aéroports de Belgique,Luchthavens van België"
-    },
-    "region": {
-        "id": "303074",
-        "code": "BE-VWV",
-        "local_code": "VWV",
-        "name": "West Flanders Province",
-        "continent": "EU",
-        "iso_country": "BE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Flanders",
-        "keywords": "West-Vlaanderen, Flanders, Flemish Region, Vlaams Gewest, Vlaanderen"
-    }
+    ]
 }

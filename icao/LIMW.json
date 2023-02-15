@@ -40,33 +40,5 @@
             "he_heading_degT": "265",
             "he_displaced_threshold_ft": "115"
         }
-    ],
-    "freqs": [
-        {
-            "id": "54311",
-            "airport_ref": "4349",
-            "airport_ident": "LIMW",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "119.95"
-        }
-    ],
-    "country": {
-        "id": "302697",
-        "code": "IT",
-        "name": "Italy",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
-        "keywords": "Aeroporti d'Italia"
-    },
-    "region": {
-        "id": "306355",
-        "code": "IT-23",
-        "local_code": "23",
-        "name": "Valle d'Aosta",
-        "continent": "EU",
-        "iso_country": "IT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Valle_d'Aosta",
-        "keywords": "VD"
-    }
+    ]
 }

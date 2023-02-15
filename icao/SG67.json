@@ -40,23 +40,5 @@
             "he_heading_degT": "200.5",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302799",
-        "code": "PY",
-        "name": "Paraguay",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraguay",
-        "keywords": "Aeropuertos de Paraguay"
-    },
-    "region": {
-        "id": "305193",
-        "code": "PY-13",
-        "local_code": "13",
-        "name": "Amambay Department",
-        "continent": "SA",
-        "iso_country": "PY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Amambay_Department",
-        "keywords": "Airports in Amambay Department"
-    }
+    ]
 }

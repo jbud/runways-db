@@ -40,57 +40,5 @@
             "he_heading_degT": "317",
             "he_displaced_threshold_ft": "984"
         }
-    ],
-    "freqs": [
-        {
-            "id": "54018",
-            "airport_ref": "5136",
-            "airport_ident": "OIAM",
-            "type": "TWR",
-            "description": "ATIS",
-            "frequency_mhz": "118.65"
-        }
-    ],
-    "country": {
-        "id": "302637",
-        "code": "IR",
-        "name": "Iran",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
-        "keywords": "فرودگاه های ایران"
-    },
-    "region": {
-        "id": "304227",
-        "code": "IR-06",
-        "local_code": "06",
-        "name": "Khuzestan Province",
-        "continent": "AS",
-        "iso_country": "IR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Khuzestan_Province",
-        "keywords": "Airports in Khuzestan Province"
-    },
-    "navaids": [
-        {
-            "id": "90723",
-            "filename": "Mahshahr_VOR-DME_IR",
-            "ident": "MAH",
-            "name": "Mahshahr",
-            "type": "VOR-DME",
-            "frequency_khz": "115800",
-            "latitude_deg": "30.556299209594727",
-            "longitude_deg": "49.14939880371094",
-            "elevation_ft": "8",
-            "iso_country": "IR",
-            "dme_frequency_khz": "115800",
-            "dme_channel": "105X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.001",
-            "magnetic_variation_deg": "3.042",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OIAM"
-        }
     ]
 }

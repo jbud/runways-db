@@ -62,57 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "73016",
-            "airport_ref": "27578",
-            "airport_ident": "YGAW",
-            "type": "AD CEN",
-            "description": "Adelaide Centre",
-            "frequency_mhz": "130.45"
-        },
-        {
-            "id": "73015",
-            "airport_ref": "27578",
-            "airport_ident": "YGAW",
-            "type": "CTAF",
-            "description": "Gawler Traffic",
-            "frequency_mhz": "126.55"
-        },
-        {
-            "id": "325262",
-            "airport_ref": "27578",
-            "airport_ident": "YGAW",
-            "type": "ED TWR",
-            "description": "If flying east into EDX Control Zone when not active ensure you",
-            "frequency_mhz": "118.3"
-        },
-        {
-            "id": "73017",
-            "airport_ref": "27578",
-            "airport_ident": "YGAW",
-            "type": "MULTICOM",
-            "description": "If flying west into the barossa monitor 126.7",
-            "frequency_mhz": "126.7"
-        }
-    ],
-    "country": {
-        "id": "302764",
-        "code": "AU",
-        "name": "Australia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
-        "keywords": "Australian airports"
-    },
-    "region": {
-        "id": "302972",
-        "code": "AU-SA",
-        "local_code": "SA",
-        "name": "South Australia",
-        "continent": "OC",
-        "iso_country": "AU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
-        "keywords": "South Australian airports"
-    }
+    ]
 }

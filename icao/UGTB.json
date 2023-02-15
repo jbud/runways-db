@@ -62,57 +62,5 @@
             "he_heading_degT": "316",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "52668",
-            "airport_ref": "6453",
-            "airport_ident": "UGTB",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "127.2"
-        },
-        {
-            "id": "52669",
-            "airport_ref": "6453",
-            "airport_ident": "UGTB",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "132.8"
-        },
-        {
-            "id": "52670",
-            "airport_ref": "6453",
-            "airport_ident": "UGTB",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "119"
-        },
-        {
-            "id": "52671",
-            "airport_ref": "6453",
-            "airport_ident": "UGTB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "128"
-        }
-    ],
-    "country": {
-        "id": "302630",
-        "code": "GE",
-        "name": "Georgia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia_(country)",
-        "keywords": "Georgian airports"
-    },
-    "region": {
-        "id": "306402",
-        "code": "GE-TB",
-        "local_code": "TB",
-        "name": "Tbilisi",
-        "continent": "AS",
-        "iso_country": "GE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tbilisi",
-        "keywords": "T'blisi, თბილისი"
-    }
+    ]
 }

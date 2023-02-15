@@ -16,41 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Alice Springs Gliding Club",
-    "freqs": [
-        {
-            "id": "72328",
-            "airport_ref": "27415",
-            "airport_ident": "YBSP",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "119.8"
-        },
-        {
-            "id": "72329",
-            "airport_ref": "27415",
-            "airport_ident": "YBSP",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "132.1"
-        }
-    ],
-    "country": {
-        "id": "302764",
-        "code": "AU",
-        "name": "Australia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
-        "keywords": "Australian airports"
-    },
-    "region": {
-        "id": "302970",
-        "code": "AU-NT",
-        "local_code": "NT",
-        "name": "Northern Territory",
-        "continent": "OC",
-        "iso_country": "AU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
-        "keywords": "Airports in Northern Territory"
-    }
+    "keywords": "Alice Springs Gliding Club"
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302652",
-        "code": "MV",
-        "name": "Maldives",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Maldives",
-        "keywords": "Airports in Maldives"
-    },
-    "region": {
-        "id": "304751",
-        "code": "MV-17",
-        "local_code": "17",
-        "name": "Dhaalu Atoll",
-        "continent": "AS",
-        "iso_country": "MV",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Dhaalu_Atoll",
-        "keywords": "Airports in Dhaalu Atoll"
-    }
+    "keywords": ""
 }

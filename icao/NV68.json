@@ -40,57 +40,5 @@
             "he_heading_degT": "355.3",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "59913",
-            "airport_ref": "23368",
-            "airport_ident": "NV68",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306109",
-        "code": "US-NV",
-        "local_code": "NV",
-        "name": "Nevada",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nevada",
-        "keywords": "Airports in Nevada"
-    },
-    "navaids": [
-        {
-            "id": "93485",
-            "filename": "Sod_House_VORTAC_US",
-            "ident": "SDO",
-            "name": "Sod House",
-            "type": "VORTAC",
-            "frequency_khz": "114300",
-            "latitude_deg": "41.407100677490234",
-            "longitude_deg": "-118.03500366210938",
-            "elevation_ft": "4161",
-            "iso_country": "US",
-            "dme_frequency_khz": "114300",
-            "dme_channel": "090X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "18.001",
-            "magnetic_variation_deg": "14.516",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "NV68"
-        }
     ]
 }

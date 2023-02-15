@@ -40,23 +40,5 @@
             "he_heading_degT": "238.6",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302621",
-        "code": "AZ",
-        "name": "Azerbaijan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Azerbaijan",
-        "keywords": "Azerbaijani airports"
-    },
-    "region": {
-        "id": "303044",
-        "code": "AZ-XCI",
-        "local_code": "XCI",
-        "name": "Khojaly District",
-        "continent": "AS",
-        "iso_country": "AZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Khojaly_District",
-        "keywords": "Airports in Khojaly District"
-    }
+    ]
 }

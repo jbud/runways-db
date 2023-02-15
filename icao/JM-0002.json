@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302741",
-        "code": "JM",
-        "name": "Jamaica",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Jamaica",
-        "keywords": "Jamaican airports"
-    },
-    "region": {
-        "id": "304261",
-        "code": "JM-04",
-        "local_code": "04",
-        "name": "Portland Parish",
-        "continent": "NA",
-        "iso_country": "JM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Portland_Parish",
-        "keywords": "Airports in Portland"
-    }
+    "keywords": ""
 }

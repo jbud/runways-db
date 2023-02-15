@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302797",
-        "code": "GY",
-        "name": "Guyana",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Guyana",
-        "keywords": "Guyanese airports"
-    },
-    "region": {
-        "id": "303997",
-        "code": "GY-EB",
-        "local_code": "EB",
-        "name": "East Berbice-Corentyne",
-        "continent": "SA",
-        "iso_country": "GY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/East_Berbice-Corentyne",
-        "keywords": "Airports in East Berbice-Corentyne"
-    }
+    "keywords": ""
 }

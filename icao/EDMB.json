@@ -40,41 +40,5 @@
             "he_heading_degT": "221",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "52732",
-            "airport_ref": "2249",
-            "airport_ident": "EDMB",
-            "type": "AFIS",
-            "description": "MUNCHEN INFO",
-            "frequency_mhz": "126.95"
-        },
-        {
-            "id": "52733",
-            "airport_ref": "2249",
-            "airport_ident": "EDMB",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "122.75"
-        }
-    ],
-    "country": {
-        "id": "302681",
-        "code": "DE",
-        "name": "Germany",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
-        "keywords": "Flughäfen in Deutschland"
-    },
-    "region": {
-        "id": "303549",
-        "code": "DE-BW",
-        "local_code": "BW",
-        "name": "Baden-Württemberg",
-        "continent": "EU",
-        "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
-        "keywords": "Baden-Wuerttemberg"
-    }
+    ]
 }

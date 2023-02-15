@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302702",
-        "code": "LV",
-        "name": "Latvia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Latvia",
-        "keywords": "Latvian airports"
-    },
-    "region": {
-        "id": "353738",
-        "code": "LV-056",
-        "local_code": "056",
-        "name": "Līvāni Municipality",
-        "continent": "EU",
-        "iso_country": "LV",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/L%C4%ABv%C4%81ni_Municipality",
-        "keywords": "Airports in Līvāni Municipality"
-    }
+    "keywords": ""
 }

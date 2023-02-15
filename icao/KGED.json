@@ -62,57 +62,5 @@
             "he_heading_degT": "270",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "60739",
-            "airport_ref": "19938",
-            "airport_ident": "KGED",
-            "type": "A/D",
-            "description": "DOVER APP/DEP",
-            "frequency_mhz": "132.425"
-        },
-        {
-            "id": "60740",
-            "airport_ref": "19938",
-            "airport_ident": "KGED",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "118.375"
-        },
-        {
-            "id": "60741",
-            "airport_ref": "19938",
-            "airport_ident": "KGED",
-            "type": "RDO",
-            "description": "MILLVILLE RDO",
-            "frequency_mhz": "112.6"
-        },
-        {
-            "id": "60742",
-            "airport_ref": "19938",
-            "airport_ident": "KGED",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306084",
-        "code": "US-DE",
-        "local_code": "DE",
-        "name": "Delaware",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Delaware",
-        "keywords": "Airports in Delaware"
-    }
+    ]
 }

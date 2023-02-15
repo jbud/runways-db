@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302567",
-        "code": "DJ",
-        "name": "Djibouti",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Djibouti",
-        "keywords": "Djiboutian airports"
-    },
-    "region": {
-        "id": "303566",
-        "code": "DJ-DJ",
-        "local_code": "DJ",
-        "name": "Djibouti Region",
-        "continent": "AF",
-        "iso_country": "DJ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Djibouti_Region",
-        "keywords": "Airports in Djibouti Region"
-    }
+    ]
 }

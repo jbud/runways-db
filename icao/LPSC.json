@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Cruz_Airport_(Portugal)",
-    "keywords": "",
-    "country": {
-        "id": "302711",
-        "code": "PT",
-        "name": "Portugal",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Portugal",
-        "keywords": "Aeroportos de Portugal"
-    },
-    "region": {
-        "id": "305177",
-        "code": "PT-11",
-        "local_code": "11",
-        "name": "Lisbon District",
-        "continent": "EU",
-        "iso_country": "PT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lisbon_District",
-        "keywords": "Lisboa"
-    }
+    "keywords": ""
 }

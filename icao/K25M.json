@@ -40,41 +40,5 @@
             "he_heading_degT": "212",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "66344",
-            "airport_ref": "18550",
-            "airport_ident": "K25M",
-            "type": "CNTR",
-            "description": "MEMPHIS CNTR",
-            "frequency_mhz": "135.9"
-        },
-        {
-            "id": "66345",
-            "airport_ref": "18550",
-            "airport_ident": "K25M",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306101",
-        "code": "US-MS",
-        "local_code": "MS",
-        "name": "Mississippi",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
-        "keywords": "Airports in Mississippi"
-    }
+    ]
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "272.8",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "53317",
-            "airport_ref": "4249",
-            "airport_ident": "LGAG",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.1"
-        }
-    ],
-    "country": {
-        "id": "302691",
-        "code": "GR",
-        "name": "Greece",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
-        "keywords": "αεροδρόμια στην Ελλάδα"
-    },
-    "region": {
-        "id": "353667",
-        "code": "GR-G",
-        "local_code": "G",
-        "name": "Western Greece",
-        "continent": "EU",
-        "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Greece",
-        "keywords": "Airports in Western Greece"
-    }
+    ]
 }

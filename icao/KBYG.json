@@ -40,49 +40,5 @@
             "he_heading_degT": "318",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "63263",
-            "airport_ref": "19428",
-            "airport_ident": "KBYG",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "135.425"
-        },
-        {
-            "id": "63264",
-            "airport_ref": "19428",
-            "airport_ident": "KBYG",
-            "type": "RDO",
-            "description": "CASPER RDO",
-            "frequency_mhz": "122.025"
-        },
-        {
-            "id": "63265",
-            "airport_ref": "19428",
-            "airport_ident": "KBYG",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306127",
-        "code": "US-WY",
-        "local_code": "WY",
-        "name": "Wyoming",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Wyoming",
-        "keywords": "Airports in Wyoming"
-    }
+    ]
 }

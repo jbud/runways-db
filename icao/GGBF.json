@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Bafatá_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302578",
-        "code": "GW",
-        "name": "Guinea-Bissau",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Guinea-Bissau",
-        "keywords": "Airports in Guinea-Bissau"
-    },
-    "region": {
-        "id": "303984",
-        "code": "GW-BA",
-        "local_code": "BA",
-        "name": "Bafatá Region",
-        "continent": "AF",
-        "iso_country": "GW",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bafatá_Region",
-        "keywords": "Airports in Bafatá Region"
-    }
+    "keywords": ""
 }

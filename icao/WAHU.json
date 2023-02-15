@@ -40,57 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "314718",
-            "airport_ref": "42250",
-            "airport_ident": "WAHU",
-            "type": "NDB",
-            "description": "KJ",
-            "frequency_mhz": "0.336"
-        },
-        {
-            "id": "314719",
-            "airport_ref": "42250",
-            "airport_ident": "WAHU",
-            "type": "SSB",
-            "description": "Karimunjawa Radio",
-            "frequency_mhz": "7.4"
-        },
-        {
-            "id": "314717",
-            "airport_ref": "42250",
-            "airport_ident": "WAHU",
-            "type": "VHF",
-            "description": "Dewadaru Info",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "314720",
-            "airport_ref": "42250",
-            "airport_ident": "WAHU",
-            "type": "VOR",
-            "description": "KRJ",
-            "frequency_mhz": "117.3"
-        }
-    ],
-    "country": {
-        "id": "302632",
-        "code": "ID",
-        "name": "Indonesia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
-        "keywords": "Bandara di Indonesia"
-    },
-    "region": {
-        "id": "304108",
-        "code": "ID-JT",
-        "local_code": "JT",
-        "name": "Jawa Tengah (Central Java)",
-        "continent": "AS",
-        "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Jawa_Tengah",
-        "keywords": "Airports in Jawa Tengah"
-    }
+    ]
 }

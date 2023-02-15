@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75225",
-            "airport_ref": "44771",
-            "airport_ident": "LJNM",
-            "type": "AFIS",
-            "description": "",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302716",
-        "code": "SI",
-        "name": "Slovenia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Slovenia",
-        "keywords": ""
-    },
-    "region": {
-        "id": "305522",
-        "code": "SI-085",
-        "local_code": "085",
-        "name": "Nova mesto",
-        "continent": "EU",
-        "iso_country": "SI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nova_mesto",
-        "keywords": "Airports in Nova mesto"
-    }
+    ]
 }

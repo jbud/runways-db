@@ -40,47 +40,5 @@
             "he_heading_degT": "334",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306088",
-        "code": "US-IA",
-        "local_code": "IA",
-        "name": "Iowa",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
-        "keywords": "Airports in Iowa"
-    },
-    "navaids": [
-        {
-            "id": "86814",
-            "filename": "Cresco_NDB_US",
-            "ident": "CJJ",
-            "name": "Cresco",
-            "type": "NDB",
-            "frequency_khz": "293",
-            "latitude_deg": "43.36600112915039",
-            "longitude_deg": "-92.13099670410156",
-            "elevation_ft": "1265",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.303",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "CJJ"
-        }
     ]
 }

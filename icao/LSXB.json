@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://www.heli.li/sites/heliports-balzers-lsxb.php",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302699",
-        "code": "LI",
-        "name": "Liechtenstein",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Liechtenstein",
-        "keywords": "Airports in Liechtenstein"
-    },
-    "region": {
-        "id": "306787",
-        "code": "LI-01",
-        "local_code": "01",
-        "name": "Balzers",
-        "continent": "EU",
-        "iso_country": "LI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Balzers",
-        "keywords": "Airports in Balzers"
-    }
+    "keywords": ""
 }

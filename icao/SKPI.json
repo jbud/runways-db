@@ -40,41 +40,5 @@
             "he_heading_degT": "240",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "51460",
-            "airport_ref": "6149",
-            "airport_ident": "SKPI",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "348.8"
-        },
-        {
-            "id": "51461",
-            "airport_ref": "6149",
-            "airport_ident": "SKPI",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.4"
-        }
-    ],
-    "country": {
-        "id": "302793",
-        "code": "CO",
-        "name": "Colombia",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
-        "keywords": "Aeropuertos de Colombia"
-    },
-    "region": {
-        "id": "303474",
-        "code": "CO-HUI",
-        "local_code": "HUI",
-        "name": "Huila Department",
-        "continent": "SA",
-        "iso_country": "CO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Huila_Department",
-        "keywords": "Airports in Huila Department"
-    }
+    ]
 }

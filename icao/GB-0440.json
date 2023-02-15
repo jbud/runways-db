@@ -16,33 +16,5 @@
     "local_code": "",
     "home_link": "https://bayflying.wordpress.com/club-info/",
     "wikipedia_link": "",
-    "keywords": "Tarn Farm,Rossall Field, Bay Flying Club",
-    "freqs": [
-        {
-            "id": "331646",
-            "airport_ref": "320793",
-            "airport_ident": "GB-0440",
-            "type": "Info",
-            "description": "Tarn Farm Traffic",
-            "frequency_mhz": "129.825"
-        }
-    ],
-    "country": {
-        "id": "302688",
-        "code": "GB",
-        "name": "United Kingdom",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
-        "keywords": "Great Britain"
-    },
-    "region": {
-        "id": "306374",
-        "code": "GB-ENG",
-        "local_code": "ENG",
-        "name": "England",
-        "continent": "EU",
-        "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
-        "keywords": "English airports"
-    }
+    "keywords": "Tarn Farm,Rossall Field, Bay Flying Club"
 }

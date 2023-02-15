@@ -40,57 +40,5 @@
             "he_heading_degT": "275",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "55724",
-            "airport_ref": "2113",
-            "airport_ident": "DNJO",
-            "type": "TWR",
-            "description": "JOS TWR",
-            "frequency_mhz": "122.7"
-        }
-    ],
-    "country": {
-        "id": "302593",
-        "code": "NG",
-        "name": "Nigeria",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nigeria",
-        "keywords": ""
-    },
-    "region": {
-        "id": "304907",
-        "code": "NG-PL",
-        "local_code": "PL",
-        "name": "Plateau State",
-        "continent": "AF",
-        "iso_country": "NG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Plateau_State",
-        "keywords": "Airports in Plateau"
-    },
-    "navaids": [
-        {
-            "id": "89533",
-            "filename": "Jos_VOR-DME_NG",
-            "ident": "JOS",
-            "name": "Jos",
-            "type": "VOR-DME",
-            "frequency_khz": "113100",
-            "latitude_deg": "9.642189979553223",
-            "longitude_deg": "8.843000411987305",
-            "elevation_ft": "4260",
-            "iso_country": "NG",
-            "dme_frequency_khz": "113100",
-            "dme_channel": "078X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.363",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "DNJO"
-        }
     ]
 }

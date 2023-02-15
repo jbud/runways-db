@@ -40,49 +40,5 @@
             "he_heading_degT": "219",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "63814",
-            "airport_ref": "20593",
-            "airport_ident": "KMZH",
-            "type": "A/D",
-            "description": "DULUTH APP/DEP",
-            "frequency_mhz": "125.45"
-        },
-        {
-            "id": "63815",
-            "airport_ref": "20593",
-            "airport_ident": "KMZH",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "36.2"
-        },
-        {
-            "id": "63816",
-            "airport_ref": "20593",
-            "airport_ident": "KMZH",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306099",
-        "code": "US-MN",
-        "local_code": "MN",
-        "name": "Minnesota",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
-        "keywords": "Airports in Minnesota"
-    }
+    ]
 }

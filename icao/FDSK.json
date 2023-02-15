@@ -40,49 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "323080",
-            "airport_ref": "308033",
-            "airport_ident": "FDSK",
-            "type": "APP",
-            "description": "Sikhuphe Aproach Control",
-            "frequency_mhz": "128"
-        },
-        {
-            "id": "323082",
-            "airport_ref": "308033",
-            "airport_ident": "FDSK",
-            "type": "GND",
-            "description": "Sikhuphe Ground Control",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "323081",
-            "airport_ref": "308033",
-            "airport_ident": "FDSK",
-            "type": "TWR",
-            "description": "Sikhuphe Tower",
-            "frequency_mhz": "118.55"
-        }
-    ],
-    "country": {
-        "id": "302603",
-        "code": "SZ",
-        "name": "Eswatini",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Eswatini",
-        "keywords": "Swaziland"
-    },
-    "region": {
-        "id": "305682",
-        "code": "SZ-LU",
-        "local_code": "LU",
-        "name": "Lubombo Region",
-        "continent": "AF",
-        "iso_country": "SZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lubombo_Region",
-        "keywords": "Airports in Lubombo Region"
-    }
+    ]
 }

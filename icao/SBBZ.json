@@ -40,41 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "49601",
-            "airport_ref": "5877",
-            "airport_ident": "SBBZ",
-            "type": "AFIS",
-            "description": "BUZIOS RDO",
-            "frequency_mhz": "131.75"
-        },
-        {
-            "id": "49602",
-            "airport_ref": "5877",
-            "airport_ident": "SBBZ",
-            "type": "APP",
-            "description": "ALDEIA APP",
-            "frequency_mhz": "119.45"
-        }
-    ],
-    "country": {
-        "id": "302791",
-        "code": "BR",
-        "name": "Brazil",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
-        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
-    },
-    "region": {
-        "id": "303217",
-        "code": "BR-RJ",
-        "local_code": "RJ",
-        "name": "Rio de Janeiro",
-        "continent": "SA",
-        "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_de_Janeiro_(state)",
-        "keywords": "Airports in Rio de Janeiro"
-    }
+    ]
 }

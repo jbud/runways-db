@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "506099",
-            "airport_ref": "43983",
-            "airport_ident": "HU-0002",
-            "type": "CTAF",
-            "description": "Kalocsa INFO",
-            "frequency_mhz": "135.4"
-        }
-    ],
-    "country": {
-        "id": "302693",
-        "code": "HU",
-        "name": "Hungary",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
-        "keywords": "Repülőterek Magyarország"
-    },
-    "region": {
-        "id": "304058",
-        "code": "HU-BK",
-        "local_code": "BK",
-        "name": "Bács-Kiskun County",
-        "continent": "EU",
-        "iso_country": "HU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bács-Kiskun_County",
-        "keywords": "Airports in Bács-Kiskun County"
-    }
+    ]
 }

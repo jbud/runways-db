@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Yendi_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302574",
-        "code": "GH",
-        "name": "Ghana",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ghana",
-        "keywords": "Ghanan airports"
-    },
-    "region": {
-        "id": "303846",
-        "code": "GH-NP",
-        "local_code": "NP",
-        "name": "Northern Region",
-        "continent": "AF",
-        "iso_country": "GH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Region,_Ghana",
-        "keywords": "Airports in Northern Region"
-    }
+    "keywords": ""
 }

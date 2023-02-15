@@ -40,57 +40,5 @@
             "he_heading_degT": "288",
             "he_displaced_threshold_ft": "515"
         }
-    ],
-    "freqs": [
-        {
-            "id": "48459",
-            "airport_ref": "5788",
-            "airport_ident": "SAMR",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
-    "country": {
-        "id": "302789",
-        "code": "AR",
-        "name": "Argentina",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
-        "keywords": "Aeropuertos de Argentina"
-    },
-    "region": {
-        "id": "302942",
-        "code": "AR-M",
-        "local_code": "M",
-        "name": "Mendoza Province",
-        "continent": "SA",
-        "iso_country": "AR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mendoza_Province",
-        "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "93915",
-            "filename": "San_Rafael_VOR_AR",
-            "ident": "SRA",
-            "name": "San Rafael",
-            "type": "VOR",
-            "frequency_khz": "116900",
-            "latitude_deg": "-34.58940124511719",
-            "longitude_deg": "-68.39469909667969",
-            "elevation_ft": "2444",
-            "iso_country": "AR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.007",
-            "magnetic_variation_deg": "2.04",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SAMR"
-        }
     ]
 }

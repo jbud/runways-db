@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "75460",
-            "airport_ref": "43279",
-            "airport_ident": "LELT",
-            "type": "CTAF",
-            "description": "LILLO PAPAMOVIL",
-            "frequency_mhz": "123.375"
-        }
-    ],
-    "country": {
-        "id": "302684",
-        "code": "ES",
-        "name": "Spain",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
-        "keywords": "Aeropuertos de España"
-    },
-    "region": {
-        "id": "303741",
-        "code": "ES-CM",
-        "local_code": "CM",
-        "name": "Castilla–La Mancha",
-        "continent": "EU",
-        "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Castilla%E2%80%93La_Mancha",
-        "keywords": "Airports in Castilla-La Mancha"
-    }
+    ]
 }

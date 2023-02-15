@@ -40,41 +40,5 @@
             "he_heading_degT": "337.3",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "70619",
-            "airport_ref": "18535",
-            "airport_ident": "K22I",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "122.9"
-        },
-        {
-            "id": "70620",
-            "airport_ref": "18535",
-            "airport_ident": "K22I",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306111",
-        "code": "US-OH",
-        "local_code": "OH",
-        "name": "Ohio",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
-        "keywords": "Airports in Ohio"
-    }
+    ]
 }

@@ -62,57 +62,5 @@
             "he_heading_degT": "356",
             "he_displaced_threshold_ft": "500"
         }
-    ],
-    "freqs": [
-        {
-            "id": "48475",
-            "airport_ref": "5797",
-            "airport_ident": "SAOD",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "118.1"
-        }
-    ],
-    "country": {
-        "id": "302789",
-        "code": "AR",
-        "name": "Argentina",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
-        "keywords": "Aeropuertos de Argentina"
-    },
-    "region": {
-        "id": "302953",
-        "code": "AR-X",
-        "local_code": "X",
-        "name": "Córdoba Province",
-        "continent": "SA",
-        "iso_country": "AR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/C%C3%B3rdoba_Province_(Argentina)",
-        "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "90251",
-            "filename": "Villa_Dolores_NDB_AR",
-            "ident": "LDR",
-            "name": "Villa Dolores",
-            "type": "NDB",
-            "frequency_khz": "310",
-            "latitude_deg": "-31.952800750732422",
-            "longitude_deg": "-65.14250183105469",
-            "elevation_ft": "1915",
-            "iso_country": "AR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.18",
-            "usageType": "HI",
-            "power": "HIGH",
-            "associated_airport": "SAOD"
-        }
     ]
 }

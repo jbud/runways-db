@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Burao_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302601",
-        "code": "SO",
-        "name": "Somalia",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Somalia",
-        "keywords": ""
-    },
-    "region": {
-        "id": "305634",
-        "code": "SO-TO",
-        "local_code": "TO",
-        "name": "Togdheer",
-        "continent": "AF",
-        "iso_country": "SO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Togdheer",
-        "keywords": "Airports in Togdheer, Somaliland"
-    }
+    "keywords": ""
 }

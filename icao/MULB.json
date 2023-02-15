@@ -40,23 +40,5 @@
             "he_heading_degT": "263",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302732",
-        "code": "CU",
-        "name": "Cuba",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cuba",
-        "keywords": "Aeropuertos de Cuba"
-    },
-    "region": {
-        "id": "303501",
-        "code": "CU-03",
-        "local_code": "03",
-        "name": "La Habana Province",
-        "continent": "NA",
-        "iso_country": "CU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/La_Habana_Province",
-        "keywords": "Havana"
-    }
+    ]
 }

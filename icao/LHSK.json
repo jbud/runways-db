@@ -40,47 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302693",
-        "code": "HU",
-        "name": "Hungary",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
-        "keywords": "Repülőterek Magyarország"
-    },
-    "region": {
-        "id": "304086",
-        "code": "HU-SO",
-        "local_code": "SO",
-        "name": "Somogy County",
-        "continent": "EU",
-        "iso_country": "HU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Somogy_County",
-        "keywords": "Airports in Somogy County"
-    },
-    "navaids": [
-        {
-            "id": "94075",
-            "filename": "Sagvar_NDB_HU",
-            "ident": "SVR",
-            "name": "Sagvar",
-            "type": "NDB",
-            "frequency_khz": "348",
-            "latitude_deg": "46.82979965209961",
-            "longitude_deg": "18.11720085144043",
-            "elevation_ft": "",
-            "iso_country": "HU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.066",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LHSK"
-        }
     ]
 }

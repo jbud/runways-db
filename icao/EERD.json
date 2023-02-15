@@ -40,23 +40,5 @@
             "he_heading_degT": "267",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302683",
-        "code": "EE",
-        "name": "Estonia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Estonia",
-        "keywords": "Estonian airports"
-    },
-    "region": {
-        "id": "303687",
-        "code": "EE-82",
-        "local_code": "82",
-        "name": "Valga County",
-        "continent": "EU",
-        "iso_country": "EE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Valga_County",
-        "keywords": "Airports in Valga County"
-    }
+    ]
 }

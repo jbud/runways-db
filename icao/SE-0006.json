@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "300949",
-            "airport_ref": "300948",
-            "airport_ident": "SE-0006",
-            "type": "RDO",
-            "description": "",
-            "frequency_mhz": "123.6"
-        }
-    ],
-    "country": {
-        "id": "302715",
-        "code": "SE",
-        "name": "Sweden",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
-        "keywords": "Flygplatserna, Sverige"
-    },
-    "region": {
-        "id": "305418",
-        "code": "SE-G",
-        "local_code": "G",
-        "name": "Kronoberge län",
-        "continent": "EU",
-        "iso_country": "SE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kronoberge_län",
-        "keywords": "Kronoberg County"
-    }
+    ]
 }

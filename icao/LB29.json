@@ -40,23 +40,5 @@
             "he_heading_degT": "233.2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302677",
-        "code": "BG",
-        "name": "Bulgaria",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bulgaria",
-        "keywords": "Bulgarian airports"
-    },
-    "region": {
-        "id": "303129",
-        "code": "BG-04",
-        "local_code": "04",
-        "name": "Veliko Tarnovo Province",
-        "continent": "EU",
-        "iso_country": "BG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Veliko_Tarnovo_Province",
-        "keywords": "Airports in Veliko Tarnovo Province"
-    }
+    ]
 }

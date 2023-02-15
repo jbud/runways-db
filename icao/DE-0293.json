@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "315947",
-            "airport_ref": "315946",
-            "airport_ident": "DE-0293",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "129.975"
-        }
-    ],
-    "country": {
-        "id": "302681",
-        "code": "DE",
-        "name": "Germany",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
-        "keywords": "Flughäfen in Deutschland"
-    },
-    "region": {
-        "id": "303549",
-        "code": "DE-BW",
-        "local_code": "BW",
-        "name": "Baden-Württemberg",
-        "continent": "EU",
-        "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
-        "keywords": "Baden-Wuerttemberg"
-    }
+    ]
 }

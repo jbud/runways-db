@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "313608",
-            "airport_ref": "43996",
-            "airport_ident": "EIIH",
-            "type": "Radio",
-            "description": "",
-            "frequency_mhz": "131.9"
-        }
-    ],
-    "country": {
-        "id": "302694",
-        "code": "IE",
-        "name": "Ireland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ireland",
-        "keywords": "Eire"
-    },
-    "region": {
-        "id": "304143",
-        "code": "IE-LS",
-        "local_code": "LS",
-        "name": "County Laois",
-        "continent": "EU",
-        "iso_country": "IE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Laois",
-        "keywords": "Airports in County Laois"
-    }
+    ]
 }

@@ -62,23 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302707",
-        "code": "MT",
-        "name": "Malta",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Malta",
-        "keywords": ""
-    },
-    "region": {
-        "id": "306802",
-        "code": "MT-05",
-        "local_code": "05",
-        "name": "Birżebbuġa",
-        "continent": "EU",
-        "iso_country": "MT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bir%C5%BCebbu%C4%A1a",
-        "keywords": "Airports in Birżebbuġa"
-    }
+    ]
 }

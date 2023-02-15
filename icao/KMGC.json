@@ -40,49 +40,5 @@
             "he_heading_degT": "200",
             "he_displaced_threshold_ft": "183"
         }
-    ],
-    "freqs": [
-        {
-            "id": "59132",
-            "airport_ref": "20498",
-            "airport_ident": "KMGC",
-            "type": "A/D",
-            "description": "SOUTH BEND APP/DEP",
-            "frequency_mhz": "118.55"
-        },
-        {
-            "id": "59133",
-            "airport_ref": "20498",
-            "airport_ident": "KMGC",
-            "type": "CLD",
-            "description": "SOUTH BEND CLNC DEL",
-            "frequency_mhz": "134.8"
-        },
-        {
-            "id": "59134",
-            "airport_ref": "20498",
-            "airport_ident": "KMGC",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.7"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306091",
-        "code": "US-IN",
-        "local_code": "IN",
-        "name": "Indiana",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
-        "keywords": "Airports in Indiana"
-    }
+    ]
 }

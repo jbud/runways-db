@@ -84,41 +84,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "316264",
-            "airport_ref": "30273",
-            "airport_ident": "EYPR",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "125"
-        },
-        {
-            "id": "299168",
-            "airport_ref": "30273",
-            "airport_ident": "EYPR",
-            "type": "local airport(li",
-            "description": "glider Frequency",
-            "frequency_mhz": "125"
-        }
-    ],
-    "country": {
-        "id": "302700",
-        "code": "LT",
-        "name": "Lithuania",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lithuania",
-        "keywords": "Lithuanian airports"
-    },
-    "region": {
-        "id": "304496",
-        "code": "LT-KU",
-        "local_code": "KU",
-        "name": "Kaunas County",
-        "continent": "EU",
-        "iso_country": "LT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kaunas_County",
-        "keywords": "Airports in Kaunas County"
-    }
+    ]
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Helsingin Yliopistollinen Sairaala, Helsinki University Central Hospital Heliport",
-    "country": {
-        "id": "302685",
-        "code": "FI",
-        "name": "Finland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
-        "keywords": "Lentokentät, Suomen"
-    },
-    "region": {
-        "id": "336519",
-        "code": "FI-18",
-        "local_code": "18",
-        "name": "Uusimaa Region",
-        "continent": "EU",
-        "iso_country": "FI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Uusimaa",
-        "keywords": "Airports in Uusimaa Region"
-    }
+    "keywords": "Helsingin Yliopistollinen Sairaala, Helsinki University Central Hospital Heliport"
 }

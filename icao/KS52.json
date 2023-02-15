@@ -40,41 +40,5 @@
             "he_heading_degT": "327",
             "he_displaced_threshold_ft": "231"
         }
-    ],
-    "freqs": [
-        {
-            "id": "67129",
-            "airport_ref": "21011",
-            "airport_ident": "KS52",
-            "type": "AWOS",
-            "description": "AWOS",
-            "frequency_mhz": "118.425"
-        },
-        {
-            "id": "67130",
-            "airport_ref": "21011",
-            "airport_ident": "KS52",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306124",
-        "code": "US-WA",
-        "local_code": "WA",
-        "name": "Washington",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
-        "keywords": "Airports in Washington"
-    }
+    ]
 }

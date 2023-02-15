@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302798",
-        "code": "PE",
-        "name": "Peru",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
-        "keywords": "Aeropuertos de Perú"
-    },
-    "region": {
-        "id": "305023",
-        "code": "PE-MDD",
-        "local_code": "MDD",
-        "name": "Madre de Dios Region",
-        "continent": "SA",
-        "iso_country": "PE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Madre_de_Dios_Region",
-        "keywords": "Airports in Madre de Dios Region"
-    }
+    "keywords": ""
 }

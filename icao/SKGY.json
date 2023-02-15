@@ -62,49 +62,5 @@
             "he_heading_degT": "283",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "51453",
-            "airport_ref": "6123",
-            "airport_ident": "SKGY",
-            "type": "APP",
-            "description": "BOGOTA APP",
-            "frequency_mhz": "119.5"
-        },
-        {
-            "id": "51454",
-            "airport_ref": "6123",
-            "airport_ident": "SKGY",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "51455",
-            "airport_ref": "6123",
-            "airport_ident": "SKGY",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.8"
-        }
-    ],
-    "country": {
-        "id": "302793",
-        "code": "CO",
-        "name": "Colombia",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
-        "keywords": "Aeropuertos de Colombia"
-    },
-    "region": {
-        "id": "303461",
-        "code": "CO-BOL",
-        "local_code": "BOL",
-        "name": "Bolívar Department",
-        "continent": "SA",
-        "iso_country": "CO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bolívar_Department",
-        "keywords": "Airports in Bolívar Department"
-    }
+    ]
 }

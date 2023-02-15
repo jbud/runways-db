@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302584",
-        "code": "MA",
-        "name": "Morocco",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Morocco",
-        "keywords": "مطارات المغرب"
-    },
-    "region": {
-        "id": "304608",
-        "code": "MA-TAR",
-        "local_code": "TAR",
-        "name": "Taroudannt Province",
-        "continent": "AF",
-        "iso_country": "MA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Taroudannt_Province",
-        "keywords": "Airports in Taroudannt Province"
-    }
+    "keywords": ""
 }

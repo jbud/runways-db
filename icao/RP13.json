@@ -40,23 +40,5 @@
             "he_heading_degT": "240",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302656",
-        "code": "PH",
-        "name": "Philippines",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
-        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
-    },
-    "region": {
-        "id": "305125",
-        "code": "PH-SUN",
-        "local_code": "SUN",
-        "name": "Surigao del Norte Province",
-        "continent": "AS",
-        "iso_country": "PH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Surigao_del_Norte_Province",
-        "keywords": "Airports in Surigao del Norte Province"
-    }
+    ]
 }

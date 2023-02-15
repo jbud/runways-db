@@ -62,57 +62,5 @@
             "he_heading_degT": "238",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "50214",
-            "airport_ref": "834",
-            "airport_ident": "CEB5",
-            "type": "UNIC",
-            "description": "ATF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302730",
-        "code": "CA",
-        "name": "Canada",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
-        "keywords": "Canadian airports"
-    },
-    "region": {
-        "id": "303294",
-        "code": "CA-AB",
-        "local_code": "AB",
-        "name": "Alberta",
-        "continent": "NA",
-        "iso_country": "CA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
-        "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "85135",
-            "filename": "Fairview_NDB-DME_CA",
-            "ident": "8C",
-            "name": "Fairview",
-            "type": "NDB-DME",
-            "frequency_khz": "295",
-            "latitude_deg": "56.075599670410156",
-            "longitude_deg": "-118.44100189208984",
-            "elevation_ft": "2190",
-            "iso_country": "CA",
-            "dme_frequency_khz": "111400",
-            "dme_channel": "051X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "19.542",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CEB5"
-        }
     ]
 }

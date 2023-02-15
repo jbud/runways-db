@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://www.jumeirah.com/en/Hotels-and-Resorts/Destinations/Dubai/Burj-Al-Arab/",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302618",
-        "code": "AE",
-        "name": "United Arab Emirates",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
-        "keywords": "UAE,مطارات في الإمارات العربية المتحدة"
-    },
-    "region": {
-        "id": "302821",
-        "code": "AE-DU",
-        "local_code": "DU",
-        "name": "Dubai Emirate",
-        "continent": "AS",
-        "iso_country": "AE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Dubai",
-        "keywords": "Dubayy"
-    }
+    "keywords": ""
 }

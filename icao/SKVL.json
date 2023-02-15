@@ -40,41 +40,5 @@
             "he_heading_degT": "330.4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "51557",
-            "airport_ref": "6175",
-            "airport_ident": "SKVL",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "348.8"
-        },
-        {
-            "id": "51558",
-            "airport_ref": "6175",
-            "airport_ident": "SKVL",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119"
-        }
-    ],
-    "country": {
-        "id": "302793",
-        "code": "CO",
-        "name": "Colombia",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
-        "keywords": "Aeropuertos de Colombia"
-    },
-    "region": {
-        "id": "303462",
-        "code": "CO-BOY",
-        "local_code": "BOY",
-        "name": "Boyacá Department",
-        "continent": "SA",
-        "iso_country": "CO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Boyacá_Department",
-        "keywords": "Airports in Boyacá Department"
-    }
+    ]
 }

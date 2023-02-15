@@ -62,41 +62,5 @@
             "he_heading_degT": "297.9",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "56208",
-            "airport_ref": "2612",
-            "airport_ident": "EPKS",
-            "type": "ATIS",
-            "description": "",
-            "frequency_mhz": "128.725"
-        },
-        {
-            "id": "307630",
-            "airport_ref": "2612",
-            "airport_ident": "EPKS",
-            "type": "TWR",
-            "description": "Krzesiny Tower",
-            "frequency_mhz": "121.025"
-        }
-    ],
-    "country": {
-        "id": "302710",
-        "code": "PL",
-        "name": "Poland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
-        "keywords": "Lotniska Polski"
-    },
-    "region": {
-        "id": "305159",
-        "code": "PL-WP",
-        "local_code": "WP",
-        "name": "Greater Poland Voivodeship",
-        "continent": "EU",
-        "iso_country": "PL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Greater_Poland_Voivodeship",
-        "keywords": "Wielkopolskie"
-    }
+    ]
 }

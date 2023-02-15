@@ -62,49 +62,5 @@
             "he_heading_degT": "359.8",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "66278",
-            "airport_ref": "18716",
-            "airport_ident": "K3LF",
-            "type": "A/D",
-            "description": "ST LOUIS APP/DEP",
-            "frequency_mhz": "124.2"
-        },
-        {
-            "id": "66279",
-            "airport_ref": "18716",
-            "airport_ident": "K3LF",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.175"
-        },
-        {
-            "id": "66280",
-            "airport_ref": "18716",
-            "airport_ident": "K3LF",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306090",
-        "code": "US-IL",
-        "local_code": "IL",
-        "name": "Illinois",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
-        "keywords": "Airports in Illinois"
-    }
+    ]
 }

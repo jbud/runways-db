@@ -16,23 +16,5 @@
     "local_code": "HOJ",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302747",
-        "code": "MX",
-        "name": "Mexico",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
-        "keywords": "Aeropuertos de México, Mexican airports"
-    },
-    "region": {
-        "id": "304806",
-        "code": "MX-MOR",
-        "local_code": "MOR",
-        "name": "Morelos",
-        "continent": "NA",
-        "iso_country": "MX",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Morelos",
-        "keywords": "Airports in Morelos"
-    }
+    "keywords": ""
 }

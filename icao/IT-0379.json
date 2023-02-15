@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "319979",
-            "airport_ref": "319978",
-            "airport_ident": "IT-0379",
-            "type": "Info",
-            "description": "Rosate Radio",
-            "frequency_mhz": "123.6"
-        }
-    ],
-    "country": {
-        "id": "302697",
-        "code": "IT",
-        "name": "Italy",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
-        "keywords": "Aeroporti d'Italia"
-    },
-    "region": {
-        "id": "306363",
-        "code": "IT-25",
-        "local_code": "25",
-        "name": "Lombardy",
-        "continent": "EU",
-        "iso_country": "IT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lombardy",
-        "keywords": "LM"
-    }
+    ]
 }

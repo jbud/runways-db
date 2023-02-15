@@ -40,49 +40,5 @@
             "he_heading_degT": "270",
             "he_displaced_threshold_ft": "600"
         }
-    ],
-    "freqs": [
-        {
-            "id": "64710",
-            "airport_ref": "20296",
-            "airport_ident": "KL35",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "135.925"
-        },
-        {
-            "id": "64711",
-            "airport_ref": "20296",
-            "airport_ident": "KL35",
-            "type": "CNTR",
-            "description": "LOS ANGELES CNTR",
-            "frequency_mhz": "126.35"
-        },
-        {
-            "id": "64712",
-            "airport_ref": "20296",
-            "airport_ident": "KL35",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.725"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306080",
-        "code": "US-CA",
-        "local_code": "CA",
-        "name": "California",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
-        "keywords": "Californian airports"
-    }
+    ]
 }

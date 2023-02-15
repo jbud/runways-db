@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302572",
-        "code": "ET",
-        "name": "Ethiopia",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ethiopia",
-        "keywords": "Ethiopian airports"
-    },
-    "region": {
-        "id": "303789",
-        "code": "ET-AM",
-        "local_code": "AM",
-        "name": "Amhara Region",
-        "continent": "AF",
-        "iso_country": "ET",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Amhara_Region",
-        "keywords": "Airports in Amhara Region"
-    }
+    ]
 }

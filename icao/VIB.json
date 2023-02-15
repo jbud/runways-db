@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "VIB, VIB",
-    "country": {
-        "id": "302747",
-        "code": "MX",
-        "name": "Mexico",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
-        "keywords": "Aeropuertos de México, Mexican airports"
-    },
-    "region": {
-        "id": "304792",
-        "code": "MX-BCS",
-        "local_code": "BCS",
-        "name": "Baja California Sur",
-        "continent": "NA",
-        "iso_country": "MX",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Baja_California_Sur",
-        "keywords": "Airports in Baja California Sur"
-    }
+    "keywords": "VIB, VIB"
 }

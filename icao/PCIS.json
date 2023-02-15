@@ -40,23 +40,5 @@
             "he_heading_degT": "281.7",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302769",
-        "code": "KI",
-        "name": "Kiribati",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kiribati",
-        "keywords": "Airports in Kiribati"
-    },
-    "region": {
-        "id": "304379",
-        "code": "KI-P",
-        "local_code": "P",
-        "name": "Phoenix Islands",
-        "continent": "OC",
-        "iso_country": "KI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Phoenix_Islands",
-        "keywords": "Airports in Phoenix Islands"
-    }
+    ]
 }

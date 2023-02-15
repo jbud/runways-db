@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Lakunai_Airfield",
-    "keywords": "RAB, Old Rabaul Airport, AYRB",
-    "country": {
-        "id": "302778",
-        "code": "PG",
-        "name": "Papua New Guinea",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
-        "keywords": "Airports in Papua New Guinea"
-    },
-    "region": {
-        "id": "305036",
-        "code": "PG-EBR",
-        "local_code": "EBR",
-        "name": "East New Britain Province",
-        "continent": "OC",
-        "iso_country": "PG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/East_New_Britain_Province",
-        "keywords": "Airports in East New Britain Province"
-    }
+    "keywords": "RAB, Old Rabaul Airport, AYRB"
 }

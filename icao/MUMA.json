@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Punta de Maisí",
-    "country": {
-        "id": "302732",
-        "code": "CU",
-        "name": "Cuba",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cuba",
-        "keywords": "Aeropuertos de Cuba"
-    },
-    "region": {
-        "id": "303512",
-        "code": "CU-14",
-        "local_code": "14",
-        "name": "Guantánamo Province",
-        "continent": "NA",
-        "iso_country": "CU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Guant%C3%A1namo_Province",
-        "keywords": "Airports in Guantánamo Province"
-    }
+    "keywords": "Punta de Maisí"
 }

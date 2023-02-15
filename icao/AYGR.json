@@ -40,47 +40,5 @@
             "he_heading_degT": "218.1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302778",
-        "code": "PG",
-        "name": "Papua New Guinea",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
-        "keywords": "Airports in Papua New Guinea"
-    },
-    "region": {
-        "id": "305047",
-        "code": "PG-NPP",
-        "local_code": "NPP",
-        "name": "Northern Province",
-        "continent": "OC",
-        "iso_country": "PG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Province_(Papua_New_Guinea)",
-        "keywords": "Airports in Northern Province"
-    },
-    "navaids": [
-        {
-            "id": "88627",
-            "filename": "Girua_NDB-DME_PG",
-            "ident": "GUA",
-            "name": "Girua",
-            "type": "NDB-DME",
-            "frequency_khz": "224",
-            "latitude_deg": "-8.736109733581543",
-            "longitude_deg": "148.25399780273438",
-            "elevation_ft": "232",
-            "iso_country": "PG",
-            "dme_frequency_khz": "116500",
-            "dme_channel": "112X",
-            "dme_latitude_deg": "-8.745",
-            "dme_longitude_deg": "148.254",
-            "dme_elevation_ft": "232",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.294",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "AYGR"
-        }
     ]
 }

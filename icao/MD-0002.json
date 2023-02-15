@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://www.skydive.md/",
     "wikipedia_link": "",
-    "keywords": "Vadul-lui-Voda Airfield, Vadul lui Vodă Airfield, Аэродром Вадул-луй-Водэ",
-    "country": {
-        "id": "302704",
-        "code": "MD",
-        "name": "Moldova",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Moldova",
-        "keywords": "Airports in Moldova"
-    },
-    "region": {
-        "id": "306450",
-        "code": "MD-CU",
-        "local_code": "CU",
-        "name": "Chişinău (city)",
-        "continent": "EU",
-        "iso_country": "MD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chişinău",
-        "keywords": "Airports in Chişinău (city)"
-    }
+    "keywords": "Vadul-lui-Voda Airfield, Vadul lui Vodă Airfield, Аэродром Вадул-луй-Водэ"
 }

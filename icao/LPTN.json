@@ -62,33 +62,5 @@
             "he_heading_degT": "297",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "56291",
-            "airport_ref": "4464",
-            "airport_ident": "LPTN",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.1"
-        }
-    ],
-    "country": {
-        "id": "302711",
-        "code": "PT",
-        "name": "Portugal",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Portugal",
-        "keywords": "Aeroportos de Portugal"
-    },
-    "region": {
-        "id": "305180",
-        "code": "PT-14",
-        "local_code": "14",
-        "name": "Santarém District",
-        "continent": "EU",
-        "iso_country": "PT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Santarém_District",
-        "keywords": "Airports in Santarém District"
-    }
+    ]
 }

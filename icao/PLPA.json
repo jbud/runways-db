@@ -16,23 +16,5 @@
     "local_code": "P16",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Palmyra_(Cooper)_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302785",
-        "code": "UM",
-        "name": "United States Minor Outlying Islands",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands",
-        "keywords": "Airports in United States Minor Outlying Islands"
-    },
-    "region": {
-        "id": "306074",
-        "code": "UM-95",
-        "local_code": "95",
-        "name": "Palmyra Atoll",
-        "continent": "OC",
-        "iso_country": "UM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Palmyra_Atoll",
-        "keywords": "Airports in Palmyra Atoll"
-    }
+    "keywords": ""
 }

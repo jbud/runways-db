@@ -40,23 +40,5 @@
             "he_heading_degT": "223",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304182",
-        "code": "IN-ML",
-        "local_code": "ML",
-        "name": "Meghalaya",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Meghalaya",
-        "keywords": "Airports in Meghalaya"
-    }
+    ]
 }

@@ -40,23 +40,5 @@
             "he_heading_degT": "92",
             "he_displaced_threshold_ft": "3200"
         }
-    ],
-    "country": {
-        "id": "302610",
-        "code": "ZA",
-        "name": "South Africa",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
-        "keywords": "South African airports"
-    },
-    "region": {
-        "id": "306295",
-        "code": "ZA-EC",
-        "local_code": "EC",
-        "name": "Eastern Cape",
-        "continent": "AF",
-        "iso_country": "ZA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Cape",
-        "keywords": "Airports in Eastern Cape"
-    }
+    ]
 }

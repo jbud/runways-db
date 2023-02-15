@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Los Garranchos",
-    "country": {
-        "id": "302684",
-        "code": "ES",
-        "name": "Spain",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
-        "keywords": "Aeropuertos de España"
-    },
-    "region": {
-        "id": "303764",
-        "code": "ES-MC",
-        "local_code": "MC",
-        "name": "Murcia (region)",
-        "continent": "EU",
-        "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Region_of_Murcia",
-        "keywords": "Airports in Murcia"
-    }
+    "keywords": "Los Garranchos"
 }

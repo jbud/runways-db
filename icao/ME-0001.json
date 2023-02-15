@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Ulcinj_Airport",
-    "keywords": "Аеродром Улцињ, Aerodrom Ulcinj",
-    "country": {
-        "id": "302705",
-        "code": "ME",
-        "name": "Montenegro",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Montenegro",
-        "keywords": "Montenegran airports"
-    },
-    "region": {
-        "id": "306588",
-        "code": "ME-20",
-        "local_code": "20",
-        "name": "Ulcinj Municipality",
-        "continent": "EU",
-        "iso_country": "ME",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ulcinj",
-        "keywords": "Airports in Ulcinj Municipality"
-    }
+    "keywords": "Аеродром Улцињ, Aerodrom Ulcinj"
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Aksukent, Аксукент, Belyye Vody",
-    "country": {
-        "id": "302645",
-        "code": "KZ",
-        "name": "Kazakhstan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kazakhstan",
-        "keywords": "Kazakh"
-    },
-    "region": {
-        "id": "304438",
-        "code": "KZ-YUZ",
-        "local_code": "YUZ",
-        "name": "South Kazakhstan Region",
-        "continent": "AS",
-        "iso_country": "KZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Kazakhstan_Region",
-        "keywords": "Оңтүстік Қазақстан облысы"
-    }
+    "keywords": "Aksukent, Аксукент, Belyye Vody"
 }

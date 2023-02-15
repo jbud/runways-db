@@ -40,23 +40,5 @@
             "he_heading_degT": "341",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302714",
-        "code": "RU",
-        "name": "Russia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
-        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
-    },
-    "region": {
-        "id": "305289",
-        "code": "RU-KHM",
-        "local_code": "KHM",
-        "name": "Khanty-Mansi Autonomous Okrug",
-        "continent": "EU",
-        "iso_country": "RU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Khanty-Mansi_Autonomous_Okrug",
-        "keywords": "Airports in Khanty-Mansi Autonomous Okrug"
-    }
+    ]
 }

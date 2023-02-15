@@ -40,23 +40,5 @@
             "he_heading_degT": "190.2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302799",
-        "code": "PY",
-        "name": "Paraguay",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraguay",
-        "keywords": "Aeropuertos de Paraguay"
-    },
-    "region": {
-        "id": "305204",
-        "code": "PY-8",
-        "local_code": "8",
-        "name": "Misiones Department",
-        "continent": "SA",
-        "iso_country": "PY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Misiones_Department",
-        "keywords": "Airports in Misiones Department"
-    }
+    ]
 }

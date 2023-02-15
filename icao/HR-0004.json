@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://www.aeroklub.nova-raca.hr/zracnopristaniste.html",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302692",
-        "code": "HR",
-        "name": "Croatia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Croatia",
-        "keywords": "Croatian airports"
-    },
-    "region": {
-        "id": "304031",
-        "code": "HR-07",
-        "local_code": "07",
-        "name": "Bjelovar-Bilogora County",
-        "continent": "EU",
-        "iso_country": "HR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bjelovar-Bilogora_County",
-        "keywords": "Airports in Bjelovar-Bilogora County"
-    }
+    "keywords": ""
 }

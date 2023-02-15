@@ -16,23 +16,5 @@
     "local_code": "VCMEG",
     "home_link": "http://www.marc-ingegno.it/index.php?option=com_content&view=article&id=47&Itemid=92&lang=it",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302697",
-        "code": "IT",
-        "name": "Italy",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
-        "keywords": "Aeroporti d'Italia"
-    },
-    "region": {
-        "id": "306360",
-        "code": "IT-21",
-        "local_code": "21",
-        "name": "Piedmont",
-        "continent": "EU",
-        "iso_country": "IT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Piedmont",
-        "keywords": "PM"
-    }
+    "keywords": ""
 }

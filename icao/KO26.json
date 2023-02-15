@@ -84,49 +84,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "64230",
-            "airport_ref": "20681",
-            "airport_ident": "KO26",
-            "type": "FSS",
-            "description": "RIVERSIDE RDO",
-            "frequency_mhz": "122.4"
-        },
-        {
-            "id": "64231",
-            "airport_ref": "20681",
-            "airport_ident": "KO26",
-            "type": "RFSS",
-            "description": "RIVERSIDE RDO",
-            "frequency_mhz": "122.6"
-        },
-        {
-            "id": "64232",
-            "airport_ref": "20681",
-            "airport_ident": "KO26",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306080",
-        "code": "US-CA",
-        "local_code": "CA",
-        "name": "California",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
-        "keywords": "Californian airports"
-    }
+    ]
 }

@@ -40,57 +40,5 @@
             "he_heading_degT": "344",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "56906",
-            "airport_ref": "5113",
-            "airport_ident": "OERM",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302660",
-        "code": "SA",
-        "name": "Saudi Arabia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
-        "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
-    },
-    "region": {
-        "id": "305363",
-        "code": "SA-04",
-        "local_code": "04",
-        "name": "Ash Sharqiyah Region",
-        "continent": "AS",
-        "iso_country": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ash_Sharqiyah_Region",
-        "keywords": "Airports in Ash Sharqiyah Region"
-    },
-    "navaids": [
-        {
-            "id": "92968",
-            "filename": "Ras_Mishab_VORTAC_SA",
-            "ident": "RAS",
-            "name": "Ras Mishab",
-            "type": "VORTAC",
-            "frequency_khz": "116400",
-            "latitude_deg": "28.077899932861328",
-            "longitude_deg": "48.61470031738281",
-            "elevation_ft": "13",
-            "iso_country": "SA",
-            "dme_frequency_khz": "116400",
-            "dme_channel": "111X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.418",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "OERM"
-        }
     ]
 }

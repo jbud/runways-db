@@ -16,23 +16,5 @@
     "local_code": "TUY",
     "home_link": "",
     "wikipedia_link": "https://sv.wikipedia.org/wiki/Tulum_Naval_Air_Station",
-    "keywords": "MM49",
-    "country": {
-        "id": "302747",
-        "code": "MX",
-        "name": "Mexico",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
-        "keywords": "Aeropuertos de México, Mexican airports"
-    },
-    "region": {
-        "id": "304812",
-        "code": "MX-ROO",
-        "local_code": "ROO",
-        "name": "Quintana Roo",
-        "continent": "NA",
-        "iso_country": "MX",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Quintana_Roo",
-        "keywords": "Airports in Quintana Roo"
-    }
+    "keywords": "MM49"
 }

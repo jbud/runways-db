@@ -40,57 +40,5 @@
             "he_heading_degT": "245",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "56215",
-            "airport_ref": "2639",
-            "airport_ident": "EPZG",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.75"
-        }
-    ],
-    "country": {
-        "id": "302710",
-        "code": "PL",
-        "name": "Poland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
-        "keywords": "Lotniska Polski"
-    },
-    "region": {
-        "id": "305146",
-        "code": "PL-LB",
-        "local_code": "LB",
-        "name": "Lubusz Voivodeship",
-        "continent": "EU",
-        "iso_country": "PL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lubusz_Voivodeship",
-        "keywords": "Lubuskie"
-    },
-    "navaids": [
-        {
-            "id": "85847",
-            "filename": "Babimost_NDB_PL",
-            "ident": "BBM",
-            "name": "Babimost",
-            "type": "NDB",
-            "frequency_khz": "390",
-            "latitude_deg": "52.14039993286133",
-            "longitude_deg": "15.796199798583984",
-            "elevation_ft": "",
-            "iso_country": "PL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.526",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EPZG"
-        }
     ]
 }

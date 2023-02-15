@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Qimei_Airport",
-    "keywords": "Qimei Airport, 七美機場, 七美机场",
-    "country": {
-        "id": "302668",
-        "code": "TW",
-        "name": "Taiwan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
-        "keywords": "Taiwanese airports"
-    },
-    "region": {
-        "id": "305945",
-        "code": "TW-PEN",
-        "local_code": "PEN",
-        "name": "Penghu County",
-        "continent": "AS",
-        "iso_country": "TW",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Penghu_County",
-        "keywords": "Pescadores"
-    }
+    "keywords": "Qimei Airport, 七美機場, 七美机场"
 }

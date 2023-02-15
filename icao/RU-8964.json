@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Pechora_Kamenka",
-    "keywords": "Berezovka Air Base, Kamenka Air Base, Аэродром Берёзовка, Аэродром Березовка, Аэродром Каменка",
-    "country": {
-        "id": "302714",
-        "code": "RU",
-        "name": "Russia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
-        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
-    },
-    "region": {
-        "id": "305294",
-        "code": "RU-KO",
-        "local_code": "KO",
-        "name": "Komi Republic",
-        "continent": "EU",
-        "iso_country": "RU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Komi_Republic",
-        "keywords": "Airports in Komi Republic"
-    }
+    "keywords": "Berezovka Air Base, Kamenka Air Base, Аэродром Берёзовка, Аэродром Березовка, Аэродром Каменка"
 }

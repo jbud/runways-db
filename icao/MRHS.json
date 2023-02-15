@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302731",
-        "code": "CR",
-        "name": "Costa Rica",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Costa_Rica",
-        "keywords": "Aeropuertos de Costa Rica"
-    },
-    "region": {
-        "id": "303495",
-        "code": "CR-L",
-        "local_code": "L",
-        "name": "Limón Province",
-        "continent": "NA",
-        "iso_country": "CR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lim%C3%B3n_Province",
-        "keywords": "Airports in Limon"
-    }
+    "keywords": ""
 }

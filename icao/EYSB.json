@@ -40,33 +40,5 @@
             "he_heading_degT": "284",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "55163",
-            "airport_ref": "2765",
-            "airport_ident": "EYSB",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "122.05"
-        }
-    ],
-    "country": {
-        "id": "302700",
-        "code": "LT",
-        "name": "Lithuania",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lithuania",
-        "keywords": "Lithuanian airports"
-    },
-    "region": {
-        "id": "304499",
-        "code": "LT-SA",
-        "local_code": "SA",
-        "name": "Šiauliai County",
-        "continent": "EU",
-        "iso_country": "LT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/%C5%A0iauliai_County",
-        "keywords": "Airports in Šiauliai County"
-    }
+    ]
 }

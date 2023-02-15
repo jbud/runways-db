@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "314010",
-            "airport_ref": "29489",
-            "airport_ident": "LPMI",
-            "type": "AFIS",
-            "description": "",
-            "frequency_mhz": "122.2"
-        }
-    ],
-    "country": {
-        "id": "302711",
-        "code": "PT",
-        "name": "Portugal",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Portugal",
-        "keywords": "Aeroportos de Portugal"
-    },
-    "region": {
-        "id": "305170",
-        "code": "PT-04",
-        "local_code": "04",
-        "name": "Bragança District",
-        "continent": "EU",
-        "iso_country": "PT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bragança_District",
-        "keywords": "Airports in Bragança District"
-    }
+    ]
 }

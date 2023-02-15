@@ -40,49 +40,5 @@
             "he_heading_degT": "303",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "59864",
-            "airport_ref": "19598",
-            "airport_ident": "D38",
-            "type": "A/D",
-            "description": "ROCHESTER APP/DEP",
-            "frequency_mhz": "119.55"
-        },
-        {
-            "id": "59865",
-            "airport_ref": "19598",
-            "airport_ident": "D38",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.675"
-        },
-        {
-            "id": "59866",
-            "airport_ref": "19598",
-            "airport_ident": "D38",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306110",
-        "code": "US-NY",
-        "local_code": "NY",
-        "name": "New York",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
-        "keywords": "Airports in New York"
-    }
+    ]
 }

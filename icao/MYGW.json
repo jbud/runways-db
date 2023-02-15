@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/West_End_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302728",
-        "code": "BS",
-        "name": "Bahamas",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bahamas",
-        "keywords": "Bahaman airports"
-    },
-    "region": {
-        "id": "336486",
-        "code": "BS-WG",
-        "local_code": "WG",
-        "name": "West Grand Bahama",
-        "continent": "NA",
-        "iso_country": "BS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Grand_Bahama",
-        "keywords": "Airports in West Grand Bahama"
-    }
+    "keywords": ""
 }

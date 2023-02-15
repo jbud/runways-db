@@ -40,57 +40,5 @@
             "he_heading_degT": "306.6",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "61191",
-            "airport_ref": "20202",
-            "airport_ident": "KIZG",
-            "type": "A/D",
-            "description": "PORTLAND APP/DEP",
-            "frequency_mhz": "125.5"
-        },
-        {
-            "id": "61192",
-            "airport_ref": "20202",
-            "airport_ident": "KIZG",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "135.775"
-        },
-        {
-            "id": "61193",
-            "airport_ref": "20202",
-            "airport_ident": "KIZG",
-            "type": "RDO",
-            "description": "BANGOR RDO",
-            "frequency_mhz": "122.55"
-        },
-        {
-            "id": "61194",
-            "airport_ref": "20202",
-            "airport_ident": "KIZG",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306097",
-        "code": "US-ME",
-        "local_code": "ME",
-        "name": "Maine",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Maine",
-        "keywords": "Airports in Maine"
-    }
+    ]
 }

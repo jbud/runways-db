@@ -40,49 +40,5 @@
             "he_heading_degT": "223.1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "57483",
-            "airport_ref": "2671",
-            "airport_ident": "ESMV",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "132.25"
-        },
-        {
-            "id": "57484",
-            "airport_ref": "2671",
-            "airport_ident": "ESMV",
-            "type": "OPS",
-            "description": "BASE OPS",
-            "frequency_mhz": "132.25"
-        },
-        {
-            "id": "57485",
-            "airport_ref": "2671",
-            "airport_ident": "ESMV",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "136.25"
-        }
-    ],
-    "country": {
-        "id": "302715",
-        "code": "SE",
-        "name": "Sweden",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
-        "keywords": "Flygplatserna, Sverige"
-    },
-    "region": {
-        "id": "305417",
-        "code": "SE-F",
-        "local_code": "F",
-        "name": "Jönköpings län",
-        "continent": "EU",
-        "iso_country": "SE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Jönköpings_län",
-        "keywords": "Jönköping County"
-    }
+    ]
 }

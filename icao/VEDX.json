@@ -40,23 +40,5 @@
             "he_heading_degT": "352.5",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304198",
-        "code": "IN-WB",
-        "local_code": "WB",
-        "name": "West Bengal",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Bengal",
-        "keywords": "Airports in West Bengal"
-    }
+    ]
 }

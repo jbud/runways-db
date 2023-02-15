@@ -16,23 +16,5 @@
     "local_code": "CNENV",
     "home_link": "http://www.aeromedia.it/envie.html",
     "wikipedia_link": "",
-    "keywords": "http://moduliweb.enac.gov.it/Applicazioni/avioeli/Avio_04.asp?selaeroporto=879",
-    "country": {
-        "id": "302697",
-        "code": "IT",
-        "name": "Italy",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
-        "keywords": "Aeroporti d'Italia"
-    },
-    "region": {
-        "id": "306360",
-        "code": "IT-21",
-        "local_code": "21",
-        "name": "Piedmont",
-        "continent": "EU",
-        "iso_country": "IT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Piedmont",
-        "keywords": "PM"
-    }
+    "keywords": "http://moduliweb.enac.gov.it/Applicazioni/avioeli/Avio_04.asp?selaeroporto=879"
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Up-Park_Camp",
-    "keywords": "",
-    "country": {
-        "id": "302741",
-        "code": "JM",
-        "name": "Jamaica",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Jamaica",
-        "keywords": "Jamaican airports"
-    },
-    "region": {
-        "id": "304259",
-        "code": "JM-02",
-        "local_code": "02",
-        "name": "Saint Andrew Parish",
-        "continent": "NA",
-        "iso_country": "JM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Andrew_Parish,_Jamaica",
-        "keywords": "Airports in Saint Andrew"
-    }
+    "keywords": ""
 }

@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302607",
-        "code": "TZ",
-        "name": "Tanzania",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tanzania",
-        "keywords": "Tanzanian airports"
-    },
-    "region": {
-        "id": "305973",
-        "code": "TZ-20",
-        "local_code": "20",
-        "name": "Rukwa Region",
-        "continent": "AF",
-        "iso_country": "TZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Rukwa_Region",
-        "keywords": "Airports in Rukwa Region"
-    }
+    ]
 }

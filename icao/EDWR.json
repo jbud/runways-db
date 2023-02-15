@@ -84,41 +84,5 @@
             "he_heading_degT": "312",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "53175",
-            "airport_ref": "2291",
-            "airport_ident": "EDWR",
-            "type": "AFIS",
-            "description": "BREMEN INFO",
-            "frequency_mhz": "125.1"
-        },
-        {
-            "id": "53176",
-            "airport_ref": "2291",
-            "airport_ident": "EDWR",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302681",
-        "code": "DE",
-        "name": "Germany",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
-        "keywords": "Flughäfen in Deutschland"
-    },
-    "region": {
-        "id": "303555",
-        "code": "DE-NI",
-        "local_code": "NI",
-        "name": "Lower Saxony",
-        "continent": "EU",
-        "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Saxony",
-        "keywords": "Niedersachsen"
-    }
+    ]
 }

@@ -62,49 +62,5 @@
             "he_heading_degT": "315.5",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "63702",
-            "airport_ref": "19330",
-            "airport_ident": "KAVQ",
-            "type": "A/D",
-            "description": "TUCSON APP/DEP",
-            "frequency_mhz": "119.4"
-        },
-        {
-            "id": "63703",
-            "airport_ref": "19330",
-            "airport_ident": "KAVQ",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.375"
-        },
-        {
-            "id": "63704",
-            "airport_ref": "19330",
-            "airport_ident": "KAVQ",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306079",
-        "code": "US-AZ",
-        "local_code": "AZ",
-        "name": "Arizona",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
-        "keywords": "Airports in Arizona"
-    }
+    ]
 }

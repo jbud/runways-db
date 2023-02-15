@@ -40,23 +40,5 @@
             "he_heading_degT": "308",
             "he_displaced_threshold_ft": "135"
         }
-    ],
-    "country": {
-        "id": "302697",
-        "code": "IT",
-        "name": "Italy",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
-        "keywords": "Aeroporti d'Italia"
-    },
-    "region": {
-        "id": "306370",
-        "code": "IT-77",
-        "local_code": "77",
-        "name": "Basilicata",
-        "continent": "EU",
-        "iso_country": "IT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Basilicata",
-        "keywords": "BC"
-    }
+    ]
 }

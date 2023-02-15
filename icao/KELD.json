@@ -84,57 +84,5 @@
             "he_heading_degT": "1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "66540",
-            "airport_ref": "3509",
-            "airport_ident": "KELD",
-            "type": "A/D",
-            "description": "FORT WORTH CNTR",
-            "frequency_mhz": "126.32"
-        },
-        {
-            "id": "66541",
-            "airport_ref": "3509",
-            "airport_ident": "KELD",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "118.325"
-        },
-        {
-            "id": "66542",
-            "airport_ref": "3509",
-            "airport_ident": "KELD",
-            "type": "RDO",
-            "description": "JONESBORO RDO",
-            "frequency_mhz": "122.65"
-        },
-        {
-            "id": "66543",
-            "airport_ref": "3509",
-            "airport_ident": "KELD",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306078",
-        "code": "US-AR",
-        "local_code": "AR",
-        "name": "Arkansas",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
-        "keywords": "Airports in Arkansas"
-    }
+    ]
 }

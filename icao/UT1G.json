@@ -40,23 +40,5 @@
             "he_heading_degT": "333.3",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302666",
-        "code": "TM",
-        "name": "Turkmenistan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkmenistan",
-        "keywords": "Turkmenistani airports, Airports in Turkmenistan"
-    },
-    "region": {
-        "id": "430045",
-        "code": "TM-S",
-        "local_code": "S",
-        "name": "Ashgabat (city)",
-        "continent": "AS",
-        "iso_country": "TM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ashgabat",
-        "keywords": "Aşgabat"
-    }
+    ]
 }

@@ -40,41 +40,5 @@
             "he_heading_degT": "219",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "310579",
-            "airport_ref": "310578",
-            "airport_ident": "ZA-0112",
-            "type": "APP",
-            "description": "Waterkloof Approach",
-            "frequency_mhz": "124.1"
-        },
-        {
-            "id": "310580",
-            "airport_ref": "310578",
-            "airport_ident": "ZA-0112",
-            "type": "TWR/Radio",
-            "description": "Fly Inn Radio",
-            "frequency_mhz": "125.6"
-        }
-    ],
-    "country": {
-        "id": "302610",
-        "code": "ZA",
-        "name": "South Africa",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
-        "keywords": "South African airports"
-    },
-    "region": {
-        "id": "306297",
-        "code": "ZA-GT",
-        "local_code": "GT",
-        "name": "Gauteng",
-        "continent": "AF",
-        "iso_country": "ZA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Gauteng",
-        "keywords": "Airports in Gauteng"
-    }
+    ]
 }

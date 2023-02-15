@@ -40,57 +40,5 @@
             "he_heading_degT": "270",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "55883",
-            "airport_ref": "26595",
-            "airport_ident": "VNJP",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.5"
-        }
-    ],
-    "country": {
-        "id": "302654",
-        "code": "NP",
-        "name": "Nepal",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nepal",
-        "keywords": "नेपाल विमानस्थलको"
-    },
-    "region": {
-        "id": "430331",
-        "code": "NP-P2",
-        "local_code": "P2",
-        "name": "Madhesh Province",
-        "continent": "AS",
-        "iso_country": "NP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Madhesh_Province",
-        "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "89502",
-            "filename": "Janakpur_NDB_NP",
-            "ident": "JKP",
-            "name": "Janakpur",
-            "type": "NDB",
-            "frequency_khz": "287",
-            "latitude_deg": "26.712200164794922",
-            "longitude_deg": "85.92169952392578",
-            "elevation_ft": "100",
-            "iso_country": "NP",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.022",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "VNJP"
-        }
     ]
 }

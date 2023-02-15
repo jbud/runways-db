@@ -84,57 +84,5 @@
             "he_heading_degT": "312.7",
             "he_displaced_threshold_ft": "500"
         }
-    ],
-    "freqs": [
-        {
-            "id": "60096",
-            "airport_ref": "20559",
-            "airport_ident": "KMRH",
-            "type": "A/D",
-            "description": "CHERRY POINT APP/DEP",
-            "frequency_mhz": "124.1"
-        },
-        {
-            "id": "60097",
-            "airport_ref": "20559",
-            "airport_ident": "KMRH",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "135.375"
-        },
-        {
-            "id": "60098",
-            "airport_ref": "20559",
-            "airport_ident": "KMRH",
-            "type": "CLD",
-            "description": "CHERRY POINT CLNC",
-            "frequency_mhz": "125.65"
-        },
-        {
-            "id": "60099",
-            "airport_ref": "20559",
-            "airport_ident": "KMRH",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306103",
-        "code": "US-NC",
-        "local_code": "NC",
-        "name": "North Carolina",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
-        "keywords": "Airports in North Carolina"
-    }
+    ]
 }

@@ -40,49 +40,5 @@
             "he_heading_degT": "349.1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "51472",
-            "airport_ref": "6155",
-            "airport_ident": "SKPV",
-            "type": "APP",
-            "description": "SAN ANDRES APP",
-            "frequency_mhz": "119.3"
-        },
-        {
-            "id": "51473",
-            "airport_ref": "6155",
-            "airport_ident": "SKPV",
-            "type": "RDO",
-            "description": "PROVIDENCIA RDO",
-            "frequency_mhz": "672.8"
-        },
-        {
-            "id": "51474",
-            "airport_ref": "6155",
-            "airport_ident": "SKPV",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "121.9"
-        }
-    ],
-    "country": {
-        "id": "302793",
-        "code": "CO",
-        "name": "Colombia",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
-        "keywords": "Aeropuertos de Colombia"
-    },
-    "region": {
-        "id": "303484",
-        "code": "CO-SAP",
-        "local_code": "SAP",
-        "name": "San Andrés, Providencia y Santa Catalina Department",
-        "continent": "SA",
-        "iso_country": "CO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/San_Andrés,_Providencia_y_Santa_Catalina_Department",
-        "keywords": "Airports in San Andrés, Providencia y Santa Catalina Department"
-    }
+    ]
 }

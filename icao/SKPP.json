@@ -40,49 +40,5 @@
             "he_heading_degT": "250.8",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "51546",
-            "airport_ref": "6151",
-            "airport_ident": "SKPP",
-            "type": "APP",
-            "description": "CALI APP",
-            "frequency_mhz": "119.1"
-        },
-        {
-            "id": "51547",
-            "airport_ref": "6151",
-            "airport_ident": "SKPP",
-            "type": "RDO",
-            "description": "POPAYAN RDO",
-            "frequency_mhz": "348.8"
-        },
-        {
-            "id": "51548",
-            "airport_ref": "6151",
-            "airport_ident": "SKPP",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.45"
-        }
-    ],
-    "country": {
-        "id": "302793",
-        "code": "CO",
-        "name": "Colombia",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
-        "keywords": "Aeropuertos de Colombia"
-    },
-    "region": {
-        "id": "303466",
-        "code": "CO-CAU",
-        "local_code": "CAU",
-        "name": "Cauca Department",
-        "continent": "SA",
-        "iso_country": "CO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cauca_Department",
-        "keywords": "Airports in Cauca Department"
-    }
+    ]
 }

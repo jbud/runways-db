@@ -62,49 +62,5 @@
             "he_heading_degT": "359.4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "66258",
-            "airport_ref": "20043",
-            "airport_ident": "KHEI",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "119.925"
-        },
-        {
-            "id": "66259",
-            "airport_ref": "20043",
-            "airport_ident": "KHEI",
-            "type": "CNTR",
-            "description": "MINNEAPOLIS CNTR",
-            "frequency_mhz": "124.25"
-        },
-        {
-            "id": "66260",
-            "airport_ref": "20043",
-            "airport_ident": "KHEI",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306104",
-        "code": "US-ND",
-        "local_code": "ND",
-        "name": "North Dakota",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Dakota",
-        "keywords": "Airports in North Dakota"
-    }
+    ]
 }

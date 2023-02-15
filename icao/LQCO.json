@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "LQCO, LQCO",
-    "country": {
-        "id": "302675",
-        "code": "BA",
-        "name": "Bosnia and Herzegovina",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
-        "keywords": "Bosnian airports"
-    },
-    "region": {
-        "id": "303052",
-        "code": "BA-BIH",
-        "local_code": "BIH",
-        "name": "Federation of Bosnia and Herzegovina",
-        "continent": "EU",
-        "iso_country": "BA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Federation_of_Bosnia_and_Herzegovina",
-        "keywords": "Bosnian airports"
-    }
+    "keywords": "LQCO, LQCO"
 }

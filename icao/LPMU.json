@@ -40,33 +40,5 @@
             "he_heading_degT": "206",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "308329",
-            "airport_ref": "30147",
-            "airport_ident": "LPMU",
-            "type": "Radio",
-            "description": "",
-            "frequency_mhz": "120.1"
-        }
-    ],
-    "country": {
-        "id": "302711",
-        "code": "PT",
-        "name": "Portugal",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Portugal",
-        "keywords": "Aeroportos de Portugal"
-    },
-    "region": {
-        "id": "305170",
-        "code": "PT-04",
-        "local_code": "04",
-        "name": "Bragança District",
-        "continent": "EU",
-        "iso_country": "PT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bragança_District",
-        "keywords": "Airports in Bragança District"
-    }
+    ]
 }

@@ -40,41 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": "885"
         }
-    ],
-    "freqs": [
-        {
-            "id": "310788",
-            "airport_ref": "27261",
-            "airport_ident": "EFKR",
-            "type": "ACC",
-            "description": "Tampere radar",
-            "frequency_mhz": "124.2"
-        },
-        {
-            "id": "310787",
-            "airport_ref": "27261",
-            "airport_ident": "EFKR",
-            "type": "RDO",
-            "description": "Kärsämäki traffic",
-            "frequency_mhz": "123.55"
-        }
-    ],
-    "country": {
-        "id": "302685",
-        "code": "FI",
-        "name": "Finland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
-        "keywords": "Lentokentät, Suomen"
-    },
-    "region": {
-        "id": "336515",
-        "code": "FI-14",
-        "local_code": "14",
-        "name": "North Ostrobothnia Region",
-        "continent": "EU",
-        "iso_country": "FI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Ostrobothnia",
-        "keywords": "Airports in North Ostrobothnia Region"
-    }
+    ]
 }

@@ -40,49 +40,5 @@
             "he_heading_degT": "332.4",
             "he_displaced_threshold_ft": "242"
         }
-    ],
-    "freqs": [
-        {
-            "id": "71039",
-            "airport_ref": "20976",
-            "airport_ident": "KRWV",
-            "type": "A/D",
-            "description": "HOUSTON CNTR",
-            "frequency_mhz": "120.4"
-        },
-        {
-            "id": "71040",
-            "airport_ref": "20976",
-            "airport_ident": "KRWV",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.35"
-        },
-        {
-            "id": "71041",
-            "airport_ref": "20976",
-            "airport_ident": "KRWV",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306119",
-        "code": "US-TX",
-        "local_code": "TX",
-        "name": "Texas",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
-        "keywords": "Texan airports"
-    }
+    ]
 }

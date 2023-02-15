@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Meria Airport",
-    "country": {
-        "id": "302630",
-        "code": "GE",
-        "name": "Georgia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia_(country)",
-        "keywords": "Georgian airports"
-    },
-    "region": {
-        "id": "306410",
-        "code": "GE-GU",
-        "local_code": "GU",
-        "name": "Guria",
-        "continent": "AS",
-        "iso_country": "GE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Guria",
-        "keywords": "Airports in Guria"
-    }
+    "keywords": "Meria Airport"
 }

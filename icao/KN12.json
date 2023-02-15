@@ -40,49 +40,5 @@
             "he_heading_degT": "227.2",
             "he_displaced_threshold_ft": "247"
         }
-    ],
-    "freqs": [
-        {
-            "id": "67065",
-            "airport_ref": "20598",
-            "airport_ident": "KN12",
-            "type": "A/D",
-            "description": "MC GUIRE APP/DEP",
-            "frequency_mhz": "124.15"
-        },
-        {
-            "id": "67066",
-            "airport_ref": "20598",
-            "airport_ident": "KN12",
-            "type": "RDO",
-            "description": "MILLVILLE RDO",
-            "frequency_mhz": "113.4"
-        },
-        {
-            "id": "67067",
-            "airport_ref": "20598",
-            "airport_ident": "KN12",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306107",
-        "code": "US-NJ",
-        "local_code": "NJ",
-        "name": "New Jersey",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
-        "keywords": "Airports in New Jersey"
-    }
+    ]
 }

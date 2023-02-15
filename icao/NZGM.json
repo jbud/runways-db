@@ -40,23 +40,5 @@
             "he_heading_degT": "168",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302776",
-        "code": "NZ",
-        "name": "New Zealand",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Zealand",
-        "keywords": "Airports in New Zealand"
-    },
-    "region": {
-        "id": "304986",
-        "code": "NZ-WTC",
-        "local_code": "WTC",
-        "name": "West Coast Region",
-        "continent": "OC",
-        "iso_country": "NZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Coast,_New_Zealand",
-        "keywords": "Airports in West Coast Region"
-    }
+    ]
 }

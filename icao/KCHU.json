@@ -40,49 +40,5 @@
             "he_heading_degT": "315",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "63628",
-            "airport_ref": "19497",
-            "airport_ident": "KCHU",
-            "type": "CNTR",
-            "description": "MINNEAPOLIS CNTR",
-            "frequency_mhz": "128.6"
-        },
-        {
-            "id": "63629",
-            "airport_ref": "19497",
-            "airport_ident": "KCHU",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        },
-        {
-            "id": "63630",
-            "airport_ref": "19497",
-            "airport_ident": "KCHU",
-            "type": "RDO",
-            "description": "PRINCETON RDO",
-            "frequency_mhz": "122.1"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306099",
-        "code": "US-MN",
-        "local_code": "MN",
-        "name": "Minnesota",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
-        "keywords": "Airports in Minnesota"
-    }
+    ]
 }

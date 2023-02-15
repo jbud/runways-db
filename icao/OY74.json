@@ -40,23 +40,5 @@
             "he_heading_degT": "252.1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302671",
-        "code": "YE",
-        "name": "Yemen",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Yemen",
-        "keywords": "مطارات اليمن"
-    },
-    "region": {
-        "id": "306284",
-        "code": "YE-LA",
-        "local_code": "LA",
-        "name": "Lahij Governorate",
-        "continent": "AS",
-        "iso_country": "YE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lahij_Governorate",
-        "keywords": "Airports in Lahij Governorate"
-    }
+    ]
 }

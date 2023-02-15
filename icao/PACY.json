@@ -40,47 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306076",
-        "code": "US-AK",
-        "local_code": "AK",
-        "name": "Alaska",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
-        "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "87194",
-            "filename": "Yakataga_NDB_US",
-            "ident": "CYT",
-            "name": "Yakataga",
-            "type": "NDB",
-            "frequency_khz": "209",
-            "latitude_deg": "60.08620071411133",
-            "longitude_deg": "-142.48899841308594",
-            "elevation_ft": "12",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "22.173",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "PACY"
-        }
     ]
 }

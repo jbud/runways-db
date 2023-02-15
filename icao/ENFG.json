@@ -40,57 +40,5 @@
             "he_heading_degT": "329",
             "he_displaced_threshold_ft": "207"
         }
-    ],
-    "freqs": [
-        {
-            "id": "55799",
-            "airport_ref": "2576",
-            "airport_ident": "ENFG",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "119.925"
-        }
-    ],
-    "country": {
-        "id": "302709",
-        "code": "NO",
-        "name": "Norway",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
-        "keywords": "Flyplasser i Norge"
-    },
-    "region": {
-        "id": "349852",
-        "code": "NO-34",
-        "local_code": "34",
-        "name": "Innlandet",
-        "continent": "EU",
-        "iso_country": "NO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Innlandet",
-        "keywords": "Airports in Innlandet"
-    },
-    "navaids": [
-        {
-            "id": "90392",
-            "filename": "Leirin_NDB_NO",
-            "ident": "LL",
-            "name": "Leirin",
-            "type": "NDB",
-            "frequency_khz": "342",
-            "latitude_deg": "61.016300201416016",
-            "longitude_deg": "9.296549797058105",
-            "elevation_ft": "",
-            "iso_country": "NO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.323",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "ENFG"
-        }
     ]
 }

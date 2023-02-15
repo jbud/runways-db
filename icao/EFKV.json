@@ -40,41 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "310777",
-            "airport_ref": "27257",
-            "airport_ident": "EFKV",
-            "type": "ACC",
-            "description": "Tampere radar",
-            "frequency_mhz": "132.325"
-        },
-        {
-            "id": "310776",
-            "airport_ref": "27257",
-            "airport_ident": "EFKV",
-            "type": "RDO",
-            "description": "Kivijärvi traffic",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302685",
-        "code": "FI",
-        "name": "Finland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
-        "keywords": "Lentokentät, Suomen"
-    },
-    "region": {
-        "id": "336508",
-        "code": "FI-07",
-        "local_code": "07",
-        "name": "Central Ostrobothnia Region",
-        "continent": "EU",
-        "iso_country": "FI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Ostrobothnia",
-        "keywords": "Airports in Central Ostrobothnia Region"
-    }
+    ]
 }

@@ -16,23 +16,5 @@
     "local_code": "Z17G",
     "home_link": "",
     "wikipedia_link": "http://ms.wikipedia.org/wiki/Lapangan_Terbang_Al_Qatranah_Highway_Strip",
-    "keywords": "",
-    "country": {
-        "id": "302638",
-        "code": "JO",
-        "name": "Jordan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Jordan",
-        "keywords": "مطارات في الأردن"
-    },
-    "region": {
-        "id": "304284",
-        "code": "JO-MN",
-        "local_code": "MN",
-        "name": "Ma'an Governorate",
-        "continent": "AS",
-        "iso_country": "JO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ma'an_Governorate",
-        "keywords": "Airports in Ma'an Governorate"
-    }
+    "keywords": ""
 }

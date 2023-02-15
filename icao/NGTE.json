@@ -40,33 +40,5 @@
             "he_heading_degT": "333",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "54877",
-            "airport_ref": "4973",
-            "airport_ident": "NGTE",
-            "type": "AFIS",
-            "description": "FLT SVC",
-            "frequency_mhz": "655.3"
-        }
-    ],
-    "country": {
-        "id": "302769",
-        "code": "KI",
-        "name": "Kiribati",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kiribati",
-        "keywords": "Airports in Kiribati"
-    },
-    "region": {
-        "id": "304377",
-        "code": "KI-G",
-        "local_code": "G",
-        "name": "Gilbert Islands",
-        "continent": "OC",
-        "iso_country": "KI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Gilbert_Islands",
-        "keywords": "Airports in Gilbert Islands"
-    }
+    ]
 }

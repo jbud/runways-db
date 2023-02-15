@@ -62,49 +62,5 @@
             "he_heading_degT": "225",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "69708",
-            "airport_ref": "18522",
-            "airport_ident": "K1V6",
-            "type": "A/D",
-            "description": "PUEBLO APP/DEP",
-            "frequency_mhz": "120.1"
-        },
-        {
-            "id": "69709",
-            "airport_ref": "18522",
-            "airport_ident": "K1V6",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "120.025"
-        },
-        {
-            "id": "69710",
-            "airport_ref": "18522",
-            "airport_ident": "K1V6",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306081",
-        "code": "US-CO",
-        "local_code": "CO",
-        "name": "Colorado",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
-        "keywords": "Airports in Colorado"
-    }
+    ]
 }

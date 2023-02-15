@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "320709",
-            "airport_ref": "30243",
-            "airport_ident": "LGPA",
-            "type": "AFIS",
-            "description": "PAROS INFORMATION",
-            "frequency_mhz": "125.05"
-        }
-    ],
-    "country": {
-        "id": "302691",
-        "code": "GR",
-        "name": "Greece",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
-        "keywords": "αεροδρόμια στην Ελλάδα"
-    },
-    "region": {
-        "id": "430181",
-        "code": "GR-L",
-        "local_code": "L",
-        "name": "South Aegean",
-        "continent": "EU",
-        "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Aegean",
-        "keywords": "Περιφέρεια Νοτίου Αιγαίου"
-    }
+    ]
 }

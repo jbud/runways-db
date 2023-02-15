@@ -40,23 +40,5 @@
             "he_heading_degT": "192",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302719",
-        "code": "UA",
-        "name": "Ukraine",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ukraine",
-        "keywords": "Аеропорти України"
-    },
-    "region": {
-        "id": "305997",
-        "code": "UA-51",
-        "local_code": "51",
-        "name": "Odessa Oblast",
-        "continent": "EU",
-        "iso_country": "UA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Odessa_Oblast",
-        "keywords": "Airports in Odessa Oblast"
-    }
+    ]
 }

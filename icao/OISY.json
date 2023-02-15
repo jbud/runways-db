@@ -40,57 +40,5 @@
             "he_heading_degT": "312.5",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "53992",
-            "airport_ref": "5198",
-            "airport_ident": "OISY",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "121.8"
-        }
-    ],
-    "country": {
-        "id": "302637",
-        "code": "IR",
-        "name": "Iran",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
-        "keywords": "فرودگاه های ایران"
-    },
-    "region": {
-        "id": "304235",
-        "code": "IR-17",
-        "local_code": "17",
-        "name": "Kohgiluyeh and Boyer-Ahmad Province",
-        "continent": "AS",
-        "iso_country": "IR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kohgiluyeh_and_Boyer-Ahmad_Province",
-        "keywords": "Airports in Kohgiluyeh and Boyer-Ahmad Province"
-    },
-    "navaids": [
-        {
-            "id": "95836",
-            "filename": "Yasouj_NDB-DME_IR",
-            "ident": "YSJ",
-            "name": "Yasouj",
-            "type": "NDB-DME",
-            "frequency_khz": "235",
-            "latitude_deg": "30.701400756835938",
-            "longitude_deg": "51.54899978637695",
-            "elevation_ft": "5939",
-            "iso_country": "IR",
-            "dme_frequency_khz": "116550",
-            "dme_channel": "112Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.536",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "OISY"
-        }
     ]
 }

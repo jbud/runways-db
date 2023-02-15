@@ -40,41 +40,5 @@
             "he_heading_degT": "291",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "320299",
-            "airport_ref": "29940",
-            "airport_ident": "LKHB",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "120.9"
-        },
-        {
-            "id": "333131",
-            "airport_ref": "29940",
-            "airport_ident": "LKHB",
-            "type": "RADIO",
-            "description": "",
-            "frequency_mhz": "128.905"
-        }
-    ],
-    "country": {
-        "id": "302680",
-        "code": "CZ",
-        "name": "Czech Republic",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
-        "keywords": "Letiště České republiky, Czechia"
-    },
-    "region": {
-        "id": "303545",
-        "code": "CZ-VY",
-        "local_code": "VY",
-        "name": "Vysočina Region",
-        "continent": "EU",
-        "iso_country": "CZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Vysočina_Region",
-        "keywords": "Kraj Vysočina"
-    }
+    ]
 }

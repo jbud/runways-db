@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/F%C3%A1skr%C3%BA%C3%B0sfj%C3%B6r%C3%B0ur_Airport",
-    "keywords": "Faskrudsfjordur",
-    "country": {
-        "id": "302696",
-        "code": "IS",
-        "name": "Iceland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iceland",
-        "keywords": "Icelandic airports"
-    },
-    "region": {
-        "id": "304253",
-        "code": "IS-7",
-        "local_code": "7",
-        "name": "Eastern Region",
-        "continent": "EU",
-        "iso_country": "IS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Region_(Iceland)",
-        "keywords": "Austurland"
-    }
+    "keywords": "Faskrudsfjordur"
 }

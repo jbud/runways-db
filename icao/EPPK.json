@@ -62,33 +62,5 @@
             "he_heading_degT": "248",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "311160",
-            "airport_ref": "30284",
-            "airport_ident": "EPPK",
-            "type": "INFO",
-            "description": "Kobylnica Radio",
-            "frequency_mhz": "122.9"
-        }
-    ],
-    "country": {
-        "id": "302710",
-        "code": "PL",
-        "name": "Poland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
-        "keywords": "Lotniska Polski"
-    },
-    "region": {
-        "id": "305159",
-        "code": "PL-WP",
-        "local_code": "WP",
-        "name": "Greater Poland Voivodeship",
-        "continent": "EU",
-        "iso_country": "PL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Greater_Poland_Voivodeship",
-        "keywords": "Wielkopolskie"
-    }
+    ]
 }

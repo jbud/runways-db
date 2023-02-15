@@ -40,47 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302681",
-        "code": "DE",
-        "name": "Germany",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
-        "keywords": "Flughäfen in Deutschland"
-    },
-    "region": {
-        "id": "303550",
-        "code": "DE-BY",
-        "local_code": "BY",
-        "name": "Bavaria",
-        "continent": "EU",
-        "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
-        "keywords": "Bayern"
-    },
-    "navaids": [
-        {
-            "id": "89236",
-            "filename": "Illesheim_NDB_DE",
-            "ident": "ILM",
-            "name": "Illesheim",
-            "type": "NDB",
-            "frequency_khz": "488",
-            "latitude_deg": "49.471900939941406",
-            "longitude_deg": "10.387900352478027",
-            "elevation_ft": "1112",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.187",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "ETIK"
-        }
     ]
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "504563",
-            "airport_ref": "30191",
-            "airport_ident": "ESSN",
-            "type": "Radio",
-            "description": "Norrtälje radio",
-            "frequency_mhz": "123.325"
-        }
-    ],
-    "country": {
-        "id": "302715",
-        "code": "SE",
-        "name": "Sweden",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
-        "keywords": "Flygplatserna, Sverige"
-    },
-    "region": {
-        "id": "305411",
-        "code": "SE-AB",
-        "local_code": "AB",
-        "name": "Stockholms län",
-        "continent": "EU",
-        "iso_country": "SE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Stockholms_län",
-        "keywords": "Stockholm County"
-    }
+    ]
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "354057",
-            "airport_ref": "29505",
-            "airport_ident": "LSPD",
-            "type": "GLD",
-            "description": "",
-            "frequency_mhz": "118.18"
-        }
-    ],
-    "country": {
-        "id": "302679",
-        "code": "CH",
-        "name": "Switzerland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
-        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
-    },
-    "region": {
-        "id": "303356",
-        "code": "CH-BL",
-        "local_code": "BL",
-        "name": "Canton of Basel-Country",
-        "continent": "EU",
-        "iso_country": "CH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Basel-Country",
-        "keywords": "Basel-Landschaft"
-    }
+    ]
 }

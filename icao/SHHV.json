@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302792",
-        "code": "CL",
-        "name": "Chile",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
-        "keywords": "Aeropuertos de Chile"
-    },
-    "region": {
-        "id": "306387",
-        "code": "CL-AP",
-        "local_code": "AP",
-        "name": "Arica and Parinacota Region",
-        "continent": "SA",
-        "iso_country": "CL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Arica_and_Parinacota_Region",
-        "keywords": "Airports in Arica and Parinacota Region"
-    }
+    "keywords": ""
 }

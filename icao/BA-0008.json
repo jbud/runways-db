@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "https://etrebinje.com/2020/07/helikopter-sletio-u-trebinje-na-pozaristu-ce-dejstvovati-u-kasnim-popodnevnim-satima/",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302675",
-        "code": "BA",
-        "name": "Bosnia and Herzegovina",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
-        "keywords": "Bosnian airports"
-    },
-    "region": {
-        "id": "303053",
-        "code": "BA-SRP",
-        "local_code": "SRP",
-        "name": "Republika Srpska",
-        "continent": "EU",
-        "iso_country": "BA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Republika_Srpska",
-        "keywords": "Airports in Republika Srpska"
-    }
+    "keywords": ""
 }

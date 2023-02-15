@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302678",
-        "code": "BY",
-        "name": "Belarus",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Belarus",
-        "keywords": "Belarussian, Беларусь"
-    },
-    "region": {
-        "id": "303283",
-        "code": "BY-MA",
-        "local_code": "MA",
-        "name": "Mogilev Region",
-        "continent": "EU",
-        "iso_country": "BY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mogilev_Region",
-        "keywords": "Mahilëuskaja voblasc', Mahilyow Voblast"
-    }
+    ]
 }

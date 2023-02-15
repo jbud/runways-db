@@ -40,57 +40,5 @@
             "he_heading_degT": "303",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "57120",
-            "airport_ref": "2811",
-            "airport_ident": "FAMJ",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.2"
-        }
-    ],
-    "country": {
-        "id": "302610",
-        "code": "ZA",
-        "name": "South Africa",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
-        "keywords": "South African airports"
-    },
-    "region": {
-        "id": "306298",
-        "code": "ZA-MP",
-        "local_code": "MP",
-        "name": "Mpumalanga",
-        "continent": "AF",
-        "iso_country": "ZA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mpumalanga",
-        "keywords": "Airports in Mpumalanga"
-    },
-    "navaids": [
-        {
-            "id": "90725",
-            "filename": "Majuba_NDB_ZA",
-            "ident": "MAJ",
-            "name": "Majuba",
-            "type": "NDB",
-            "frequency_khz": "513",
-            "latitude_deg": "-27.059799194335938",
-            "longitude_deg": "29.74410057067871",
-            "elevation_ft": "",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.334",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FAMJ"
-        }
     ]
 }

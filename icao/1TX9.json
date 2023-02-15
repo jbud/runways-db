@@ -40,47 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306119",
-        "code": "US-TX",
-        "local_code": "TX",
-        "name": "Texas",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
-        "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "85209",
-            "filename": "Ambassador_NDB_US",
-            "ident": "ABG",
-            "name": "Ambassador",
-            "type": "NDB",
-            "frequency_khz": "404",
-            "latitude_deg": "32.58539962768555",
-            "longitude_deg": "-95.11299896240234",
-            "elevation_ft": "420",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.377",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "1TX9"
-        }
     ]
 }

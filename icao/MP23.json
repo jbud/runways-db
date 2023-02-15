@@ -40,33 +40,5 @@
             "he_heading_degT": "358.8",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "315669",
-            "airport_ref": "5332",
-            "airport_ident": "MP23",
-            "type": "UNICOM",
-            "description": "Calzada Larga Traffic",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302749",
-        "code": "PA",
-        "name": "Panama",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Panama",
-        "keywords": "Aeropuertos de Panamá"
-    },
-    "region": {
-        "id": "305003",
-        "code": "PA-8",
-        "local_code": "8",
-        "name": "Panamá Province",
-        "continent": "NA",
-        "iso_country": "PA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Panamá_Province",
-        "keywords": "Airports in Panamá Province"
-    }
+    ]
 }

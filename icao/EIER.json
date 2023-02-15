@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "313595",
-            "airport_ref": "43999",
-            "airport_ident": "EIER",
-            "type": "Radio",
-            "description": "",
-            "frequency_mhz": "118.175"
-        }
-    ],
-    "country": {
-        "id": "302694",
-        "code": "IE",
-        "name": "Ireland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ireland",
-        "keywords": "Eire"
-    },
-    "region": {
-        "id": "304150",
-        "code": "IE-TA",
-        "local_code": "TA",
-        "name": "County Tipperary",
-        "continent": "EU",
-        "iso_country": "IE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tipperary",
-        "keywords": "Airports in County Tipperary"
-    }
+    ]
 }

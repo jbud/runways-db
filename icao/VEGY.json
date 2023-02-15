@@ -40,57 +40,5 @@
             "he_heading_degT": "283.7",
             "he_displaced_threshold_ft": "245"
         }
-    ],
-    "freqs": [
-        {
-            "id": "53818",
-            "airport_ref": "26502",
-            "airport_ident": "VEGY",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "123.5"
-        }
-    ],
-    "country": {
-        "id": "302634",
-        "code": "IN",
-        "name": "India",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": "Airports in India, Indian airports"
-    },
-    "region": {
-        "id": "304168",
-        "code": "IN-BR",
-        "local_code": "BR",
-        "name": "Bihar",
-        "continent": "AS",
-        "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bihar",
-        "keywords": "Airports in Bihar"
-    },
-    "navaids": [
-        {
-            "id": "88371",
-            "filename": "Gaya_VOR-DME_IN",
-            "ident": "GGC",
-            "name": "Gaya",
-            "type": "VOR-DME",
-            "frequency_khz": "115000",
-            "latitude_deg": "24.741899490356445",
-            "longitude_deg": "84.94390106201172",
-            "elevation_ft": "377",
-            "iso_country": "IN",
-            "dme_frequency_khz": "115000",
-            "dme_channel": "097X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.151",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VEGY"
-        }
     ]
 }

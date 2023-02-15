@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "MUAT, MUAT",
-    "country": {
-        "id": "302732",
-        "code": "CU",
-        "name": "Cuba",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cuba",
-        "keywords": "Aeropuertos de Cuba"
-    },
-    "region": {
-        "id": "303509",
-        "code": "CU-11",
-        "local_code": "11",
-        "name": "Holguín Province",
-        "continent": "NA",
-        "iso_country": "CU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Holgu%C3%ADn_Province",
-        "keywords": "Airports in Holguín Province"
-    }
+    "keywords": "MUAT, MUAT"
 }

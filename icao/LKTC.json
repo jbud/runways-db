@@ -40,41 +40,5 @@
             "he_heading_degT": "267",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "315755",
-            "airport_ref": "30487",
-            "airport_ident": "LKTC",
-            "type": "info",
-            "description": "Točná Radio",
-            "frequency_mhz": "123.4"
-        },
-        {
-            "id": "333282",
-            "airport_ref": "30487",
-            "airport_ident": "LKTC",
-            "type": "RADIO",
-            "description": "",
-            "frequency_mhz": "123.41"
-        }
-    ],
-    "country": {
-        "id": "302680",
-        "code": "CZ",
-        "name": "Czech Republic",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
-        "keywords": "Letiště České republiky, Czechia"
-    },
-    "region": {
-        "id": "303541",
-        "code": "CZ-PR",
-        "local_code": "PR",
-        "name": "Prague (capital city)",
-        "continent": "EU",
-        "iso_country": "CZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Prague",
-        "keywords": "Praha, hlavní město"
-    }
+    ]
 }

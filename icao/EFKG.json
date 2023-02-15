@@ -40,41 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "310783",
-            "airport_ref": "27259",
-            "airport_ident": "EFKG",
-            "type": "ACC",
-            "description": "Tampere radar",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "310782",
-            "airport_ref": "27259",
-            "airport_ident": "EFKG",
-            "type": "RDO",
-            "description": "Kumlinge traffic",
-            "frequency_mhz": "123.4"
-        }
-    ],
-    "country": {
-        "id": "302685",
-        "code": "FI",
-        "name": "Finland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
-        "keywords": "Lentokentät, Suomen"
-    },
-    "region": {
-        "id": "303799",
-        "code": "FI-01",
-        "local_code": "01",
-        "name": "Åland Islands Region",
-        "continent": "EU",
-        "iso_country": "FI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Åland_Islands",
-        "keywords": "Ahvenanmaan lääni, Ålands län"
-    }
+    ]
 }

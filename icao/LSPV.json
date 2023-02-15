@@ -40,33 +40,5 @@
             "he_heading_degT": "254",
             "he_displaced_threshold_ft": "160"
         }
-    ],
-    "freqs": [
-        {
-            "id": "302420",
-            "airport_ref": "29513",
-            "airport_ident": "LSPV",
-            "type": "AFIS",
-            "description": "Wangen-Lachen Flugplatz (ge)",
-            "frequency_mhz": "123.2"
-        }
-    ],
-    "country": {
-        "id": "302679",
-        "code": "CH",
-        "name": "Switzerland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
-        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
-    },
-    "region": {
-        "id": "303370",
-        "code": "CH-SZ",
-        "local_code": "SZ",
-        "name": "Canton of Schwyz",
-        "continent": "EU",
-        "iso_country": "CH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Schwyz",
-        "keywords": "Airports in Canton of Schwyz"
-    }
+    ]
 }

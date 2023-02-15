@@ -40,33 +40,5 @@
             "he_heading_degT": "272",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "333281",
-            "airport_ref": "30461",
-            "airport_ident": "LKTD",
-            "type": "RADIO",
-            "description": "",
-            "frequency_mhz": "123.405"
-        }
-    ],
-    "country": {
-        "id": "302680",
-        "code": "CZ",
-        "name": "Czech Republic",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
-        "keywords": "Letiště České republiky, Czechia"
-    },
-    "region": {
-        "id": "303540",
-        "code": "CZ-PL",
-        "local_code": "PL",
-        "name": "Plzeň Region",
-        "continent": "EU",
-        "iso_country": "CZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Plzeň_Region",
-        "keywords": "Plzeňský kraj"
-    }
+    ]
 }

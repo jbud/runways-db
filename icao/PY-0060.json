@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "https://www.armadaparaguaya.mil.py/",
     "wikipedia_link": "https://es.m.wikipedia.org/wiki/Armada_Paraguaya",
-    "keywords": "",
-    "country": {
-        "id": "302799",
-        "code": "PY",
-        "name": "Paraguay",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraguay",
-        "keywords": "Aeropuertos de Paraguay"
-    },
-    "region": {
-        "id": "305203",
-        "code": "PY-7",
-        "local_code": "7",
-        "name": "Itapúa Department",
-        "continent": "SA",
-        "iso_country": "PY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Itap%C3%BAa_Department",
-        "keywords": "Airports in Itapúa Department"
-    }
+    "keywords": ""
 }

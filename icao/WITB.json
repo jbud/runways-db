@@ -40,33 +40,5 @@
             "he_heading_degT": "277.4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "53664",
-            "airport_ref": "26859",
-            "airport_ident": "WITB",
-            "type": "INFO",
-            "description": "SALEH INFO",
-            "frequency_mhz": "122.6"
-        }
-    ],
-    "country": {
-        "id": "302632",
-        "code": "ID",
-        "name": "Indonesia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
-        "keywords": "Bandara di Indonesia"
-    },
-    "region": {
-        "id": "304097",
-        "code": "ID-AC",
-        "local_code": "AC",
-        "name": "Aceh",
-        "continent": "AS",
-        "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Aceh",
-        "keywords": "Airports in Aceh"
-    }
+    ]
 }

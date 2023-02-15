@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302660",
-        "code": "SA",
-        "name": "Saudi Arabia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
-        "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
-    },
-    "region": {
-        "id": "305364",
-        "code": "SA-05",
-        "local_code": "05",
-        "name": "Al Qasim Region",
-        "continent": "AS",
-        "iso_country": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Qasim_Region",
-        "keywords": "Airports in Al Qasim Region"
-    }
+    "keywords": ""
 }

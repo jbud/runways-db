@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Mogimont_Airport",
-    "keywords": "EBBO, EBBO",
-    "country": {
-        "id": "302676",
-        "code": "BE",
-        "name": "Belgium",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Belgium",
-        "keywords": "Aéroports de Belgique,Luchthavens van België"
-    },
-    "region": {
-        "id": "303078",
-        "code": "BE-WLX",
-        "local_code": "WLX",
-        "name": "Luxembourg Province",
-        "continent": "EU",
-        "iso_country": "BE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Luxembourg_(Belgium)",
-        "keywords": "Wallonia, Walloon Region"
-    }
+    "keywords": "EBBO, EBBO"
 }

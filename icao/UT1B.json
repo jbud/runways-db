@@ -40,23 +40,5 @@
             "he_heading_degT": "310.5",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302664",
-        "code": "TJ",
-        "name": "Tajikistan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tajikistan",
-        "keywords": "Tajik"
-    },
-    "region": {
-        "id": "305786",
-        "code": "TJ-KT",
-        "local_code": "KT",
-        "name": "Khatlon Region",
-        "continent": "AS",
-        "iso_country": "TJ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Khatlon_Region",
-        "keywords": "Хатлон, ختلان"
-    }
+    ]
 }

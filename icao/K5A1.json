@@ -40,41 +40,5 @@
             "he_heading_degT": "270.2",
             "he_displaced_threshold_ft": "668"
         }
-    ],
-    "freqs": [
-        {
-            "id": "65802",
-            "airport_ref": "18890",
-            "airport_ident": "K5A1",
-            "type": "A/D",
-            "description": "MANSFIELD APP/DEP",
-            "frequency_mhz": "124.2"
-        },
-        {
-            "id": "65803",
-            "airport_ref": "18890",
-            "airport_ident": "K5A1",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306111",
-        "code": "US-OH",
-        "local_code": "OH",
-        "name": "Ohio",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
-        "keywords": "Airports in Ohio"
-    }
+    ]
 }

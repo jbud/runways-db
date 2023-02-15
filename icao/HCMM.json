@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "308479",
-            "airport_ref": "31899",
-            "airport_ident": "HCMM",
-            "type": "APPROACH / TOWER",
-            "description": "",
-            "frequency_mhz": "132.5"
-        }
-    ],
-    "country": {
-        "id": "302601",
-        "code": "SO",
-        "name": "Somalia",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Somalia",
-        "keywords": ""
-    },
-    "region": {
-        "id": "305620",
-        "code": "SO-BN",
-        "local_code": "BN",
-        "name": "Banaadir",
-        "continent": "AF",
-        "iso_country": "SO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Banaadir",
-        "keywords": "Airports in Banaadir, بنادر"
-    }
+    ]
 }

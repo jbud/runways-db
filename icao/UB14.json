@@ -40,23 +40,5 @@
             "he_heading_degT": "268.2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302621",
-        "code": "AZ",
-        "name": "Azerbaijan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Azerbaijan",
-        "keywords": "Azerbaijani airports"
-    },
-    "region": {
-        "id": "303006",
-        "code": "AZ-KUR",
-        "local_code": "KUR",
-        "name": "Kurdamir District",
-        "continent": "AS",
-        "iso_country": "AZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kurdamir_District",
-        "keywords": "Airports in Kurdamir District"
-    }
+    ]
 }

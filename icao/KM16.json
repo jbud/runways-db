@@ -40,41 +40,5 @@
             "he_heading_degT": "304",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "69736",
-            "airport_ref": "20412",
-            "airport_ident": "KM16",
-            "type": "A/D",
-            "description": "JACKSON APP/DEP",
-            "frequency_mhz": "123.9"
-        },
-        {
-            "id": "69737",
-            "airport_ref": "20412",
-            "airport_ident": "KM16",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306101",
-        "code": "US-MS",
-        "local_code": "MS",
-        "name": "Mississippi",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
-        "keywords": "Airports in Mississippi"
-    }
+    ]
 }

@@ -62,33 +62,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "324489",
-            "airport_ref": "44007",
-            "airport_ident": "EVAD",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "123.95"
-        }
-    ],
-    "country": {
-        "id": "302702",
-        "code": "LV",
-        "name": "Latvia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Latvia",
-        "keywords": "Latvian airports"
-    },
-    "region": {
-        "id": "353734",
-        "code": "LV-011",
-        "local_code": "011",
-        "name": "Ādaži Municipality",
-        "continent": "EU",
-        "iso_country": "LV",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/%C4%80da%C5%BEi_Municipality",
-        "keywords": "Airports in Ādaži Municipality"
-    }
+    ]
 }

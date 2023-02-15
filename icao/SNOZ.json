@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "49767",
-            "airport_ref": "366",
-            "airport_ident": "SNOZ",
-            "type": "TWR",
-            "description": "SAO LUIS",
-            "frequency_mhz": "118.7"
-        }
-    ],
-    "country": {
-        "id": "302791",
-        "code": "BR",
-        "name": "Brazil",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
-        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
-    },
-    "region": {
-        "id": "303208",
-        "code": "BR-MA",
-        "local_code": "MA",
-        "name": "Maranhão",
-        "continent": "SA",
-        "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Maranhão",
-        "keywords": "Airports in Maranhão"
-    }
+    ]
 }

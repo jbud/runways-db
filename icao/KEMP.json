@@ -62,57 +62,5 @@
             "he_heading_degT": "243.6",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "59259",
-            "airport_ref": "19756",
-            "airport_ident": "KEMP",
-            "type": "A/D",
-            "description": "KANSAS CITY CNTR",
-            "frequency_mhz": "127.725"
-        },
-        {
-            "id": "59260",
-            "airport_ref": "19756",
-            "airport_ident": "KEMP",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "124.675"
-        },
-        {
-            "id": "59261",
-            "airport_ref": "19756",
-            "airport_ident": "KEMP",
-            "type": "RDO",
-            "description": "WICHITA RDO",
-            "frequency_mhz": "122.3"
-        },
-        {
-            "id": "59262",
-            "airport_ref": "19756",
-            "airport_ident": "KEMP",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306092",
-        "code": "US-KS",
-        "local_code": "KS",
-        "name": "Kansas",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
-        "keywords": "Airports in Kansas"
-    }
+    ]
 }

@@ -40,23 +40,5 @@
             "he_heading_degT": "270.4",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302802",
-        "code": "VE",
-        "name": "Venezuela",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
-        "keywords": "Aeropuertos de Venezuela"
-    },
-    "region": {
-        "id": "306166",
-        "code": "VE-B",
-        "local_code": "B",
-        "name": "Anzoátegui State",
-        "continent": "SA",
-        "iso_country": "VE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Anzo%C3%A1tegui",
-        "keywords": "Airports in Anzoátegui State"
-    }
+    ]
 }

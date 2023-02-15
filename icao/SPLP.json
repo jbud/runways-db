@@ -40,49 +40,5 @@
             "he_heading_degT": "198",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "56058",
-            "airport_ref": "6225",
-            "airport_ident": "SPLP",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "124"
-        },
-        {
-            "id": "56059",
-            "airport_ref": "6225",
-            "airport_ident": "SPLP",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "119.3"
-        },
-        {
-            "id": "56060",
-            "airport_ref": "6225",
-            "airport_ident": "SPLP",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.5"
-        }
-    ],
-    "country": {
-        "id": "302798",
-        "code": "PE",
-        "name": "Peru",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
-        "keywords": "Aeropuertos de Perú"
-    },
-    "region": {
-        "id": "305021",
-        "code": "PE-LIM",
-        "local_code": "LIM",
-        "name": "Lima Region",
-        "continent": "SA",
-        "iso_country": "PE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lima_Region",
-        "keywords": "Airports in Lima Region"
-    }
+    ]
 }

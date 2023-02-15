@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "FVTJ, FVTJ",
-    "country": {
-        "id": "302612",
-        "code": "ZW",
-        "name": "Zimbabwe",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Zimbabwe",
-        "keywords": "Zimbabwan airports"
-    },
-    "region": {
-        "id": "306312",
-        "code": "ZW-MA",
-        "local_code": "MA",
-        "name": "Manicaland Province",
-        "continent": "AF",
-        "iso_country": "ZW",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Manicaland_Province",
-        "keywords": "Airports in Manicaland Province"
-    }
+    "keywords": "FVTJ, FVTJ"
 }

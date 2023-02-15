@@ -40,49 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "342622",
-            "airport_ref": "23952",
-            "airport_ident": "KORS",
-            "type": "AWOS",
-            "description": "",
-            "frequency_mhz": "135.425"
-        },
-        {
-            "id": "342621",
-            "airport_ref": "23952",
-            "airport_ident": "KORS",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "128.25"
-        },
-        {
-            "id": "342623",
-            "airport_ref": "23952",
-            "airport_ident": "KORS",
-            "type": "WHIDBEY  APP/DEP",
-            "description": "",
-            "frequency_mhz": "118.2"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306124",
-        "code": "US-WA",
-        "local_code": "WA",
-        "name": "Washington",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
-        "keywords": "Airports in Washington"
-    }
+    ]
 }

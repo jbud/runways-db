@@ -40,57 +40,5 @@
             "he_heading_degT": "218.2",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "62053",
-            "airport_ref": "21066",
-            "airport_ident": "KSHD",
-            "type": "A/D",
-            "description": "POTOMAC APP/DEP",
-            "frequency_mhz": "132.85"
-        },
-        {
-            "id": "62054",
-            "airport_ref": "21066",
-            "airport_ident": "KSHD",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "124.925"
-        },
-        {
-            "id": "62055",
-            "airport_ref": "21066",
-            "airport_ident": "KSHD",
-            "type": "RDO",
-            "description": "LEESBURG RDO",
-            "frequency_mhz": "115.3"
-        },
-        {
-            "id": "62056",
-            "airport_ref": "21066",
-            "airport_ident": "KSHD",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306122",
-        "code": "US-VA",
-        "local_code": "VA",
-        "name": "Virginia",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
-        "keywords": "Virginian airports"
-    }
+    ]
 }

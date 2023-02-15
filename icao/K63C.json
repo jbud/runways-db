@@ -62,41 +62,5 @@
             "he_heading_degT": "333",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "62647",
-            "airport_ref": "18953",
-            "airport_ident": "K63C",
-            "type": "A/D",
-            "description": "VOLK APP/DEP",
-            "frequency_mhz": "135.25"
-        },
-        {
-            "id": "62648",
-            "airport_ref": "18953",
-            "airport_ident": "K63C",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306125",
-        "code": "US-WI",
-        "local_code": "WI",
-        "name": "Wisconsin",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
-        "keywords": "Airports in Wisconsin"
-    }
+    ]
 }

@@ -84,49 +84,5 @@
             "he_heading_degT": "349",
             "he_displaced_threshold_ft": "492"
         }
-    ],
-    "freqs": [
-        {
-            "id": "49235",
-            "airport_ref": "4430",
-            "airport_ident": "LOWG",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.3"
-        },
-        {
-            "id": "49236",
-            "airport_ref": "4430",
-            "airport_ident": "LOWG",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.125"
-        },
-        {
-            "id": "49237",
-            "airport_ref": "4430",
-            "airport_ident": "LOWG",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.2"
-        }
-    ],
-    "country": {
-        "id": "302674",
-        "code": "AT",
-        "name": "Austria",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
-        "keywords": "Flughäfen in Österreich"
-    },
-    "region": {
-        "id": "302962",
-        "code": "AT-6",
-        "local_code": "6",
-        "name": "Styria",
-        "continent": "EU",
-        "iso_country": "AT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Styria",
-        "keywords": "Steiermark"
-    }
+    ]
 }

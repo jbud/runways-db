@@ -62,57 +62,5 @@
             "he_heading_degT": "315",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "64427",
-            "airport_ref": "19637",
-            "airport_ident": "KDLL",
-            "type": "A/D",
-            "description": "MADISON APP/DEP",
-            "frequency_mhz": "135.45"
-        },
-        {
-            "id": "64428",
-            "airport_ref": "19637",
-            "airport_ident": "KDLL",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.325"
-        },
-        {
-            "id": "64429",
-            "airport_ref": "19637",
-            "airport_ident": "KDLL",
-            "type": "RDO",
-            "description": "GREEN BAY RDO",
-            "frequency_mhz": "117"
-        },
-        {
-            "id": "64430",
-            "airport_ref": "19637",
-            "airport_ident": "KDLL",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306125",
-        "code": "US-WI",
-        "local_code": "WI",
-        "name": "Wisconsin",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
-        "keywords": "Airports in Wisconsin"
-    }
+    ]
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "49648",
-            "airport_ref": "148",
-            "airport_ident": "SDAM",
-            "type": "A/G",
-            "description": "RDO",
-            "frequency_mhz": "125.775"
-        }
-    ],
-    "country": {
-        "id": "302791",
-        "code": "BR",
-        "name": "Brazil",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
-        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
-    },
-    "region": {
-        "id": "303224",
-        "code": "BR-SP",
-        "local_code": "SP",
-        "name": "São Paulo",
-        "continent": "SA",
-        "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)",
-        "keywords": "Airports in São Paulo"
-    }
+    ]
 }

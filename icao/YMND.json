@@ -62,41 +62,5 @@
             "he_heading_degT": "274.3",
             "he_displaced_threshold_ft": "682"
         }
-    ],
-    "freqs": [
-        {
-            "id": "48629",
-            "airport_ref": "27068",
-            "airport_ident": "YMND",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.65"
-        },
-        {
-            "id": "48630",
-            "airport_ref": "27068",
-            "airport_ident": "YMND",
-            "type": "FSS",
-            "description": "BRISBANE CNTR",
-            "frequency_mhz": "125.7"
-        }
-    ],
-    "country": {
-        "id": "302764",
-        "code": "AU",
-        "name": "Australia",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
-        "keywords": "Australian airports"
-    },
-    "region": {
-        "id": "302969",
-        "code": "AU-NSW",
-        "local_code": "NSW",
-        "name": "New South Wales",
-        "continent": "OC",
-        "iso_country": "AU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
-        "keywords": "Airports in New South Wales"
-    }
+    ]
 }

@@ -40,49 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "328932",
-            "airport_ref": "28684",
-            "airport_ident": "EDWO",
-            "type": "AFIS",
-            "description": "BREMEN INFORMATION",
-            "frequency_mhz": "119.825"
-        },
-        {
-            "id": "328933",
-            "airport_ref": "28684",
-            "airport_ident": "EDWO",
-            "type": "AFIS",
-            "description": "LANGEN INFORMATION",
-            "frequency_mhz": "129.875"
-        },
-        {
-            "id": "328931",
-            "airport_ref": "28684",
-            "airport_ident": "EDWO",
-            "type": "INFO",
-            "description": "OSNABRUCK INFO",
-            "frequency_mhz": "118.675"
-        }
-    ],
-    "country": {
-        "id": "302681",
-        "code": "DE",
-        "name": "Germany",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
-        "keywords": "Flughäfen in Deutschland"
-    },
-    "region": {
-        "id": "303555",
-        "code": "DE-NI",
-        "local_code": "NI",
-        "name": "Lower Saxony",
-        "continent": "EU",
-        "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Saxony",
-        "keywords": "Niedersachsen"
-    }
+    ]
 }

@@ -62,49 +62,5 @@
             "he_heading_degT": "359",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "68813",
-            "airport_ref": "19334",
-            "airport_ident": "KAWO",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "135.625"
-        },
-        {
-            "id": "68814",
-            "airport_ref": "19334",
-            "airport_ident": "KAWO",
-            "type": "CNTR",
-            "description": "SEATTLE CNTR",
-            "frequency_mhz": "128.5"
-        },
-        {
-            "id": "68815",
-            "airport_ref": "19334",
-            "airport_ident": "KAWO",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.7"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306124",
-        "code": "US-WA",
-        "local_code": "WA",
-        "name": "Washington",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
-        "keywords": "Airports in Washington"
-    }
+    ]
 }

@@ -24,63 +24,21 @@
             "airport_ident": "ENRM",
             "length_ft": "2887",
             "width_ft": "98",
-            "surface": "UNK",
+            "surface": "ASP",
             "lighted": "0",
             "closed": "0",
             "le_ident": "04",
-            "le_latitude_deg": "64.83429718017578",
-            "le_longitude_deg": "11.137499809265137",
+            "le_latitude_deg": "64.834297",
+            "le_longitude_deg": "11.1375",
             "le_elevation_ft": "9",
             "le_heading_degT": "40",
             "le_displaced_threshold_ft": "",
             "he_ident": "22",
-            "he_latitude_deg": "64.8396987915039",
-            "he_longitude_deg": "11.148699760437012",
+            "he_latitude_deg": "64.839699",
+            "he_longitude_deg": "11.1487",
             "he_elevation_ft": "14",
             "he_heading_degT": "220",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "country": {
-        "id": "302709",
-        "code": "NO",
-        "name": "Norway",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
-        "keywords": "Flyplasser i Norge"
-    },
-    "region": {
-        "id": "349856",
-        "code": "NO-50",
-        "local_code": "50",
-        "name": "Trøndelag",
-        "continent": "EU",
-        "iso_country": "NO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tr%C3%B8ndelag",
-        "keywords": "Airports in Trøndelag"
-    },
-    "navaids": [
-        {
-            "id": "93292",
-            "filename": "Roervik_VOR-DME_NO",
-            "ident": "RVK",
-            "name": "Roervik",
-            "type": "VOR-DME",
-            "frequency_khz": "112700",
-            "latitude_deg": "64.8375015258789",
-            "longitude_deg": "11.14680004119873",
-            "elevation_ft": "70",
-            "iso_country": "NO",
-            "dme_frequency_khz": "112700",
-            "dme_channel": "074X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.001",
-            "magnetic_variation_deg": "1.235",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ENRM"
         }
     ]
 }

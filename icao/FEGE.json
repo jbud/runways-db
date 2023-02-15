@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/M%27Boki_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302562",
-        "code": "CF",
-        "name": "Central African Republic",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_African_Republic",
-        "keywords": "Airports in Central African Republic"
-    },
-    "region": {
-        "id": "303327",
-        "code": "CF-HM",
-        "local_code": "HM",
-        "name": "Haut-Mbomou",
-        "continent": "AF",
-        "iso_country": "CF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Haut-Mbomou",
-        "keywords": "Airports in Haut-Mbomou"
-    }
+    "keywords": ""
 }

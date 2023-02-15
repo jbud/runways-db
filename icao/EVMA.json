@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "EVMA, EVMA",
-    "country": {
-        "id": "302702",
-        "code": "LV",
-        "name": "Latvia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Latvia",
-        "keywords": "Latvian airports"
-    },
-    "region": {
-        "id": "304515",
-        "code": "LV-026",
-        "local_code": "026",
-        "name": "Dobele Municipality",
-        "continent": "EU",
-        "iso_country": "LV",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Dobele_Municipality",
-        "keywords": "Airports in Dobele Municipality"
-    }
+    "keywords": "EVMA, EVMA"
 }

@@ -40,33 +40,5 @@
             "he_heading_degT": "297",
             "he_displaced_threshold_ft": "466"
         }
-    ],
-    "freqs": [
-        {
-            "id": "56305",
-            "airport_ref": "4462",
-            "airport_ident": "LPSJ",
-            "type": "AFIS",
-            "description": "RDO",
-            "frequency_mhz": "122.3"
-        }
-    ],
-    "country": {
-        "id": "302711",
-        "code": "PT",
-        "name": "Portugal",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Portugal",
-        "keywords": "Aeroportos de Portugal"
-    },
-    "region": {
-        "id": "305185",
-        "code": "PT-20",
-        "local_code": "20",
-        "name": "Autonomous Region of Azores",
-        "continent": "EU",
-        "iso_country": "PT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Autonomous_Region_of_Azores",
-        "keywords": "Região Autónoma dos Açores"
-    }
+    ]
 }

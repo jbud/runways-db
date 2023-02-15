@@ -40,23 +40,5 @@
             "he_heading_degT": "342.1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302671",
-        "code": "YE",
-        "name": "Yemen",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Yemen",
-        "keywords": "مطارات اليمن"
-    },
-    "region": {
-        "id": "306281",
-        "code": "YE-HD",
-        "local_code": "HD",
-        "name": "Hadramawt Governorate",
-        "continent": "AS",
-        "iso_country": "YE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hadramawt_Governorate",
-        "keywords": "Airports in Hadramawt Governorate"
-    }
+    ]
 }

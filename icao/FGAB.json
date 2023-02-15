@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302577",
-        "code": "GQ",
-        "name": "Equatorial Guinea",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Equatorial_Guinea",
-        "keywords": "Airports in Equatorial Guinea"
-    },
-    "region": {
-        "id": "303897",
-        "code": "GQ-AN",
-        "local_code": "AN",
-        "name": "Annobón Province",
-        "continent": "AF",
-        "iso_country": "GQ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Annobon",
-        "keywords": "Airports in Annobón Province"
-    }
+    ]
 }

@@ -16,23 +16,5 @@
     "local_code": "BAI",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302793",
-        "code": "CO",
-        "name": "Colombia",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
-        "keywords": "Aeropuertos de Colombia"
-    },
-    "region": {
-        "id": "303470",
-        "code": "CO-CUN",
-        "local_code": "CUN",
-        "name": "Cundinamarca Department",
-        "continent": "SA",
-        "iso_country": "CO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cundinamarca_Department",
-        "keywords": "Airports in Cundinamarca Department"
-    }
+    "keywords": ""
 }

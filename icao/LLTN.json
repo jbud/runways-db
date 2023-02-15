@@ -40,33 +40,5 @@
             "he_heading_degT": "294",
             "he_displaced_threshold_ft": "696"
         }
-    ],
-    "freqs": [
-        {
-            "id": "316593",
-            "airport_ref": "316592",
-            "airport_ident": "LLTN",
-            "type": "CTAF",
-            "description": "Tnuvot Traffic",
-            "frequency_mhz": "123.7"
-        }
-    ],
-    "country": {
-        "id": "302633",
-        "code": "IL",
-        "name": "Israel",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Israel",
-        "keywords": "שדות התעופה של ישראל"
-    },
-    "region": {
-        "id": "304159",
-        "code": "IL-M",
-        "local_code": "M",
-        "name": "Central District",
-        "continent": "AS",
-        "iso_country": "IL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_District_(Israel)",
-        "keywords": "Mehoz HaMerkaz"
-    }
+    ]
 }

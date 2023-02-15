@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302749",
-        "code": "PA",
-        "name": "Panama",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Panama",
-        "keywords": "Aeropuertos de Panamá"
-    },
-    "region": {
-        "id": "304997",
-        "code": "PA-2",
-        "local_code": "2",
-        "name": "Coclé Province",
-        "continent": "NA",
-        "iso_country": "PA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Coclé_Province",
-        "keywords": "Airports in Coclé Province"
-    }
+    "keywords": ""
 }

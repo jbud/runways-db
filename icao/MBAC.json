@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://www.ambergristci.com/documents/12(a).%20Ambergris%20Cay%20Paved%20Jet%20Strip.pdf",
     "wikipedia_link": "",
-    "keywords": "Ambergris Cay Airport",
-    "country": {
-        "id": "302753",
-        "code": "TC",
-        "name": "Turks and Caicos Islands",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands",
-        "keywords": "Airports in Turks and Caicos Islands"
-    },
-    "region": {
-        "id": "306696",
-        "code": "TC-AC",
-        "local_code": "AC",
-        "name": "Ambergris Cays",
-        "continent": "NA",
-        "iso_country": "TC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ambergris_Cays_",
-        "keywords": "Airports in Ambergris Cays"
-    }
+    "keywords": "Ambergris Cay Airport"
 }

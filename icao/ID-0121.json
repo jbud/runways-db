@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "329617",
-            "airport_ref": "310904",
-            "airport_ident": "ID-0121",
-            "type": "ATS",
-            "description": "",
-            "frequency_mhz": "122.4"
-        }
-    ],
-    "country": {
-        "id": "302632",
-        "code": "ID",
-        "name": "Indonesia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
-        "keywords": "Bandara di Indonesia"
-    },
-    "region": {
-        "id": "430276",
-        "code": "ID-PT",
-        "local_code": "PT",
-        "name": "Papua Tengah (Central Papua)",
-        "continent": "AS",
-        "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Papua",
-        "keywords": ""
-    }
+    ]
 }

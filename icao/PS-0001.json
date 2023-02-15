@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Palestine, West Bank",
-    "country": {
-        "id": "302658",
-        "code": "PS",
-        "name": "Palestinian Territory",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Palestinian_Territory",
-        "keywords": "Palestinian airports"
-    },
-    "region": {
-        "id": "316602",
-        "code": "PS-NBS",
-        "local_code": "NBS",
-        "name": "Nablus Governorate",
-        "continent": "AS",
-        "iso_country": "PS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nablus_Governorate",
-        "keywords": "محافظة نابلس"
-    }
+    "keywords": "Palestine, West Bank"
 }

@@ -40,41 +40,5 @@
             "he_heading_degT": "210.1",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "59013",
-            "airport_ref": "20901",
-            "airport_ident": "KPYN",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.475"
-        },
-        {
-            "id": "59014",
-            "airport_ref": "20901",
-            "airport_ident": "KPYN",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306100",
-        "code": "US-MO",
-        "local_code": "MO",
-        "name": "Missouri",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
-        "keywords": "Airports in Missouri"
-    }
+    ]
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://www.skydivenn.ru/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Pravdinsk_(air_base)",
-    "keywords": "Istomino Airfield, Аэродром Правдинск, Аэродром Истомино",
-    "country": {
-        "id": "302714",
-        "code": "RU",
-        "name": "Russia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
-        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
-    },
-    "region": {
-        "id": "305309",
-        "code": "RU-NIZ",
-        "local_code": "NIZ",
-        "name": "Nizhny Novgorod Oblast",
-        "continent": "EU",
-        "iso_country": "RU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nizhny_Novgorod_Oblast",
-        "keywords": "Airports in Nizhny Novgorod Oblast"
-    }
+    "keywords": "Istomino Airfield, Аэродром Правдинск, Аэродром Истомино"
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Paoua_Airport",
-    "keywords": "",
-    "country": {
-        "id": "302562",
-        "code": "CF",
-        "name": "Central African Republic",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_African_Republic",
-        "keywords": "Airports in Central African Republic"
-    },
-    "region": {
-        "id": "303335",
-        "code": "CF-OP",
-        "local_code": "OP",
-        "name": "Ouham-Pendé",
-        "continent": "AF",
-        "iso_country": "CF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ouham-Pend%C3%A9",
-        "keywords": "Airports in Ouham-Pendé"
-    }
+    "keywords": ""
 }

@@ -40,23 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302665",
-        "code": "TL",
-        "name": "Timor-Leste",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Timor-Leste",
-        "keywords": "East Timor"
-    },
-    "region": {
-        "id": "305797",
-        "code": "TL-LA",
-        "local_code": "LA",
-        "name": "Lautém",
-        "continent": "AS",
-        "iso_country": "TL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lautém",
-        "keywords": "Airports in Lautém"
-    }
+    ]
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302625",
-        "code": "BT",
-        "name": "Bhutan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bhutan",
-        "keywords": "Bhutanese airports"
-    },
-    "region": {
-        "id": "303250",
-        "code": "BT-12",
-        "local_code": "12",
-        "name": "Chukha District",
-        "continent": "AS",
-        "iso_country": "BT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chukha_District",
-        "keywords": "Airports in Chhukha"
-    }
+    "keywords": ""
 }

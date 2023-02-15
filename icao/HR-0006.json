@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "https://pan-avia.com/airport/",
     "wikipedia_link": "",
-    "keywords": "Panavia",
-    "country": {
-        "id": "302692",
-        "code": "HR",
-        "name": "Croatia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Croatia",
-        "keywords": "Croatian airports"
-    },
-    "region": {
-        "id": "304025",
-        "code": "HR-01",
-        "local_code": "01",
-        "name": "Zagreb County",
-        "continent": "EU",
-        "iso_country": "HR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Zagreb_County",
-        "keywords": "Airports in Zagreb County"
-    }
+    "keywords": "Panavia"
 }

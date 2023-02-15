@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://www.smolnik.info.pl",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302710",
-        "code": "PL",
-        "name": "Poland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
-        "keywords": "Lotniska Polski"
-    },
-    "region": {
-        "id": "305153",
-        "code": "PL-PK",
-        "local_code": "PK",
-        "name": "Subcarpathian Voivodeship",
-        "continent": "EU",
-        "iso_country": "PL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Subcarpathian_Voivodeship",
-        "keywords": "Podkarpackie, Subcarpethia"
-    }
+    "keywords": ""
 }

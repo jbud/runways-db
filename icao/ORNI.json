@@ -40,49 +40,5 @@
             "he_heading_degT": "277",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "313026",
-            "airport_ref": "311028",
-            "airport_ident": "ORNI",
-            "type": "ATIS",
-            "description": "",
-            "frequency_mhz": "123.9"
-        },
-        {
-            "id": "313025",
-            "airport_ref": "311028",
-            "airport_ident": "ORNI",
-            "type": "GND",
-            "description": "Najaf Ground",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "313024",
-            "airport_ref": "311028",
-            "airport_ident": "ORNI",
-            "type": "TWR",
-            "description": "Najaf Tower",
-            "frequency_mhz": "119.1"
-        }
-    ],
-    "country": {
-        "id": "302636",
-        "code": "IQ",
-        "name": "Iraq",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iraq",
-        "keywords": "مطارات العراق"
-    },
-    "region": {
-        "id": "304211",
-        "code": "IQ-NA",
-        "local_code": "NA",
-        "name": "Najaf Governorate",
-        "continent": "AS",
-        "iso_country": "IQ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Najaf_Governorate",
-        "keywords": "An Najef, النجف"
-    }
+    ]
 }

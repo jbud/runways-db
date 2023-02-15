@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "http://www.eera.ee/",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302683",
-        "code": "EE",
-        "name": "Estonia",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Estonia",
-        "keywords": "Estonian airports"
-    },
-    "region": {
-        "id": "303684",
-        "code": "EE-70",
-        "local_code": "70",
-        "name": "Rapla County",
-        "continent": "EU",
-        "iso_country": "EE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Rapla_County",
-        "keywords": "Airports in Rapla County"
-    }
+    "keywords": ""
 }

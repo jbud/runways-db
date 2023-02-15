@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302579",
-        "code": "KE",
-        "name": "Kenya",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kenya",
-        "keywords": "Kenyan airports"
-    },
-    "region": {
-        "id": "304338",
-        "code": "KE-500",
-        "local_code": "500",
-        "name": "North-Eastern Province",
-        "continent": "AF",
-        "iso_country": "KE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Eastern_Province_(Kenya)",
-        "keywords": "Kaskazini Mashariki"
-    }
+    "keywords": ""
 }

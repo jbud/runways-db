@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "298736",
-            "airport_ref": "298735",
-            "airport_ident": "IT-0023",
-            "type": "Radio",
-            "description": "",
-            "frequency_mhz": "130"
-        }
-    ],
-    "country": {
-        "id": "302697",
-        "code": "IT",
-        "name": "Italy",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
-        "keywords": "Aeroporti d'Italia"
-    },
-    "region": {
-        "id": "306373",
-        "code": "IT-82",
-        "local_code": "82",
-        "name": "Sicily",
-        "continent": "EU",
-        "iso_country": "IT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sicily",
-        "keywords": "SC"
-    }
+    ]
 }

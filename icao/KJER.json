@@ -40,49 +40,5 @@
             "he_heading_degT": "280",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "68347",
-            "airport_ref": "20209",
-            "airport_ident": "KJER",
-            "type": "A/D",
-            "description": "TWIN FALLS APP/DEP",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "68348",
-            "airport_ref": "20209",
-            "airport_ident": "KJER",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "135.225"
-        },
-        {
-            "id": "68349",
-            "airport_ref": "20209",
-            "airport_ident": "KJER",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306089",
-        "code": "US-ID",
-        "local_code": "ID",
-        "name": "Idaho",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho",
-        "keywords": "Airports in Idaho"
-    }
+    ]
 }

@@ -40,49 +40,5 @@
             "he_heading_degT": "215",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "58399",
-            "airport_ref": "2387",
-            "airport_ident": "EGAC",
-            "type": "APP",
-            "description": "BELFAST APP",
-            "frequency_mhz": "130.85"
-        },
-        {
-            "id": "58400",
-            "airport_ref": "2387",
-            "airport_ident": "EGAC",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "136.625"
-        },
-        {
-            "id": "58401",
-            "airport_ref": "2387",
-            "airport_ident": "EGAC",
-            "type": "TWR",
-            "description": "BELFAST TWR",
-            "frequency_mhz": "122.825"
-        }
-    ],
-    "country": {
-        "id": "302688",
-        "code": "GB",
-        "name": "United Kingdom",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
-        "keywords": "Great Britain"
-    },
-    "region": {
-        "id": "306375",
-        "code": "GB-NIR",
-        "local_code": "NIR",
-        "name": "Northern Ireland",
-        "continent": "EU",
-        "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Ireland",
-        "keywords": "keep"
-    }
+    ]
 }

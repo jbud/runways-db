@@ -40,23 +40,5 @@
             "he_heading_degT": "215.9",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302791",
-        "code": "BR",
-        "name": "Brazil",
-        "continent": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
-        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
-    },
-    "region": {
-        "id": "303225",
-        "code": "BR-TO",
-        "local_code": "TO",
-        "name": "Tocatins",
-        "continent": "SA",
-        "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tocatins",
-        "keywords": "Airports in Tocatins"
-    }
+    ]
 }

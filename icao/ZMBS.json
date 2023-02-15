@@ -40,47 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "country": {
-        "id": "302650",
-        "code": "MN",
-        "name": "Mongolia",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mongolia",
-        "keywords": "Mongolian airports"
-    },
-    "region": {
-        "id": "304685",
-        "code": "MN-043",
-        "local_code": "043",
-        "name": "Khovd Province",
-        "continent": "AS",
-        "iso_country": "MN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Khovd_Province",
-        "keywords": "Ховд, Kobdo, Hovd"
-    },
-    "navaids": [
-        {
-            "id": "86351",
-            "filename": "Bulgan_Sum_NDB_MN",
-            "ident": "BS",
-            "name": "Bulgan Sum",
-            "type": "NDB",
-            "frequency_khz": "345",
-            "latitude_deg": "46.10390090942383",
-            "longitude_deg": "91.58080291748047",
-            "elevation_ft": "",
-            "iso_country": "MN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.083",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "ZMBS"
-        }
     ]
 }

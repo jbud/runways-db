@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302569",
-        "code": "EG",
-        "name": "Egypt",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Egypt",
-        "keywords": "مطارات مصر, Egyptian airports"
-    },
-    "region": {
-        "id": "303707",
-        "code": "EG-KN",
-        "local_code": "KN",
-        "name": "Qena Governorate",
-        "continent": "AF",
-        "iso_country": "EG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Qena_Governorate",
-        "keywords": "Airports in Qena Governorate"
-    }
+    "keywords": ""
 }

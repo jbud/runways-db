@@ -40,49 +40,5 @@
             "he_heading_degT": "269",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "48199",
-            "airport_ref": "5236",
-            "airport_ident": "OMDM",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "48200",
-            "airport_ref": "5236",
-            "airport_ident": "OMDM",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.925"
-        },
-        {
-            "id": "48201",
-            "airport_ref": "5236",
-            "airport_ident": "OMDM",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.55"
-        }
-    ],
-    "country": {
-        "id": "302618",
-        "code": "AE",
-        "name": "United Arab Emirates",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
-        "keywords": "UAE,مطارات في الإمارات العربية المتحدة"
-    },
-    "region": {
-        "id": "302821",
-        "code": "AE-DU",
-        "local_code": "DU",
-        "name": "Dubai Emirate",
-        "continent": "AS",
-        "iso_country": "AE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Dubai",
-        "keywords": "Dubayy"
-    }
+    ]
 }

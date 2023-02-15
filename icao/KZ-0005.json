@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Аэропорт Бузачи",
-    "country": {
-        "id": "302645",
-        "code": "KZ",
-        "name": "Kazakhstan",
-        "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kazakhstan",
-        "keywords": "Kazakh"
-    },
-    "region": {
-        "id": "304433",
-        "code": "KZ-MAN",
-        "local_code": "MAN",
-        "name": "Mangystau Region",
-        "continent": "AS",
-        "iso_country": "KZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mangystau_Region",
-        "keywords": "Маңғыстау облысы"
-    }
+    "keywords": "Аэропорт Бузачи"
 }

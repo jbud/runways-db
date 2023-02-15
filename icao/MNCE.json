@@ -40,41 +40,5 @@
             "he_heading_degT": "214",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "316241",
-            "airport_ref": "316239",
-            "airport_ident": "MNCE",
-            "type": "APPROACH",
-            "description": "Sandino Approach",
-            "frequency_mhz": "119.4"
-        },
-        {
-            "id": "316240",
-            "airport_ref": "316239",
-            "airport_ident": "MNCE",
-            "type": "TOWER",
-            "description": "",
-            "frequency_mhz": "118.05"
-        }
-    ],
-    "country": {
-        "id": "302748",
-        "code": "NI",
-        "name": "Nicaragua",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nicaragua",
-        "keywords": "Aeropuertos de Nicaragua"
-    },
-    "region": {
-        "id": "304929",
-        "code": "NI-RI",
-        "local_code": "RI",
-        "name": "Rivas Department",
-        "continent": "NA",
-        "iso_country": "NI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Rivas_Department",
-        "keywords": "Airports in Rivas"
-    }
+    ]
 }

@@ -40,41 +40,5 @@
             "he_heading_degT": "281",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "67587",
-            "airport_ref": "19090",
-            "airport_ident": "K7W5",
-            "type": "A/D",
-            "description": "TOLEDO APP/DEP",
-            "frequency_mhz": "134.35"
-        },
-        {
-            "id": "67588",
-            "airport_ref": "19090",
-            "airport_ident": "K7W5",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306111",
-        "code": "US-OH",
-        "local_code": "OH",
-        "name": "Ohio",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
-        "keywords": "Airports in Ohio"
-    }
+    ]
 }

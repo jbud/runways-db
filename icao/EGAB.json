@@ -40,57 +40,5 @@
             "he_heading_degT": "320",
             "he_displaced_threshold_ft": "1093"
         }
-    ],
-    "freqs": [
-        {
-            "id": "58423",
-            "airport_ref": "2386",
-            "airport_ident": "EGAB",
-            "type": "A/G",
-            "description": "RDO",
-            "frequency_mhz": "123.205"
-        }
-    ],
-    "country": {
-        "id": "302688",
-        "code": "GB",
-        "name": "United Kingdom",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
-        "keywords": "Great Britain"
-    },
-    "region": {
-        "id": "306375",
-        "code": "GB-NIR",
-        "local_code": "NIR",
-        "name": "Northern Ireland",
-        "continent": "EU",
-        "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Ireland",
-        "keywords": "keep"
-    },
-    "navaids": [
-        {
-            "id": "87702",
-            "filename": "Enniskillen_NDB_GB",
-            "ident": "EKN",
-            "name": "Enniskillen",
-            "type": "NDB",
-            "frequency_khz": "358",
-            "latitude_deg": "54.39419937133789",
-            "longitude_deg": "-7.643370151519775",
-            "elevation_ft": "",
-            "iso_country": "GB",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.571",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "EGAB"
-        }
     ]
 }

@@ -16,23 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
-    "country": {
-        "id": "302581",
-        "code": "LR",
-        "name": "Liberia",
-        "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Liberia",
-        "keywords": ""
-    },
-    "region": {
-        "id": "304480",
-        "code": "LR-RI",
-        "local_code": "RI",
-        "name": "Rivercess County",
-        "continent": "AF",
-        "iso_country": "LR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Rivercess_County",
-        "keywords": "Airports in Rivercess County"
-    }
+    "keywords": ""
 }

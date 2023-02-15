@@ -40,49 +40,5 @@
             "he_heading_degT": "263",
             "he_displaced_threshold_ft": "124"
         }
-    ],
-    "freqs": [
-        {
-            "id": "70059",
-            "airport_ref": "20562",
-            "airport_ident": "KMRT",
-            "type": "A/D",
-            "description": "COLUMBUS APP/DEP",
-            "frequency_mhz": "120.2"
-        },
-        {
-            "id": "70060",
-            "airport_ref": "20562",
-            "airport_ident": "KMRT",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.275"
-        },
-        {
-            "id": "70061",
-            "airport_ref": "20562",
-            "airport_ident": "KMRT",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
-    "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
-    },
-    "region": {
-        "id": "306111",
-        "code": "US-OH",
-        "local_code": "OH",
-        "name": "Ohio",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
-        "keywords": "Airports in Ohio"
-    }
+    ]
 }

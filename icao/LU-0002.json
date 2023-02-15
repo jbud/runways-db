@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "311698",
-            "airport_ref": "43764",
-            "airport_ident": "LU-0002",
-            "type": "AFIS",
-            "description": "NOT OFFICIAL",
-            "frequency_mhz": "119.5"
-        }
-    ],
-    "country": {
-        "id": "302701",
-        "code": "LU",
-        "name": "Luxembourg",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Luxembourg",
-        "keywords": "Airports in Luxembourg"
-    },
-    "region": {
-        "id": "304505",
-        "code": "LU-D",
-        "local_code": "D",
-        "name": "Diekirch",
-        "continent": "EU",
-        "iso_country": "LU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Diekirch",
-        "keywords": "Airports in Diekirch"
-    }
+    ]
 }

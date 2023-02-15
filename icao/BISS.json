@@ -40,33 +40,5 @@
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
-    ],
-    "freqs": [
-        {
-            "id": "309536",
-            "airport_ref": "30751",
-            "airport_ident": "BISS",
-            "type": "TRFC",
-            "description": "Traffic",
-            "frequency_mhz": "119.9"
-        }
-    ],
-    "country": {
-        "id": "302696",
-        "code": "IS",
-        "name": "Iceland",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Iceland",
-        "keywords": "Icelandic airports"
-    },
-    "region": {
-        "id": "304247",
-        "code": "IS-1",
-        "local_code": "1",
-        "name": "Capital Region",
-        "continent": "EU",
-        "iso_country": "IS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Capital_Region_(Iceland)",
-        "keywords": "Höfuðborgarsvæði"
-    }
+    ]
 }
