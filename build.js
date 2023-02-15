@@ -64,10 +64,6 @@ const updateReadme = async (numberOfAirports, numberOfRunways, numberOfFrequenci
 
     readme = replaceRow(readme, 'Airports', numberOfAirports);
     readme = replaceRow(readme, 'Runways', numberOfRunways);
-    readme = replaceRow(readme, 'Frequencies', numberOfFrequencies);
-    readme = replaceRow(readme, 'Navigation aids', numberOfNavaids);
-    readme = replaceRow(readme, 'Countries', numberOfCountries);
-    readme = replaceRow(readme, 'Regions', numberOfRegions);
 
     fs.writeFileSync(resolve(`README.md`), readme);
 };
@@ -75,29 +71,16 @@ const updateReadme = async (numberOfAirports, numberOfRunways, numberOfFrequenci
 const build = async () => {
     console.info('Downloading data from ourairports.com');
 
-    await downloadFile('https://davidmegginson.github.io/ourairports-data/airports.csv', resolve('raw/airports.csv'));
     await downloadFile('https://davidmegginson.github.io/ourairports-data/runways.csv', resolve('raw/runways.csv'));
-    await downloadFile('https://davidmegginson.github.io/ourairports-data/airport-frequencies.csv', resolve('raw/airport-frequencies.csv'));
-    await downloadFile('https://davidmegginson.github.io/ourairports-data/countries.csv', resolve('raw/countries.csv'));
-    await downloadFile('https://davidmegginson.github.io/ourairports-data/regions.csv', resolve('raw/regions.csv'));
-    await downloadFile('https://davidmegginson.github.io/ourairports-data/navaids.csv', resolve('raw/navaids.csv'));
 
     console.info('Loading data');
 
     const airportsArray = await parseCSV(resolve('raw/airports.csv'));
     const runwaysArray = await parseCSV(resolve('raw/runways.csv'));
     const runways = mapArrayByKey(runwaysArray, 'airport_ident', true);
-    const freqsArray = await parseCSV(resolve('raw/airport-frequencies.csv'));
-    const freqs = mapArrayByKey(freqsArray, 'airport_ident', true);
-    const countriesArray = await parseCSV(resolve('raw/countries.csv'));
-    const countries = mapArrayByKey(countriesArray, 'code');
-    const regionsArray = await parseCSV(resolve('raw/regions.csv'));
-    const regions = mapArrayByKey(regionsArray, 'code');
-    const navaidsArray = await parseCSV(resolve('raw/navaids.csv'));
-    const navaids = mapArrayByKey(navaidsArray, 'associated_airport', true);
 
     console.info(
-        `Fetched and loaded updated data for ${airportsArray.length} airports, ${runwaysArray.length} runways, ${freqsArray.length} frequencies, ${navaidsArray.length} navaids, ${countriesArray.length} countries, and ${regionsArray.length} regions`
+        `Fetched and loaded updated data for ${airportsArray.length} airports, ${runwaysArray.length} runways`
     );
 
     if (airportsArray.length === 0) {
@@ -112,10 +95,6 @@ const build = async () => {
         index++;
 
         airport.runways = runways[airport.ident];
-        airport.freqs = freqs[airport.ident];
-        airport.country = countries[airport.iso_country] || null;
-        airport.region = regions[airport.iso_region] || null;
-        airport.navaids = navaids[airport.ident];
 
         fs.writeFileSync(resolve(`icao/${airport.ident}.json`), JSON.stringify(airport, null, 4));
     }
@@ -123,7 +102,7 @@ const build = async () => {
     console.info(`Converted a total of ${index} airports`);
 
     console.info('Updating readme');
-    await updateReadme(airportsArray.length, runwaysArray.length, freqsArray.length, navaidsArray.length, countriesArray.length, regionsArray.length);
+    await updateReadme(airportsArray.length, runwaysArray.length);
 };
 
 build();
