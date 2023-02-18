@@ -28,16 +28,16 @@
             "lighted": "1",
             "closed": "0",
             "le_ident": "13",
-            "le_latitude_deg": "12.701700210571289",
-            "le_longitude_deg": "-61.34669876098633",
+            "le_latitude_deg": "12.705038",
+            "le_longitude_deg": "-61.352089",
             "le_elevation_ft": "12",
-            "le_heading_degT": "121.7",
+            "le_heading_degT": "122",
             "le_displaced_threshold_ft": "170",
             "he_ident": "31",
-            "he_latitude_deg": "12.696399688720703",
-            "he_longitude_deg": "-61.33810043334961",
+            "he_latitude_deg": "12.696558",
+            "he_longitude_deg": "-61.338043",
             "he_elevation_ft": "16",
-            "he_heading_degT": "301.7",
+            "he_heading_degT": "302",
             "he_displaced_threshold_ft": "170"
         }
     ]
