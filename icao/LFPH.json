@@ -16,5 +16,51 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": ""
+    "keywords": "",
+    "runways": [
+        {
+            "id": "506978",
+            "airport_ref": "28974",
+            "airport_ident": "LFPH",
+            "length_ft": "1968",
+            "width_ft": "164",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "200",
+            "le_heading_degT": "37",
+            "le_displaced_threshold_ft": "368",
+            "he_ident": "22",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "207",
+            "he_heading_degT": "217",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "506979",
+            "airport_ref": "28974",
+            "airport_ident": "LFPH",
+            "length_ft": "2132",
+            "width_ft": "164",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "107",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "202",
+            "he_heading_degT": "287",
+            "he_displaced_threshold_ft": "443"
+        }
+    ]
 }
