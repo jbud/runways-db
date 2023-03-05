@@ -79,9 +79,7 @@ const build = async () => {
     const runwaysArray = await parseCSV(resolve('raw/runways.csv'));
     const runways = mapArrayByKey(runwaysArray, 'airport_ident', true);
 
-    console.info(
-        `Fetched and loaded updated data for ${airportsArray.length} airports, ${runwaysArray.length} runways`
-    );
+    console.info(`Fetched and loaded updated data for ${airportsArray.length} airports, ${runwaysArray.length} runways`);
 
     if (airportsArray.length === 0) {
         console.warn('No airports found, aborting!');
@@ -89,16 +87,15 @@ const build = async () => {
     }
 
     console.info('Merging and converting airport data to json');
-
+    let airports = mapArrayByKey(airportsArray, 'ident');
     let index = 0;
     for (const airport of airportsArray) {
         index++;
 
         airport.runways = runways[airport.ident];
-
         fs.writeFileSync(resolve(`icao/${airport.ident}.json`), JSON.stringify(airport, null, 4));
     }
-
+    fs.writeFileSync(resolve(`icao.json`), JSON.stringify(airports, null, 4));
     console.info(`Converted a total of ${index} airports`);
 
     console.info('Updating readme');
