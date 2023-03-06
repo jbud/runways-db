@@ -22,7 +22,7 @@
             "id": "300932",
             "airport_ref": "29342",
             "airport_ident": "ESMB",
-            "length_ft": "2051",
+            "length_ft": "2459",
             "width_ft": "164",
             "surface": "Grass",
             "lighted": "0",
@@ -32,13 +32,13 @@
             "le_longitude_deg": "",
             "le_elevation_ft": "",
             "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
+            "le_displaced_threshold_ft": "425",
             "he_ident": "21",
             "he_latitude_deg": "",
             "he_longitude_deg": "",
             "he_elevation_ft": "",
             "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
+            "he_displaced_threshold_ft": "197"
         }
     ]
 }
