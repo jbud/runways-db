@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "http://www.ftv-metzingen.de/",
     "wikipedia_link": "",
-    "keywords": ""
+    "keywords": "",
+    "runways": [
+        {
+            "id": "507076",
+            "airport_ref": "311008",
+            "airport_ident": "DE-0111",
+            "length_ft": "2200",
+            "width_ft": "410",
+            "surface": "gras",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "30",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "210",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
