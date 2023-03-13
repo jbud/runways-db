@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://es.wikipedia.org/wiki/Aer%C3%B3dromo_Peldehue",
-    "keywords": "AERODROMO PELDEHUE"
+    "keywords": "AERODROMO PELDEHUE",
+    "runways": [
+        {
+            "id": "507105",
+            "airport_ref": "354333",
+            "airport_ident": "CL-0017",
+            "length_ft": "",
+            "width_ft": "",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "2198",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "2198",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
