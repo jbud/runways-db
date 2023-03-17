@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "AML, AML"
+    "keywords": "AML, AML",
+    "runways": [
+        {
+            "id": "507187",
+            "airport_ref": "30640",
+            "airport_ident": "PA-AML",
+            "length_ft": "2953",
+            "width_ft": "66",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "8.2638",
+            "le_longitude_deg": "-82.8676",
+            "le_elevation_ft": "",
+            "le_heading_degT": "38",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "8.2702",
+            "he_longitude_deg": "-82.8626",
+            "he_elevation_ft": "",
+            "he_heading_degT": "218",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
