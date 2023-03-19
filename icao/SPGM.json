@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": ""
+    "keywords": "",
+    "runways": [
+        {
+            "id": "507216",
+            "airport_ref": "32438",
+            "airport_ident": "SPGM",
+            "length_ft": "6890",
+            "width_ft": "98",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "-9.298778",
+            "le_longitude_deg": "-76.005974",
+            "le_elevation_ft": "2146",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "-9.279972",
+            "he_longitude_deg": "-76.004112",
+            "he_elevation_ft": "2146",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }

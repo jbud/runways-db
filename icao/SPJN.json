@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/San_Juan_de_Marcona_Airport",
-    "keywords": ""
+    "keywords": "",
+    "runways": [
+        {
+            "id": "507215",
+            "airport_ref": "32302",
+            "airport_ident": "SPJN",
+            "length_ft": "6562",
+            "width_ft": "148",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "-15.349503",
+            "le_longitude_deg": "-75.138908",
+            "le_elevation_ft": "144",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "-15.356036",
+            "he_longitude_deg": "-75.135704",
+            "he_elevation_ft": "144",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
