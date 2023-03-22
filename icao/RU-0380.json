@@ -16,5 +16,51 @@
     "local_code": "XRWH",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Ahtubinsk Air Base, Аэродром Ахтубинск, ЬРВХ"
+    "keywords": "Ahtubinsk Air Base, Аэродром Ахтубинск, ЬРВХ",
+    "runways": [
+        {
+            "id": "507308",
+            "airport_ref": "46251",
+            "airport_ident": "RU-0380",
+            "length_ft": "13123",
+            "width_ft": "198",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12L",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30R",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "507309",
+            "airport_ref": "46251",
+            "airport_ident": "RU-0380",
+            "length_ft": "8038",
+            "width_ft": "164",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12R",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30L",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
