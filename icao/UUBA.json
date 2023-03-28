@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "http://www.kmtn.ru/~koao/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kostroma_Airport",
-    "keywords": "Аэропорт Кострома Сокеркино"
+    "keywords": "Аэропорт Кострома Сокеркино",
+    "runways": [
+        {
+            "id": "507448",
+            "airport_ref": "31761",
+            "airport_ident": "UUBA",
+            "length_ft": "5577",
+            "width_ft": "157",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
