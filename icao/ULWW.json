@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Vologda_Airport",
-    "keywords": "Аэропорт Вологда"
+    "keywords": "Аэропорт Вологда",
+    "runways": [
+        {
+            "id": "507585",
+            "airport_ref": "32571",
+            "airport_ident": "ULWW",
+            "length_ft": "4921",
+            "width_ft": "131",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }

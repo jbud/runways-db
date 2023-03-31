@@ -16,5 +16,29 @@
     "local_code": "XLWF",
     "home_link": "http://www.vologda18.narod.ru/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Fedotovo",
-    "keywords": "Kipelovo Naval Air Base, Аэродром Федотово, Аэродром Кипелово"
+    "keywords": "Kipelovo Naval Air Base, Аэродром Федотово, Аэродром Кипелово",
+    "runways": [
+        {
+            "id": "507586",
+            "airport_ref": "43010",
+            "airport_ident": "XLWF",
+            "length_ft": "11482",
+            "width_ft": "230",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }

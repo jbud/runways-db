@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Oktyabrsky_Airport",
-    "keywords": "Oktyabrsky Airport, Аэропорт Октябрьский"
+    "keywords": "Oktyabrsky Airport, Аэропорт Октябрьский",
+    "runways": [
+        {
+            "id": "507564",
+            "airport_ref": "32112",
+            "airport_ident": "UWUK",
+            "length_ft": "6562",
+            "width_ft": "131",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }

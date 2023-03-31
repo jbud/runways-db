@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Severomorsk-1",
-    "keywords": ""
+    "keywords": "",
+    "runways": [
+        {
+            "id": "507551",
+            "airport_ref": "43016",
+            "airport_ident": "ULAK",
+            "length_ft": "11482",
+            "width_ft": "197",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }

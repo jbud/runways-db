@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Chelyabinsk_Shagol_Airport",
-    "keywords": "Bakal Airport"
+    "keywords": "Bakal Airport",
+    "runways": [
+        {
+            "id": "507566",
+            "airport_ref": "34963",
+            "airport_ident": "USCG",
+            "length_ft": "8202",
+            "width_ft": "131",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }

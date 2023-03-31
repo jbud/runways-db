@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Elitsovka_Airport",
-    "keywords": "Eltsovka Airport, Аэропорт Ельцовка"
+    "keywords": "Eltsovka Airport, Аэропорт Ельцовка",
+    "runways": [
+        {
+            "id": "507576",
+            "airport_ref": "42974",
+            "airport_ident": "UNNE",
+            "length_ft": "10500",
+            "width_ft": "246",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
