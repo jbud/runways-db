@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Irkutsk_Northwest_Airport",
-    "keywords": "Irkutsk-2 Airport, Irkutsk Severozapadny, Аэропорт Иркутск-2, Аэропорт Иркутск Северозападный"
+    "keywords": "Irkutsk-2 Airport, Irkutsk Severozapadny, Аэропорт Иркутск-2, Аэропорт Иркутск Северозападный",
+    "runways": [
+        {
+            "id": "507619",
+            "airport_ref": "42927",
+            "airport_ident": "RU-0036",
+            "length_ft": "8530",
+            "width_ft": "190",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
