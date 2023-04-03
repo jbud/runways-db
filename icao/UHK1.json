@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Blagodatnoye",
-    "keywords": "Blagodatnoye Air Base, Аэродром Благодатное"
+    "keywords": "Blagodatnoye Air Base, Аэродром Благодатное",
+    "runways": [
+        {
+            "id": "507703",
+            "airport_ref": "44367",
+            "airport_ident": "UHK1",
+            "length_ft": "7545",
+            "width_ft": "131",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }

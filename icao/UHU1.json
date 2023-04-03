@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "http://www.gold-valley.narod.ru/index.html",
     "wikipedia_link": "",
-    "keywords": "Unashi Air Base, Аэродром Золотая Долина"
+    "keywords": "Unashi Air Base, Аэродром Золотая Долина",
+    "runways": [
+        {
+            "id": "507709",
+            "airport_ref": "44742",
+            "airport_ident": "UHU1",
+            "length_ft": "8202",
+            "width_ft": "131",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }

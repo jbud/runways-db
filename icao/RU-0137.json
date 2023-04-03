@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Gazimursky Zavod Airport, Аэропорт Газимурский Завод"
+    "keywords": "Gazimursky Zavod Airport, Аэропорт Газимурский Завод",
+    "runways": [
+        {
+            "id": "507699",
+            "airport_ref": "44416",
+            "airport_ident": "RU-0137",
+            "length_ft": "3608",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
