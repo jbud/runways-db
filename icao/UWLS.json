@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Аэродром Солдатская Ташла, УВЛС"
+    "keywords": "Аэродром Солдатская Ташла, УВЛС",
+    "runways": [
+        {
+            "id": "507751",
+            "airport_ref": "46256",
+            "airport_ident": "UWLS",
+            "length_ft": "3280",
+            "width_ft": "115",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13L",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31R",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
