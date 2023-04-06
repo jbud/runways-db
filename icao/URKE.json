@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Yeysk_Airport",
-    "keywords": "Eysk Airport, Аэропорт Ейск, УРКЕ"
+    "keywords": "Eysk Airport, Аэропорт Ейск, УРКЕ",
+    "runways": [
+        {
+            "id": "507799",
+            "airport_ref": "45191",
+            "airport_ident": "URKE",
+            "length_ft": "11810",
+            "width_ft": "197",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }

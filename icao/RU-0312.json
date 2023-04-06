@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "http://www.aeroport-bk.ru",
     "wikipedia_link": "",
-    "keywords": "УРРА, Аэропорт Белая Калитва"
+    "keywords": "УРРА, Аэропорт Белая Калитва",
+    "runways": [
+        {
+            "id": "507802",
+            "airport_ref": "46139",
+            "airport_ident": "RU-0312",
+            "length_ft": "4430",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
