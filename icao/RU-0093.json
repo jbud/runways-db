@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "http://sasovoavia.3dn.ru/",
     "wikipedia_link": "",
-    "keywords": "Аэродром Сасово"
+    "keywords": "Аэродром Сасово",
+    "runways": [
+        {
+            "id": "507950",
+            "airport_ref": "44316",
+            "airport_ident": "RU-0093",
+            "length_ft": "4900",
+            "width_ft": "148",
+            "surface": "concrete",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
