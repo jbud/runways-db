@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": ""
+    "keywords": "",
+    "runways": [
+        {
+            "id": "508389",
+            "airport_ref": "28643",
+            "airport_ident": "EDFN",
+            "length_ft": "2461",
+            "width_ft": "98",
+            "surface": "GRASS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "50.871441",
+            "le_longitude_deg": "8.811961",
+            "le_elevation_ft": "833",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "50.877216",
+            "he_longitude_deg": "8.817608",
+            "he_elevation_ft": "833",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
