@@ -16,5 +16,51 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": ""
+    "keywords": "",
+    "runways": [
+        {
+            "id": "509362",
+            "airport_ref": "28634",
+            "airport_ident": "EDQI",
+            "length_ft": "1575",
+            "width_ft": "26",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07L",
+            "le_latitude_deg": "49.6048",
+            "le_longitude_deg": "11.2805",
+            "le_elevation_ft": "",
+            "le_heading_degT": "73",
+            "le_displaced_threshold_ft": "98",
+            "he_ident": "25R",
+            "he_latitude_deg": "49.606",
+            "he_longitude_deg": "11.2865",
+            "he_elevation_ft": "",
+            "he_heading_degT": "253",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "509363",
+            "airport_ref": "28634",
+            "airport_ident": "EDQI",
+            "length_ft": "1476",
+            "width_ft": "98",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07R",
+            "le_latitude_deg": "49.6044",
+            "le_longitude_deg": "11.2807",
+            "le_elevation_ft": "",
+            "le_heading_degT": "73",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25L",
+            "he_latitude_deg": "49.6056",
+            "he_longitude_deg": "11.2866",
+            "he_elevation_ft": "",
+            "he_heading_degT": "253",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
