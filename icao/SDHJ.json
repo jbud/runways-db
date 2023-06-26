@@ -25,7 +25,7 @@
             "length_ft": "79",
             "width_ft": "79",
             "surface": "CON",
-            "lighted": "0",
+            "lighted": "1",
             "closed": "0",
             "le_ident": "2",
             "le_latitude_deg": "",
