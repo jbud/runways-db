@@ -22,23 +22,23 @@
             "id": "234217",
             "airport_ref": "467",
             "airport_ident": "SSJA",
-            "length_ft": "4134",
-            "width_ft": "59",
+            "length_ft": "3987",
+            "width_ft": "99",
             "surface": "ASP",
-            "lighted": "0",
+            "lighted": "1",
             "closed": "0",
             "le_ident": "15",
             "le_latitude_deg": "",
             "le_longitude_deg": "",
             "le_elevation_ft": "",
             "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
+            "le_displaced_threshold_ft": "296",
             "he_ident": "33",
             "he_latitude_deg": "",
             "he_longitude_deg": "",
             "he_elevation_ft": "",
             "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
+            "he_displaced_threshold_ft": "296"
         }
     ]
 }
