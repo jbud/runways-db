@@ -63,6 +63,28 @@
             "he_displaced_threshold_ft": ""
         },
         {
+            "id": "510252",
+            "airport_ref": "26555",
+            "airport_ident": "VIDP",
+            "length_ft": "14436",
+            "width_ft": "",
+            "surface": "paved",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11L",
+            "le_latitude_deg": "28.549473",
+            "le_longitude_deg": "77.071166",
+            "le_elevation_ft": "",
+            "le_heading_degT": "103",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29R",
+            "he_latitude_deg": "28.544104",
+            "he_longitude_deg": "77.096444",
+            "he_elevation_ft": "",
+            "he_heading_degT": "283",
+            "he_displaced_threshold_ft": ""
+        },
+        {
             "id": "271000",
             "airport_ref": "26555",
             "airport_ident": "VIDP",
@@ -75,13 +97,13 @@
             "le_latitude_deg": "28.547155",
             "le_longitude_deg": "77.065521",
             "le_elevation_ft": "720",
-            "le_heading_degT": "113",
+            "le_heading_degT": "103",
             "le_displaced_threshold_ft": "2100",
             "he_ident": "29L",
             "he_latitude_deg": "28.537735",
             "he_longitude_deg": "77.109474",
             "he_elevation_ft": "776",
-            "he_heading_degT": "293",
+            "he_heading_degT": "283",
             "he_displaced_threshold_ft": "4790"
         }
     ]
