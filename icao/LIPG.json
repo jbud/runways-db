@@ -26,7 +26,7 @@
             "width_ft": "",
             "surface": "grass",
             "lighted": "0",
-            "closed": "0",
+            "closed": "1",
             "le_ident": "04",
             "le_latitude_deg": "",
             "le_longitude_deg": "",
@@ -38,6 +38,28 @@
             "he_longitude_deg": "",
             "he_elevation_ft": "",
             "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "510299",
+            "airport_ref": "29436",
+            "airport_ident": "LIPG",
+            "length_ft": "4101",
+            "width_ft": "98",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "45.907",
+            "le_longitude_deg": "13.5922",
+            "le_elevation_ft": "",
+            "le_heading_degT": "85",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "45.908",
+            "he_longitude_deg": "13.6052",
+            "he_elevation_ft": "",
+            "he_heading_degT": "265",
             "he_displaced_threshold_ft": ""
         }
     ]
