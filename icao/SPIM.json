@@ -39,6 +39,28 @@
             "he_elevation_ft": "113",
             "he_heading_degT": "333",
             "he_displaced_threshold_ft": "2001"
+        },
+        {
+            "id": "510595",
+            "airport_ref": "6217",
+            "airport_ident": "SPIM",
+            "length_ft": "11417",
+            "width_ft": "148",
+            "surface": "CONC",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16R",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34L",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
         }
     ]
 }
