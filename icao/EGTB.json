@@ -70,7 +70,7 @@
             "width_ft": "98",
             "surface": "GRS",
             "lighted": "0",
-            "closed": "0",
+            "closed": "1",
             "le_ident": "17",
             "le_latitude_deg": "51.613285",
             "le_longitude_deg": "-0.808969",
