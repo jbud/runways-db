@@ -24,21 +24,21 @@
             "airport_ident": "SBPS",
             "length_ft": "6562",
             "width_ft": "148",
-            "surface": "ASP",
-            "lighted": "0",
+            "surface": "ASPH",
+            "lighted": "1",
             "closed": "0",
             "le_ident": "10",
-            "le_latitude_deg": "-16.44070053100586",
-            "le_longitude_deg": "-39.08879852294922",
-            "le_elevation_ft": "168",
-            "le_heading_degT": "75",
-            "le_displaced_threshold_ft": "",
+            "le_latitude_deg": "-16.440701",
+            "le_longitude_deg": "-39.088799",
+            "le_elevation_ft": "169",
+            "le_heading_degT": "74",
+            "le_displaced_threshold_ft": "427",
             "he_ident": "28",
-            "he_latitude_deg": "-16.43630027770996",
-            "he_longitude_deg": "-39.072601318359375",
-            "he_elevation_ft": "154",
+            "he_latitude_deg": "-16.4363",
+            "he_longitude_deg": "-39.072601",
+            "he_elevation_ft": "156",
             "he_heading_degT": "254",
-            "he_displaced_threshold_ft": ""
+            "he_displaced_threshold_ft": "230"
         }
     ]
 }
