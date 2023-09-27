@@ -16,5 +16,51 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": ""
+    "keywords": "",
+    "runways": [
+        {
+            "id": "512471",
+            "airport_ref": "28828",
+            "airport_ident": "LFEN",
+            "length_ft": "2297",
+            "width_ft": "59",
+            "surface": "HARD",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "297",
+            "le_heading_degT": "35",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "289",
+            "he_heading_degT": "215",
+            "he_displaced_threshold_ft": "197"
+        },
+        {
+            "id": "512484",
+            "airport_ref": "28828",
+            "airport_ident": "LFEN",
+            "length_ft": "1083",
+            "width_ft": "66",
+            "surface": "Unpaved",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04R",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "293",
+            "le_heading_degT": "35",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22L",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "289",
+            "he_heading_degT": "213",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
