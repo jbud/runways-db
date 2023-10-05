@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines",
-    "keywords": "Hermana Mayor"
+    "keywords": "Hermana Mayor",
+    "runways": [
+        {
+            "id": "512808",
+            "airport_ref": "326000",
+            "airport_ident": "PH-0096",
+            "length_ft": "3400",
+            "width_ft": "200",
+            "surface": "unpaved",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "15.784445",
+            "le_longitude_deg": "119.78861111",
+            "le_elevation_ft": "30",
+            "le_heading_degT": "125",
+            "le_displaced_threshold_ft": "30",
+            "he_ident": "30",
+            "he_latitude_deg": "15.779445",
+            "he_longitude_deg": "119.796945",
+            "he_elevation_ft": "30",
+            "he_heading_degT": "305",
+            "he_displaced_threshold_ft": "30"
+        }
+    ]
 }

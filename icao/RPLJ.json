@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Jomalig_Airport",
-    "keywords": "Jomalig"
+    "keywords": "Jomalig",
+    "runways": [
+        {
+            "id": "512805",
+            "airport_ref": "32220",
+            "airport_ident": "RPLJ",
+            "length_ft": "3400",
+            "width_ft": "200",
+            "surface": "unpaved",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "14.700556",
+            "le_longitude_deg": "122.3263889",
+            "le_elevation_ft": "30",
+            "le_heading_degT": "53",
+            "le_displaced_threshold_ft": "30",
+            "he_ident": "23",
+            "he_latitude_deg": "14.706112",
+            "he_longitude_deg": "122.333612",
+            "he_elevation_ft": "30",
+            "he_heading_degT": "233",
+            "he_displaced_threshold_ft": "30"
+        }
+    ]
 }
