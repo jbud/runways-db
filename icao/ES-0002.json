@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "http://www.aeroclubmaestrat.com",
     "wikipedia_link": "",
-    "keywords": "aeroclub maestrat, aerodrom vinaros, aeroclub vinaros, camp de vol vinaros"
+    "keywords": "aeroclub maestrat, aerodrom vinaros, aeroclub vinaros, camp de vol vinaros",
+    "runways": [
+        {
+            "id": "513442",
+            "airport_ref": "298473",
+            "airport_ident": "ES-0002",
+            "length_ft": "1640",
+            "width_ft": "98",
+            "surface": "asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "384",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "384",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
