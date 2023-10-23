@@ -16,5 +16,51 @@
     "local_code": "",
     "home_link": "http://www.klippeneck.de/",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Klippeneck",
-    "keywords": ""
+    "keywords": "",
+    "runways": [
+        {
+            "id": "513541",
+            "airport_ref": "315577",
+            "airport_ident": "DE-0238",
+            "length_ft": "1017",
+            "width_ft": "190",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "48.111994",
+            "le_longitude_deg": "8.770817",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "190",
+            "he_ident": "22",
+            "he_latitude_deg": "48.114265",
+            "he_longitude_deg": "8.77321",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "100"
+        },
+        {
+            "id": "513540",
+            "airport_ref": "315577",
+            "airport_ident": "DE-0238",
+            "length_ft": "2461",
+            "width_ft": "197",
+            "surface": "GRASS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "48.104859",
+            "le_longitude_deg": "8.756967",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "197",
+            "he_ident": "23",
+            "he_latitude_deg": "48.109058",
+            "he_longitude_deg": "8.764849",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "1148"
+        }
+    ]
 }

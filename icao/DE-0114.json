@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": ""
+    "keywords": "",
+    "runways": [
+        {
+            "id": "513536",
+            "airport_ref": "311045",
+            "airport_ident": "DE-0114",
+            "length_ft": "2450",
+            "width_ft": "115",
+            "surface": "GRASS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "48.386213",
+            "le_longitude_deg": "9.071324",
+            "le_elevation_ft": "2690",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "520",
+            "he_ident": "28",
+            "he_latitude_deg": "48.384819",
+            "he_longitude_deg": "9.081226",
+            "he_elevation_ft": "2625",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "574"
+        }
+    ]
 }
