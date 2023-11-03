@@ -22,23 +22,23 @@
             "id": "233880",
             "airport_ref": "367",
             "airport_ident": "SNPA",
-            "length_ft": "3740",
+            "length_ft": "4134",
             "width_ft": "75",
-            "surface": "ASP",
+            "surface": "ASPH",
             "lighted": "0",
             "closed": "0",
             "le_ident": "12",
             "le_latitude_deg": "",
             "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
+            "le_elevation_ft": "2640",
+            "le_heading_degT": "99",
+            "le_displaced_threshold_ft": "197",
             "he_ident": "30",
             "he_latitude_deg": "",
             "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
+            "he_elevation_ft": "2751",
+            "he_heading_degT": "279",
+            "he_displaced_threshold_ft": "197"
         }
     ]
 }
