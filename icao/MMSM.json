@@ -31,13 +31,13 @@
             "le_latitude_deg": "19.728561",
             "le_longitude_deg": "-99.023102",
             "le_elevation_ft": "7358",
-            "le_heading_degT": "",
+            "le_heading_degT": "45",
             "le_displaced_threshold_ft": "",
             "he_ident": "22C",
             "he_latitude_deg": "19.755127",
             "he_longitude_deg": "-98.990631",
             "he_elevation_ft": "7358",
-            "he_heading_degT": "",
+            "he_heading_degT": "225",
             "he_displaced_threshold_ft": ""
         },
         {
@@ -53,13 +53,13 @@
             "le_latitude_deg": "19.734081",
             "le_longitude_deg": "-99.039696",
             "le_elevation_ft": "7356",
-            "le_heading_degT": "",
+            "le_heading_degT": "45",
             "le_displaced_threshold_ft": "",
             "he_ident": "22R",
             "he_latitude_deg": "19.760651",
             "he_longitude_deg": "-99.007225",
             "he_elevation_ft": "7356",
-            "he_heading_degT": "",
+            "he_heading_degT": "225",
             "he_displaced_threshold_ft": ""
         },
         {
@@ -75,13 +75,13 @@
             "le_latitude_deg": "19.725822",
             "le_longitude_deg": "-99.02063",
             "le_elevation_ft": "7355",
-            "le_heading_degT": "",
+            "le_heading_degT": "45",
             "le_displaced_threshold_ft": "",
             "he_ident": "22L",
             "he_latitude_deg": "19.7465",
             "he_longitude_deg": "-98.995354",
             "he_elevation_ft": "7355",
-            "he_heading_degT": "",
+            "he_heading_degT": "225",
             "he_displaced_threshold_ft": ""
         }
     ]
