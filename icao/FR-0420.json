@@ -16,5 +16,29 @@
     "local_code": "LF0654",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": ""
+    "keywords": "",
+    "runways": [
+        {
+            "id": "529367",
+            "airport_ref": "336353",
+            "airport_ident": "FR-0420",
+            "length_ft": "1345",
+            "width_ft": "115",
+            "surface": "Earth",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14A",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "5735",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32D",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "5815",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
