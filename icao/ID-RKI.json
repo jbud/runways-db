@@ -16,5 +16,51 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": ""
+    "keywords": "",
+    "runways": [
+        {
+            "id": "530270",
+            "airport_ref": "41397",
+            "airport_ident": "ID-RKI",
+            "length_ft": "4921",
+            "width_ft": "97",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "-2.08873",
+            "le_longitude_deg": "99.69424",
+            "le_elevation_ft": "",
+            "le_heading_degT": "144",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "-2.09973",
+            "he_longitude_deg": "99.70315",
+            "he_elevation_ft": "",
+            "he_heading_degT": "324",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "530271",
+            "airport_ref": "41397",
+            "airport_ident": "ID-RKI",
+            "length_ft": "2789",
+            "width_ft": "",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "17",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
