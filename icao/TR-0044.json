@@ -16,5 +16,51 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Çukurova_Regional_Airport",
-    "keywords": ""
+    "keywords": "",
+    "runways": [
+        {
+            "id": "543415",
+            "airport_ref": "324731",
+            "airport_ident": "TR-0044",
+            "length_ft": "11482",
+            "width_ft": "197",
+            "surface": "CONC",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03L",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "26",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21R",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "35",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "543416",
+            "airport_ref": "324731",
+            "airport_ident": "TR-0044",
+            "length_ft": "11482",
+            "width_ft": "197",
+            "surface": "CONC",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03R",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "26",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21L",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "35",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
