@@ -16,5 +16,29 @@
     "local_code": "RK8Z",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "RK8Z, N 313, N-313, Wando, Gunnae"
+    "keywords": "RK8Z, N 313, N-313, Wando, Gunnae",
+    "runways": [
+        {
+            "id": "545144",
+            "airport_ref": "323547",
+            "airport_ident": "KR-0090",
+            "length_ft": "20",
+            "width_ft": "",
+            "surface": "gre",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
