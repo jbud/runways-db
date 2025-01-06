@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": ""
+    "keywords": "",
+    "runways": [
+        {
+            "id": "569131",
+            "airport_ref": "350817",
+            "airport_ident": "US-6209",
+            "length_ft": "2000",
+            "width_ft": "100",
+            "surface": "Asphalt/Concrete",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "8",
+            "le_latitude_deg": "36.324464",
+            "le_longitude_deg": "-89.473318",
+            "le_elevation_ft": "286",
+            "le_heading_degT": "80",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "36.325403",
+            "he_longitude_deg": "-89.466629",
+            "he_elevation_ft": "289",
+            "he_heading_degT": "260",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
