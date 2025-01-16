@@ -16,5 +16,51 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Valek_Airport",
-    "keywords": "Аэропорт Валек"
+    "keywords": "Аэропорт Валек",
+    "runways": [
+        {
+            "id": "571735",
+            "airport_ref": "42959",
+            "airport_ident": "UOOW",
+            "length_ft": "5085",
+            "width_ft": "",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "13",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "571736",
+            "airport_ref": "42959",
+            "airport_ident": "UOOW",
+            "length_ft": "394",
+            "width_ft": "",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13H",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31H",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
