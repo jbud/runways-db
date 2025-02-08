@@ -16,29 +16,5 @@
     "local_code": "PG10",
     "home_link": "http://www.airport.umbria.it/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/San_Egidio_Airport",
-    "keywords": "Perugia San Francesco d'Assisi, Perugia Sant'Egidio Airport, Umbria International Airport",
-    "runways": [
-        {
-            "id": "237022",
-            "airport_ref": "4384",
-            "airport_ident": "LIRZ",
-            "length_ft": "7215",
-            "width_ft": "148",
-            "surface": "ASP",
-            "lighted": "1",
-            "closed": "0",
-            "le_ident": "01",
-            "le_latitude_deg": "43.0885124206543",
-            "le_longitude_deg": "12.510642051696777",
-            "le_elevation_ft": "667",
-            "le_heading_degT": "14",
-            "le_displaced_threshold_ft": "328",
-            "he_ident": "19",
-            "he_latitude_deg": "43.10768508911133",
-            "he_longitude_deg": "12.517327308654785",
-            "he_elevation_ft": "693",
-            "he_heading_degT": "194",
-            "he_displaced_threshold_ft": "203"
-        }
-    ]
+    "keywords": "Perugia San Francesco d'Assisi, Perugia Sant'Egidio Airport, Umbria International Airport"
 }

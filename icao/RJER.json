@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Rishiri_Airport",
-    "keywords": "",
-    "runways": [
-        {
-            "id": "237235",
-            "airport_ref": "5560",
-            "airport_ident": "RJER",
-            "length_ft": "5906",
-            "width_ft": "148",
-            "surface": "ASP",
-            "lighted": "1",
-            "closed": "0",
-            "le_ident": "07",
-            "le_latitude_deg": "45.23759841918945",
-            "le_longitude_deg": "141.17799377441406",
-            "le_elevation_ft": "98",
-            "le_heading_degT": "57",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "25",
-            "he_latitude_deg": "45.24639892578125",
-            "he_longitude_deg": "141.19700622558594",
-            "he_elevation_ft": "112",
-            "he_heading_degT": "237",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": ""
 }
