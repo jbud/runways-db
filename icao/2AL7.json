@@ -16,5 +16,29 @@
     "local_code": "2AL7",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": ""
+    "keywords": "",
+    "runways": [
+        {
+            "id": "576766",
+            "airport_ref": "9305",
+            "airport_ident": "2AL7",
+            "length_ft": "2600",
+            "width_ft": "90",
+            "surface": "TURF-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "250"
+        }
+    ]
 }

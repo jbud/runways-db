@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Norman_Manley_International_Airport",
-    "keywords": ""
+    "keywords": "",
+    "runways": [
+        {
+            "id": "576756",
+            "airport_ref": "4680",
+            "airport_ident": "MKJP",
+            "length_ft": "8900",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "17.94029998779297",
+            "le_longitude_deg": "-76.79949951171875",
+            "le_elevation_ft": "8",
+            "le_heading_degT": "112",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "17.931100845336914",
+            "he_longitude_deg": "-76.77570343017578",
+            "he_elevation_ft": "17",
+            "he_heading_degT": "292",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }

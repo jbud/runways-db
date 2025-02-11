@@ -16,5 +16,29 @@
     "local_code": "BA0248",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SNHA, SB01, SWTX"
+    "keywords": "SNHA, SB01, SWTX",
+    "runways": [
+        {
+            "id": "576738",
+            "airport_ref": "129",
+            "airport_ident": "SNHA",
+            "length_ft": "4993",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "-14.81309986114502",
+            "le_longitude_deg": "-39.294700622558594",
+            "le_elevation_ft": "199",
+            "le_heading_degT": "56",
+            "le_displaced_threshold_ft": "165",
+            "he_ident": "26",
+            "he_latitude_deg": "-14.808099746704102",
+            "he_longitude_deg": "-39.2869987487793",
+            "he_elevation_ft": "195",
+            "he_heading_degT": "236",
+            "he_displaced_threshold_ft": "350"
+        }
+    ]
 }
