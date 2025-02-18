@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Hongyuan_Airport",
-    "keywords": "Aba",
-    "runways": [
-        {
-            "id": "312372",
-            "airport_ref": "312371",
-            "airport_ident": "AHJ",
-            "length_ft": "11811",
-            "width_ft": "148",
-            "surface": "CON",
-            "lighted": "1",
-            "closed": "0",
-            "le_ident": "16",
-            "le_latitude_deg": "32.547001",
-            "le_longitude_deg": "102.347",
-            "le_elevation_ft": "11571",
-            "le_heading_degT": "163",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "34",
-            "he_latitude_deg": "32.516102",
-            "he_longitude_deg": "102.358002",
-            "he_elevation_ft": "11587",
-            "he_heading_degT": "343",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "Aba"
 }

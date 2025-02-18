@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Jindal_Vijaynagar_Airport",
-    "keywords": "JSW, Vidyanagar, Vijayanagar",
-    "runways": [
-        {
-            "id": "301041",
-            "airport_ref": "301040",
-            "airport_ident": "IN-0070",
-            "length_ft": "5049",
-            "width_ft": "100",
-            "surface": "Bitumen",
-            "lighted": "1",
-            "closed": "0",
-            "le_ident": "13",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "1626",
-            "le_heading_degT": "135",
-            "le_displaced_threshold_ft": "426",
-            "he_ident": "31",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "1668",
-            "he_heading_degT": "315",
-            "he_displaced_threshold_ft": "1161"
-        }
-    ]
+    "keywords": "JSW, Vidyanagar, Vijayanagar"
 }

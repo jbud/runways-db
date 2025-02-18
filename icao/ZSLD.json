@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Longyan_Guanzhishan_Airport",
-    "keywords": "ZBSZ, Liancheng Air Base",
-    "runways": [
-        {
-            "id": "348497",
-            "airport_ref": "44234",
-            "airport_ident": "ZSLD",
-            "length_ft": "7874",
-            "width_ft": "",
-            "surface": "Cement",
-            "lighted": "1",
-            "closed": "0",
-            "le_ident": "03",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "21",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "ZBSZ, Liancheng Air Base"
 }

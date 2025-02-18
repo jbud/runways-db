@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Cagayan_North_International_Airport",
-    "keywords": "Northern Cagayan, Lal-lo",
-    "runways": [
-        {
-            "id": "325948",
-            "airport_ref": "325947",
-            "airport_ident": "PH-0073",
-            "length_ft": "6900",
-            "width_ft": "148",
-            "surface": "Concrete",
-            "lighted": "1",
-            "closed": "0",
-            "le_ident": "04",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "22",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "Northern Cagayan, Lal-lo"
 }
