@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "http://www.kiskunlachaza-airport.hu",
     "wikipedia_link": "http://hu.wikipedia.org/wiki/Kiskunlacházi_repülőtér",
-    "keywords": "Lachaza, LHKK, Lacháza, Kiskunlacháza, Budapest, LHTL, LHBP, ferihegy",
-    "runways": [
-        {
-            "id": "307707",
-            "airport_ref": "46653",
-            "airport_ident": "lhkk",
-            "length_ft": "2608",
-            "width_ft": "147",
-            "surface": "Concrete",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "13",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "322",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "31",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "322",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "Lachaza, LHKK, Lacháza, Kiskunlacháza, Budapest, LHTL, LHBP, ferihegy"
 }
