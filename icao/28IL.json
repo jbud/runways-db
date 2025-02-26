@@ -16,29 +16,5 @@
     "local_code": "28IL",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Nick Lung Flight Park",
-    "runways": [
-        {
-            "id": "255678",
-            "airport_ref": "9199",
-            "airport_ident": "28IL",
-            "length_ft": "2500",
-            "width_ft": "70",
-            "surface": "TURF-F",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "01",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "80",
-            "he_ident": "19",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": "120"
-        }
-    ]
+    "keywords": "Nick Lung Flight Park"
 }

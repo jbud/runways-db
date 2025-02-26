@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SDFI",
-    "runways": [
-        {
-            "id": "233925",
-            "airport_ref": "165",
-            "airport_ident": "SDFI",
-            "length_ft": "4514",
-            "width_ft": "39",
-            "surface": "ASP",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "14",
-            "le_latitude_deg": "-21.65089988708496",
-            "le_longitude_deg": "-48.27170181274414",
-            "le_elevation_ft": "",
-            "le_heading_degT": "126.5",
-            "le_displaced_threshold_ft": "808",
-            "he_ident": "32",
-            "he_latitude_deg": "-21.658300399780273",
-            "he_longitude_deg": "-48.26100158691406",
-            "he_elevation_ft": "",
-            "he_heading_degT": "306.5",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "SDFI"
 }

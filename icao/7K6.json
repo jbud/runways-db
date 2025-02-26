@@ -16,51 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "7K6",
-    "runways": [
-        {
-            "id": "246370",
-            "airport_ref": "14171",
-            "airport_ident": "7K6",
-            "length_ft": "2100",
-            "width_ft": "80",
-            "surface": "TURF-F",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "18",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "36",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        },
-        {
-            "id": "269348",
-            "airport_ref": "14171",
-            "airport_ident": "7K6",
-            "length_ft": "1400",
-            "width_ft": "1600",
-            "surface": "TURF-P",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "B1",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "B1",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "7K6"
 }

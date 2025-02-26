@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Jean Coutty",
-    "runways": [
-        {
-            "id": "259989",
-            "airport_ref": "28928",
-            "airport_ident": "LFLK",
-            "length_ft": "2854",
-            "width_ft": "98",
-            "surface": "ASP",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "04",
-            "le_latitude_deg": "46.275421",
-            "le_longitude_deg": "5.663092",
-            "le_elevation_ft": "1738",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "22",
-            "he_latitude_deg": "46.280991",
-            "he_longitude_deg": "5.669095",
-            "he_elevation_ft": "1755",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "Jean Coutty"
 }

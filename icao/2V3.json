@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "IS56, 2V3, 48IL",
-    "runways": [
-        {
-            "id": "257911",
-            "airport_ref": "9824",
-            "airport_ident": "2V3",
-            "length_ft": "2413",
-            "width_ft": "100",
-            "surface": "TURF-G",
-            "lighted": "1",
-            "closed": "0",
-            "le_ident": "18",
-            "le_latitude_deg": "41.18479919433594",
-            "le_longitude_deg": "-89.14669799804688",
-            "le_elevation_ft": "717",
-            "le_heading_degT": "180",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "36",
-            "he_latitude_deg": "41.178199768066406",
-            "he_longitude_deg": "-89.14669799804688",
-            "he_elevation_ft": "731",
-            "he_heading_degT": "360",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "IS56, 2V3, 48IL"
 }

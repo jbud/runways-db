@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "3VG6",
-    "runways": [
-        {
-            "id": "264741",
-            "airport_ref": "45879",
-            "airport_ident": "3VG6",
-            "length_ft": "16",
-            "width_ft": "16",
-            "surface": "WOOD",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "H1",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "263.8",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "3VG6"
 }

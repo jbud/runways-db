@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "79WA",
-    "runways": [
-        {
-            "id": "249133",
-            "airport_ref": "14035",
-            "airport_ident": "79WA",
-            "length_ft": "2200",
-            "width_ft": "27",
-            "surface": "ASPH",
-            "lighted": "1",
-            "closed": "0",
-            "le_ident": "16",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "34",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "79WA"
 }

@@ -16,51 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "LPJO, LPJO",
-    "runways": [
-        {
-            "id": "314013",
-            "airport_ref": "31845",
-            "airport_ident": "LPJO",
-            "length_ft": "2625",
-            "width_ft": "82",
-            "surface": "",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "05",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "23",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        },
-        {
-            "id": "314014",
-            "airport_ref": "31845",
-            "airport_ident": "LPJO",
-            "length_ft": "2460",
-            "width_ft": "82",
-            "surface": "",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "11",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "29",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "LPJO, LPJO"
 }

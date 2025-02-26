@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "GA05",
-    "runways": [
-        {
-            "id": "267552",
-            "airport_ref": "17478",
-            "airport_ident": "GA05",
-            "length_ft": "400",
-            "width_ft": "400",
-            "surface": "TURF",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "H1",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "359.1",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "GA05"
 }

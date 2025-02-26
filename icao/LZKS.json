@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "LZKS, LZKS",
-    "runways": [
-        {
-            "id": "311262",
-            "airport_ref": "30044",
-            "airport_ident": "LZKS",
-            "length_ft": "2790",
-            "width_ft": "100",
-            "surface": "grass",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "10",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "400",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "28",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "400",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "LZKS, LZKS"
 }

@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "LB32, LB32",
-    "runways": [
-        {
-            "id": "234408",
-            "airport_ref": "99",
-            "airport_ident": "LB32",
-            "length_ft": "1440",
-            "width_ft": "75",
-            "surface": "ASP",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "10",
-            "le_latitude_deg": "42.07270050048828",
-            "le_longitude_deg": "25.05069923400879",
-            "le_elevation_ft": "",
-            "le_heading_degT": "98.2",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "28",
-            "he_latitude_deg": "42.07210159301758",
-            "he_longitude_deg": "25.05590057373047",
-            "he_elevation_ft": "",
-            "he_heading_degT": "278.2",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "LB32, LB32"
 }

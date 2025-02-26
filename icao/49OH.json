@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "49OH",
-    "runways": [
-        {
-            "id": "247932",
-            "airport_ref": "11301",
-            "airport_ident": "49OH",
-            "length_ft": "2300",
-            "width_ft": "50",
-            "surface": "TURF",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "E",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "W",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "49OH"
 }

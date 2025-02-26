@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "39AR",
-    "runways": [
-        {
-            "id": "346987",
-            "airport_ref": "10314",
-            "airport_ident": "39AR",
-            "length_ft": "3516",
-            "width_ft": "65",
-            "surface": "ASP",
-            "lighted": "1",
-            "closed": "0",
-            "le_ident": "18",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "500",
-            "he_ident": "36",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "39AR"
 }

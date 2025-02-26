@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "82D",
-    "runways": [
-        {
-            "id": "254400",
-            "airport_ref": "14561",
-            "airport_ident": "82D",
-            "length_ft": "1744",
-            "width_ft": "90",
-            "surface": "TURF-G",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "18",
-            "le_latitude_deg": "41.22679901123047",
-            "le_longitude_deg": "-83.02770233154297",
-            "le_elevation_ft": "740",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "36",
-            "he_latitude_deg": "41.22200012207031",
-            "he_longitude_deg": "-83.02770233154297",
-            "he_elevation_ft": "740",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "82D"
 }

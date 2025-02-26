@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "0T7",
-    "runways": [
-        {
-            "id": "253465",
-            "airport_ref": "7527",
-            "airport_ident": "0T7",
-            "length_ft": "2300",
-            "width_ft": "195",
-            "surface": "TURF-G",
-            "lighted": "1",
-            "closed": "0",
-            "le_ident": "18",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "95",
-            "he_ident": "36",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "0T7"
 }

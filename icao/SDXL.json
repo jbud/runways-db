@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SDXL, RJ0062",
-    "runways": [
-        {
-            "id": "263285",
-            "airport_ref": "35799",
-            "airport_ident": "SDXL",
-            "length_ft": "69",
-            "width_ft": "69",
-            "surface": "GRS",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "12",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "SDXL, RJ0062"
 }

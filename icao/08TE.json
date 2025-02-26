@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "08TE",
-    "runways": [
-        {
-            "id": "241351",
-            "airport_ref": "7008",
-            "airport_ident": "08TE",
-            "length_ft": "3100",
-            "width_ft": "50",
-            "surface": "ASPH",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "16",
-            "le_latitude_deg": "29.980199813842773",
-            "le_longitude_deg": "-98.74479675292969",
-            "le_elevation_ft": "",
-            "le_heading_degT": "166",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "34",
-            "he_latitude_deg": "29.971900939941406",
-            "he_longitude_deg": "-98.74250030517578",
-            "he_elevation_ft": "",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "08TE"
 }

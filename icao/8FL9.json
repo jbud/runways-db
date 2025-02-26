@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "8FL9",
-    "runways": [
-        {
-            "id": "266583",
-            "airport_ref": "14923",
-            "airport_ident": "8FL9",
-            "length_ft": "200",
-            "width_ft": "100",
-            "surface": "TURF",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "H1",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "360",
-            "he_displaced_threshold_ft": "320"
-        }
-    ]
+    "keywords": "8FL9"
 }

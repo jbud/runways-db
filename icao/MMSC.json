@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas_National_Airport",
-    "keywords": "Corazón de María, MMSC, SZT",
-    "runways": [
-        {
-            "id": "237645",
-            "airport_ref": "4749",
-            "airport_ident": "MMSC",
-            "length_ft": "8694",
-            "width_ft": "98",
-            "surface": "ASP",
-            "lighted": "1",
-            "closed": "0",
-            "le_ident": "11",
-            "le_latitude_deg": "16.694700241088867",
-            "le_longitude_deg": "-92.5416030883789",
-            "le_elevation_ft": "7707",
-            "le_heading_degT": "111.8",
-            "le_displaced_threshold_ft": "205",
-            "he_ident": "29",
-            "he_latitude_deg": "16.685800552368164",
-            "he_longitude_deg": "-92.51860046386719",
-            "he_elevation_ft": "7707",
-            "he_heading_degT": "291.8",
-            "he_displaced_threshold_ft": "200"
-        }
-    ]
+    "keywords": "Corazón de María, MMSC, SZT"
 }

@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "43NY",
-    "runways": [
-        {
-            "id": "252969",
-            "airport_ref": "11047",
-            "airport_ident": "43NY",
-            "length_ft": "1500",
-            "width_ft": "50",
-            "surface": "TURF",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "02",
-            "le_latitude_deg": "42.784698486328125",
-            "le_longitude_deg": "-74.80249786376953",
-            "le_elevation_ft": "1993",
-            "le_heading_degT": "20",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "20",
-            "he_latitude_deg": "42.78860092163086",
-            "he_longitude_deg": "-74.80059814453125",
-            "he_elevation_ft": "1993",
-            "he_heading_degT": "200",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "43NY"
 }

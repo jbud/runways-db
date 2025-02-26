@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Tangri-La, UT68, UT68",
-    "runways": [
-        {
-            "id": "246655",
-            "airport_ref": "25311",
-            "airport_ident": "UT68",
-            "length_ft": "3000",
-            "width_ft": "50",
-            "surface": "GRAVEL",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "07",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "25",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "Tangri-La, UT68, UT68"
 }

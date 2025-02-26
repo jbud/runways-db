@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://id.wikipedia.org/wiki/Bandar_Udara_Sudjarwo_Tjondronegoro",
-    "keywords": "ZRI, WABO",
-    "runways": [
-        {
-            "id": "311143",
-            "airport_ref": "41419",
-            "airport_ident": "WABO",
-            "length_ft": "2133",
-            "width_ft": "66",
-            "surface": "ASP",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "18",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "36",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "ZRI, WABO"
 }

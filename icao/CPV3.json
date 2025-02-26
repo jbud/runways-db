@@ -16,29 +16,5 @@
     "local_code": "CPV3",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/St._Joseph_Island_Airport",
-    "keywords": "PV3",
-    "runways": [
-        {
-            "id": "255281",
-            "airport_ref": "1462",
-            "airport_ident": "CPV3",
-            "length_ft": "2475",
-            "width_ft": "200",
-            "surface": "TURF",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "15",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "33",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "PV3"
 }

@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/St._Francis_Airport",
-    "keywords": "FE6, CFE6, CFE6",
-    "runways": [
-        {
-            "id": "255999",
-            "airport_ref": "940",
-            "airport_ident": "CFE6",
-            "length_ft": "2800",
-            "width_ft": "100",
-            "surface": "TURF/OIL PACKE",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "18",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "36",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "FE6, CFE6, CFE6"
 }
