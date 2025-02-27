@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Jefman_Airport",
-    "keywords": "SOQ, WASS, Sorong"
+    "keywords": "SOQ, WASS, Sorong",
+    "runways": [
+        {
+            "id": "255982",
+            "airport_ref": "32634",
+            "airport_ident": "WASS",
+            "length_ft": "6070",
+            "width_ft": "90",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "-0.8946580290794373",
+            "le_longitude_deg": "131.27699279785156",
+            "le_elevation_ft": "",
+            "le_heading_degT": "94",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "-0.8956940174102783",
+            "he_longitude_deg": "131.29400634765625",
+            "he_elevation_ft": "",
+            "he_heading_degT": "274",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }

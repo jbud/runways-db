@@ -19,12 +19,12 @@
     "keywords": "YBP, ZUYB",
     "runways": [
         {
-            "id": "348926",
-            "airport_ref": "300456",
+            "id": "348927",
+            "airport_ref": "336111",
             "airport_ident": "ZUYB",
             "length_ft": "8530",
             "width_ft": "",
-            "surface": "CON",
+            "surface": "",
             "lighted": "0",
             "closed": "0",
             "le_ident": "11",

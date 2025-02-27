@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SSXG, SIRO",
-    "runways": [
-        {
-            "id": "333658",
-            "airport_ref": "324187",
-            "airport_ident": "SSXG",
-            "length_ft": "72",
-            "width_ft": "92",
-            "surface": "Turf",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "H1",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "SSXG, SIRO"
 }

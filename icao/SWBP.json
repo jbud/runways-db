@@ -16,29 +16,5 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SWBP, 1º BPM",
-    "runways": [
-        {
-            "id": "262614",
-            "airport_ref": "37801",
-            "airport_ident": "SWBP",
-            "length_ft": "98",
-            "width_ft": "79",
-            "surface": "ASP",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "H1",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "H1",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        }
-    ]
+    "keywords": "SWBP, 1º BPM"
 }
