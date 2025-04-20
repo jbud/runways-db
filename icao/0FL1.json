@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "0FL1"
+    "keywords": "0FL1",
+    "runways": [
+        {
+            "id": "596704",
+            "airport_ref": "596703",
+            "airport_ident": "0FL1",
+            "length_ft": "65",
+            "width_ft": "65",
+            "surface": "Deck",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "NWA",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "NWD",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
