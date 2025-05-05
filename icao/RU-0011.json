@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Baltiysk_%28air_base%29",
-    "keywords": ""
+    "keywords": "",
+    "runways": [
+        {
+            "id": "597150",
+            "airport_ref": "34947",
+            "airport_ident": "RU-0011",
+            "length_ft": "6562",
+            "width_ft": "164",
+            "surface": "concrete",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "05",
+            "le_latitude_deg": "54.60481",
+            "le_longitude_deg": "19.85549",
+            "le_elevation_ft": "",
+            "le_heading_degT": "57",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "54.61462",
+            "he_longitude_deg": "19.88154",
+            "he_elevation_ft": "",
+            "he_heading_degT": "237",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
