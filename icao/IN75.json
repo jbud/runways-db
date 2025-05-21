@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "IN75"
+    "keywords": "IN75",
+    "runways": [
+        {
+            "id": "597697",
+            "airport_ref": "597696",
+            "airport_ident": "IN75",
+            "length_ft": "1475",
+            "width_ft": "85",
+            "surface": "Turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
