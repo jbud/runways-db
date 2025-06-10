@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": ""
+    "keywords": "",
+    "runways": [
+        {
+            "id": "598143",
+            "airport_ref": "323653",
+            "airport_ident": "EPMY",
+            "length_ft": "3018",
+            "width_ft": "75",
+            "surface": "grass",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "52.945",
+            "le_longitude_deg": "15.0266667",
+            "le_elevation_ft": "229",
+            "le_heading_degT": "153",
+            "le_displaced_threshold_ft": "688",
+            "he_ident": "33",
+            "he_latitude_deg": "52.9375",
+            "he_longitude_deg": "15.033055",
+            "he_elevation_ft": "230",
+            "he_heading_degT": "333",
+            "he_displaced_threshold_ft": "374"
+        }
+    ]
 }
