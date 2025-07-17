@@ -16,5 +16,51 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/%C5%A0piro_Mugo%C5%A1a_Airport",
-    "keywords": ""
+    "keywords": "",
+    "runways": [
+        {
+            "id": "599020",
+            "airport_ref": "42778",
+            "airport_ident": "LYPO",
+            "length_ft": "2790",
+            "width_ft": "148",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18L",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36R",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "599019",
+            "airport_ref": "42778",
+            "airport_ident": "LYPO",
+            "length_ft": "2624",
+            "width_ft": "88",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18R",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36L",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
