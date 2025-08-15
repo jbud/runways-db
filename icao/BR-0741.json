@@ -16,5 +16,51 @@
     "local_code": "GO0194",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": ""
+    "keywords": "",
+    "runways": [
+        {
+            "id": "599782",
+            "airport_ref": "335048",
+            "airport_ident": "BR-0741",
+            "length_ft": "4590",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "-16.819581",
+            "le_longitude_deg": "-49.049578",
+            "le_elevation_ft": "2366",
+            "le_heading_degT": "122",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "-16.826259",
+            "he_longitude_deg": "-49.038537",
+            "he_elevation_ft": "2449",
+            "he_heading_degT": "302",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "599786",
+            "airport_ref": "335048",
+            "airport_ident": "BR-0741",
+            "length_ft": "69",
+            "width_ft": "69",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14H",
+            "le_latitude_deg": "-16.818138",
+            "le_longitude_deg": "-49.050408",
+            "le_elevation_ft": "2330",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
