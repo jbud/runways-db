@@ -22,7 +22,7 @@
             "id": "233827",
             "airport_ref": "528",
             "airport_ident": "SWDM",
-            "length_ft": "4856",
+            "length_ft": "5348",
             "width_ft": "59",
             "surface": "ASP",
             "lighted": "0",
@@ -38,7 +38,7 @@
             "he_longitude_deg": "",
             "he_elevation_ft": "",
             "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
+            "he_displaced_threshold_ft": "492"
         }
     ]
 }
