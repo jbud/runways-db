@@ -32,7 +32,7 @@
             "le_longitude_deg": "13.6751",
             "le_elevation_ft": "112",
             "le_heading_degT": "95",
-            "le_displaced_threshold_ft": "",
+            "le_displaced_threshold_ft": "281",
             "he_ident": "28",
             "he_latitude_deg": "52.825199",
             "he_longitude_deg": "13.7119",
