@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "https://web.archive.org/web/20151031215053/http://abnf.co/OR-josephine_memorial_hospital,_oregon.htm",
     "wikipedia_link": "",
-    "keywords": "8OR4, Josephine Memorial Hospital"
+    "keywords": "8OR4, Josephine Memorial Hospital",
+    "runways": [
+        {
+            "id": "601666",
+            "airport_ref": "601665",
+            "airport_ident": "8OR4",
+            "length_ft": "40",
+            "width_ft": "40",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "H1",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "93",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
