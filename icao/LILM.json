@@ -16,5 +16,29 @@
     "local_code": "AL04",
     "home_link": "http://www.aeroclubcasale.it/",
     "wikipedia_link": "https://it.wikipedia.org/wiki/Aeroporto_di_Casale_Monferrato",
-    "keywords": ""
+    "keywords": "",
+    "runways": [
+        {
+            "id": "602381",
+            "airport_ref": "29429",
+            "airport_ident": "LILM",
+            "length_ft": "2887",
+            "width_ft": "75",
+            "surface": "Earth",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "178",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "358",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
