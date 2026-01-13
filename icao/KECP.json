@@ -23,7 +23,7 @@
             "airport_ref": "46530",
             "airport_ident": "KECP",
             "length_ft": "10000",
-            "width_ft": "",
+            "width_ft": "150",
             "surface": "CON",
             "lighted": "1",
             "closed": "0",
