@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SN19"
+    "keywords": "SN19",
+    "runways": [
+        {
+            "id": "604217",
+            "airport_ref": "604216",
+            "airport_ident": "SN19",
+            "length_ft": "59",
+            "width_ft": "59",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "5",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
