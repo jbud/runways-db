@@ -22,23 +22,23 @@
             "id": "238396",
             "airport_ref": "4481",
             "airport_ident": "LROD",
-            "length_ft": "6890",
+            "length_ft": "8267",
             "width_ft": "148",
             "surface": "CON",
             "lighted": "1",
             "closed": "0",
             "le_ident": "01",
-            "le_latitude_deg": "47.016045",
-            "le_longitude_deg": "21.899719",
-            "le_elevation_ft": "465",
+            "le_latitude_deg": "47.00044",
+            "le_longitude_deg": "21.5355",
+            "le_elevation_ft": "480",
             "le_heading_degT": "11",
-            "le_displaced_threshold_ft": "505",
+            "le_displaced_threshold_ft": "1",
             "he_ident": "19",
-            "he_latitude_deg": "47.034576",
-            "he_longitude_deg": "21.90509",
+            "he_latitude_deg": "47.01559",
+            "he_longitude_deg": "21.5416",
             "he_elevation_ft": "450",
             "he_heading_degT": "191",
-            "he_displaced_threshold_ft": "508"
+            "he_displaced_threshold_ft": "492"
         }
     ]
 }
