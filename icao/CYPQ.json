@@ -38,7 +38,7 @@
             "he_longitude_deg": "-78.350243",
             "he_elevation_ft": "628",
             "he_heading_degT": "256",
-            "he_displaced_threshold_ft": "1651"
+            "he_displaced_threshold_ft": ""
         },
         {
             "id": "234585",
@@ -50,17 +50,17 @@
             "lighted": "0",
             "closed": "0",
             "le_ident": "13",
-            "le_latitude_deg": "44.23065185546875",
-            "le_longitude_deg": "-78.35978698730469",
+            "le_latitude_deg": "44.230652",
+            "le_longitude_deg": "-78.359787",
             "le_elevation_ft": "",
             "le_heading_degT": "118",
             "le_displaced_threshold_ft": "",
             "he_ident": "31",
-            "he_latitude_deg": "44.22846221923828",
-            "he_longitude_deg": "-78.3536376953125",
+            "he_latitude_deg": "44.228462",
+            "he_longitude_deg": "-78.353638",
             "he_elevation_ft": "",
             "he_heading_degT": "298",
-            "he_displaced_threshold_ft": "550"
+            "he_displaced_threshold_ft": ""
         }
     ]
 }
