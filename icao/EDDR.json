@@ -48,7 +48,7 @@
             "width_ft": "164",
             "surface": "GRS",
             "lighted": "0",
-            "closed": "0",
+            "closed": "1",
             "le_ident": "08L",
             "le_latitude_deg": "49.215801",
             "le_longitude_deg": "7.11222",
