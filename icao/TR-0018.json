@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": ""
+    "keywords": "",
+    "runways": [
+        {
+            "id": "608858",
+            "airport_ref": "44782",
+            "airport_ident": "TR-0018",
+            "length_ft": "6217",
+            "width_ft": "148",
+            "surface": "concrete",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "40.744981",
+            "le_longitude_deg": "31.64165",
+            "le_elevation_ft": "2441",
+            "le_heading_degT": "65",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "40.752281",
+            "he_longitude_deg": "31.66195",
+            "he_elevation_ft": "2416",
+            "he_heading_degT": "245",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }

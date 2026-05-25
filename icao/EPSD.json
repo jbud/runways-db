@@ -19,6 +19,28 @@
     "keywords": "",
     "runways": [
         {
+            "id": "238249",
+            "airport_ref": "2631",
+            "airport_ident": "EPSD",
+            "length_ft": "3280",
+            "width_ft": "164",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "53.391026",
+            "le_longitude_deg": "14.624511",
+            "le_elevation_ft": "3",
+            "le_heading_degT": "94",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27L",
+            "he_latitude_deg": "53.390387",
+            "he_longitude_deg": "14.640249",
+            "he_elevation_ft": "3",
+            "he_heading_degT": "274",
+            "he_displaced_threshold_ft": ""
+        },
+        {
             "id": "260405",
             "airport_ref": "2631",
             "airport_ident": "EPSD",
@@ -38,28 +60,6 @@
             "he_longitude_deg": "",
             "he_elevation_ft": "3",
             "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        },
-        {
-            "id": "238249",
-            "airport_ref": "2631",
-            "airport_ident": "EPSD",
-            "length_ft": "2668",
-            "width_ft": "826",
-            "surface": "GRS",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "09R",
-            "le_latitude_deg": "53.3931999206543",
-            "le_longitude_deg": "14.627300262451172",
-            "le_elevation_ft": "3",
-            "le_heading_degT": "105.7",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "27L",
-            "he_latitude_deg": "53.391300201416016",
-            "he_longitude_deg": "14.639100074768066",
-            "he_elevation_ft": "3",
-            "he_heading_degT": "285.7",
             "he_displaced_threshold_ft": ""
         }
     ]
