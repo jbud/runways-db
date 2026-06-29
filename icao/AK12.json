@@ -22,23 +22,23 @@
             "id": "251115",
             "airport_ref": "16107",
             "airport_ident": "AK12",
-            "length_ft": "1078",
-            "width_ft": "50",
+            "length_ft": "2000",
+            "width_ft": "75",
             "surface": "TURF-P",
             "lighted": "0",
             "closed": "0",
-            "le_ident": "13",
+            "le_ident": "15",
             "le_latitude_deg": "",
             "le_longitude_deg": "",
             "le_elevation_ft": "",
             "le_heading_degT": "",
-            "le_displaced_threshold_ft": "30",
-            "he_ident": "31",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
             "he_latitude_deg": "",
             "he_longitude_deg": "",
             "he_elevation_ft": "",
-            "he_heading_degT": "251.1",
-            "he_displaced_threshold_ft": "798"
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
         }
     ]
 }
