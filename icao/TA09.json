@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "TA09, TA09, TA09"
+    "keywords": "TA09, TA09, TA09",
+    "runways": [
+        {
+            "id": "609902",
+            "airport_ref": "609901",
+            "airport_ident": "TA09",
+            "length_ft": "4000",
+            "width_ft": "40",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "8",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "885",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "883",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
