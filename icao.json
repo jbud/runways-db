@@ -441575,7 +441575,31 @@
         "local_code": "",
         "home_link": "http://www.skydivedubai.ae/facilities/index.htm",
         "wikipedia_link": "",
-        "keywords": "OMDU"
+        "keywords": "OMDU",
+        "runways": [
+            {
+                "id": "611347",
+                "airport_ref": "300977",
+                "airport_ident": "AE-0003",
+                "length_ft": "2240",
+                "width_ft": "65",
+                "surface": "concrete",
+                "lighted": "0",
+                "closed": "0",
+                "le_ident": "06",
+                "le_latitude_deg": "25.088855",
+                "le_longitude_deg": "",
+                "le_elevation_ft": "3",
+                "le_heading_degT": "64",
+                "le_displaced_threshold_ft": "",
+                "he_ident": "24",
+                "he_latitude_deg": "25.091544",
+                "he_longitude_deg": "55.135695",
+                "he_elevation_ft": "3",
+                "he_heading_degT": "244",
+                "he_displaced_threshold_ft": ""
+            }
+        ]
     },
     "AE-0004": {
         "id": "307257",
@@ -443275,7 +443299,31 @@
         "local_code": "",
         "home_link": "",
         "wikipedia_link": "",
-        "keywords": ""
+        "keywords": "",
+        "runways": [
+            {
+                "id": "611348",
+                "airport_ref": "348676",
+                "airport_ident": "AE-0088",
+                "length_ft": "2799",
+                "width_ft": "108",
+                "surface": "asphalt",
+                "lighted": "0",
+                "closed": "0",
+                "le_ident": "17",
+                "le_latitude_deg": "25.11728",
+                "le_longitude_deg": "",
+                "le_elevation_ft": "38",
+                "le_heading_degT": "169",
+                "le_displaced_threshold_ft": "",
+                "he_ident": "35",
+                "he_latitude_deg": "25.109746",
+                "he_longitude_deg": "55.295448",
+                "he_elevation_ft": "38",
+                "he_heading_degT": "349",
+                "he_displaced_threshold_ft": ""
+            }
+        ]
     },
     "AE-0089": {
         "id": "348677",
@@ -1379392,6 +1379440,28 @@
                 "he_elevation_ft": "751",
                 "he_heading_degT": "209",
                 "he_displaced_threshold_ft": ""
+            },
+            {
+                "id": "611344",
+                "airport_ref": "4234",
+                "airport_ident": "LFSN",
+                "length_ft": "1804",
+                "width_ft": "164",
+                "surface": "GRASS",
+                "lighted": "0",
+                "closed": "0",
+                "le_ident": "03R",
+                "le_latitude_deg": "48.68766",
+                "le_longitude_deg": "6.229044",
+                "le_elevation_ft": "708",
+                "le_heading_degT": "28",
+                "le_displaced_threshold_ft": "",
+                "he_ident": "21L",
+                "he_latitude_deg": "48.691952",
+                "he_longitude_deg": "6.232567",
+                "he_elevation_ft": "728",
+                "he_heading_degT": "208",
+                "he_displaced_threshold_ft": ""
             }
         ]
     },
@@ -1404943,14 +1405013,14 @@
                 "le_ident": "03",
                 "le_latitude_deg": "47.4762",
                 "le_longitude_deg": "14.0047",
-                "le_elevation_ft": "",
-                "le_heading_degT": "",
+                "le_elevation_ft": "2142",
+                "le_heading_degT": "35",
                 "le_displaced_threshold_ft": "",
                 "he_ident": "21",
                 "he_latitude_deg": "47.481499",
                 "he_longitude_deg": "14.0103",
-                "he_elevation_ft": "",
-                "he_heading_degT": "",
+                "he_elevation_ft": "2142",
+                "he_heading_degT": "215",
                 "he_displaced_threshold_ft": ""
             }
         ]
@@ -2368276,19 +2368346,19 @@
                 "airport_ref": "26962",
                 "airport_ident": "YCOM",
                 "length_ft": "6955",
-                "width_ft": "148",
-                "surface": "ASP",
+                "width_ft": "98",
+                "surface": "BIT",
                 "lighted": "1",
                 "closed": "0",
                 "le_ident": "18",
-                "le_latitude_deg": "-36.29050064086914",
-                "le_longitude_deg": "148.97500610351562",
+                "le_latitude_deg": "-36.290501",
+                "le_longitude_deg": "148.975006",
                 "le_elevation_ft": "3049",
                 "le_heading_degT": "193",
-                "le_displaced_threshold_ft": "233",
+                "le_displaced_threshold_ft": "689",
                 "he_ident": "36",
-                "he_latitude_deg": "-36.30910110473633",
-                "he_longitude_deg": "148.97000122070312",
+                "he_latitude_deg": "-36.309101",
+                "he_longitude_deg": "148.970001",
                 "he_elevation_ft": "3088",
                 "he_heading_degT": "13",
                 "he_displaced_threshold_ft": ""
