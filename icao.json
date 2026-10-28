@@ -951907,7 +951907,31 @@
         "local_code": "",
         "home_link": "http://www.aeroklub.nova-raca.hr/zracnopristaniste.html",
         "wikipedia_link": "",
-        "keywords": ""
+        "keywords": "",
+        "runways": [
+            {
+                "id": "611469",
+                "airport_ref": "320476",
+                "airport_ident": "HR-0004",
+                "length_ft": "1952",
+                "width_ft": "33",
+                "surface": "concrete",
+                "lighted": "0",
+                "closed": "0",
+                "le_ident": "05",
+                "le_latitude_deg": "",
+                "le_longitude_deg": "",
+                "le_elevation_ft": "",
+                "le_heading_degT": "",
+                "le_displaced_threshold_ft": "",
+                "he_ident": "23",
+                "he_latitude_deg": "",
+                "he_longitude_deg": "",
+                "he_elevation_ft": "",
+                "he_heading_degT": "",
+                "he_displaced_threshold_ft": ""
+            }
+        ]
     },
     "HR-0005": {
         "id": "320945",
@@ -2154969,7 +2154993,53 @@
         "local_code": "T37",
         "home_link": "https://www.airnav.com/airport/T37",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Goldthwaite_Municipal_Airport",
-        "keywords": ""
+        "keywords": "",
+        "runways": [
+            {
+                "id": "611474",
+                "airport_ref": "342378",
+                "airport_ident": "US-3364",
+                "length_ft": "",
+                "width_ft": "",
+                "surface": "",
+                "lighted": "0",
+                "closed": "0",
+                "le_ident": "",
+                "le_latitude_deg": "",
+                "le_longitude_deg": "",
+                "le_elevation_ft": "",
+                "le_heading_degT": "",
+                "le_displaced_threshold_ft": "",
+                "he_ident": "",
+                "he_latitude_deg": "",
+                "he_longitude_deg": "",
+                "he_elevation_ft": "",
+                "he_heading_degT": "",
+                "he_displaced_threshold_ft": ""
+            },
+            {
+                "id": "611475",
+                "airport_ref": "342378",
+                "airport_ident": "US-3364",
+                "length_ft": "3200",
+                "width_ft": "60",
+                "surface": "ASP",
+                "lighted": "0",
+                "closed": "0",
+                "le_ident": "1",
+                "le_latitude_deg": "",
+                "le_longitude_deg": "",
+                "le_elevation_ft": "",
+                "le_heading_degT": "",
+                "le_displaced_threshold_ft": "",
+                "he_ident": "19",
+                "he_latitude_deg": "",
+                "he_longitude_deg": "",
+                "he_elevation_ft": "",
+                "he_heading_degT": "",
+                "he_displaced_threshold_ft": ""
+            }
+        ]
     },
     "US-3365": {
         "id": "342381",
