@@ -526485,7 +526485,31 @@
         "local_code": "",
         "home_link": "",
         "wikipedia_link": "",
-        "keywords": ""
+        "keywords": "",
+        "runways": [
+            {
+                "id": "611681",
+                "airport_ref": "324118",
+                "airport_ident": "BO-0014",
+                "length_ft": "3937",
+                "width_ft": "59",
+                "surface": "Earth",
+                "lighted": "0",
+                "closed": "0",
+                "le_ident": "15",
+                "le_latitude_deg": "",
+                "le_longitude_deg": "",
+                "le_elevation_ft": "",
+                "le_heading_degT": "",
+                "le_displaced_threshold_ft": "",
+                "he_ident": "33",
+                "he_latitude_deg": "",
+                "he_longitude_deg": "",
+                "he_elevation_ft": "",
+                "he_heading_degT": "",
+                "he_displaced_threshold_ft": ""
+            }
+        ]
     },
     "BO-0015": {
         "id": "351497",
@@ -1919559,7 +1919583,31 @@
         "local_code": "",
         "home_link": "",
         "wikipedia_link": "",
-        "keywords": ""
+        "keywords": "",
+        "runways": [
+            {
+                "id": "611668",
+                "airport_ref": "308773",
+                "airport_ident": "SLHT",
+                "length_ft": "164",
+                "width_ft": "66",
+                "surface": "ASP",
+                "lighted": "0",
+                "closed": "0",
+                "le_ident": "14",
+                "le_latitude_deg": "",
+                "le_longitude_deg": "",
+                "le_elevation_ft": "",
+                "le_heading_degT": "",
+                "le_displaced_threshold_ft": "",
+                "he_ident": "32",
+                "he_latitude_deg": "",
+                "he_longitude_deg": "",
+                "he_elevation_ft": "1444",
+                "he_heading_degT": "",
+                "he_displaced_threshold_ft": ""
+            }
+        ]
     },
     "SLIG": {
         "id": "39443",
@@ -1921707,7 +1921755,31 @@
         "local_code": "",
         "home_link": "",
         "wikipedia_link": "",
-        "keywords": ""
+        "keywords": "",
+        "runways": [
+            {
+                "id": "611669",
+                "airport_ref": "39470",
+                "airport_ident": "SLTL",
+                "length_ft": "8202",
+                "width_ft": "98",
+                "surface": "",
+                "lighted": "0",
+                "closed": "0",
+                "le_ident": "12",
+                "le_latitude_deg": "",
+                "le_longitude_deg": "",
+                "le_elevation_ft": "",
+                "le_heading_degT": "",
+                "le_displaced_threshold_ft": "",
+                "he_ident": "30",
+                "he_latitude_deg": "",
+                "he_longitude_deg": "",
+                "he_elevation_ft": "",
+                "he_heading_degT": "",
+                "he_displaced_threshold_ft": ""
+            }
+        ]
     },
     "SLTO": {
         "id": "39551",
@@ -2211971,7 +2212043,31 @@
         "local_code": "",
         "home_link": "",
         "wikipedia_link": "",
-        "keywords": ""
+        "keywords": "",
+        "runways": [
+            {
+                "id": "611686",
+                "airport_ref": "350101",
+                "airport_ident": "US-5895",
+                "length_ft": "3500",
+                "width_ft": "50",
+                "surface": "Turf",
+                "lighted": "0",
+                "closed": "0",
+                "le_ident": "NW",
+                "le_latitude_deg": "",
+                "le_longitude_deg": "",
+                "le_elevation_ft": "",
+                "le_heading_degT": "",
+                "le_displaced_threshold_ft": "",
+                "he_ident": "SE",
+                "he_latitude_deg": "",
+                "he_longitude_deg": "",
+                "he_elevation_ft": "",
+                "he_heading_degT": "",
+                "he_displaced_threshold_ft": ""
+            }
+        ]
     },
     "US-5896": {
         "id": "350102",
