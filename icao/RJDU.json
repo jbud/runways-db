@@ -16,5 +16,29 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Omura Airport"
+    "keywords": "Omura Airport",
+    "runways": [
+        {
+            "id": "611799",
+            "airport_ref": "340867",
+            "airport_ident": "RJDU",
+            "length_ft": "3937",
+            "width_ft": "98",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "32.933464",
+            "le_longitude_deg": "129.933703",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "32.922681",
+            "he_longitude_deg": "129.934747",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ]
 }
